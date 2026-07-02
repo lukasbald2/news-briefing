@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {"category": "global", "title": "USMCA nicht verlängert", "date": "2026-07-02", "summary": "USA lehnen Verlängerung des USMCA-Abkommens in jetziger Form ab, streben separate Nachverhandlungen mit Kanada/Mexiko an.", "status": "neu"},
+    {"category": "global", "title": "Hormuz-Krise", "date": "2026-07-02", "summary": "Blockade/Gegenblockade um die Straße von Hormuz dauert seit März 2026 an, keine Lösung in Sicht, treibt Energiepreise.", "status": "laufend"},
+    {"category": "global", "title": "Südafrika Anti-Migrations-Proteste", "date": "2026-07-02", "summary": "Landesweite Proteste gegen irreguläre Migration, mindestens vier Tote, Polizei/Militär im Einsatz.", "status": "neu"},
+    {"category": "global", "title": "Venezuela-Erdbeben", "date": "2026-07-02", "summary": "Nach den Beben vom 24. Juni bestätigte Opferzahl über 1.900, zehntausende weiter vermisst, humanitäre Lage kritisch.", "status": "laufend"},
+    {"category": "national", "title": "Koalitionsausschuss Reformpaket", "date": "2026-07-02", "summary": "Union/SPD einigen sich auf Eckpunkte zu Steuern, Rente, Gesundheit/Pflege vor der Sommerpause.", "status": "laufend"},
+    {"category": "national", "title": "Juli-Gesetzesänderungen", "date": "2026-07-02", "summary": "Rente +4,24%, vereinfachte Steuererklärung per App, Bürgergeld wird zu Grundsicherungsgeld.", "status": "neu"},
+    {"category": "national", "title": "Wachstumsprognose gesenkt", "date": "2026-07-02", "summary": "Bundesregierung senkt BIP-Prognose 2026 auf 0,5% wegen Nahost-Konflikt/Hormuz.", "status": "laufend"},
+    {"category": "national", "title": "Rutte-Besuch Berlin", "date": "2026-07-02", "summary": "Nato-Generalsekretär Rutte bei Merz/Pistorius vor Nato-Gipfel Ankara.", "status": "neu"},
+    {"category": "lokal", "title": "Delbrück Polizeiwache umgezogen", "date": "2026-07-02", "summary": "Umzug zur Oststraße 36 zum 29. Juni, zudem Wassersparaufruf wegen Hitze.", "status": "neu"},
+    {"category": "lokal", "title": "Festivalsaison OWL", "date": "2026-07-02", "summary": "Viaduktfest Altenbeken (3.-5.7.), diverse Schützenfeste, Bad Driburg (10.7.).", "status": "neu"},
+    {"category": "lokal", "title": "Warburg Haushaltsdefizit", "date": "2026-07-02", "summary": "Rund 11 Mio. Euro Defizit laut Westfalen-Blatt, bislang nur einfach belegt.", "status": "neu"},
+    {"category": "lokal", "title": "K37 Sperrung Paderborn", "date": "2026-07-02", "summary": "Straßensperrung 6.-17. Juli wegen Bauarbeiten.", "status": "neu"},
+    {"category": "social", "title": "MJ-Biopic-TikTok-Welle", "date": "2026-07-02", "summary": "Biopic 'Michael' treibt anhaltenden TikTok-Trend (Tanz, KI-Edits, Remixes), mehrfach belegt.", "status": "laufend"},
+    {"category": "social", "title": "Sommer-Meme-Trends", "date": "2026-07-02", "summary": "'Hot Dog'-Meme und 'Bangladesh'-Audio laut Marketing-Blogs, nur einfach belegt.", "status": "neu"}
+  ]
+}
