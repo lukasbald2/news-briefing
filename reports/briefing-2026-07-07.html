@@ -7,7 +7,7 @@
 <style>
   :root{
     --bg:#faf8f4; --ink:#1c1a17; --muted:#5b5650; --line:#e4ded3;
-    --global:#2f5d62; --national:#8a4b2c; --lokal:#4b6b2f; --social:#7a4b8a;
+    --global:#2f5d62; --national:#8a4b2c; --lokal:#4b6b2f; --social:#7a4b8a; --song:#a3781c;
     --card:#ffffff;
   }
   *{box-sizing:border-box;}
@@ -27,6 +27,9 @@
   #national > h2{border-color:var(--national);color:var(--national);}
   #lokal > h2{border-color:var(--lokal);color:var(--lokal);}
   #social > h2{border-color:var(--social);color:var(--social);}
+  #song > h2{border-color:var(--song);color:var(--song);}
+  .spotify-embed{margin:14px 0 4px;}
+  .spotify-embed iframe{display:block;width:100%;max-width:100%;}
   article.item{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:16px 20px;margin-top:16px;}
   article.item h3{margin:0 0 6px;font-size:1.08rem;}
   article.item p{margin:6px 0;}
@@ -62,6 +65,7 @@
     <a href="#national">National</a>
     <a href="#lokal">Lokal (OWL)</a>
     <a href="#social">Social</a>
+    <a href="#song">Song des Tages</a>
   </nav>
 </header>
 
@@ -230,6 +234,18 @@
   </article>
 
   <p class="hinweis">Ohne wesentliche neue Information seit gestern: Der „Bangladesh"-Song-Release „Season 3" bleibt für den 10. Juli bestätigt, ebenso die geplante US-Herbsttour — konkrete neue Stream-Zahlen ließen sich nicht auffinden.</p>
+</section>
+
+<section class="ebene" id="song">
+  <h2>Song des Tages</h2>
+  <article class="item">
+    <h3>„Peace Somehow" — Avi Kaplan</h3>
+    <p>Avi Kaplan zählt aktuell zu den meistgehörten Künstlern im persönlichen Spotify-Profil — „Peace Somehow" lief allein in den letzten Tagen mehrfach. Inhaltlich passt der Song zum roten Faden des heutigen Berichts: Während in Ankara beim NATO-Gipfel über Sicherheit und weitere Ukraine-Unterstützung verhandelt wird und die Front trotz hoher Verluste unverändert festgefahren bleibt, trifft der Titel genau die Stimmung eines Tages, der sichtbar um Frieden ringt, ohne ihn zu erreichen.</p>
+    <div class="spotify-embed">
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2SLJSg5MvfoHdHPPoHQDTx?utm_source=generator" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" title="Spotify-Player: Peace Somehow – Avi Kaplan"></iframe>
+    </div>
+    <p class="hinweis">Automatische Auswahl auf Basis des persönlichen Spotify-Hörverlaufs (Top-Künstler/zuletzt gehört) und der Themen des heutigen Berichts. Kein Login nötig für einen 30-Sekunden-Ausschnitt; eingeloggte Spotify-Nutzer hören den vollständigen Song direkt im Player.</p>
+  </article>
 </section>
 
 <footer>
