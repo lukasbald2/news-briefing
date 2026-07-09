@@ -36,3 +36,30 @@ Direkt-auf-`main`-Workflow inaktiv (greift nur bei Pushes auf `claude/**`).
 Siehe `README.md`. Der eigentliche Routine-Ablauf (Recherche-Ebenen,
 Quellenregeln, Sonntags-Wochenausgabe) steht im Routine-Prompt, nicht hier.
 Gedächtnis der Routine: `memory.json`.
+
+## Footer-Links beim Kopieren nach `index.html` — WICHTIG
+
+Der jeweils neueste Bericht wird unter `reports/briefing-JJJJ-MM-TT.html`
+UND als 1:1-Kopie unter `index.html` im Root gespeichert. Der Footer jedes
+Berichts enthält relative Links, die für den Speicherort `reports/` gedacht
+sind:
+
+```html
+<p>Archiv: <a href="index.html">reports/index.html</a> · Aktuellster Bericht: <a href="../index.html">Startseite</a></p>
+```
+
+Wird diese Zeile unverändert nach `index.html` im Root kopiert, zeigt der
+„Archiv"-Link auf sich selbst (`index.html` relativ zum Root = die aktuelle
+Seite) statt auf `reports/index.html` — der Nutzer landet dann beim Klick
+auf „Archiv" wieder auf dem bereits offenen Tagesbericht statt auf der
+Archivliste.
+
+**Deshalb beim Erzeugen von `index.html` im Root den Footer anpassen auf:**
+
+```html
+<p>Archiv: <a href="reports/index.html">reports/index.html</a></p>
+```
+
+(Der „Aktuellster Bericht"-Link entfällt im Root, da man dort ja bereits
+ist.) Die Datei unter `reports/briefing-JJJJ-MM-TT.html` behält den
+ursprünglichen Footer mit beiden Links unverändert.
