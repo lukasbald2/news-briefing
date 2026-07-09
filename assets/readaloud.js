@@ -101,6 +101,18 @@
    'ggf','evtl','usw','etc','abs','art','vgl','dr','prof','sog','max','min','bspw','ph']
     .forEach(function (a) { ABBR[a] = true; });
 
+  // Trennt an Aufzählungsmarken „(1) (2) …" bzw. „(a) (b) …" und entfernt die
+  // Marke selbst — so entsteht zwischen den Punkten eine hörbare Pause.
+  function splitEnum(s) {
+    var parts = s.split(/\s*\((?:\d{1,2}|[a-hA-H])\)\s*/);
+    var res = [];
+    for (var i = 0; i < parts.length; i++) {
+      var p = parts[i].replace(/\s+/g, ' ').trim();
+      if (p) res.push(p);
+    }
+    return res.length ? res : [s];
+  }
+
   function toSentences(text) {
     text = (text || '').replace(/\s+/g, ' ').trim();
     if (!text) return [];
@@ -114,7 +126,9 @@
       if (ABBR[lastWord]) { buf = cur; } else { out.push(cur); buf = ''; }
     }
     if (buf) out.push(buf);
-    return out;
+    var expanded = [];
+    for (var j = 0; j < out.length; j++) expanded = expanded.concat(splitEnum(out[j]));
+    return expanded;
   }
 
   function extractSummary(el) {
@@ -219,8 +233,15 @@
   var paused = false;
   var finished = false;
   var spotifyActive = false;
+  var gapTimer = null;       // Pause zwischen zwei Sprech-Einheiten
+  var pendingResume = false; // in einer Pause pausiert -> beim Fortsetzen neu starten
 
-  function stopSpeaking() { gen++; try { speechSynthesis.cancel(); } catch (e) {} }
+  function stopSpeaking() {
+    gen++;
+    if (gapTimer) { clearTimeout(gapTimer); gapTimer = null; }
+    pendingResume = false;
+    try { speechSynthesis.cancel(); } catch (e) {}
+  }
 
   function speak(text) {
     var u = new SpeechSynthesisUtterance(text);
@@ -228,8 +249,19 @@
     try { if (voice) u.voice = voice; } catch (e) { /* ungültige Stimme: Default nutzen */ }
     u.rate = 1; u.pitch = 1; u.volume = 1;
     var myGen = ++gen;
-    u.onend = function () { if (myGen !== gen) return; chunkIdx++; speakStep(); };
-    u.onerror = function () { if (myGen !== gen) return; chunkIdx++; speakStep(); };
+    function advance() {
+      chunkIdx++;
+      // Etwas längere Pause nach Satzende/Doppelpunkt, kürzere sonst.
+      var gap = /[:.!?…]$/.test(text.replace(/\s+$/, '')) ? 320 : 170;
+      gapTimer = setTimeout(function () {
+        gapTimer = null;
+        if (myGen !== gen) return;
+        if (paused) { pendingResume = true; return; }
+        speakStep();
+      }, gap);
+    }
+    u.onend = function () { if (myGen !== gen) return; advance(); };
+    u.onerror = function () { if (myGen !== gen) return; advance(); };
     try { speechSynthesis.cancel(); } catch (e) {}
     speechSynthesis.speak(u);
     paused = false; spotifyActive = false; finished = false;
@@ -268,8 +300,9 @@
   }
 
   function startPlayback(orderArr) {
+    stopSpeaking();
     order = orderArr; pos = 0; chunkIdx = 0;
-    paused = false; finished = false; spotifyActive = false;
+    paused = false; finished = false; spotifyActive = false; pendingResume = false;
     if (spotifyController) { try { spotifyController.pause(); } catch (e) {} }
     refreshVoice();
     showBar();
@@ -308,8 +341,13 @@
       else { try { spotifyController.pause(); } catch (e) {} paused = true; }
       updateToggle(); return;
     }
-    if (paused) { try { speechSynthesis.resume(); } catch (e) {} paused = false; }
-    else { try { speechSynthesis.pause(); } catch (e) {} paused = true; }
+    if (paused) {
+      paused = false;
+      if (pendingResume) { pendingResume = false; updateToggle(); speakStep(); return; }
+      try { speechSynthesis.resume(); } catch (e) {}
+    } else {
+      try { speechSynthesis.pause(); } catch (e) {} paused = true;
+    }
     updateToggle();
   }
 
