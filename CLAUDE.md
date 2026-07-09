@@ -63,3 +63,33 @@ Archivliste.
 (Der „Aktuellster Bericht"-Link entfällt im Root, da man dort ja bereits
 ist.) Die Datei unter `reports/briefing-JJJJ-MM-TT.html` behält den
 ursprünglichen Footer mit beiden Links unverändert.
+
+## Vorlese-/„Podcast"-Funktion (`assets/readaloud.js`) — WICHTIG
+
+Jeder Bericht kann sich per Web-Speech-API (Browser-Sprachausgabe) vorlesen
+lassen: ein „Bericht vorlesen"-Button oben, ein kleiner Play-Button je Sektion
+und eine Playback-Leiste am unteren Bildschirmrand (Play/Pause, Skip/Back
+zwischen Sektionen, X zum Schließen). Bei der Song-des-Tages-Sektion wird die
+Begründung vorgelesen und anschließend der 30-Sekunden-Spotify-Clip gestartet.
+
+Die gesamte Logik liegt in **`assets/readaloud.js`** (self-contained: injiziert
+eigenes CSS, alle Buttons und die Leiste; scannt die vorhandene Sektionsstruktur).
+Damit die Funktion in einem Bericht aktiv ist, MUSS direkt vor `</body>` diese
+Zeile stehen — sowohl in `reports/briefing-JJJJ-MM-TT.html` als auch in der
+Root-Kopie `index.html` (bzw. `reports/wochenausgabe-…` sonntags):
+
+```html
+<script src="/news-briefing/assets/readaloud.js" defer></script>
+```
+
+Der **absolute** Pfad `/news-briefing/…` ist bewusst gewählt: Er funktioniert
+identisch aus dem Root (`index.html`) wie aus `reports/…`, weil GitHub Pages das
+Repo unter `/news-briefing/` ausliefert. Kein relativer Pfad verwenden.
+
+Voraussetzung im generierten HTML (ist im Standard-Layout bereits gegeben):
+Zusammenfassung als `header .ueberblick`, Sektionen als
+`<section class="ebene" id="global|national|lokal|social|song">`, Song-Embed als
+`#song .spotify-embed iframe`. Quellen (`.quelle`), Chips (`.tag`), Navigation
+(`nav.toc`), Bildunterschriften und Footer werden bewusst NICHT vorgelesen.
+Solange diese Struktur erhalten bleibt, funktioniert das Vorlesen automatisch —
+`readaloud.js` muss beim normalen Lauf nicht angefasst werden.
