@@ -1,79 +1,659 @@
 {
   "entries": [
-    {"category": "global", "title": "Ukraine: Neuer Angriff auf Kyjiw vor NATO-Gipfel", "date": "2026-07-06", "summary": "Erneuter Raketen-/Drohnenangriff in der Nacht zum 6.7. (zusätzlich zum vorherigen Rekord-Großangriff); Opferzahlen je nach Quelle 6-7 Tote (Reuters/CNN vs. Kyiv Independent). Ukrainische Drohnenangriffe haben laut ukrainischen Angaben ~43% von Russlands Raffineriekapazität lahmgelegt.", "status": "laufend"},
-    {"category": "global", "title": "Iran nach Khamenei: Nachfolge & Hormuz-Teil-Öffnung", "date": "2026-07-06", "summary": "Mojtaba Khamenei weiterhin nicht öffentlich aufgetreten, Nachfolgefrage offen; erstmals seit längerem kleiner Schiffskonvoi durch Hormuz (5 Schiffe inkl. Tanker Hafeet); Doha-Gespräche erst nach Ende Trauerzeremonie (bis 9.7.).", "status": "laufend"},
-    {"category": "global", "title": "China-Japan: Festnahmen im Seltene-Erden-Streit", "date": "2026-07-06", "summary": "Zwei Japaner (Fuji-Electric-Mitarbeiter) wegen mutmaßlichen Seltene-Erden-Schmuggels in China verhaftet (Mai/Juni bekannt geworden) - einer der ersten bekannten Fälle einer Ausländer-Festnahme wegen Exportkontrollverstößen in China.", "status": "laufend"},
-    {"category": "global", "title": "China: Militärführungs-Neuordnung nach Antikorruptions-Säuberung", "date": "2026-07-06", "summary": "Xi befördert Zhang Shuguang und Wang Gang zu Generälen, Zhang übernimmt Antikorruptionsabteilung der ZMK - als loyalitätsorientierte Vorbereitung einer Neubesetzung der Militärführung gewertet.", "status": "neu"},
-    {"category": "global", "title": "Super-Taifun Bavi im Pazifik", "date": "2026-07-06", "summary": "Kategorie-5-Taifun trifft Nördliche Marianen (Guam/Saipan), Böen bis 190 mph; Zugbahn deutet auf mögliche Gefahr für Taiwan/Südchina bis 10.7. hin.", "status": "neu"},
-    {"category": "global", "title": "Venezuela-Erdbeben: Opferzahlen weiter uneinheitlich", "date": "2026-07-06", "summary": "Zahlen zwischen 2.595 und 2.645 Toten je nach Quelle, Tausende weiterhin vermisst - keine wesentliche neue Entwicklung.", "status": "laufend"},
-    {"category": "global", "title": "USMCA-Verhandlungen & Südafrika-Proteste", "date": "2026-07-06", "summary": "Dritte USMCA-Runde mit Mexiko ab 20.7. bestätigt; Südafrikas Anti-Migrationsproteste bleiben deeskaliert, keine strategische Wende.", "status": "laufend"},
-    {"category": "national", "title": "NATO-Gipfel Ankara: Trump fordert Loyalität", "date": "2026-07-06", "summary": "Gipfel 7.-8.7. steht bevor, Trump kritisiert vorab Bündnispartner ohne Iran-Beteiligung scharf ('Ich will Loyalität'). Deutscher Fokus: Lastenteilung, Verteidigungsetat 2026 >108 Mrd. Euro, Ziel 2029 ~152 Mrd. Euro, 3,5%-BIP-Ziel.", "status": "laufend"},
-    {"category": "national", "title": "DFB: Klopp-Zusage laut Insidern, Ablöse mit Red Bull offen", "date": "2026-07-06", "summary": "Fabrizio Romano berichtet von Klopp-Zusage als Nagelsmann-Nachfolger; Ablöseverhandlung mit Red Bull (Vertrag bis 2029) noch offen, keine offizielle DFB-Bestätigung.", "status": "laufend"},
-    {"category": "national", "title": "Ver.di Tarifstreit Einzelhandel: Verhandlungen ohne Durchbruch", "date": "2026-07-06", "summary": "Runden in Hessen (ergebnislos laut Lebensmittelzeitung, nur einfach belegt) und Niedersachsen-Bremen (kein Ergebnis) am 6.7.; Arbeitgeberangebot (2%/1,5% gestaffelt) weit von ver.di-Forderung (7%/12 Monate) entfernt.", "status": "laufend"},
-    {"category": "national", "title": "Rentenreform: Junge Union beharrt auf Kürzungen", "date": "2026-07-06", "summary": "JU fordert weiterhin Leistungskürzungen/längeres Arbeiten/Kinderlosen-Zuschlag; Mehrheit ohne JU-Stimmen weiterhin ungeklärt, Ziel Bundestag-Verabschiedung bis Jahresende.", "status": "laufend"},
-    {"category": "national", "title": "Geheimdienstreform: aktive Eingriffe & Kontrollrat", "date": "2026-07-06", "summary": "Details bekannt: BND/Verfassungsschutz sollen Cyber-Infrastruktur aktiv stören und Desinformation streuen dürfen, neuer 'Unabhängiger Kontrollrat' als Gegengewicht geplant.", "status": "laufend"},
-    {"category": "national", "title": "DWD warnt vor neuer Hitzewelle Mitte Juli", "date": "2026-07-06", "summary": "Nach Rekord-Hitzewelle Ende Juni (41,3°C Saarbrücken-Burbach, neuer Allzeitrekord) prognostizieren Modelle erneut ~35 Grad Mitte Juli nach kurzer Abkühlung.", "status": "neu"},
-    {"category": "lokal", "title": "Vermisste 77-Jährige aus Lichtenau/Willebadessen", "date": "2026-07-06", "summary": "Weiterhin nicht gefunden trotz Großsuchen (Hubschrauber, Hundertschaft, Hunde); Angehörige suchen zusätzlich eigenständig. Keine neue behördliche Spur seit Fund der Einkaufstasche am 1.7.", "status": "laufend"},
-    {"category": "lokal", "title": "Neue Polizeiwache Delbrück eröffnet", "date": "2026-07-06", "summary": "Eröffnung am 3.7. mit Innenminister Reul; Stefanie Lahme als erste Frau an der Spitze einer Polizeiwache im Kreis Paderborn, 21 Beamte im Schichtdienst.", "status": "neu"},
-    {"category": "lokal", "title": "VerbundVolksbank OWL schließt neun Standorte", "date": "2026-07-06", "summary": "Sieben Filialen und zwei SB-Standorte in Paderborn, Höxter, Lippe geschlossen/zusammengelegt, u.a. die von Geldautomaten-Sprengung betroffene Filiale Dahl - begründet mit Online-Banking-Trend.", "status": "neu"},
-    {"category": "lokal", "title": "Straßensperrungen OWL: K37, Balhorner Feld, Dornberger Straße", "date": "2026-07-06", "summary": "K37 'Oberes Feld' ab 6.7. bis 17.7. zusätzlich zu Wewer/Balhorner Feld bis 24.7.; Dornberger-Straße-Vollsperrung Bielefeld auf 27.7. verschoben, FDP-Landtagsanfrage läuft, ~900 Unterschriften Bürgerpetition.", "status": "laufend"},
-    {"category": "lokal", "title": "SC Paderborn 07: 18:0 im ersten Testspiel", "date": "2026-07-06", "summary": "Deutlicher Sieg gegen SC Blau-Weiß Ostenland (5.7., 2.500 Zuschauer) zum Auftakt der Bundesliga-Vorbereitung, Neuzugang Batista Meier trifft.", "status": "neu"},
-    {"category": "lokal", "title": "Cold Case Babyleiche Westenholz", "date": "2026-07-06", "summary": "Wortlaut des anonymen Briefs bekannt ('...dann bringe ich mich um'), Ermittler schließen Urheberschaft der Mutter nicht aus; keine neue aktive Ermittlungsmaßnahme.", "status": "laufend"},
-    {"category": "lokal", "title": "Bettensteuer-Streit Kreis Höxter", "date": "2026-07-06", "summary": "Weiterhin keine Entscheidung, Protest von Gastronomie/Hotellerie hält an.", "status": "laufend"},
-    {"category": "lokal", "title": "Warburg Haushaltsdefizit", "date": "2026-07-06", "summary": "Defizit weiterhin ca. 11-12 Mio. Euro je nach Quelle, keine neue Entwicklung.", "status": "laufend"},
-    {"category": "social", "title": "Vozinha (Kap Verde): viraler WM-Torwart", "date": "2026-07-06", "summary": "Instagram-Follower von ~46.000 auf über 22 Mio. nach starkem WM-Auftakt gegen Spanien - meistgefolgter Torwart der Welt, überholt Neuer/Courtois/Casillas.", "status": "neu"},
-    {"category": "social", "title": "KI-Fake-Bilder bei WM 2026", "date": "2026-07-06", "summary": "Welle KI-generierter Fakes (Hitler-Double-Fake, Netanjahu-Fake, gefälschte Euronews-Seite zu Mbappé/Macron), Faktenchecker warnen vor 'beispielloser' Menge und Qualität, Verdacht russischer Desinformation.", "status": "neu"},
-    {"category": "social", "title": "MJ-Biopic 'Michael'", "date": "2026-07-06", "summary": "978,6 Mio. USD weltweit, Milliarde noch nicht erreicht (~21 Mio. USD fehlen), Japan-Kinostart soll weitere 55-60 Mio. USD bringen; bereits umsatzstärkster Musik-Biopic aller Zeiten.", "status": "laufend"},
-    {"category": "social", "title": "'Bangladesh'-Song-Trend", "date": "2026-07-06", "summary": "Neues Projekt 'Season 3' für 10.7. bestätigt, US-Tour im Herbst geplant; Stream-Zahlen zwischen Quellen uneinheitlich (frühere '2 Mio.'-Angabe nicht erneut verifizierbar).", "status": "laufend"},
-    {"category": "global", "title": "Vatikan erklärt Piusbruderschaft schismatisch", "date": "2026-07-05", "summary": "Exkommunikationsdekret gegen SSPX-Bischöfe/-Priester vollzogen, keine Rücknahme in Sicht (in Wochenausgabe vom 2026-07-05 zusammengefasst).", "status": "abgeschlossen"},
-    {"category": "national", "title": "AfD-Bundesparteitag Erfurt mit Großprotesten", "date": "2026-07-05", "summary": "Rund 30.000 Demonstranten, größter Polizeieinsatz Thüringens seit der Wiedervereinigung, Blockadeversuche scheiterten (in Wochenausgabe vom 2026-07-05 zusammengefasst).", "status": "abgeschlossen"},
-    {"category": "lokal", "title": "Viaduktfest Altenbeken", "date": "2026-07-05", "summary": "Dreitägiges Fest endete am 5. Juli mit Familienprogramm (in Wochenausgabe vom 2026-07-05 zusammengefasst).", "status": "abgeschlossen"},
-    {"category": "social", "title": "TikTok-Kuss-Auspeitschung Aceh: Urteil vollstreckt", "date": "2026-07-05", "summary": "Paar am 2. Juli mit je 21 Rutenschlägen bestraft, Amnesty International verurteilt dies scharf (in Wochenausgabe vom 2026-07-05 zusammengefasst).", "status": "abgeschlossen"},
-    {"category": "social", "title": "'Freddy aus Deutschland': WM-Fan-Phänomen", "date": "2026-07-05", "summary": "Viraler Account (>750.000 Follower) nach Rassismus-Vorwürfen zu alten Posts deaktiviert — kompletter Auf-und-Ab-Bogen der Woche (in Wochenausgabe vom 2026-07-05 zusammengefasst).", "status": "abgeschlossen"},
-    {"category": "global", "title": "NATO-Gipfel Ankara eröffnet", "date": "2026-07-07", "summary": "36. NATO-Gipfel (7.-8.7., erstmals seit 2004 wieder in der Türkei) gestartet. Rutte fordert 5%-BIP-Ziel bis 2035, Ausbau Rüstungsindustrie, weitere Ukraine-Hilfe. Trump verlangt Einhaltung der Ausgabenzusagen ('NATO 3.0'). Für 8.7. Treffen Trump-Selenskyj, Trump-Erdogan, Trump-Al-Sharaa geplant.", "status": "neu"},
-    {"category": "global", "title": "Ukraine: Angriff auf Kyjiw, Front bleibt Patt trotz hoher russischer Verluste", "date": "2026-07-07", "summary": "68 Raketen/351 Drohnen auf Kyjiw am 6.7.; Opferzahlen zwischen 11 (Erstmeldung) und über 20 Toten je nach Quelle/Update. Neu: Russland verlor im Juni ~39.490 Soldaten bei nur 97 km² Netto-Geländegewinn im 1. Halbjahr 2026. Kertsch-Brücke: 11 von 18 Zugverbindungen ab 8.7. gestrichen.", "status": "laufend"},
-    {"category": "global", "title": "Iran nach Khamenei: Nachfolge weiter offen, Doha-Gespräche pausiert", "date": "2026-07-07", "summary": "Mojtaba Khamenei weiterhin nicht öffentlich aufgetreten. US-Iran-Gespräche in Doha ruhen bis Ende der Trauerwoche (9.7.).", "status": "laufend"},
-    {"category": "global", "title": "China-Japan: Festnahmen im Seltene-Erden-Streit offiziell angeklagt", "date": "2026-07-07", "summary": "Zwei im Mai in Dalian festgenommene Fuji-Electric-Mitarbeiter im Juni offiziell wegen Exportkontrollverstoßes angeklagt.", "status": "laufend"},
-    {"category": "global", "title": "Taifun Bavi: Kurs auf Taiwan und Raum Shanghai", "date": "2026-07-07", "summary": "Nach Schäden auf den Marianen zieht Bavi (Winde bis 216 km/h) Fr./Sa. an Taiwan vorbei (Region Yilan ~49% Risiko), danach Richtung Shanghai.", "status": "laufend"},
-    {"category": "global", "title": "Venezuela-Erdbeben: Opferzahl auf über 3.500 gestiegen", "date": "2026-07-07", "summary": "Deutlicher Anstieg von zuvor ~2.645 auf jetzt 3.535 Tote, 16.740 Verletzte, 17.854 Obdachlose laut venezolanischem Abgeordneten.", "status": "laufend"},
-    {"category": "national", "title": "NATO-Gipfel: Merz wirbt für 'Geist von Ankara', 140-Mrd.-Ukraine-Ziel", "date": "2026-07-07", "summary": "Merz wirbt für 'europäischere' NATO, Deutschland strebt mit Partnern 140 Mrd. Euro Ukraine-Gesamtzusage 2026/27 an. Rutte lobt deutsches 3,5%-BIP-Ziel bis 2029.", "status": "neu"},
-    {"category": "national", "title": "Bundeshaushalt 2027 vom Kabinett beschlossen", "date": "2026-07-07", "summary": "555,4 Mrd. Euro Ausgaben, 118,7 Mrd. Euro Neuverschuldung, Verteidigungsausgaben >109 Mrd. Euro. Klingbeil musste zusätzlich ~9,7 Mrd. Euro Rücklage wegen Iran-Kriegsfolgen antasten.", "status": "neu"},
-    {"category": "national", "title": "Geheimdienstreform: Neuer Unabhängiger Kontrollrat (UKRat) geplant", "date": "2026-07-07", "summary": "BND/Verfassungsschutz sollen aktiv Angreifer-Infrastruktur stören/Desinformation streuen dürfen; neuer UKRat ersetzt G10-Kommission, Richtergremium muss intensive Maßnahmen vorab genehmigen.", "status": "laufend"},
-    {"category": "national", "title": "DFB/Klopp: weiterhin nur Insider-Bestätigung", "date": "2026-07-07", "summary": "DFB-Spitze (Neuendorf, Watzke) reist zu Gesprächen mit Klopp/Berater nach New York; Ablöse mit Red Bull, Vertragsdauer offen. Keine offizielle DFB-Bestätigung.", "status": "laufend"},
-    {"category": "national", "title": "Prozess um Kriegswaffenfund Remscheid/Wuppertal", "date": "2026-07-07", "summary": "Prozessauftakt Landgericht Wuppertal: ~300 Schusswaffen, 13 Panzerabwehrwaffen, ~100.000 Schuss Munition; Angeklagter (35) hat gestanden, Prozess bis 23.9., nächster Termin 15.7.", "status": "neu"},
-    {"category": "lokal", "title": "Cold Case Babyleiche Westenholz: Spur führt nach Gütersloh", "date": "2026-07-07", "summary": "Fundeimer und anonymer Brief nachweislich aus Raum Gütersloh; Ermittler schließen Urheberschaft der bislang nicht identifizierten Mutter weiter nicht aus.", "status": "laufend"},
-    {"category": "lokal", "title": "Volksbank OWL: konkrete Filialzusammenlegungen Kreis Paderborn", "date": "2026-07-07", "summary": "Vier Zusammenlegungen bekannt (u.a. Borchen/Wewer, Dahl/Schöne Aussicht, Verlar/Salzkotten), wirksam ab 2.11., Begründung: Online-Banking-Trend.", "status": "laufend"},
-    {"category": "lokal", "title": "Bettensteuer Kreis Höxter: Widerstand aus Hotellerie/IHK wächst", "date": "2026-07-07", "summary": "IHK protestiert nun ebenfalls neben Hoteliers/Gastronomen; weiterhin keine Entscheidung.", "status": "laufend"},
-    {"category": "social", "title": "Vozinha übertrifft Casillas' Instagram-Rekord unter Torhütern", "date": "2026-07-07", "summary": "20,8-22,1 Mio. Follower, überholt Casillas (20,4 Mio.) als meistgefolgter Torwart der Welt.", "status": "laufend"},
-    {"category": "social", "title": "MJ-Biopic 'Michael' überholt 'Oppenheimer' als umsatzstärksten Biopic", "date": "2026-07-07", "summary": "~989 Mio. USD weltweit, Milliarden-Marke in Kürze erwartet, bereits umsatzstärkster Musik-Biopic und Biopic aller Zeiten.", "status": "laufend"},
-    {"category": "social", "title": "KI-Fake-Bilder WM 2026: neue Einzelfälle mit Prominenten", "date": "2026-07-07", "summary": "Neue Fakes: sexualisiertes Foto von Esther Sedlaczek, gefälschter Eurosport-Artikel zu Mbappé/Macron. Faktenchecker warnen weiter vor Flut an KI-Inhalten.", "status": "laufend"},
-    {"category": "social", "title": "'Hot Dog Summer'-TikTok-Trend", "date": "2026-07-07", "summary": "18 Jahre alter Filmclip aus 'Legally Blonde 2' viral zum US-Nationalfeiertag; Reichweite nur über Branchen-Trendreports belegt, nicht durch Plattform-Rohdaten.", "status": "neu"},
-    {"category": "song", "title": "Peace Somehow – Avi Kaplan", "date": "2026-07-07", "summary": "Song des Tages, gewählt wegen Avi Kaplan als aktuellem Top-Künstler (mehrfach zuletzt gehört) und thematischem Bezug zu NATO-Gipfel/Ukraine-Patt (Ringen um Frieden).", "status": "neu", "quelle": "recently-played"},
-    {"category": "global", "title": "NATO-Gipfel Ankara: Abschlusserklärung mit 70-Mrd.-Ukraine-Zusage", "date": "2026-07-08", "summary": "32 Staats-/Regierungschefs billigen Erklärung: Artikel-5-Bekenntnis, Russland als 'langfristige Bedrohung', je 70 Mrd. Euro/Jahr Ukraine-Hilfe 2026/27 (140 Mrd. gesamt). Trump laut mehreren Medien 'sehr enttäuscht' über Europas Verteidigungsausgaben/Iran-Kriegs-Solidarität. Trump-Selenskyj-Treffen am 8.7. zum Berichtszeitpunkt noch ohne Ergebnis.", "status": "neu"},
-    {"category": "global", "title": "Trump hebt Sanktionen gegen Türkei auf, stellt F-35 in Aussicht", "date": "2026-07-08", "summary": "CAATSA-Sanktionen (wegen S-400-Kauf 2019) werden aufgehoben; F-35-Rückkehr der Türkei 'in Erwägung', Erdogan spricht von 5 zugesagten Jets. Netanjahu warnt öffentlich davor.", "status": "neu"},
-    {"category": "global", "title": "Paris Haute Couture Woche: Piccioli-Debüt bei Balenciaga", "date": "2026-07-08", "summary": "Pierpaolo Piccioli zeigt erste Balenciaga-Kollektion (Nachfolge Demna), Manish Malhotra Paris-Debüt, Duran Lantink Gastdesigner bei Jean Paul Gaultier.", "status": "neu"},
-    {"category": "national", "title": "Deutschland meldet Rekord-Verteidigungsausgaben 2026", "date": "2026-07-08", "summary": "124,7 Mrd. Euro (+25,5% ggü. Vorjahr, ~2,69% BIP nach NATO-Berechnung), Ziel 3,5%/5% bereits 2029 statt 2035. Merz wirbt in Ankara für 'Geist von Ankara'.", "status": "laufend"},
-    {"category": "national", "title": "TKMS gewinnt Milliarden-U-Boot-Deal Kanada", "date": "2026-07-08", "summary": "TKMS (mit Kongsberg) bevorzugter Anbieter für bis zu 12 U-212CD-U-Boote, setzt sich gegen Hanwha Ocean durch; ca. 20 Mrd. Euro Bau-/Servicevertrag, bis zu 62 Mrd. Euro inkl. Wartung. Vertrag noch nicht final unterschrieben (Exklusivverhandlungen bis 18 Monate). Merz nennt es einen der größten Rüstungsaufträge der Bundesrepublik-Geschichte.", "status": "neu"},
-    {"category": "national", "title": "Heizungsgesetz-Nachfolger: Linke-Eilantrag vor Bundesverfassungsgericht", "date": "2026-07-08", "summary": "Linksfraktion will per Eilantrag/Organstreitverfahren die geplante Bundestagsabstimmung über das neue Gebäudeenergiegesetz (Wegfall 65%-Regel) vor der Sommerpause stoppen; sieht Informationsrechte verletzt. Gericht könnte noch diese Woche entscheiden, Verschiebung auf September im Gespräch.", "status": "neu"},
-    {"category": "national", "title": "DFB/Klopp: Watzke dämpft Erwartungen, Klopp dementiert Einigung", "date": "2026-07-08", "summary": "DFB-Spitze reist erst kommende Woche nach New York. Watzke: Erfolgswahrscheinlichkeit >50%, aber 'nicht in trockenen Tüchern', möglicher 'Patriotismusabschlag'. Klopp dementiert bereits erfolgte Einigung. Weiterhin keine offizielle DFB-Bestätigung.", "status": "laufend"},
-    {"category": "lokal", "title": "Cold Case Babyleiche Westenholz: Wortlaut des anonymen Briefs bekannt", "date": "2026-07-08", "summary": "Brief endet '...dann bringe ich mich um', unterschrieben 'Die Mutter'. Ermittler schließen Urheberschaft der Mutter weiter nicht aus; gelber Fundsack stammt nachweislich aus Kreis Gütersloh. Fall weiter ungelöst.", "status": "laufend"},
-    {"category": "lokal", "title": "Bielefeld: Vollsperrung Dornberger Straße auf 27.7. verschoben", "date": "2026-07-08", "summary": "Verzögerte Lieferung von 12 Krötentunneln verschiebt Start der ca. viermonatigen Vollsperrung von 4.7. auf 27.7. Bürgerproteste (~900 Unterschriften) und FDP-Landtagsanfrage laufen weiter.", "status": "laufend"},
-    {"category": "lokal", "title": "Höxter: Verwaltung empfiehlt offenbar Verzicht auf Bettensteuer", "date": "2026-07-08", "summary": "Laut Westfalen-Blatt (bislang einzige Quelle, nicht unabhängig bestätigt) empfiehlt Stadtverwaltung dem Rat, auf die Beherbergungssteuer zu verzichten. Mit Vorbehalt zu behandeln, bis Zweitquelle vorliegt.", "status": "laufend"},
-    {"category": "lokal", "title": "Paderborn: Turbo-Geburt vor Klinikeingang", "date": "2026-07-08", "summary": "Tochter Tilda kam am 2.7. acht Minuten nach Ankunft vor der Frauen-/Kinderklinik St. Louise zur Welt, Mutter und Kind wohlauf.", "status": "abgeschlossen"},
-    {"category": "social", "title": "Rassismus-Eklat um Mbappé nach WM-Achtelfinale", "date": "2026-07-08", "summary": "Paraguayische Senatorin Amarilla de Boccia beleidigt Mbappé rassistisch auf X; Mbappé kontert scharf, Macron reagiert öffentlich, franz. Verband kündigt rechtliche Schritte an, Senatorin entschuldigt sich.", "status": "neu"},
-    {"category": "social", "title": "KI-Fake-Video Mbappé/Macron: 14 Mio. Views laut NewsGuard", "date": "2026-07-08", "summary": "Gefälschter Eurosport-Artikel/-Video (91,3% KI laut Erkennungstool) erreichte 14 Mio. Views auf X; Fake-Domain 'euro-sport.fr' kurz vor Veröffentlichung registriert.", "status": "laufend"},
-    {"category": "song", "title": "Change On The Rise – Avi Kaplan", "date": "2026-07-08", "summary": "Song des Tages, gewählt wegen Avi Kaplan als Top-Künstler und thematischem Bezug zu Durchhalten/Wandel (NATO-Solidarität trotz Reibung, Mbappés Kontern gegen Rassismus).", "status": "neu", "quelle": "recently-played"},
-    {"category": "global", "title": "US-Iran-Waffenruhe kollabiert: neue Angriffswellen, Markt-Schock", "date": "2026-07-09", "summary": "Nach mutmaßlich iranischen Angriffen auf Handelsschiffe in der Straße von Hormuz bombardierten die USA zwei Nächte in Folge Iran (7./8.7.), Iran griff US-Stützpunkte in Bahrain/Kuwait an. Ölpreis +7-8%, asiatische Börsen deutlich im Minus (Kospi -5,35%, Nikkei -2,11%). Doha-Gespräche stehen auf der Kippe.", "status": "neu"},
-    {"category": "global", "title": "Trump sagt Ukraine Lizenz zur eigenen Patriot-Produktion zu", "date": "2026-07-09", "summary": "Zusatzankündigung am Rande des beendeten NATO-Gipfels Ankara, zusätzlich zum 70-Mrd.-Euro-Jahreshilfspaket. Fertigung unter US-Aufsicht, Aufbau ca. 1 Mrd. USD, ggf. in 18 Monaten betriebsbereit.", "status": "neu"},
-    {"category": "global", "title": "Supertaifun Bavi: Landfall noch nicht erfolgt, Kurs auf Yaeyama/Ostchina", "date": "2026-07-09", "summary": "Kategorie 4, noch über Philippinischem Meer (Stand 8.7.); Prognose: ~11.7. Yaeyama-Inseln, ~12.7. Chinas Ostküste. Zuvor schwere Schäden auf Rota/Nördliche Marianen.", "status": "laufend"},
-    {"category": "national", "title": "Heizungsgesetz-Nachfolger: Bundestagsabstimmung verschiebt sich wohl auf September", "date": "2026-07-09", "summary": "BVerfG hat über Linke-Eilantrag noch nicht entschieden; Union will Entscheidung abwarten, danach beginnt Sommerpause – Verabschiedung dürfte sich auf Herbst verschieben.", "status": "laufend"},
-    {"category": "national", "title": "Merz-Regierungserklärung vor EU-Gipfel: 'Kein Spielball von Großmächten'", "date": "2026-07-09", "summary": "Themen: Handelspolitik, Bürokratieabbau, Ukraine-Unterstützung inkl. eingefrorener russischer Vermögenswerte. Verweist auf gestärkte Verteidigungsfähigkeit nach Ankara-Gipfel.", "status": "neu"},
-    {"category": "national", "title": "DFB/Klopp: Neuendorf/Watzke verhandeln in New York, weitreichende Befugnisse im Gespräch", "date": "2026-07-09", "summary": "Klopps Red-Bull-Vertrag (bis 2029) offenbar ohne Ausstiegsklausel; DFB will ihm laut Sky auch Befugnisse für Nachwuchsarbeit/Spielstil geben. Weiterhin keine offizielle Bestätigung.", "status": "laufend"},
-    {"category": "lokal", "title": "Flughafen Paderborn/Lippstadt: Geschäftsführer Hüser verlässt überraschend", "date": "2026-07-09", "summary": "Roland Hüser wechselt zum 1.1.2027 als Hauptgeschäftsführer zur Kreishandwerkerschaft Gütersloh-Bielefeld. Nachfolgesuche läuft.", "status": "neu"},
-    {"category": "lokal", "title": "Pferd in Delbrück-Hagen mutmaßlich vorsätzlich verletzt", "date": "2026-07-09", "summary": "Verletzung durch spitzen Gegenstand am Kopf zwischen 23.-30.6., Polizei ermittelt wegen Tierschutzgesetzverstoß und sucht Zeugen. Möglicher Zusammenhang mit ähnlichen Fällen im Raum Marienmünster.", "status": "neu"},
-    {"category": "social", "title": "Mbappé-Rassismus-Eklat: Senatorin zieht Aussage teils zurück, Staatsanwaltschaft ermittelt", "date": "2026-07-09", "summary": "Amarilla nimmt rassistische Äußerung zurück, wirft Mbappé Sexismus vor. Pariser Staatsanwaltschaft leitet nach FFF-Beschwerde Ermittlungen wegen Volksverhetzung ein.", "status": "laufend"},
-    {"category": "social", "title": "WM-Viertelfinale Frankreich-Marokko: Kontroverse um argentinisches Schiedsrichter-Team", "date": "2026-07-09", "summary": "FIFA setzt komplett argentinisches Team (Facundo Tello) an, brisant da Argentinien noch im Turnier ist. Deschamps spielt Bedenken herunter.", "status": "neu"},
-    {"category": "social", "title": "KI-Betrugsanzeigen mit Spielergesichtern nehmen laut Branchenbericht zu", "date": "2026-07-09", "summary": "Revelum-Bericht (Einzelquelle für konkrete Zahlen, nicht unabhängig geprüft) meldet starken Anstieg von Deepfake-Werbeanzeigen mit Promi-Spielern für Betrugsportale; allgemeiner Trend mehrfach von Sicherheitsbehörden bestätigt.", "status": "neu"},
-    {"category": "song", "title": "Living In A Ghost Town – The Rolling Stones", "date": "2026-07-09", "summary": "Song des Tages, gewählt wegen Rolling Stones als Top-Künstler (zuletzt gehört 8.7.) und thematischem Bezug zur plötzlichen globalen Verunsicherung nach Zusammenbruch der US-Iran-Waffenruhe.", "status": "neu", "quelle": "recently-played"}
+    {
+      "category": "global",
+      "title": "Ukraine: Neuer Angriff auf Kyjiw vor NATO-Gipfel",
+      "date": "2026-07-06",
+      "summary": "Erneuter Raketen-/Drohnenangriff in der Nacht zum 6.7. (zusätzlich zum vorherigen Rekord-Großangriff); Opferzahlen je nach Quelle 6-7 Tote (Reuters/CNN vs. Kyiv Independent). Ukrainische Drohnenangriffe haben laut ukrainischen Angaben ~43% von Russlands Raffineriekapazität lahmgelegt.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Iran nach Khamenei: Nachfolge & Hormuz-Teil-Öffnung",
+      "date": "2026-07-06",
+      "summary": "Mojtaba Khamenei weiterhin nicht öffentlich aufgetreten, Nachfolgefrage offen; erstmals seit längerem kleiner Schiffskonvoi durch Hormuz (5 Schiffe inkl. Tanker Hafeet); Doha-Gespräche erst nach Ende Trauerzeremonie (bis 9.7.).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "China-Japan: Festnahmen im Seltene-Erden-Streit",
+      "date": "2026-07-06",
+      "summary": "Zwei Japaner (Fuji-Electric-Mitarbeiter) wegen mutmaßlichen Seltene-Erden-Schmuggels in China verhaftet (Mai/Juni bekannt geworden) - einer der ersten bekannten Fälle einer Ausländer-Festnahme wegen Exportkontrollverstößen in China.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "China: Militärführungs-Neuordnung nach Antikorruptions-Säuberung",
+      "date": "2026-07-06",
+      "summary": "Xi befördert Zhang Shuguang und Wang Gang zu Generälen, Zhang übernimmt Antikorruptionsabteilung der ZMK - als loyalitätsorientierte Vorbereitung einer Neubesetzung der Militärführung gewertet.",
+      "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "Super-Taifun Bavi im Pazifik",
+      "date": "2026-07-06",
+      "summary": "Kategorie-5-Taifun trifft Nördliche Marianen (Guam/Saipan), Böen bis 190 mph; Zugbahn deutet auf mögliche Gefahr für Taiwan/Südchina bis 10.7. hin.",
+      "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "Venezuela-Erdbeben: Opferzahlen weiter uneinheitlich",
+      "date": "2026-07-06",
+      "summary": "Zahlen zwischen 2.595 und 2.645 Toten je nach Quelle, Tausende weiterhin vermisst - keine wesentliche neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "USMCA-Verhandlungen & Südafrika-Proteste",
+      "date": "2026-07-06",
+      "summary": "Dritte USMCA-Runde mit Mexiko ab 20.7. bestätigt; Südafrikas Anti-Migrationsproteste bleiben deeskaliert, keine strategische Wende.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "NATO-Gipfel Ankara: Trump fordert Loyalität",
+      "date": "2026-07-06",
+      "summary": "Gipfel 7.-8.7. steht bevor, Trump kritisiert vorab Bündnispartner ohne Iran-Beteiligung scharf ('Ich will Loyalität'). Deutscher Fokus: Lastenteilung, Verteidigungsetat 2026 >108 Mrd. Euro, Ziel 2029 ~152 Mrd. Euro, 3,5%-BIP-Ziel.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "DFB: Klopp-Zusage laut Insidern, Ablöse mit Red Bull offen",
+      "date": "2026-07-06",
+      "summary": "Fabrizio Romano berichtet von Klopp-Zusage als Nagelsmann-Nachfolger; Ablöseverhandlung mit Red Bull (Vertrag bis 2029) noch offen, keine offizielle DFB-Bestätigung.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Ver.di Tarifstreit Einzelhandel: Verhandlungen ohne Durchbruch",
+      "date": "2026-07-06",
+      "summary": "Runden in Hessen (ergebnislos laut Lebensmittelzeitung, nur einfach belegt) und Niedersachsen-Bremen (kein Ergebnis) am 6.7.; Arbeitgeberangebot (2%/1,5% gestaffelt) weit von ver.di-Forderung (7%/12 Monate) entfernt.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Rentenreform: Junge Union beharrt auf Kürzungen",
+      "date": "2026-07-06",
+      "summary": "JU fordert weiterhin Leistungskürzungen/längeres Arbeiten/Kinderlosen-Zuschlag; Mehrheit ohne JU-Stimmen weiterhin ungeklärt, Ziel Bundestag-Verabschiedung bis Jahresende.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Geheimdienstreform: aktive Eingriffe & Kontrollrat",
+      "date": "2026-07-06",
+      "summary": "Details bekannt: BND/Verfassungsschutz sollen Cyber-Infrastruktur aktiv stören und Desinformation streuen dürfen, neuer 'Unabhängiger Kontrollrat' als Gegengewicht geplant.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "DWD warnt vor neuer Hitzewelle Mitte Juli",
+      "date": "2026-07-06",
+      "summary": "Nach Rekord-Hitzewelle Ende Juni (41,3°C Saarbrücken-Burbach, neuer Allzeitrekord) prognostizieren Modelle erneut ~35 Grad Mitte Juli nach kurzer Abkühlung.",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "Vermisste 77-Jährige aus Lichtenau/Willebadessen",
+      "date": "2026-07-06",
+      "summary": "Weiterhin nicht gefunden trotz Großsuchen (Hubschrauber, Hundertschaft, Hunde); Angehörige suchen zusätzlich eigenständig. Keine neue behördliche Spur seit Fund der Einkaufstasche am 1.7.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Neue Polizeiwache Delbrück eröffnet",
+      "date": "2026-07-06",
+      "summary": "Eröffnung am 3.7. mit Innenminister Reul; Stefanie Lahme als erste Frau an der Spitze einer Polizeiwache im Kreis Paderborn, 21 Beamte im Schichtdienst.",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "VerbundVolksbank OWL schließt neun Standorte",
+      "date": "2026-07-06",
+      "summary": "Sieben Filialen und zwei SB-Standorte in Paderborn, Höxter, Lippe geschlossen/zusammengelegt, u.a. die von Geldautomaten-Sprengung betroffene Filiale Dahl - begründet mit Online-Banking-Trend.",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "Straßensperrungen OWL: K37, Balhorner Feld, Dornberger Straße",
+      "date": "2026-07-06",
+      "summary": "K37 'Oberes Feld' ab 6.7. bis 17.7. zusätzlich zu Wewer/Balhorner Feld bis 24.7.; Dornberger-Straße-Vollsperrung Bielefeld auf 27.7. verschoben, FDP-Landtagsanfrage läuft, ~900 Unterschriften Bürgerpetition.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "SC Paderborn 07: 18:0 im ersten Testspiel",
+      "date": "2026-07-06",
+      "summary": "Deutlicher Sieg gegen SC Blau-Weiß Ostenland (5.7., 2.500 Zuschauer) zum Auftakt der Bundesliga-Vorbereitung, Neuzugang Batista Meier trifft.",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "Cold Case Babyleiche Westenholz",
+      "date": "2026-07-06",
+      "summary": "Wortlaut des anonymen Briefs bekannt ('...dann bringe ich mich um'), Ermittler schließen Urheberschaft der Mutter nicht aus; keine neue aktive Ermittlungsmaßnahme.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Bettensteuer-Streit Kreis Höxter",
+      "date": "2026-07-06",
+      "summary": "Weiterhin keine Entscheidung, Protest von Gastronomie/Hotellerie hält an.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Warburg Haushaltsdefizit",
+      "date": "2026-07-06",
+      "summary": "Defizit weiterhin ca. 11-12 Mio. Euro je nach Quelle, keine neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Vozinha (Kap Verde): viraler WM-Torwart",
+      "date": "2026-07-06",
+      "summary": "Instagram-Follower von ~46.000 auf über 22 Mio. nach starkem WM-Auftakt gegen Spanien - meistgefolgter Torwart der Welt, überholt Neuer/Courtois/Casillas.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "KI-Fake-Bilder bei WM 2026",
+      "date": "2026-07-06",
+      "summary": "Welle KI-generierter Fakes (Hitler-Double-Fake, Netanjahu-Fake, gefälschte Euronews-Seite zu Mbappé/Macron), Faktenchecker warnen vor 'beispielloser' Menge und Qualität, Verdacht russischer Desinformation.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "MJ-Biopic 'Michael'",
+      "date": "2026-07-06",
+      "summary": "978,6 Mio. USD weltweit, Milliarde noch nicht erreicht (~21 Mio. USD fehlen), Japan-Kinostart soll weitere 55-60 Mio. USD bringen; bereits umsatzstärkster Musik-Biopic aller Zeiten.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'Bangladesh'-Song-Trend",
+      "date": "2026-07-06",
+      "summary": "Neues Projekt 'Season 3' für 10.7. bestätigt, US-Tour im Herbst geplant; Stream-Zahlen zwischen Quellen uneinheitlich (frühere '2 Mio.'-Angabe nicht erneut verifizierbar).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Vatikan erklärt Piusbruderschaft schismatisch",
+      "date": "2026-07-05",
+      "summary": "Exkommunikationsdekret gegen SSPX-Bischöfe/-Priester vollzogen, keine Rücknahme in Sicht (in Wochenausgabe vom 2026-07-05 zusammengefasst).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "AfD-Bundesparteitag Erfurt mit Großprotesten",
+      "date": "2026-07-05",
+      "summary": "Rund 30.000 Demonstranten, größter Polizeieinsatz Thüringens seit der Wiedervereinigung, Blockadeversuche scheiterten (in Wochenausgabe vom 2026-07-05 zusammengefasst).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Viaduktfest Altenbeken",
+      "date": "2026-07-05",
+      "summary": "Dreitägiges Fest endete am 5. Juli mit Familienprogramm (in Wochenausgabe vom 2026-07-05 zusammengefasst).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "social",
+      "title": "TikTok-Kuss-Auspeitschung Aceh: Urteil vollstreckt",
+      "date": "2026-07-05",
+      "summary": "Paar am 2. Juli mit je 21 Rutenschlägen bestraft, Amnesty International verurteilt dies scharf (in Wochenausgabe vom 2026-07-05 zusammengefasst).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "social",
+      "title": "'Freddy aus Deutschland': WM-Fan-Phänomen",
+      "date": "2026-07-05",
+      "summary": "Viraler Account (>750.000 Follower) nach Rassismus-Vorwürfen zu alten Posts deaktiviert — kompletter Auf-und-Ab-Bogen der Woche (in Wochenausgabe vom 2026-07-05 zusammengefasst).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "NATO-Gipfel Ankara eröffnet",
+      "date": "2026-07-07",
+      "summary": "36. NATO-Gipfel (7.-8.7., erstmals seit 2004 wieder in der Türkei) gestartet. Rutte fordert 5%-BIP-Ziel bis 2035, Ausbau Rüstungsindustrie, weitere Ukraine-Hilfe. Trump verlangt Einhaltung der Ausgabenzusagen ('NATO 3.0'). Für 8.7. Treffen Trump-Selenskyj, Trump-Erdogan, Trump-Al-Sharaa geplant.",
+      "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine: Angriff auf Kyjiw, Front bleibt Patt trotz hoher russischer Verluste",
+      "date": "2026-07-07",
+      "summary": "68 Raketen/351 Drohnen auf Kyjiw am 6.7.; Opferzahlen zwischen 11 (Erstmeldung) und über 20 Toten je nach Quelle/Update. Neu: Russland verlor im Juni ~39.490 Soldaten bei nur 97 km² Netto-Geländegewinn im 1. Halbjahr 2026. Kertsch-Brücke: 11 von 18 Zugverbindungen ab 8.7. gestrichen.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Iran nach Khamenei: Nachfolge weiter offen, Doha-Gespräche pausiert",
+      "date": "2026-07-07",
+      "summary": "Mojtaba Khamenei weiterhin nicht öffentlich aufgetreten. US-Iran-Gespräche in Doha ruhen bis Ende der Trauerwoche (9.7.).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "China-Japan: Festnahmen im Seltene-Erden-Streit offiziell angeklagt",
+      "date": "2026-07-07",
+      "summary": "Zwei im Mai in Dalian festgenommene Fuji-Electric-Mitarbeiter im Juni offiziell wegen Exportkontrollverstoßes angeklagt.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Taifun Bavi: Kurs auf Taiwan und Raum Shanghai",
+      "date": "2026-07-07",
+      "summary": "Nach Schäden auf den Marianen zieht Bavi (Winde bis 216 km/h) Fr./Sa. an Taiwan vorbei (Region Yilan ~49% Risiko), danach Richtung Shanghai.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Venezuela-Erdbeben: Opferzahl auf über 3.500 gestiegen",
+      "date": "2026-07-07",
+      "summary": "Deutlicher Anstieg von zuvor ~2.645 auf jetzt 3.535 Tote, 16.740 Verletzte, 17.854 Obdachlose laut venezolanischem Abgeordneten.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "NATO-Gipfel: Merz wirbt für 'Geist von Ankara', 140-Mrd.-Ukraine-Ziel",
+      "date": "2026-07-07",
+      "summary": "Merz wirbt für 'europäischere' NATO, Deutschland strebt mit Partnern 140 Mrd. Euro Ukraine-Gesamtzusage 2026/27 an. Rutte lobt deutsches 3,5%-BIP-Ziel bis 2029.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "Bundeshaushalt 2027 vom Kabinett beschlossen",
+      "date": "2026-07-07",
+      "summary": "555,4 Mrd. Euro Ausgaben, 118,7 Mrd. Euro Neuverschuldung, Verteidigungsausgaben >109 Mrd. Euro. Klingbeil musste zusätzlich ~9,7 Mrd. Euro Rücklage wegen Iran-Kriegsfolgen antasten.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "Geheimdienstreform: Neuer Unabhängiger Kontrollrat (UKRat) geplant",
+      "date": "2026-07-07",
+      "summary": "BND/Verfassungsschutz sollen aktiv Angreifer-Infrastruktur stören/Desinformation streuen dürfen; neuer UKRat ersetzt G10-Kommission, Richtergremium muss intensive Maßnahmen vorab genehmigen.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "DFB/Klopp: weiterhin nur Insider-Bestätigung",
+      "date": "2026-07-07",
+      "summary": "DFB-Spitze (Neuendorf, Watzke) reist zu Gesprächen mit Klopp/Berater nach New York; Ablöse mit Red Bull, Vertragsdauer offen. Keine offizielle DFB-Bestätigung.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Prozess um Kriegswaffenfund Remscheid/Wuppertal",
+      "date": "2026-07-07",
+      "summary": "Prozessauftakt Landgericht Wuppertal: ~300 Schusswaffen, 13 Panzerabwehrwaffen, ~100.000 Schuss Munition; Angeklagter (35) hat gestanden, Prozess bis 23.9., nächster Termin 15.7.",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "Cold Case Babyleiche Westenholz: Spur führt nach Gütersloh",
+      "date": "2026-07-07",
+      "summary": "Fundeimer und anonymer Brief nachweislich aus Raum Gütersloh; Ermittler schließen Urheberschaft der bislang nicht identifizierten Mutter weiter nicht aus.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Volksbank OWL: konkrete Filialzusammenlegungen Kreis Paderborn",
+      "date": "2026-07-07",
+      "summary": "Vier Zusammenlegungen bekannt (u.a. Borchen/Wewer, Dahl/Schöne Aussicht, Verlar/Salzkotten), wirksam ab 2.11., Begründung: Online-Banking-Trend.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Bettensteuer Kreis Höxter: Widerstand aus Hotellerie/IHK wächst",
+      "date": "2026-07-07",
+      "summary": "IHK protestiert nun ebenfalls neben Hoteliers/Gastronomen; weiterhin keine Entscheidung.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Vozinha übertrifft Casillas' Instagram-Rekord unter Torhütern",
+      "date": "2026-07-07",
+      "summary": "20,8-22,1 Mio. Follower, überholt Casillas (20,4 Mio.) als meistgefolgter Torwart der Welt.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "MJ-Biopic 'Michael' überholt 'Oppenheimer' als umsatzstärksten Biopic",
+      "date": "2026-07-07",
+      "summary": "~989 Mio. USD weltweit, Milliarden-Marke in Kürze erwartet, bereits umsatzstärkster Musik-Biopic und Biopic aller Zeiten.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "KI-Fake-Bilder WM 2026: neue Einzelfälle mit Prominenten",
+      "date": "2026-07-07",
+      "summary": "Neue Fakes: sexualisiertes Foto von Esther Sedlaczek, gefälschter Eurosport-Artikel zu Mbappé/Macron. Faktenchecker warnen weiter vor Flut an KI-Inhalten.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'Hot Dog Summer'-TikTok-Trend",
+      "date": "2026-07-07",
+      "summary": "18 Jahre alter Filmclip aus 'Legally Blonde 2' viral zum US-Nationalfeiertag; Reichweite nur über Branchen-Trendreports belegt, nicht durch Plattform-Rohdaten.",
+      "status": "neu"
+    },
+    {
+      "category": "song",
+      "title": "Peace Somehow – Avi Kaplan",
+      "date": "2026-07-07",
+      "summary": "Song des Tages, gewählt wegen Avi Kaplan als aktuellem Top-Künstler (mehrfach zuletzt gehört) und thematischem Bezug zu NATO-Gipfel/Ukraine-Patt (Ringen um Frieden).",
+      "status": "neu",
+      "quelle": "recently-played"
+    },
+    {
+      "category": "global",
+      "title": "NATO-Gipfel Ankara: Abschlusserklärung mit 70-Mrd.-Ukraine-Zusage",
+      "date": "2026-07-08",
+      "summary": "32 Staats-/Regierungschefs billigen Erklärung: Artikel-5-Bekenntnis, Russland als 'langfristige Bedrohung', je 70 Mrd. Euro/Jahr Ukraine-Hilfe 2026/27 (140 Mrd. gesamt). Trump laut mehreren Medien 'sehr enttäuscht' über Europas Verteidigungsausgaben/Iran-Kriegs-Solidarität. Trump-Selenskyj-Treffen am 8.7. zum Berichtszeitpunkt noch ohne Ergebnis.",
+      "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "Trump hebt Sanktionen gegen Türkei auf, stellt F-35 in Aussicht",
+      "date": "2026-07-08",
+      "summary": "CAATSA-Sanktionen (wegen S-400-Kauf 2019) werden aufgehoben; F-35-Rückkehr der Türkei 'in Erwägung', Erdogan spricht von 5 zugesagten Jets. Netanjahu warnt öffentlich davor.",
+      "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "Paris Haute Couture Woche: Piccioli-Debüt bei Balenciaga",
+      "date": "2026-07-08",
+      "summary": "Pierpaolo Piccioli zeigt erste Balenciaga-Kollektion (Nachfolge Demna), Manish Malhotra Paris-Debüt, Duran Lantink Gastdesigner bei Jean Paul Gaultier.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "Deutschland meldet Rekord-Verteidigungsausgaben 2026",
+      "date": "2026-07-08",
+      "summary": "124,7 Mrd. Euro (+25,5% ggü. Vorjahr, ~2,69% BIP nach NATO-Berechnung), Ziel 3,5%/5% bereits 2029 statt 2035. Merz wirbt in Ankara für 'Geist von Ankara'.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "TKMS gewinnt Milliarden-U-Boot-Deal Kanada",
+      "date": "2026-07-08",
+      "summary": "TKMS (mit Kongsberg) bevorzugter Anbieter für bis zu 12 U-212CD-U-Boote, setzt sich gegen Hanwha Ocean durch; ca. 20 Mrd. Euro Bau-/Servicevertrag, bis zu 62 Mrd. Euro inkl. Wartung. Vertrag noch nicht final unterschrieben (Exklusivverhandlungen bis 18 Monate). Merz nennt es einen der größten Rüstungsaufträge der Bundesrepublik-Geschichte.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "Heizungsgesetz-Nachfolger: Linke-Eilantrag vor Bundesverfassungsgericht",
+      "date": "2026-07-08",
+      "summary": "Linksfraktion will per Eilantrag/Organstreitverfahren die geplante Bundestagsabstimmung über das neue Gebäudeenergiegesetz (Wegfall 65%-Regel) vor der Sommerpause stoppen; sieht Informationsrechte verletzt. Gericht könnte noch diese Woche entscheiden, Verschiebung auf September im Gespräch.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "DFB/Klopp: Watzke dämpft Erwartungen, Klopp dementiert Einigung",
+      "date": "2026-07-08",
+      "summary": "DFB-Spitze reist erst kommende Woche nach New York. Watzke: Erfolgswahrscheinlichkeit >50%, aber 'nicht in trockenen Tüchern', möglicher 'Patriotismusabschlag'. Klopp dementiert bereits erfolgte Einigung. Weiterhin keine offizielle DFB-Bestätigung.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Cold Case Babyleiche Westenholz: Wortlaut des anonymen Briefs bekannt",
+      "date": "2026-07-08",
+      "summary": "Brief endet '...dann bringe ich mich um', unterschrieben 'Die Mutter'. Ermittler schließen Urheberschaft der Mutter weiter nicht aus; gelber Fundsack stammt nachweislich aus Kreis Gütersloh. Fall weiter ungelöst.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Bielefeld: Vollsperrung Dornberger Straße auf 27.7. verschoben",
+      "date": "2026-07-08",
+      "summary": "Verzögerte Lieferung von 12 Krötentunneln verschiebt Start der ca. viermonatigen Vollsperrung von 4.7. auf 27.7. Bürgerproteste (~900 Unterschriften) und FDP-Landtagsanfrage laufen weiter.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Höxter: Verwaltung empfiehlt offenbar Verzicht auf Bettensteuer",
+      "date": "2026-07-08",
+      "summary": "Laut Westfalen-Blatt (bislang einzige Quelle, nicht unabhängig bestätigt) empfiehlt Stadtverwaltung dem Rat, auf die Beherbergungssteuer zu verzichten. Mit Vorbehalt zu behandeln, bis Zweitquelle vorliegt.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Paderborn: Turbo-Geburt vor Klinikeingang",
+      "date": "2026-07-08",
+      "summary": "Tochter Tilda kam am 2.7. acht Minuten nach Ankunft vor der Frauen-/Kinderklinik St. Louise zur Welt, Mutter und Kind wohlauf.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "social",
+      "title": "Rassismus-Eklat um Mbappé nach WM-Achtelfinale",
+      "date": "2026-07-08",
+      "summary": "Paraguayische Senatorin Amarilla de Boccia beleidigt Mbappé rassistisch auf X; Mbappé kontert scharf, Macron reagiert öffentlich, franz. Verband kündigt rechtliche Schritte an, Senatorin entschuldigt sich.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "KI-Fake-Video Mbappé/Macron: 14 Mio. Views laut NewsGuard",
+      "date": "2026-07-08",
+      "summary": "Gefälschter Eurosport-Artikel/-Video (91,3% KI laut Erkennungstool) erreichte 14 Mio. Views auf X; Fake-Domain 'euro-sport.fr' kurz vor Veröffentlichung registriert.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Change On The Rise – Avi Kaplan",
+      "date": "2026-07-08",
+      "summary": "Song des Tages, gewählt wegen Avi Kaplan als Top-Künstler und thematischem Bezug zu Durchhalten/Wandel (NATO-Solidarität trotz Reibung, Mbappés Kontern gegen Rassismus).",
+      "status": "neu",
+      "quelle": "recently-played"
+    },
+    {
+      "category": "global",
+      "title": "US-Iran-Waffenruhe kollabiert: neue Angriffswellen, Markt-Schock",
+      "date": "2026-07-09",
+      "summary": "Nach mutmaßlich iranischen Angriffen auf Handelsschiffe in der Straße von Hormuz bombardierten die USA zwei Nächte in Folge Iran (7./8.7.), Iran griff US-Stützpunkte in Bahrain/Kuwait an. Ölpreis +7-8%, asiatische Börsen deutlich im Minus (Kospi -5,35%, Nikkei -2,11%). Doha-Gespräche stehen auf der Kippe.",
+      "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "Trump sagt Ukraine Lizenz zur eigenen Patriot-Produktion zu",
+      "date": "2026-07-09",
+      "summary": "Zusatzankündigung am Rande des beendeten NATO-Gipfels Ankara, zusätzlich zum 70-Mrd.-Euro-Jahreshilfspaket. Fertigung unter US-Aufsicht, Aufbau ca. 1 Mrd. USD, ggf. in 18 Monaten betriebsbereit.",
+      "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "Supertaifun Bavi: Landfall noch nicht erfolgt, Kurs auf Yaeyama/Ostchina",
+      "date": "2026-07-09",
+      "summary": "Kategorie 4, noch über Philippinischem Meer (Stand 8.7.); Prognose: ~11.7. Yaeyama-Inseln, ~12.7. Chinas Ostküste. Zuvor schwere Schäden auf Rota/Nördliche Marianen.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Heizungsgesetz-Nachfolger: Bundestagsabstimmung verschiebt sich wohl auf September",
+      "date": "2026-07-09",
+      "summary": "BVerfG hat über Linke-Eilantrag noch nicht entschieden; Union will Entscheidung abwarten, danach beginnt Sommerpause – Verabschiedung dürfte sich auf Herbst verschieben.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Merz-Regierungserklärung vor EU-Gipfel: 'Kein Spielball von Großmächten'",
+      "date": "2026-07-09",
+      "summary": "Themen: Handelspolitik, Bürokratieabbau, Ukraine-Unterstützung inkl. eingefrorener russischer Vermögenswerte. Verweist auf gestärkte Verteidigungsfähigkeit nach Ankara-Gipfel.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "DFB/Klopp: Neuendorf/Watzke verhandeln in New York, weitreichende Befugnisse im Gespräch",
+      "date": "2026-07-09",
+      "summary": "Klopps Red-Bull-Vertrag (bis 2029) offenbar ohne Ausstiegsklausel; DFB will ihm laut Sky auch Befugnisse für Nachwuchsarbeit/Spielstil geben. Weiterhin keine offizielle Bestätigung.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Flughafen Paderborn/Lippstadt: Geschäftsführer Hüser verlässt überraschend",
+      "date": "2026-07-09",
+      "summary": "Roland Hüser wechselt zum 1.1.2027 als Hauptgeschäftsführer zur Kreishandwerkerschaft Gütersloh-Bielefeld. Nachfolgesuche läuft.",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "Pferd in Delbrück-Hagen mutmaßlich vorsätzlich verletzt",
+      "date": "2026-07-09",
+      "summary": "Verletzung durch spitzen Gegenstand am Kopf zwischen 23.-30.6., Polizei ermittelt wegen Tierschutzgesetzverstoß und sucht Zeugen. Möglicher Zusammenhang mit ähnlichen Fällen im Raum Marienmünster.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Mbappé-Rassismus-Eklat: Senatorin zieht Aussage teils zurück, Staatsanwaltschaft ermittelt",
+      "date": "2026-07-09",
+      "summary": "Amarilla nimmt rassistische Äußerung zurück, wirft Mbappé Sexismus vor. Pariser Staatsanwaltschaft leitet nach FFF-Beschwerde Ermittlungen wegen Volksverhetzung ein.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "WM-Viertelfinale Frankreich-Marokko: Kontroverse um argentinisches Schiedsrichter-Team",
+      "date": "2026-07-09",
+      "summary": "FIFA setzt komplett argentinisches Team (Facundo Tello) an, brisant da Argentinien noch im Turnier ist. Deschamps spielt Bedenken herunter.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "KI-Betrugsanzeigen mit Spielergesichtern nehmen laut Branchenbericht zu",
+      "date": "2026-07-09",
+      "summary": "Revelum-Bericht (Einzelquelle für konkrete Zahlen, nicht unabhängig geprüft) meldet starken Anstieg von Deepfake-Werbeanzeigen mit Promi-Spielern für Betrugsportale; allgemeiner Trend mehrfach von Sicherheitsbehörden bestätigt.",
+      "status": "neu"
+    },
+    {
+      "category": "song",
+      "title": "Living In A Ghost Town – The Rolling Stones",
+      "date": "2026-07-09",
+      "summary": "Song des Tages, gewählt wegen Rolling Stones als Top-Künstler (zuletzt gehört 8.7.) und thematischem Bezug zur plötzlichen globalen Verunsicherung nach Zusammenbruch der US-Iran-Waffenruhe.",
+      "status": "neu",
+      "quelle": "recently-played"
+    },
+    {
+      "category": "global",
+      "title": "US-Iran-Konflikt eskaliert weiter: Angriffe auf Kharg Island, Ölpreise volatil",
+      "date": "2026-07-10",
+      "summary": "USA bombardierten in der Nacht zum 9.7. erneut Irans zentralen Ölterminal Kharg Island (~90% der iranischen Rohölexporte); Iran griff US-Einrichtungen in Bahrain/Kuwait an. Sanktionsausnahme für iranischen Ölexport widerrufen (Auslauf 17.7.). Brent-Ölpreis von ~74 auf Tageshoch ~80,6 USD/Barrel, bis 10.7. wieder auf ~77-78 USD zurückgefallen. Doha-Gespräche faktisch auf Eis.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine weitet Drohnenoffensive gegen russische Ölinfrastruktur massiv aus",
+      "date": "2026-07-10",
+      "summary": "Nach Trumps Patriot-Produktionslizenz-Zusage attackierten ukrainische Drohnen am 8./9.7. Öllager in Twer/Stawropol, ein Reservelager 800km von der Front sowie eine Pumpstation in Ufa (1.500km entfernt); im Asowschen Meer 12 Tanker/1 Schlepper/1 Frachtschiff getroffen. Kraftstoffknappheit in mehreren russischen Regionen.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Supertaifun Bavi: Landfall in Ostchina erwartet, Taiwan bereitet sich vor",
+      "date": "2026-07-10",
+      "summary": "Bavi zieht nördlich an Taiwan vorbei (bis zu 900mm Regen, Windböen Stärke 12 im Norden), Festlandfall an Chinas Küste zwischen Fuqing und Wenling für Abend 11.7. erwartet, weiterhin Kategorie-5-Böen ~185 km/h. Zuvor schwere Schäden auf Rota (Nördliche Marianen), keine Todesopfer.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Venezuela-Erdbeben: Opferzahl auf 3.889 gestiegen",
+      "date": "2026-07-10",
+      "summary": "Deutlicher Anstieg von zuvor 3.535 auf jetzt 3.889 Tote, 16.740 Verletzte, 17.907 Obdachlose laut Nationalversammlungs-Vorsitzendem Rodríguez. USGS hält Endbilanz zwischen 10.000 und 100.000 Toten für möglich.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Fußball-WM 2026: Frankreich als erstes Team im Halbfinale",
+      "date": "2026-07-10",
+      "summary": "2:0-Sieg gegen Marokko im Viertelfinale (Mbappé, Dembélé), Halbfinals am 14./15.7. in Dallas/Atlanta.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "Bundestag stimmt doch heute über Heizungsgesetz-Nachfolger ab",
+      "date": "2026-07-10",
+      "summary": "BVerfG wies Linke-Eilantrag (Az. 2 BvE 3/26) am 9.7. als unzulässig zurück (kein ausreichendes Rechtsschutzbedürfnis). Entgegen zuletzt erwarteter Verschiebung auf September ist der Weg für 2./3. Lesung am 10.7. frei. Separate Hauptsache-Verfassungsbeschwerde wird am 23.7. entschieden.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "VW-Aufsichtsrat billigt Sparplan, Werksschließungen weiter offen",
+      "date": "2026-07-10",
+      "summary": "Aufsichtsrat billigte am 9.7. Blumes 'Zielbild 2030' (Modellpalette -50%, Ausstattungsvarianten -75%, Kapazität ~9 Mio. Fahrzeuge/Jahr), vertagte aber Entscheidung zu möglichen 55.000-100.000 zusätzlichen Stellenstreichungen und Werksschließungen (Zwickau, Emden, Hannover, Neckarsulm ab 2031). Betriebsratschefin Cavallo fordert bis 10.7. Klarheit, droht mit Betriebsversammlungen.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "DFB/Klopp: Verhandlungen in New York, Watzke sieht Erfolgswahrscheinlichkeit >50%",
+      "date": "2026-07-10",
+      "summary": "Neuendorf/Watzke verhandeln direkt mit Klopp/Berater in New York; Watzke: 'noch nicht in trockenen Tüchern', hofft auf 'Patriotismusabschlag' beim Gehalt. Weiterhin keine offizielle DFB-Bestätigung.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Flughafen Paderborn/Lippstadt: Hüser wechselt zur Kreishandwerkerschaft Gütersloh-Bielefeld",
+      "date": "2026-07-10",
+      "summary": "Grund für Hüsers Abgang zum 1.1.2027 bekannt: Wahl zum Hauptgeschäftsführer der Kreishandwerkerschaft Gütersloh-Bielefeld am 7.7. Aufsichtsrat sucht Nachfolge 'ohne Zeitdruck'.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "VerbundVolksbank OWL: konkrete Filial-Zusammenlegungen Kreis Paderborn benannt",
+      "date": "2026-07-10",
+      "summary": "Vier Zusammenlegungen (Riemeke/Neuer Platz, Dahl/Schöne Aussicht, Borchen/Wewer, Verlar/Marktstraße Salzkotten) ab 2.11. wirksam, zusätzlich SB-Filiale Verne und Uni-Geldautomat entfallen.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Matratzenhersteller Bönning + Sommer in Warburg-Scherfede insolvent",
+      "date": "2026-07-10",
+      "summary": "109 Beschäftigte betroffen, Gehälter über Insolvenzgeld 3 Monate gesichert, Produktion läuft vorerst weiter. Ursachen: Energie-/Personalkosten, Importdruck aus Osteuropa/China, Eigenmarken großer Möbelhändler.",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "167. Paderborner Bürger-Schützenfest gestartet",
+      "date": "2026-07-10",
+      "summary": "Viertägiges Fest (10.-13.7.) des mit über 4.600 Mitgliedern einer der größten Schützenvereine Deutschlands, Auftakt mit Zapfenstreich vor dem Rathaus.",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "Dornberger Straße Bielefeld: Petition bei ~900 Unterschriften, Infoveranstaltung 20.7.",
+      "date": "2026-07-10",
+      "summary": "Vollsperrung weiterhin für 27.7. geplant, Straßen.NRW hält Teilsperrung für nicht machbar. Infoveranstaltung im Bezirksamt Dornberg am 20.7., 18 Uhr.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Telefonbetrug: Senior im Kreis Paderborn um Geld gebracht",
+      "date": "2026-07-10",
+      "summary": "77-Jähriger überwies nach Anrufen angeblicher Bankmitarbeiter zweimal Geld an Betrüger (vor rund 2 Monaten und vor rund 1 Woche). Polizei appelliert an Angehörige.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "'Bangladesh'-Song: 'Season 3' erschienen",
+      "date": "2026-07-10",
+      "summary": "Ian McConnells angekündigtes Folgeprojekt 'Season 3' laut eigenen Kanälen am 10.7. erschienen, US-Tour Herbst 2026 angekündigt. Release-Echo bislang nur über eigene Kanäle, keine unabhängige Presse.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "WM-Schiedsrichter-Kontroverse Frankreich-Marokko aufgelöst",
+      "date": "2026-07-10",
+      "summary": "Frankreich gewann 2:0 ohne Zwischenfälle trotz komplett argentinischem Schiedsrichter-Team, zieht als erstes Team ins Halbfinale ein (in dieser Ausgabe zusammengefasst).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "social",
+      "title": "'Hot Dog Summer'-TikTok-Trend (Jennifer-Coolidge-Zitat)",
+      "date": "2026-07-10",
+      "summary": "Altes 'Legally Blonde 2'-Zitat wird zum Lippensynchronisations-Meme und breiterer Sommer-Ästhetik. Nur über Branchenblogs/Plattform belegt, keine klassische Presse.",
+      "status": "neu"
+    },
+    {
+      "category": "song",
+      "title": "Stop Breakin' Down Blues – Charlie Beale",
+      "date": "2026-07-10",
+      "summary": "Song des Tages, gewählt aus Lukas' aktuellen Top-Tracks wegen thematischer Passung zur Grundstimmung des Berichts (kollabierte Waffenruhe, volatile Ölmärkte, VW-Umbruch, Insolvenz Warburg-Scherfede) — 'please stop breakin' down' als musikalischer Kommentar zu Dingen, die unter Druck ins Wanken geraten.",
+      "status": "neu",
+      "quelle": "top-tracks"
+    }
   ]
 }
