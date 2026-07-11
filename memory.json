@@ -654,6 +654,112 @@
       "summary": "Song des Tages, gewählt aus Lukas' aktuellen Top-Tracks wegen thematischer Passung zur Grundstimmung des Berichts (kollabierte Waffenruhe, volatile Ölmärkte, VW-Umbruch, Insolvenz Warburg-Scherfede) — 'please stop breakin' down' als musikalischer Kommentar zu Dingen, die unter Druck ins Wanken geraten.",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "US-Iran-Waffenruhe erneut für 'beendet' erklärt",
+      "date": "2026-07-11",
+      "summary": "Nach neuen Angriffswellen (Tanker-Beschuss, US-Schläge, iranischer Gegenschlag auf Golf-Stützpunkte) erklärte Trump die Waffenruhe am 8./10.7. für 'OVER!', signalisiert aber neue Gespräche nächste Woche. Israel warnte vor neuem Attentatsplan gegen Trump - Einordnung zwischen Quellen widersprüchlich (konkreter Plan vs. allgemeiner Dialog).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine-Drohnenoffensive zwingt Russland zu Diesel-Exportverbot",
+      "date": "2026-07-11",
+      "summary": "Großangriff auf Omsk-, Saratow- und weitere Raffinerien sowie Tanker im Asowschen Meer (8.7., mind. 2 Tote). Russland verhängte bis 31.7. befristetes Dieselexportverbot, Tankstellen-Warteschlangen in mehreren Regionen, europäische Diesel-Margen auf Rekordhoch.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "EU-US-Zolldeal in Kraft, USA eröffnen Untersuchungen gegen Deutschland und 60 Staaten",
+      "date": "2026-07-11",
+      "summary": "Zum 1.7. Zolldeckel 15% für EU-Exporte in Kraft, EU strich Zölle auf US-Industriegüter. USTR eröffnete zudem Section-301-Verfahren gegen Deutschland wegen Pharma-Preispolitik (Anhörung 22.9.) sowie Zoll-Drohung gegen 60 Staaten wegen Zwangsarbeits-Regeln.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "Bundespolizeigesetz und EU-Chatkontrolle: Überwachungsbefugnisse deutlich ausgeweitet",
+      "date": "2026-07-11",
+      "summary": "Bundestag beschloss 10.7. Gesichtserkennung, Staatstrojaner und Drohneneinsatz für Bundespolizei (CDU/CSU+SPD gegen Grüne/Linke). EU-Parlament ließ 9.7. per Verfahrenstrick (relative statt nötiger absoluter Mehrheit) freiwillige Chatkontrolle bis 2028 wieder aufleben; Abstimmungszahlen je nach Quelle leicht abweichend.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "VW-Sparprogramm: Aufsichtsrat lehnte zentrale Punkte mit 7:12 ab",
+      "date": "2026-07-11",
+      "summary": "Präzisierung zur Sitzung vom 9.7.: Land Niedersachsen und Arbeitnehmerseite stimmten laut SZ-Recherche in Kernpunkten des 'Zielbild 2030' mit 7:12 dagegen, Werksschließungs-Entscheidungen (Hannover, Emden, Zwickau, Neckarsulm) weiter vertagt. Blume will Programm etappenweise durchsetzen, Betriebsrat droht 'heißer Herbst'.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "CSD Cottbus unter Polizeischutz nach mutmaßlich rechtsextremem Brandanschlag",
+      "date": "2026-07-11",
+      "summary": "Molotow-Cocktail-Anschlag in der Nacht zum 9.7. auf Wohnprojekt 'Zelle 79' (Regenbogenfahne), Ermittlungen wegen versuchten Mordes gegen mutmaßlich zwei jugendliche Täter aus rechtsextremem Spektrum. CSD Cottbus fand am 11.7. unter besonderem Polizeischutz statt.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "Heizungsgesetz-Novelle vom Bundestag beschlossen",
+      "date": "2026-07-11",
+      "summary": "Namentliche Abstimmung 10.7. (323:271): Öl-/Gasheizungen bleiben zulässig, ab 2029 verbindlicher Bioanteil ('Biotreppe'), ab 2045 klimaneutral. Schließt den seit 8.7. laufenden Thread ab (BVerfG hatte Linke-Eilantrag zuvor abgewiesen).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "DFB/Klopp: mehrere Sportmedien melden nahezu fixierten Vertrag bis 2030",
+      "date": "2026-07-11",
+      "summary": "SPOX/Goal/90min/Blick berichten übereinstimmend von Vertrag bis 2030, ~7 Mio. Euro/Jahr, Debüt 24.9. gegen Niederlande. Offizielle DFB-Bestätigung steht noch aus.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Maschinenbauer Elha in Hövelhof gibt Eigenfertigung auf",
+      "date": "2026-07-11",
+      "summary": "Schließung der Eigenfertigung an der Hövelhofer Allee für Q1/2027 angekündigt, Flächen sollen vermietet werden. Zahlen zu betroffenen Arbeitsplätzen und Stellungnahme Betriebsrat/IG Metall noch offen.",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "GFF-Gutachten: Paderborner AfD-Kreisvorsitzender Weber mit menschenunwürdigen Zitaten",
+      "date": "2026-07-11",
+      "summary": "Bundesweites 1500-Seiten-Gutachten der Gesellschaft für Freiheitsrechte listet rund 20 belastende Äußerungen Webers, u.a. antisemitisch gewerteter Telegram-Post 09/2024. Ergänzt Vorgeschichte: Bezirksregierung Detmold verweigerte ihm am 6.7. die Vereidigung als Ehrenbeamter.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Staupevirus bei Waschbären im Kreis Paderborn nachgewiesen",
+      "date": "2026-07-11",
+      "summary": "Veterinäramt meldete 9.7. sechs betroffene Waschbären (Marienloh, Schloß Neuhaus, Bad Lippspringe). Für Menschen ungefährlich, für Hunde potenziell tödlich; Amt rät zu Impfstatus-Check und Anleinpflicht im Wald.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "'Food Jutsu': Anime-Handzeichen als Food-Reveal-Trend",
+      "date": "2026-07-11",
+      "summary": "Laut Epidemic Sound meistgenutzter TikTok-Trend im Juni 2026 (36+ Mio. Posts), bleibt Anfang Juli sehr aktiv, greift auf Instagram über. Prominente wie Idris Elba, Keke Palmer beteiligt. Mehrfach über Branchenquellen bestätigt.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "'Eine Phrase, vier Emotionen'-Tonfall-Challenge",
+      "date": "2026-07-11",
+      "summary": "Creator sprechen denselben Satz viermal mit unterschiedlicher Emotion. Nur über Marketing-Trendberichte belegt (radaar.io, SocialBee), keine redaktionelle Presse - nur einfach belegt.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "'I Treated You Bad'-Remix-Tanztrend zum Michael-Jackson-Biopic",
+      "date": "2026-07-11",
+      "summary": "Jackson-5-Remix (@neverbadagain) treibt Tanz-/Cover-Videos zum Biopic 'Michael' an. Auslöser (Kinostart/Soundtrack) über Branchenpresse bestätigt, konkreter Trend selbst nur einfach belegt.",
+      "status": "neu"
+    },
+    {
+      "category": "song",
+      "title": "Bad Penny – Rory Gallagher",
+      "date": "2026-07-11",
+      "summary": "Song des Tages, gewählt aus Lukas' aktuellen Top-Tracks. Sprichwort 'a bad penny always turns up' passt zur Grundbeobachtung des Berichts: Waffenruhe erneut für beendet erklärt, Chatkontrolle kehrt per Verfahrenstrick zurück - wiederkehrende Konflikte/Vorhaben.",
+      "status": "neu",
+      "quelle": "top-tracks"
     }
   ]
 }
