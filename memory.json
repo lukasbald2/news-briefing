@@ -760,6 +760,161 @@
       "summary": "Song des Tages, gewählt aus Lukas' aktuellen Top-Tracks. Sprichwort 'a bad penny always turns up' passt zur Grundbeobachtung des Berichts: Waffenruhe erneut für beendet erklärt, Chatkontrolle kehrt per Verfahrenstrick zurück - wiederkehrende Konflikte/Vorhaben.",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "US-Iran-Konflikt: Waffenruhe endgültig kollabiert",
+      "date": "2026-07-12",
+      "summary": "Nach Tanker-Angriffen in Hormuz (8.7.) mehrere Wellen US-Angriffe auf Iran und iranische Gegenschläge auf Bahrain/Kuwait; Trump erklärte Waffenruhe am 8./10.7. wiederholt für 'OVER!', signalisiert aber weitere Gespräche. Ölpreis volatil (~71 USD WTI/~76 USD Brent). Mojtaba Khamenei weiterhin nicht öffentlich aufgetreten, Nachfolgefrage in Teheran ungeklärt (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine-Krieg: Wechselseitige Angriffe auf Energie-/Handelsinfrastruktur",
+      "date": "2026-07-12",
+      "summary": "Russischer Großangriff auf Kyjiw/Sumy in der Nacht auf 11.7. (u.a. 5 Tote Sumy inkl. Kind), ukrainische Gegenangriffe auf Öltanker/Schlepper im Asowschen Meer als Fortsetzung der Offensive gegen russische Öl-Logistik; russisches Diesel-Exportverbot bis 31.7. weiterhin in Kraft (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Venezuela-Erdbeben: Opferzahl auf 4.333 gestiegen",
+      "date": "2026-07-12",
+      "summary": "Offizielle Zahl laut Nationalversammlung auf 4.333 Tote (Stand 11.7.) gestiegen, USGS hält weiterhin Bandbreite 10.000-100.000 für möglich - Diskrepanz besteht unverändert fort (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Supertaifun Bavi: Festlandfall in China erfolgt",
+      "date": "2026-07-12",
+      "summary": "Bavi traf am Abend des 11.7. bei Yuhuan/Zhejiang auf Land, deutlich abgeschwächt (~144 km/h statt befürchteter Kat.-5-Böen), >1 Mio. bis 1,7 Mio. Evakuierte je nach Quelle. Zuvor mind. 17 Tote durch Erdrutsche auf den Philippinen. Landfall-Ereignis damit abgeschlossen (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "Neuer Ebola-Ausbruch DR Kongo",
+      "date": "2026-07-12",
+      "summary": "Bundibugyo-Ebola-Ausbruch seit Mai 2026, 1.792 bestätigte Fälle/625 Tote (Stand 9.7., gegenüber 1.561/506 fünf Tage zuvor), auch Uganda betroffen (20 Fälle/2 Tote). Erreichte 1.000 Fälle in nur 40 Tagen - ungewöhnlich schnelles Wachstum. Klinische Studie zu zwei Therapien läuft seit 2.7. (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "WM 2026: Halbfinalisten stehen fest",
+      "date": "2026-07-12",
+      "summary": "Frankreich, Spanien, Argentinien und England im Halbfinale (14./15.7. in Dallas/Atlanta), Finale 19.7. (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "VW-Sparprogramm 'Zielbild 2030': Aufsichtsrat billigt Rahmen, Kernpunkte weiter offen",
+      "date": "2026-07-12",
+      "summary": "Aufsichtsratssitzung 9.7.: Modellpalette -50%, Ausstattungsvarianten -75%, bis zu 100.000-120.000 Stellen weltweit zur Disposition. Werksschließungen (Hannover, Emden, Zwickau, Neckarsulm) weiter umstritten - Quellen widersprechen sich, ob 7:12 abgelehnt oder nur vertagt. Proteste an >12 Standorten, Cavallo droht 'heißen Herbst' (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "DFB/Klopp: DFB bestätigt 'konstruktiven Austausch', Vertrag weiter nicht unterschrieben",
+      "date": "2026-07-12",
+      "summary": "Erstmals offizielle DFB-Stellungnahme nach Treffen in New York: Einigung über 'wesentliche Eckpunkte' eines Vertrags bis 2030. Steht unter Vorbehalt der Freigabe durch Red Bull; formaler DFB-Beschluss noch nicht erfolgt, weitere Gespräche 'kommende Woche' (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Brandanschlag Cottbus 'Zelle 79': CSD unter Polizeischutz durchgeführt",
+      "date": "2026-07-12",
+      "summary": "Mutmaßlich rechtsextremer Molotow-Cocktail-Anschlag in der Nacht zum 9.7., Ermittlungen wegen versuchten Mordes. Breite politische Verurteilung (OB Schick, Innenminister Redmann). CSD Cottbus fand am 11.7. unter verschärftem Polizeischutz statt, Ereignis damit abgeschlossen, Ermittlungen laufen als eigener Strang weiter (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Bundesbank senkt Wachstumsprognose 2026 auf 0,5%",
+      "date": "2026-07-12",
+      "summary": "Von zuvor 0,8% auf 0,5% (2027: 0,8% statt 0,9%) gesenkt, Grund: eskalierter Nahost-Konflikt/Ölpreis (+30% ggü. Vorjahr). Inflationsprognose 2026 von 2,1% auf 2,9% angehoben. Einzelhandels-Tarifstreit (ver.di 7% vs. Arbeitgeber 2,4%) weiterhin ungelöst (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "Vermisste 77-Jährige aus Lichtenau: weiterhin keine Spur",
+      "date": "2026-07-12",
+      "summary": "Zwei Wochen nach Verschwinden aus Pflegeeinrichtung Willebadessen (28.6.) weiterhin keine neue Spur trotz Großsuchen und Suche durch Angehörige (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Cold Case Babyleiche Westenholz: Brief-Wortlaut öffentlich, Fall bleibt ungeklärt",
+      "date": "2026-07-12",
+      "summary": "Zum 27. Jahrestag vollständiger Brief-Wortlaut bekannt geworden ('...dann bringe ich mich um', unterzeichnet 'Die Mutter'). LKA-Cold-Case-Ermittlungen laut 'Die Glocke' 2024 ergebnislos eingestellt, Akte formal geschlossen, Fall sachlich weiter ungelöst (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "167. Paderborner Bürger-Schützenfest",
+      "date": "2026-07-12",
+      "summary": "10.-13.7., Auftakt mit Zapfenstreich am 10.7. gefeiert, Höhepunkt (Königsschießen/Umzug neues Königspaar) erst am 13.7. - zum Berichtszeitpunkt noch nicht erfolgt (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "AfD-Kreisvorsitzender Weber: Vereidigung als Ehrenbeamter verweigert",
+      "date": "2026-07-12",
+      "summary": "Bezirksregierung Detmold verweigerte Weber am 6.7. als einzigem Ausschussmitglied die Vereidigung wegen Zweifeln an Verfassungstreue (gestützt auf GFF-Gutachten), Begründung diese Woche öffentlich erläutert. Weber prüft rechtliche Schritte (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Bettensteuer Kreis Höxter: Verwaltung empfiehlt wohl Verzicht",
+      "date": "2026-07-12",
+      "summary": "Nach monatelangem Widerstand von Hotellerie/Gastronomie/IHK empfiehlt Stadtverwaltung Höxter dem Rat offenbar Verzicht auf Beherbergungssteuer, jetzt von zwei Quellen (Westfalen-Blatt, NW) getragen. Ratsentscheidung steht weiter aus (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Einbruchserie Delbrück-Ostenland",
+      "date": "2026-07-12",
+      "summary": "Einbrüche in Apotheke, Bäckerei, Gartencenter und Pizzeria in der Nacht zu Sonntag, medizinische Messgeräte und Bargeld erbeutet. Nur einfach belegt (Radio Hochstift auf Basis Polizeibericht).",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Vozinha: meistgefolgter Torwart der Welt",
+      "date": "2026-07-12",
+      "summary": "Von ~50.000 auf über 20 Mio. Instagram-Follower (aktuelle Angaben 22,5-28 Mio. je nach Quelle/Tagesstand), überholt Casillas und Neuer. Kap Verde kleinster WM-Teilnehmer (~530.000 Einwohner) - Kontrast treibt Story (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "KI-Deepfake-Welle WM 2026 weitet sich aus",
+      "date": "2026-07-12",
+      "summary": "Neben Hitler-Doppelgänger-Fake und Sedlaczek-Deepfake bestätigen SRF/watson.ch/ORF 'beispiellose' Menge an KI-Inhalten. Mbappé/Macron-Eurosport-Fake laut Bloomberg der Kreml-nahen Kampagne 'Storm-1516' zugeschrieben; Sedlaczek-Fake-Urheberschaft dagegen nicht unabhängig auf Storm-1516 zurückführbar (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Mbappé-Rassismus-Eklat: Ermittlungen aufgenommen",
+      "date": "2026-07-12",
+      "summary": "Pariser Staatsanwaltschaft ermittelt offiziell wegen öffentlicher Beleidigung aus rassistischen Gründen gegen Senatorin Amarilla, die sich in offenem Brief teils entschuldigte, aber auch relativierte (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "MJ-Biopic 'Michael': kurz vor Milliarden-Marke",
+      "date": "2026-07-12",
+      "summary": "~991,7 Mio. USD (Stand 10.7.), Milliarde dank Japan-Zahlen für diese Woche erwartet. Bereits umsatzstärkster Biopic/Musik-Biopic aller Zeiten (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'Gut Genug' (Kitschkrieg/Blumengarten feat. Shirin David): TikTok-Sound-Trend",
+      "date": "2026-07-12",
+      "summary": "~11,9 Mio. Posts laut CreatorDB, meistverwendeter deutschsprachiger Sound, springt auf US-Kanäle über; Gegenbewegung kritisiert Shirin Davids Part. Mehrfach belegt (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
+      "status": "neu"
+    },
+    {
+      "category": "song",
+      "title": "Sweet Virginia – The Rolling Stones",
+      "date": "2026-07-12",
+      "summary": "Song der Woche, gewählt wegen Rolling Stones als meistgehörtem Künstler der Woche. 'Got to scrape that shit right off your shoes' passt zur Wochenstimmung: kollabierte Waffenruhe, eskalierender Ölmarkt, Ebola-Ausbruch, VW-Zukunftsstreit, Brandanschlag Cottbus - Durchhalten trotz Unordnung statt klarer Auflösungen.",
+      "status": "neu",
+      "quelle": "top-tracks"
     }
   ]
 }
