@@ -915,6 +915,119 @@
       "summary": "Song der Woche, gewählt wegen Rolling Stones als meistgehörtem Künstler der Woche. 'Got to scrape that shit right off your shoes' passt zur Wochenstimmung: kollabierte Waffenruhe, eskalierender Ölmarkt, Ebola-Ausbruch, VW-Zukunftsstreit, Brandanschlag Cottbus - Durchhalten trotz Unordnung statt klarer Auflösungen.",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "Iran-Konflikt: Straße von Hormus gesperrt, Vergeltungsschläge auf fünf Golfstaaten",
+      "date": "2026-07-13",
+      "summary": "Iran erklärte in der Nacht auf den 12.7. die Straße von Hormus für 'geschlossen' (nach Beschuss eines Schiffs), CENTCOM widersprach explizit. USA flogen dritte Angriffswelle binnen einer Woche (>300 Ziele in 3 Nächten), Iran griff im Gegenzug fünf Golfstaaten an (Jordanien, Bahrain, Kuwait, Katar, Oman), u.a. Luftwaffenbasis in Jordanien. Ölpreis Brent auf ~79 USD/Barrel gestiegen (von ~70 Anfang Juli), IEA spricht von größter Angebotsstörung der Ölmarktgeschichte. Khamenei-Nachfolge weiterhin ungeklärt.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine-Krieg: Weitere gegenseitige Angriffe auf Energie-/Hafeninfrastruktur",
+      "date": "2026-07-13",
+      "summary": "Ukraine griff erneut russische Ölraffinerie Syzran an (1 Toter, 3 Verletzte inkl. Kind), Russland griff im Gegenzug Hafeninfrastruktur Odessa/Tschornomorsk an; mind. 6 Tote insgesamt. Aus NATO-Gipfel Ankara resultieren konkretere Zusagen: 70 Mrd. Euro Militärhilfe 2026, Lizenz eigene Patriot-Produktion Ukraine, >40 Mrd. USD Anti-Drohnen-Fähigkeiten (5 Jahre).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Venezuela-Erdbeben: Opferzahl auf über 4.300 gestiegen",
+      "date": "2026-07-13",
+      "summary": "Todeszahl laut Berichten vom 11.7. auf über 4.300 gestiegen (zuvor 3.535 am 7.7.), weiter steigend durch Rettungsarbeiten. Tagesstand nur einfach aktuell belegt, Trendlinie durch frühere Quellen gestützt.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ebola-Ausbruch DR Kongo erreicht vierte Provinz",
+      "date": "2026-07-13",
+      "summary": "Stand 9./10.7.: 1.792 Fälle/625 Tote, Epizentrum Ituri. Ausbreitung erstmals auch nach Kisangani (Tshopo) und Haut-Uélé - vierte betroffene Provinz. 764 in Isolation, 295 genesen, auch Fälle in Uganda bestätigt.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "WM 2026: Halbfinal-Paarungen und Termine bestätigt",
+      "date": "2026-07-13",
+      "summary": "Frankreich-Spanien (14.7., Dallas) und England-Argentinien (15.7., Atlanta), Finale 19.7. Schließt den WM-Halbfinalisten-Thread endgültig ab.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "VW-Sparprogramm: Blume signalisiert Kurswechsel weg von Werksschließungen",
+      "date": "2026-07-13",
+      "summary": "Blume in 'Bild am Sonntag' (12.7.): 'Es gibt intelligentere Lösungen' als Werksschließungen, verweist auf bereits 20% gesenkte Werkskosten. Aufsichtsrats-Ablehnung vom 9.7. jetzt klar als echtes 12:7-Votum bestätigt (nicht nur vertagt). Mögliche außerordentliche Hauptversammlung im August im Gespräch, Cavallo/Betriebsrat halten an 'heißem Herbst' fest.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Dritte Hitzewelle des Sommers erreicht Deutschland",
+      "date": "2026-07-13",
+      "summary": "Von DWD Anfang Juli angekündigte Mitte-Juli-Hitzewelle eingetroffen: 13.-15.7. bis 36 Grad West/Süd, Unwettergefahr südlich Linie Saarland-Nürnberg. Ende-Juni-Rekord nachträglich auf 41,8°C (Möckern-Drewitz) korrigiert (zuvor 41,3°C gemeldet), 46 Stationen ≥40°C.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Ver.di Tarifstreit Einzelhandel: Warnstreiks bei über 200 Betrieben",
+      "date": "2026-07-13",
+      "summary": "Weiterhin keine Einigung. Arbeitgeberangebot NRW jetzt 3,5% über 2 Jahre mit 'Nullmonaten', ver.di hält an 7%/12 Monaten fest. Warnstreiks bei >200 Betrieben bundesweit (Edeka, Rewe, Kaufland, Douglas, Primark, Zara u.a.), weitere Ausweitung angekündigt.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "167. Paderborner Bürger-Schützenfest: Königsschießen am 13.7.",
+      "date": "2026-07-13",
+      "summary": "Prinzenschießen am 12.7. gekürt (Grün-Grün-Violett-Trio unter 23 Prätendenten). Königsschießen als Höhepunkt für 13.7. ab 13 Uhr angesetzt, Ergebnis bei Redaktionsschluss noch offen - für Folgeausgabe nachverfolgen.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Vermisste 77-Jährige aus Lichtenau: zwei Wochen ohne Spur",
+      "date": "2026-07-13",
+      "summary": "Weiterhin keine neue behördliche Spur seit Verschwinden am 28.6., letzter Fund Einkaufstasche vom 1.7. Großsuchen offenbar eingestellt, nur noch Suche durch Angehörige.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Einbruchserie Delbrück zieht sich über Monate",
+      "date": "2026-07-13",
+      "summary": "Über Wochenend-Einbrüche hinaus (Ostenland) zeigt sich monatelange Serie u.a. bei Eisdielen/Restaurants/Supermärkten; Bäckerei Delbrück-Westenholz zweimal binnen einer Woche aufgebrochen. Polizei spricht von erster heißer Spur. Weiterhin nur Radio Hochstift als Quelle.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Vozinha: Instagram-Rekord wächst auch nach WM-Aus weiter",
+      "date": "2026-07-13",
+      "summary": "Trotz Achtelfinal-Aus (3.7.) weiterhin meistgefolgter Torwart der Welt, 25,5-28,8 Mio. Follower je nach Quelle/Tagesstand (Basis vor Turnier: ~32.000), deutlich vor Casillas (20,4 Mio.). Nachhall-Effekt der Cinderella-Story trotz Ausscheiden.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "MJ-Biopic 'Michael': Milliarden-Dollar-Marke geknackt",
+      "date": "2026-07-13",
+      "summary": "1,001 Mrd. USD weltweit erreicht - erster Biopic aller Zeiten mit Milliarden-Einspiel, weiterhin umsatzstärkster Musik-Biopic vor 'Bohemian Rhapsody'. Schließt den seit Wochen laufenden Box-Office-Thread ab.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "social",
+      "title": "Erster komplett KI-generierter Song in TikTok-Charts, Deepfake-Welle bei WM weitet sich aus",
+      "date": "2026-07-13",
+      "summary": "'A Million Colors' (Vinih Pray, via Suno-KI) erreicht Platz 44 der TikTok-Viral-50-Charts, von Kylie Jenner genutzt. Parallel: Storm-1516-Zuschreibung des Mbappé/Macron-Fakes jetzt auch von franz. Regierungsquelle bestätigt; neue KI-'Honey-Shot'-Videos und Neymar-Fake nur einfach belegt.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Mbappé-Rassismus-Eklat: Senatorin Amarilla eskaliert erneut",
+      "date": "2026-07-13",
+      "summary": "Amarilla entschuldigt sich teils, wirft Mbappé nun umgekehrt Frauenfeindlichkeit vor. Pariser Staatsanwaltschaft ermittelt weiter, FFF kündigt eigene rechtliche Schritte an.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Leave It Alone – Vandelux, Tyler Mann",
+      "date": "2026-07-13",
+      "summary": "Song des Tages, gewählt aus Lukas' aktuellen Top-Tracks. Titel als ironischer Kontrast zum Bericht: Hormus wird gewaltsam 'geschlossen', Iran/USA und Ukraine/Russland setzen Angriffe fort, während VW-Chef Blume nach 'intelligenteren Lösungen' statt Konfrontation sucht - Grundton des Songs (entschlossen weitergehen statt in alten Konflikten verharren) passt zur Tagesspannung.",
+      "status": "neu",
+      "quelle": "top-tracks"
     }
   ]
 }
