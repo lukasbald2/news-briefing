@@ -1028,6 +1028,98 @@
       "summary": "Song des Tages, gewählt aus Lukas' aktuellen Top-Tracks. Titel als ironischer Kontrast zum Bericht: Hormus wird gewaltsam 'geschlossen', Iran/USA und Ukraine/Russland setzen Angriffe fort, während VW-Chef Blume nach 'intelligenteren Lösungen' statt Konfrontation sucht - Grundton des Songs (entschlossen weitergehen statt in alten Konflikten verharren) passt zur Tagesspannung.",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "Iran-Konflikt: Trump kündigt 'Übernahme' der Straße von Hormus an",
+      "date": "2026-07-14",
+      "summary": "Trump erklärte am 13.7., die USA würden Hormus 'übernehmen' (Marineblockade, 20%-Gebühr auf Fracht), zuvor formelle War-Powers-Act-Mitteilung an den Kongress über Wiederaufnahme der Feindseligkeiten (60-Tage-Frist). Dritte US-Angriffswelle in Folge (>300 Ziele seit Eskalationsbeginn laut CENTCOM), mind. 1 Toter/4 Verletzte in Mahshahr laut iranischen Staatsmedien. Iran und USA beanspruchen beide Kontrolle über die Meerenge. Mojtaba Khamenei hielt erste Ansprache nach Beisetzung des Vaters nur per Sprecher verlesen, nicht selbst vor Kamera. Ölpreis Brent volatil bei ~74-76 USD.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Venezuela-Erdbeben (4.490 Tote, umstritten) & Ebola-Ausbruch DR Kongo 'nicht mehr eingedämmt'",
+      "date": "2026-07-14",
+      "summary": "Venezuela: offizielle Opferzahl auf 4.490 (Stand 13.7.) gestiegen, aber PROVEA und eine von CNN zitierte Gerichtsmedizinerin (La Guaira) zweifeln die Regierungszahlen offen an (Vorwurf: nur ein Drittel der tatsächlichen Toten erfasst). Ebola: Stand 13.7. 702 Tote/1.926 Fälle, Ausbruch erreicht fünfte Provinz (Haut-Uélé, Grenze Südsudan, zusätzlich zu Tshopo/Kisangani), beide neuen Herde laut Ermittlern auf Personen aus Epizentrum Niania (Ituri) zurückführbar. Behörden sprechen explizit von 'nicht mehr eingedämmt'.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "US-Senator Lindsey Graham gestorben, Schwester als Nachfolgerin vereidigt",
+      "date": "2026-07-14",
+      "summary": "Graham (South Carolina, 71) starb 12.7. an Aortendissektion nach kurzer Erkrankung, kurz nach Rückkehr von Ukraine-Reise. Gouverneur McMaster ernannte Grahams Schwester Darline Graham Nordone zur Übergangs-Senatorin (South Carolinas erste Senatorin) bis zur regulären Amtszeit im Januar. Republikanische Sonderprimary am 11.8., Bewerbungen ab 21.7., mögliche Kandidaten u.a. Nancy Mace, Ralph Norman.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "VW-Betriebsrat wirft Blume 'Vertrauensbruch' vor, klagt vor Gericht",
+      "date": "2026-07-14",
+      "summary": "Nach Aufsichtsratsablehnung (9.7., 12:7) und Blumes Kurswechsel-Andeutung eskaliert der Konflikt: Cavallo/Betriebsrat werfen Blume Vertrauensbruch und mangelnde Transparenz vor, klagen wegen Informations-/Mitbestimmungsrechten (Werksschließungsdetails dem Management bekannt, Belegschaft aber vorenthalten). Ultimatum: reagiert Blume nicht, drohen ab 10.8. VW-weit gleichzeitige außerordentliche Betriebsversammlungen. Außerordentliche Hauptversammlung im August weiter im Gespräch, nicht bestätigt.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Einzelhandels-Tarifstreit: weiter festgefahren, neue Streiktage angekündigt",
+      "date": "2026-07-14",
+      "summary": "Ver.di fordert weiter 7%/12 Monate für ~5,2 Mio. Beschäftigte; Arbeitgeber bieten (Bsp. NRW) 2,4% ab November nach Nullrunde plus 2,0% ab August 2027 bei 24 Monaten - von ver.di als 'faktisch 1%/Jahr' zurückgewiesen. Nach >25 Verhandlungsrunden in allen 16 Tarifgebieten kündigt ver.di (Silke Zimmer) weitere bundesweite Streiktage an.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Fünf Jahre Ahrtal-Flut: zentrale Gedenkfeier mit Merz und Steinmeier",
+      "date": "2026-07-14",
+      "summary": "Am 5. Jahrestag der Flutkatastrophe (Juli 2021, >180 Tote) besuchten Merz (mit MP Schnieder) eine Baustelle im Kurpark Bad Neuenahr-Ahrweiler und sprach bei der Gedenkfeier auf dem Marktplatz, Steinmeier besuchte zusätzlich Altenahr. Abends ökumenischer Gottesdienst. Wiederaufbau in vielen Gemeinden weiterhin nicht abgeschlossen.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Jörg Bauer neuer König des Paderborner Bürger-Schützenvereins",
+      "date": "2026-07-14",
+      "summary": "Königsschießen am 13.7.: Adler fiel nach 16 Schüssen/~15 Minuten bei nur drei Bewerbern - eines der kürzesten Königsschießen der Vereinsgeschichte. Neuer König: Jörg Bauer (60, Königsträßer-Kompanie, dritter Anlauf), Königin: Christiane Temme (53, Altenbeken-Schwaney). Schließt das 167. Schützenfest (10.-13.7.) ab.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Zoll-Großrazzia auf Bielefelder Baustellen: 37 Verdachtsfälle, Sicherheitsmängel",
+      "date": "2026-07-14",
+      "summary": "Hauptzollamt Bielefeld an Schwerpunktkontrollen im Baugewerbe beteiligt, geht 37 Verdachtsfällen nach; teils gravierende Mängel bei Absturzsicherung/Gerüstverankerung/Schutzausrüstung festgestellt, Bielefelder Betriebe besonders negativ aufgefallen. Nur einfach belegt (nw.de).",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "Logistiker UKL in Bad Driburg wächst rasant",
+      "date": "2026-07-14",
+      "summary": "IT-/Logistikdienstleister erweitert Firmensitz um zweites Obergeschoss, Belegschaft binnen 10 Jahren verdoppelt, Millioneninvestition. Nur einfach belegt (nw.de).",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Haaland-Deepfake verbreitet sich trotz Faktencheck weiter",
+      "date": "2026-07-14",
+      "summary": "Manipuliertes Video (Haaland erschrickt vor eigenem Spiegelbild) erreichte >31 Mio. Views auf X; AFP Fact Check entlarvte es bereits am 10.7. als Ausschnitt eines Comedy-Skits des chinesischen Komikers Jin Long - Verbreitung hält trotz Richtigstellung an.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "KI-Deepfake-Welle WM: Neymar-Fake und 'Honey-Shot'-Videos jetzt verifiziert",
+      "date": "2026-07-14",
+      "summary": "Neymar/Messi-'Phantomduell' jetzt von mehreren Fact-Checkern als Fake bestätigt (Brasilien schied bereits 5.7. aus). 'Honey-Shot'-KI-Fanvideos (Account 'Chiara Cleo' ~40 Mio. Views) als KI-generiert eingeordnet, Ursprung Südkorea, Indizien: eingefrorener Spielstand, falsches ESPN-Logo.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Mbappé-Rassismus-Eklat: FIFA-Präsident Infantino schaltet sich ein",
+      "date": "2026-07-14",
+      "summary": "Neben Macron stellt sich nun auch FIFA-Präsident Infantino öffentlich hinter Mbappé, verurteilt Senatorin Amarillas Aussagen. FFF kündigt eigene rechtliche Schritte an. Pariser Staatsanwaltschaft ermittelt weiter (bis 1 Jahr Haft/45.000 Euro Strafrahmen).",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "The Last Time (Mono) – The Rolling Stones",
+      "date": "2026-07-14",
+      "summary": "Song des Tages, gewählt aus Lukas' zuletzt gehörten Titeln. Thema finale Warnung passt zum Ultimaten-Tag: Trumps Hormus-'Übernahme'/Kriegsvollmachten-Mitteilung, Cavallos 10.-August-Ultimatum an Blume, ver.dis Ankündigung weiterer Streiks nach 25+ ergebnislosen Runden.",
+      "status": "neu",
+      "quelle": "recently-played"
     }
   ]
 }
