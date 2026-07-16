@@ -1226,6 +1226,105 @@
       "summary": "Song des Tages, gewählt aus Lukas' Top-Tracks (Rolling Stones als Top-Künstler). Politische Allegorie über Täuschung und Kontrollverlust passt zu kollabierter Iran-Diplomatie (Islamabad-Memorandum für hinfällig erklärt) und VW-Vertrauensbruch-Vorwurf des Betriebsrats.",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "Iran-Konflikt: IRGC droht mit Stopp aller Golf-Energieexporte",
+      "date": "2026-07-16",
+      "summary": "Nach ~7-stündiger US-Angriffswelle in der Nacht zum 15.7. (mind. 7 tote Soldaten, >260 Verletzte laut Iran) und fortbestehender US-Marineblockade drohte die Revolutionsgarde erstmals, sämtliche Energieexporte aus der gesamten Golfregion zu stoppen. Brent-Ölpreis nahe 85 USD/Barrel (CNBC: 84,95 USD, andere Quellen 'über 85 USD' - Differenz nicht auflösbar). Trump verzichtet weiter auf die 20%-Hormus-Gebühr.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine: Selenskyj entlässt Verteidigungsminister Fedorow, Kabinettsumbildung mitten im Krieg",
+      "date": "2026-07-16",
+      "summary": "Fedorow nach 6 Monaten entlassen (Konflikt mit Oberbefehlshaber Syrskyj), Nachfolger Innenminister Klymenko. Parlament nahm 14.7. Rücktritt von PM Swyrydenko an; Selenskyj schlägt Naftogaz-Chef Koretskyj als neuen Regierungschef vor, Abstimmung für 17.7. erwartet. Kritiker warnen vor zusätzlichem Chaos. EU unterzeichnet 1-Mrd.-Euro-Drohnenabkommen plus 10-Mrd.-Programm.",
+      "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "WM 2026: Finale steht fest - Argentinien gegen Spanien am 19.7.",
+      "date": "2026-07-16",
+      "summary": "Argentinien schlug England nach 0:1-Rückstand noch 2:1 (Fernández 85., Martínez 90.+2, beide Messi-Vorlagen). Finale im MetLife Stadium: erstmals seit WM-Weltranglisteneinführung 1992 Nr.1 gegen Nr.2, erstes Finale zwischen amtierendem Europa- und Südamerika-Meister.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "Ebola DR Kongo: 2.011 Fälle/754 Tote, drittgrößter Ausbruch der Geschichte",
+      "date": "2026-07-16",
+      "summary": "Stand 15.7., Anstieg von zuvor 1.963/719. ~80% der Neuinfektionen ohne bekannte Kontaktkette. Klinikpersonal in Bunia streikt wegen ausbleibender Bezahlung, ein infizierter US-Bürger am 13.7. nach Deutschland ausgeflogen.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "VW-Sparprogramm: Blume nennt erstmals Zahl (bis 50.000 Jobs), Cavallo-Ultimatum bis 17.7.",
+      "date": "2026-07-16",
+      "summary": "Blume warnt in Beleg­schaftsvideo vor bis zu 50.000 zusätzlich gefährdeten Jobs weltweit ohne ausreichende Einsparungen. Werksschließungen Zwickau/Emden (2031), Hannover (2032), Audi Neckarsulm (2034) im Gespräch (~40.000 Beschäftigte an 4 Standorten), noch nicht formell beschlossen. Cavallo fordert bis Freitag 17.7. klare Ansage, sonst Betriebsversammlungen nach Sommerpause.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "DFB/Klopp: größte Hürde mit Red Bull genommen",
+      "date": "2026-07-16",
+      "summary": "Neuendorf/Watzke einigten sich mit Red-Bull-Chef Mintzlaff offenbar auf Auflösung von Klopps Vertrag ohne Millionen-Ablöse, Botschafterrolle im Gespräch. Vierjahresvertrag bis WM 2030, ~7 Mio. Euro/Jahr, Co-Trainer Krawietz soll mitkommen. Abschließendes Gespräch beim WM-Finale in New York, Vorstellung evtl. kommende Woche, weiterhin nicht unterschrieben.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Einzelhandels-Tarifstreit: Arbeitgeber setzen Verhandlungen in 4 Bundesländern aus",
+      "date": "2026-07-16",
+      "summary": "Bayern, Rheinland-Pfalz, Saarland, Berlin-Brandenburg pausiert (Bayern-Termin 20.7. gestrichen). Arbeitgeber werfen ver.di-Bundesvorstand vor, Sondierungsstand aus Baden-Württemberg unterlaufen zu haben - ver.di weist dies laut Lebensmittelzeitung zurück (kein solcher Beschluss). Widerspruch zwischen den Parteien über den Ablauf selbst, in der Sache unverändert 7%/12 Monate vs. Nullrunde+2%+1,5%/24 Monate.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Bettensteuer Kreis Höxter: Ratsentscheidung am 16.7. um 18 Uhr",
+      "date": "2026-07-16",
+      "summary": "Verwaltung empfiehlt Verzicht nach monatelangem Widerstand von IHK/Hotellerie/Gastronomie; SPD im Rat hält laut Westfalen-Blatt dennoch an Einführung fest (Verursacherprinzip). Ausgang der heutigen Sitzung zum Berichtszeitpunkt offen - für Folgeausgabe nachverfolgen.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Vermisste 77-Jährige aus Lichtenau: drei Wochen ohne Spur, Spekulation zur Fluchtrichtung",
+      "date": "2026-07-16",
+      "summary": "Weiterhin keine behördliche Spur seit 28.6. nw.de spekuliert (nur einfach belegt), sie könnte Richtung Lichtenau/Paderborn unterwegs gewesen sein (Frau stammt aus Kreis Paderborn, war in Willebadessen ortsunkundig). Angehörige suchen weiter eigenständig.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "AfD-Kreisvorsitzender Weber prüft rechtliche Schritte gegen Bezirksregierung",
+      "date": "2026-07-16",
+      "summary": "Laut nw.de (nur einfach belegt) prüft Weber mit Anwalt juristisches Vorgehen gegen die Vereidigungsverweigerung durch Bezirksregierung Detmold, wertet dies als politische Diskriminierung.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Messi-Offside-Kontroverse und Promi-Reaktionen nach Argentiniens England-Comeback",
+      "date": "2026-07-16",
+      "summary": "Empörung über fehlende VAR-Grafik zu möglicher Abseitsstellung vor dem Ausgleich (u.a. Gary Neville), später als Fehleinschätzung eingeordnet (Yahoo Sports Australia). Parallel feierten US-Sportstars (Mahomes, Brady, Josh Hart) Messi als 'GOAT'. Mehrfach bestätigt.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "KI-Deepfake-Welle WM: neue Facette mit gefälschten 'Stadion-Frauen'-Videos",
+      "date": "2026-07-16",
+      "summary": "Neue KI-generierte Kurzvideos angeblicher weibliche Fans in Stadien (Account 'Chiara Cleo', ~40 Mio. Views laut Trendreports - nur einfach belegt). Phänomen selbst mehrfach von Faktencheckern (CyberPeace, Brussels Times) bestätigt, Ursprung ein südkoreanischer Baseball-Clip. Betrugsanzeigen mit Spielerbildern weiter gewachsen.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Mbappé-Rassismus-Eklat: Pariser Staatsanwaltschaft leitet Anklage-Verfahren ein",
+      "date": "2026-07-16",
+      "summary": "Formelles Anklage-Verfahren gegen Senatorin Amarilla wegen rassistischer Beleidigung/Aufstachelung zu Hass (bis 1 Jahr Haft/45.000 Euro). FFF reichte parallel offiziell Klage ein. Amarilla eskaliert weiter mit Gegenvorwurf 'geschlechtsspezifische Gewalt'.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Two Pairs Of Hands – Mark Knopfler",
+      "date": "2026-07-16",
+      "summary": "Song des Tages, gewählt aus Lukas' Top-Tracks (Mark Knopfler als Top-Künstler, zuletzt 13.7. gehört). Thema Jonglieren mit zu vielen Verpflichtungen bei nur 'zwei Paar Händen' passt zu Selenskyjs Kabinettsumbildung mitten im Krieg und Blumes Balanceakt zwischen Investoren/Betriebsrat/Politik unter 50.000-Jobs-Druck.",
+      "status": "neu",
+      "quelle": "top-tracks"
     }
   ]
 }
