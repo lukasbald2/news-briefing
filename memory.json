@@ -1523,6 +1523,133 @@
       "summary": "Song des Tages, gewählt aus Lukas' Top-Tracks (Black Pumas, erstmals gewählt). Songthema (keine Scheu, in schwierigen Zeiten um Unterstützung zu bitten) passt doppelt: wörtlich zum brennenden kuwaitischen Kraftwerk nach iranischem Angriff, im übertragenen Sinn zur Ukraine (angewiesen auf westliche Rückendeckung nach umstrittener Verteidigungsminister-Neubesetzung) und zur VW-Belegschaftsvertretung (pocht darauf, von der Konzernspitze gehört zu werden).",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "US-Iran-Krieg: Erste US-Gefallene, zweite Front über Huthi-Angriff auf Saudi-Arabien",
+      "date": "2026-07-19",
+      "summary": "Iranischer Raketenangriff auf US-Basis Muwaffaq Salti in Jordanien (Nacht zum 18.7.) tötete erstmals seit März zwei US-Soldaten, einer vermisst (kumuliert 16 US-Gefallene). Huthi griffen 14.7. Flughafen Abha/Saudi-Arabien an - neue Kriegsfront. Ölpreis Brent von 78,82 (13.7.) auf bis 88,09 USD (17./18.7.) gestiegen. Khamenei-Nachfolge weiter ungeklärt (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine: Verfassungsrechtlich umstrittene Verteidigungsminister-Ernennung Chmara/Khmara",
+      "date": "2026-07-19",
+      "summary": "Selenskyj ernannte SBU-Chef Chmara (aktiver General) zum amtierenden Verteidigungsminister - laut Gesetz eigentlich Zivilisten-Amt. Rada in Sommerpause bis Mitte August, keine kurzfristige Bestätigung möglich. Drohnenoffensive gegen russische Öl-/Logistikinfrastruktur hält an (Noginsk, Kotowsk, Elektrostal, 18.7.) (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ebola-Ausbruch DR Kongo und Venezuela-Erdbeben wachsen weiter",
+      "date": "2026-07-19",
+      "summary": "Ebola: 2.181 Fälle/864 Tote (Stand 18.7., WHO/Sekundärquelle), Uganda dagegen nahe Ausbruchsende (letzter Fall 21.6.). Venezuela-Erdbeben: offizielle Opferzahl auf 4.930 gestiegen (16.7.), zusätzlich kursierende ~50.000 „Vermisste“ mit Vorsicht zu lesen (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Xi gründet WAICO in Shanghai, USA verhängen 25%-Zoll auf Brasilien",
+      "date": "2026-07-19",
+      "summary": "Xi eröffnete 17.7. erstmals persönlich WAIC Shanghai, 29 Staaten unterzeichneten WAICO-Gründungsabkommen als Gegenmodell zu US-KI-Strukturen. USA verhängten 25%-Zoll auf Brasilien (ab 22.7.) wegen Content-Moderation-Streits, Lula kündigt Gegenzölle an (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "WM 2026: Finale Argentinien-Spanien am 19.7., Ergebnis bei Wochenausgabe offen",
+      "date": "2026-07-19",
+      "summary": "Anpfiff 21 Uhr MESZ, MetLife Stadium New Jersey. Waldbrandrauch aus Kanada über NY-Metropolregion sorgte für Verschiebungs-Spekulation, FIFA ohne klaren Notfallplan laut US-Medien; Wetterbesserung zum Wochenende erwartet. Ergebnis zum Redaktionsschluss der Wochenausgabe noch nicht bekannt - für Folgeausgabe nachverfolgen.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Jens Spahn tritt nach Leihmutterschafts-Debatte als Unionsfraktionschef zurück",
+      "date": "2026-07-19",
+      "summary": "Rücktritt am 18.7. nach Druck von Merz/Söder; Spahn nennt privates Familienglück und Amt unvereinbar. Merz nennt Entscheidung „unvermeidlich“. Kommissarisch: Alexander Hoffmann (CSU). Mögliche Nachfolger: Frei, Linnemann, Dobrindt (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "VW-Machtkampf: Vorwurf der Umgehung des VW-Gesetzes durch Ausgliederung der Kernmarke",
+      "date": "2026-07-19",
+      "summary": "Cavallo wirft Blume nach 12:7-Ablehnung des Sparplans und Exklusiv-Briefing von 250 Topmanagern weiter Vertrauensbruch vor. Neu: Plan, Kernmarke VW und Komponentensparte auszugliedern - Kritiker sehen darin Umgehung der VW-Gesetz-Zweidrittelmehrheit. Jobzahlen weiterhin uneinheitlich (50.000-140.000) (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Einzelhandels-Tarifstreit: Arbeitgeber setzen alle Verhandlungen bundesweit bis Mitte August aus",
+      "date": "2026-07-19",
+      "summary": "Nach ergebnislosen Runden in Hessen/Baden-Württemberg alle Termine bundesweit ausgesetzt; ver.di wirft Arbeitgebern volle Verantwortung vor. Streiks/Proteste 18.7. in Kassel/Wiesbaden/Frankfurt/Südhessen. Positionen unverändert: 7%/12 Monate vs. 2,4%+2,0%/lange Laufzeit (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Commerzbank/UniCredit: Merz gibt Übernahme unter Bedingungen grünes Licht",
+      "date": "2026-07-19",
+      "summary": "Merz erklärte 16.7., Fusion werde nicht verhindert; Bedingungen: Mittelstandsfinanzierer-Rolle, eigenständige Notierung, Frankfurt-Sitz. UniCredit hält 47,6% (potenziell bis 49,65%). S&P passte Ausblick wegen erwarteter Integration an (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Bettensteuer Kreis Höxter: Rat beendet Debatte endgültig, keine Einführung",
+      "date": "2026-07-19",
+      "summary": "Stadtrat Höxter beschloss 16.7. mehrheitlich, SPD-Einführungsantrag abzulehnen und Bürgerbegehren aus Hotellerie/Gastronomie zu unterstützen - Thema politisch beendet, keine weiteren Prüfungen (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Vermisste 77-Jährige aus Lichtenau: Drei Wochen ohne Spur, Suche praktisch eingestellt",
+      "date": "2026-07-19",
+      "summary": "Keine bestätigte Spur seit 28.6.; Polizei sieht Ermittlungsansätze als erschöpft. Spekulation zu Rückkehr Richtung Lichtenau/Paderborn nur einfach belegt (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Dornberger Straße Bielefeld: Vollsperrung ab 27.7., Infoveranstaltung 20.7.",
+      "date": "2026-07-19",
+      "summary": "Infoveranstaltung im Bürgeramt Dornberg am 20.7., 18 Uhr. Vollsperrung (ca. 4 Monate) startet 27.7. nach Krötentunnel-Lieferverzögerung. Bürgerpetition (~900 Unterschriften) unverändert (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Libori 2026: Kritik an fehlendem kostenlosem Trinkwasser während Hitzewelle",
+      "date": "2026-07-19",
+      "summary": "Fest 25.7.-2.8., ~1,8 Mio. erwartete Besucher. Trotz Hitzewelle kein kostenloses Trinkwasserangebot; Grüne/Padergrün fordern Auskunft zum Stand der 2025 beschlossenen Trinkbrunnen. Nur einfach belegt (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "Cold Case Babyleiche Westenholz: widersprüchliche Lokalmedien-Überschriften zu neuer Spur",
+      "date": "2026-07-19",
+      "summary": "Unklar, ob anonymer Brief aus Gütersloh tatsächlich neue Spur liefert oder Ermittlungen weiter ergebnislos bleiben - Berichtslage diese Woche uneinheitlich, Volltexte nicht abrufbar. Fall weiterhin ungelöst.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "KI-Deepfake-Welle WM wächst auf „hunderte Millionen“ Views, kein neuer Fall zum Finale",
+      "date": "2026-07-19",
+      "summary": "„Stadium Women“-Videos jetzt mehrfach bestätigt bei hunderten Mio. Views. Trump/Balogun-Fake jetzt verifiziert (97,4% KI-Wahrscheinlichkeit). Scam-Ads mit Spielerbildern weiter hoch (Revelum: >10.000 Anzeigen). Kein dokumentierter neuer Fake speziell zum Finale (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Mbappé-Amarilla-Eklat: Sexismus-Gegenvorwurf, kein juristischer Abschluss",
+      "date": "2026-07-19",
+      "summary": "Amarilla nahm Rassismus-Vorwürfe zurück, wirft Mbappé nun Sexismus vor. Pariser Staatsanwaltschaft ermittelt weiter, Paraguays Präsident Peña distanziert sich. Kein Abschluss (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Nolans „The Odyssey“: Rekordstart bestätigt (120,5 Mio. USD domestic/257,8 Mio. weltweit)",
+      "date": "2026-07-19",
+      "summary": "Finale Startwochenend-Zahlen bestätigt - Nolans bester globaler Start, größter R-Rated-Start eines Universal-Films aller Zeiten. Musk-Kampagne gegen Nyong'o-Besetzung in aktueller Berichterstattung nicht mehr Thema - Strang abgeschlossen (in Wochenausgabe vom 2026-07-19 zusammengefasst).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "song",
+      "title": "Loving Cup – The Rolling Stones",
+      "date": "2026-07-19",
+      "summary": "Song der Woche, gewählt wegen Rolling Stones als meistgehörtem Künstler der Woche. Die Einladung zum gemeinsamen Anstoßen passt als Kontrapunkt zur schweren Nachrichtenlage (Iran-Krieg mit ersten US-Gefallenen, Ukraine-Kabinettskrise, Ebola, VW-Machtkampf) und zum heutigen WM-Finale als gemeinsamem Freudenmoment.",
+      "status": "neu",
+      "quelle": "top-tracks"
     }
   ]
 }
