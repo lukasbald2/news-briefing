@@ -1650,6 +1650,119 @@
       "summary": "Song der Woche, gewählt wegen Rolling Stones als meistgehörtem Künstler der Woche. Die Einladung zum gemeinsamen Anstoßen passt als Kontrapunkt zur schweren Nachrichtenlage (Iran-Krieg mit ersten US-Gefallenen, Ukraine-Kabinettskrise, Ebola, VW-Machtkampf) und zum heutigen WM-Finale als gemeinsamem Freudenmoment.",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "US-Iran-Krieg: Keine Waffenruhe, US-Verluste auf 17 gestiegen, Ölpreis nahe 90 USD",
+      "date": "2026-07-20",
+      "summary": "Iran erklärte Islamabad-Memorandum am 18.7. offiziell für gescheitert. Neue US-Schläge auf mehrere iranische Städte (Tasnim). US-Gesamtverluste auf mind. 17 gestiegen. Iran griff zweites Mal kuwaitisches Kraftwerk an. IRGC beansprucht Treffer auf Bahrain/Jordanien-Stützpunkte inkl. angeblich zerstörter Jets - Jordanien widerspricht, meldet nur abgefangene Objekte ohne Schäden. Brent-Ölpreis auf ~90-91 USD gestiegen, seit 15.7. kein Tanker mehr durch Hormuz laut Kpler.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine: Chmara offiziell amtierender Verteidigungsminister, Bestätigung erst Mitte August",
+      "date": "2026-07-20",
+      "summary": "Kabinett vollzog Ernennung formell (17.7.), Sybiha amtierender Außenminister. Rada-Vizechef Kornijenko erwartet parlamentarische Bestätigung erst zur Plenarsitzung Mitte August - zivile Besetzung des Postens laut Gesetz weiter ungeklärt. Selenskyj-Auftrag: Reform + mehr Langstreckenschläge gegen Russland.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "WM 2026: Spanien gewinnt Finale 1:0 n.V. gegen Argentinien, Messis letztes WM-Spiel endet mit Niederlage",
+      "date": "2026-07-20",
+      "summary": "Ferran Torres traf 39 Sek. nach Beginn der 2. Verlängerungshälfte, Argentinien seit Enzo-Fernández-Platzverweis vor Spielende dezimiert. Spaniens zweiter WM-Titel nach 2010. Für den 39-jährigen Messi letztes WM-Spiel der Karriere. Trump im Stadion bei Pokalübergabe ausgepfiffen (siehe Social).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Spahn-Nachfolge als Unionsfraktionschef: Entscheidung heute erwartet, Frei Favorit",
+      "date": "2026-07-20",
+      "summary": "CDU-Präsidium tagte 20.7., 11 Uhr, Entscheidung zu Redaktionsschluss noch offen. Favorit Kanzleramtschef Thorsten Frei, auch Linnemann/Dobrindt gehandelt, neu Außenseiter Michael Brand. Kommissarisch weiter Alexander Hoffmann (CSU). Reguläre erste Sitzung erst 8.9., Sondersitzung in Sommerpause möglich.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Dobrindt stuft Bedrohungslage in Deutschland auf 'hoch'",
+      "date": "2026-07-20",
+      "summary": "Bundesinnenminister Dobrindt hebt Bedrohungslage von 'abstrakt' auf 'hoch' an, spricht von klar erkennbaren Anschlagsplänen gegen Personen/Institutionen/Infrastruktur, nach vereiteltem Sprengstoffanschlag. Plant Reform für direkte Eingriffsbefugnis von Verfassungsschutz/BND bei akuten Terrorlagen inkl. Wohnungsdurchsuchung.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "VW-Machtkampf: Termine für Belegschaftsauftritte im August fixiert, Cavallo attackiert Vorstand scharf",
+      "date": "2026-07-20",
+      "summary": "Betriebsrat fixierte Fahrplan: 25.8. Wolfsburg, 26.8. Emden/Zwickau, 31.8. Hannover (9 Versammlungen insgesamt). Blume+Schäfer treten persönlich in Wolfsburg/Emden/Zwickau auf. Jobzahlen weiter uneinheitlich: Betriebsrat nennt bis 140.000 konzernweit, Blume selbst erstmals 50.000 zusätzliche weltweite Stellen als 'theoretische Ableitung'.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Klopp/DFB: Einigung mit Red Bull bestätigt, DFB-Vertrag laut Klopp 'noch nichts final'",
+      "date": "2026-07-20",
+      "summary": "Sonntagabend widersprüchliche Erstmeldungen (Sky/Bild 'Einigung' vs. Berater-Dementi). Klopp selbst: Red Bull 'großzügige Regelung', DFB 'noch nichts final'. dpa: Vertragsunterschrift (bis WM 2030) und Vorstellung für Freitag 24.7. in Frankfurt geplant, vom DFB noch nicht offiziell bestätigt.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Bettensteuer Höxter: Ausgang jetzt zweifelsfrei bestätigt, Rat lehnt Einführung endgültig ab",
+      "date": "2026-07-20",
+      "summary": "Stadtrat lehnte am 16.7. SPD-Einführungsantrag ab, unterstützte stattdessen Bürgerantrag der Hotellerie/Gastronomie gegen die Steuer - Thema laut Beschlusstext politisch beendet. Scheinbarer Widerspruch aus vorherigen Ausgaben aufgelöst: 'SPD hält Kurs'-Artikel war Vorbericht vor der Sitzung, kein Widerspruch zum tatsächlichen Ergebnis.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Delbrück-Westenholz: Bauarbeiten und Vollsperrung an der K61 ab 20.7.",
+      "date": "2026-07-20",
+      "summary": "Kreisstraßenbauamt Paderborn saniert zwei K61-Abschnitte: Suternstraße Westenholz (~550m, Vollsperrung, Umleitung ~8km) und Mantinghausen-Blumenweg (~1,7km Asphaltdeckenerneuerung, Umleitung ~5km). Kosten ~390.000 Euro, Fertigstellung bis Ende Juli geplant.",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "Dornberger Straße Bielefeld: Infoveranstaltung am 20.7. abgehalten, Vollsperrung jetzt ab 27.7.",
+      "date": "2026-07-20",
+      "summary": "Infoveranstaltung im Bürgeramt Dornberg fand wie geplant statt (Bezirksbürgermeisterin Zier, Tiefbauamt, Straßen.NRW, moBiel). Vollsperrung der L778 verschiebt sich wegen Krötentunnel-Lieferverzug von 7.7. auf 27.7. Bürgerpetition bei ~900 Unterschriften. Nachbericht zur heutigen Veranstaltung selbst stand zu Redaktionsschluss noch aus.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Libori 2026: Erster Trinkbrunnen weiterhin nicht in Sicht vor Fest-Start",
+      "date": "2026-07-20",
+      "summary": "Ein Jahr nach Ratsbeschluss weiter unklar, wann erster Trinkbrunnen kommt; Förderantrag laut Verwaltung im Januar 2026 vorbereitet, Projekt stockt. Grüne/Padergrün drängen nach Hitzewelle auf Umsetzung, Brunnen am Franziskanerkloster in Diskussion. Keine Bestätigung, dass bis Libori-Start (25.7.) ein Brunnen fertig wird.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Trump bei WM-Pokalübergabe im MetLife Stadium ausgepfiffen",
+      "date": "2026-07-20",
+      "summary": "Bei der Siegerehrung nach dem Finale lautstark ausgepfiffen, blieb aber demonstrativ auf der Bühne und drängte sich aufs Siegerfoto der Spanier. Clips verbreiteten sich auf X, Debatte über Lautstärke im TV-Ton. Echtes, breit dokumentiertes Ereignis ohne KI-Beteiligung.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "KI-Deepfake-Welle WM: neuer Einzelclip ~40 Mio. Views, Revelum-Zahlen präzisiert (2.736 Fake-Anzeigen)",
+      "date": "2026-07-20",
+      "summary": "'Stadium Women'-Welle setzte sich bis Finaltag fort (Clip mit eingefrorener Uhr, nie ausgestrahltem ESPN-Logo, robotischer Stimme, 99,9% KI-Wahrscheinlichkeit). Kein eigenständiger Finale-spezifischer neuer Deepfake gefunden. Revelum: 2.736 bestätigte Fake-Anzeigen über 6 Topspieler, sprunghafter Anstieg seit WM-Start (Neymar +1.700%).",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Mbappé-Amarilla-Eklat: Macron stellt sich hinter Mbappé, beidseitige Eskalation ohne Abschluss",
+      "date": "2026-07-20",
+      "summary": "Macron öffentlich hinter Mbappé ('Ein weiteres Tor... diesmal gegen Rassismus'). Pariser Staatsanwaltschaft ermittelt weiter. Amarilla hält an Sexismus-Vorwurf fest, droht mit rechtlichen Schritten. Beidseitige Eskalation, keine Anklage bislang.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Nolans 'The Odyssey': Finale Zahlen 264 Mio. USD, Nolan äußert sich erstmals zu Musk-Kampagne",
+      "date": "2026-07-20",
+      "summary": "264,1 Mio. USD weltweit, bestes Startwochenende seit 'Dark Knight Rises'. Nolan nennt Vorab-Kritik im Telegraph 'irrelevant', weist darauf hin dass Elliot Page nicht Achilles sondern Nebenfigur Sinon spielt. Thema durch Nolans Gegenwehr neu entfacht statt abgeklungen.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Aberdeen – Avi Kaplan",
+      "date": "2026-07-20",
+      "summary": "Song des Tages, gewählt aus Lukas' Top-Tracks (Avi Kaplan, erstmals mit diesem Song gewählt). Handelt von Sehnsucht nach einem Zufluchtsort, der Schmerz lindert und Kopf klarmacht - Gegenpol zu einem Tag voller ungebremster Eskalation (Iran-Krieg ohne Waffenruhe, Bedrohungslage 'hoch' in Deutschland, dramatisches WM-Finale mit Pfiffen gegen Trump).",
+      "status": "neu",
+      "quelle": "top-tracks"
     }
   ]
 }
