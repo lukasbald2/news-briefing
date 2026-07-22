@@ -1855,6 +1855,105 @@
       "summary": "Song des Tages, gewählt aus Lukas' zuletzt gehörten Titeln (Bruce Springsteen, erstmals gewählt). Bild des außer Kontrolle geratenen Zuges passt zur sich selbst befeuernden Eskalation des Tages (Nahost-Kriegsausweitung auf drei weitere Länder plus Houthi-Blockade, größte ukrainische Drohnenoffensive des Krieges).",
       "status": "neu",
       "quelle": "recently-played"
+    },
+    {
+      "category": "global",
+      "title": "US-Iran-Krieg: Waffenruhe laut Rubio praktisch tot, Katar/Pakistan schlagen 10-Tage-Feuerpause vor",
+      "date": "2026-07-22",
+      "summary": "US-Außenminister Rubio erklärte das Ceasefire-Memorandum für gescheitert, hält Diplomatie aber für möglich. Katar/Pakistan-Vermittlungsvorschlag (10 Tage Feuerpause, Teil-Öffnung Hormus) von keiner Seite angenommen. Houthi-Seeblockade gegen Saudi-Arabien weiter nicht vollständig durchgesetzt. Brent-Ölpreis bei knapp 90-91 USD (13.7.: 78,82 USD, 17./18.7.: 88,09 USD).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine: Fernkampagne gegen russische Ziele hält an, Khmara-Bestätigung weiter Mitte August erwartet",
+      "date": "2026-07-22",
+      "summary": "In der Nacht zum 21.7. 452 Drohnen laut Russland abgeschossen (43 auf Moskau selbst), getroffen wurden Öldepot/Logistikziele im Raum Moskau sowie sechs Schiffe im Schwarzen Meer. Selenskyj kündigt weitere Ausweitung an. Parlamentarische Khmara-Bestätigung unverändert erst Mitte August erwartet.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Großbritannien: Burnham stellt Kabinett vor, verspricht außenpolitische Kontinuität",
+      "date": "2026-07-22",
+      "summary": "Healey Schatzkanzler, Rayner Wohnungsbau, Haigh faktische Vize-PM, Miliband Außenminister, Mahmood bleibt Innenministerin; Reeves/Lammy scheiden aus. Burnham sichert Selenskyj telefonisch '100 Prozent' Unterstützung zu und genehmigt Nutzung britischer Basen für als 'defensiv' bezeichnete US-Schläge gegen Iran.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "CDU/CSU auf Umfragetief seit 2021, AfD baut Vorsprung aus",
+      "date": "2026-07-22",
+      "summary": "ARD-DeutschlandTrend: Union bei 22% (niedrigster Wert seit Nov. 2021), AfD unverändert bei 27% (5 Punkte Vorsprung), nur 13% zufrieden mit Bundesregierung. Zeitlich mit Spahn-Leihmutterschafts-Debatte verknüpft. Andere Institute (Insa/YouGov) zeigen teils 8-9 Punkte AfD-Vorsprung.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "Spahn-Nachfolge: Warken als Überraschungskandidatin verstärkt im Gespräch",
+      "date": "2026-07-22",
+      "summary": "Vor Sondersitzung der Unionsfraktion am 29.7.: Frei weiter Favorit, Gesundheitsministerin Warken (einzige Frau im Rennen) verstärkt gehandelt, Dobrindt hält eigene Ambitionen offen, Linnemann/Krings weiter im Gespräch.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "VW-Machtkampf: Neun Betriebsversammlungen im August terminiert",
+      "date": "2026-07-22",
+      "summary": "Betriebsrat lädt Blume/Schäfer zu neun Versammlungen 25.-31.8. (Wolfsburg, Zwickau, Emden u.a.). Jobzahlen weiter uneinheitlich: Betriebsrat bis 140.000 weltweit, Blume offiziell weiter ~50.000. Konzern verweist auf ~500.000 Fahrzeuge Überkapazität in Europa.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Dobrindts Geheimdienstreform: Entwurfsdetails bekannt, Verbändekritik wächst",
+      "date": "2026-07-22",
+      "summary": "Referentenentwurf: BND darf künftig aktiv eingreifen/Desinformation streuen, Kommunikationsinhalte mit Auslandsbezug bis 6 Monate speichern, Echtzeit-Gesichtserkennung im öffentlichen Raum vorgesehen, unabhängiges Kontrollgremium soll vorab genehmigen. Deutscher Anwaltverein kritisiert Eingriffe in Berufsgeheimnisse und schwache Kontrolle.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Libori 2026: Sicherheitskonzept verschärft, Trinkbrunnen weiter ohne Baustart",
+      "date": "2026-07-22",
+      "summary": "158-seitiges Sicherheitskonzept mit mehr Absperrungen gegen unbefugte Fahrzeugzufahrt, fünf neue Fahrgeschäfte, stabile Preise. Trinkbrunnen-Projekt (seit Januar 2026 Förderantrag angekündigt) weiterhin ohne Baubeginn, Grüne fordern erneut Zeitplan (nur einfach belegt).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Dornberger Straße Bielefeld: Sperrung ab 27.7. bestätigt, jetzt auch Landtagsthema",
+      "date": "2026-07-22",
+      "summary": "Vollsperrung L778 bleibt bei 27.7., Teilsperrung laut Straßen.NRW nicht möglich. FDP-Landtagsfraktion befragt Landesregierung zum Thema. Bürgerpetition weiterhin ~900 Unterschriften.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Delbrück: Sommerfestival 'Mittwochs in Delbrück' gestartet",
+      "date": "2026-07-22",
+      "summary": "Auftakt 22.7. auf dem Grünen Platz hinter dem Rathaus, freier Eintritt, Kinderprogramm, musikalischer Auftakt mit Schlager-Coverband 'Schlagerzirkus'. Weitere Termine u.a. 26.8. Nur einfach belegt (delbrueckkauftlokal.de).",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Tate-Brüder in Miami festgenommen, Verhaftungs-Outfit wird zum Meme-Thema",
+      "date": "2026-07-22",
+      "summary": "Andrew/Tristan Tate am 18./19.7. auf britisches Auslieferungsersuchen hin festgenommen (u.a. Vorwürfe Vergewaltigung, Menschenhandel). Online-Reaktionen konzentrierten sich stark auf sein Auftreten/Outfit beim Festnahme-Video statt auf die Anklage selbst, mehrfach von Kulturmedien unabhängig bestätigt.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Shane Gillis stellt zwei Guinness-Weltrekorde bei Comedy-Show auf",
+      "date": "2026-07-22",
+      "summary": "73.946 Zuschauer/77.047 verkaufte Tickets im Lincoln Financial Field Philadelphia (17.7.) - Weltrekorde für größtes Publikum/meistverkaufte Tickets einer Solo-Comedy-Show. Gäste u.a. Dave Chappelle, Meek Mill. Abschluss einer zweijährigen Tour mit über 1 Mio. verkauften Tickets.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "xAI verklagt eigenen Grok-Nutzer wegen KI-Missbrauchsdarstellungen",
+      "date": "2026-07-22",
+      "summary": "xAI verklagt in Texas einen Grok-Nutzer wegen mutmaßlicher Erstellung sexualisierter KI-Deepfakes - einer der ersten Fälle eines KI-Anbieters gegen eigenen Nutzer. Hintergrund: anhaltender Grok-Deepfake-Skandal (laut CCDH ~3 Mio. Bilder in 11 Tagen), EU-Kommission/Ofcom bereits involviert.",
+      "status": "neu"
+    },
+    {
+      "category": "song",
+      "title": "And It Stoned Me – Van Morrison",
+      "date": "2026-07-22",
+      "summary": "Song des Tages, gewählt aus Lukas' Top-Tracks (Van Morrison, erstmals gewählt). Nostalgischer Kindheitsmoment puren Glücks als Kontrapunkt zur Häufung von Krisenmeldungen (Nahost-Krieg ohne Waffenruhe, Umfragetief der Union, VW-Machtkampf) und thematischer Bezug zum heutigen Sommerfestival in Delbrück.",
+      "status": "neu",
+      "quelle": "top-tracks"
     }
   ]
 }
