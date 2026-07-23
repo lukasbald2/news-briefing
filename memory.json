@@ -1954,6 +1954,112 @@
       "summary": "Song des Tages, gewählt aus Lukas' Top-Tracks (Van Morrison, erstmals gewählt). Nostalgischer Kindheitsmoment puren Glücks als Kontrapunkt zur Häufung von Krisenmeldungen (Nahost-Krieg ohne Waffenruhe, Umfragetief der Union, VW-Machtkampf) und thematischer Bezug zum heutigen Sommerfestival in Delbrück.",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "Nahost-Krieg weitet sich aus: Houthi treffen saudische Öltanker, Ölpreis auf 6-Wochen-Hoch",
+      "date": "2026-07-23",
+      "summary": "USA fliegen 11./12. Angriffsnacht gegen Iran (Zählweise uneinheitlich), Rubio: Teheran 'nicht ernsthaft' interessiert. Houthi setzen ihre am 20.7. erklärte Seeblockade gegen Saudi-Arabien nun aktiv um: erste Angriffe auf saudische Tanker 'Encelia'/'Layla' am 22.7. Brent-Ölpreis auf ~94 USD/Barrel gestiegen, höchster Stand seit 6 Wochen. Iranisches Gesundheitsministerium (Einzelquelle) meldet 53 Tote/592 Verletzte durch US-Angriffe im letzten Monat.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine: Schwarzmeer-Getreidekorridor faktisch lahmgelegt, UN-Dringlichkeitssitzung einberufen",
+      "date": "2026-07-23",
+      "summary": "Russland griff mehrere zivile Frachtschiffe an, u.a. 'Golden Rose' (22.7., Evakuierung 16 Besatzungsmitglieder nach Drohnentreffer/Brand). Am 22.7. passierte kein einziges Schiff mehr den Korridor. Sybiha spricht von 'gezieltem wirtschaftlichem und humanitärem Terrorismus', UN-Sicherheitsrats-Dringlichkeitssitzung für 27.7. einberufen. Chmara-Bestätigung weiter erst Mitte August erwartet.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Großbritannien: Burnham legt erstes Sozialpolitik-Paket vor, Wortgefecht mit Trump",
+      "date": "2026-07-23",
+      "summary": "2-Pfund-Busticket-Deckel ab Januar 2027, Mehrwertsteuer auf Haushaltsenergie entfällt ab 1.10. (finanziert durch Streichung Digital-ID-Programm), ~45 Pfund/Jahr Entlastung. Elf von 23 Kabinettsposten an nordenglische Abgeordnete. Trump nennt UK auf Truth Social 'Poverty Stricken Disaster', wirbt für Nordsee-Ölförderung; keine Erwiderung Burnhams bislang.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "Spahn-Nachfolge: Merz und Söder schlagen offiziell Thorsten Frei vor",
+      "date": "2026-07-23",
+      "summary": "Merz/Söder schlugen Kanzleramtschef Frei (52) am 22.7. in Videoschalte mit Fraktionsvorstand offiziell als Unionsfraktionschef vor. Formale Entscheidung erst in Sondersitzung am 29.7. Warken (SPD-Frauen-Unterstützung) weiter als Alternative gehandelt, Dobrindt/Linnemann gelten als chancenlos.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "VW-Machtkampf: Blume nennt erstmals konkrete Eskalationszahl (bis 100.000 Stellen)",
+      "date": "2026-07-23",
+      "summary": "Nach 12:7-Ablehnung des Sparplans am 9.7. nennt Blume in Intranet-Mitteilung erstmals konkrete Zahl: ohne Zugeständnisse bei Arbeitskosten drohten rechnerisch bis zu 100.000 Stellen (50.000 laufend + 50.000 zusätzlich). Begründung: ~20% höheres Gemeinkostenniveau als Wettbewerber. Widerspruch zu Betriebsrats-Zahl (bis 140.000) bleibt bestehen. Neun Betriebsversammlungen 25.-31.8. bleiben terminiert.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Klopp/DFB: Gremien tagen final, Vorstellung morgen (24.7.) geplant, Bender als Co-Trainer im Gespräch",
+      "date": "2026-07-23",
+      "summary": "DFB-Gremien klären laut Sky/Sportschau/t-online letzte Vertragsdetails (bis WM 2030), Vorstellung spätestens morgen in Frankfurt geplant. Klopp bestätigt Einigung mit Red Bull. Neu: Sven 'Manni' Bender soll als dritter Co-Trainer neben Krawietz/Lijnders kommen. DFB bestätigt weiterhin nicht offiziell.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Deutsche Bahn: Alkoholverbot bis 15. Oktober auf alle Bahnhöfe, GdP fordert Verbot auch in Zügen",
+      "date": "2026-07-23",
+      "summary": "Ausweitung von bislang ~30 Großbahnhöfen auf alle ~5.400 Bahnhöfe bis 15.10.2026, Ausnahme Gastronomie/verschlossene Getränke. GdP-Vize Poitz bezweifelt Durchsetzbarkeit (Personalmangel Bundespolizei), fordert zusätzlich Verbot in Zügen selbst.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "BVerfG verhandelt Heilmann-Organklage zum Heizungsgesetz-Tempo (2 BvE 4/23) - Urteilstenor bei Redaktionsschluss unbestätigt",
+      "date": "2026-07-23",
+      "summary": "Hauptsacheverfahren zur Frage einer verfassungsrechtlichen 'Tempogrenze' für Gesetzgebungsverfahren (Hintergrund: Eilstopp des alten Heizungsgesetzes 2023). Verhandlungstermin heute mehrfach bestätigt, konkretes Urteilsergebnis trotz Recherche nicht auffindbar - für Folgeausgabe nachverfolgen.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Libori 2026: Bundeskanzler Merz hält Festrede am Sonntag, Gegendemo angekündigt",
+      "date": "2026-07-23",
+      "summary": "Merz hält 26.7. als erster amtierender Kanzler die Festrede beim Libori-Mahl. Sicherheitsmaßnahmen laut Stadt 'bedeckt' gehalten, deutlich verschärft gegenüber 2022. Bündnis aus Gewerkschaften/Parteien/Kirche/Zivilgesellschaft ruft für denselben Abend (18:30, Florianwiese) zu Demo gegen 'sozialpolitischen Kurs' der Bundesregierung auf. Innenstadt-Sperrungen (Liboriberg, Domplatz, Marktplatz) starten 24.7., 9 Uhr; über 1 Mio. Besucher erwartet, Sicherheitskonzept >150 Seiten.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Dornberger Straße Bielefeld: Vollsperrung startet planmäßig 27.7.",
+      "date": "2026-07-23",
+      "summary": "Keine neue Verzögerung, Start bestätigt für Montag 27.7. Notgehweg neu hinzugekommen. Bürgerpetition (~900 Unterschriften) und FDP-Landtagsanfrage laufen ohne erkennbare Wirkung weiter.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Elha Hövelhof: Schließung Eigenfertigung bis Q1/2027 terminiert, ~240 Beschäftigte betroffen",
+      "date": "2026-07-23",
+      "summary": "Konkretes Zieldatum Q1/2027 bestätigt, Unternehmen nennt es 'ersten Schritt' zur Stabilisierung. Genaue Stellenabbauzahl weiterhin nicht beziffert. Grund: Nachfragerückgang Automobilbranche.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Tate-Brüder: Auslieferungsverfahren läuft, Festnahme-Outfit-Meme mit eigenem Nachlauf",
+      "date": "2026-07-23",
+      "summary": "Nächster Anhörungstermin 27.7., Trump/Rubio stellen sich Auslieferung laut Axios nicht entgegen. Meme um lila Bluse/Caprihose läuft weiter (KnowYourMeme-Eintrag, virale Tweets, Comedian-Bewertungen der Festnahme-Outfits).",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "xAI verklagt eigenen Grok-Nutzer wegen KI-Missbrauchsdarstellungen (Details)",
+      "date": "2026-07-23",
+      "summary": "Konkreter Fall: Terry Wayne Harwood (67, South Carolina), Klage wegen sexuell expliziter Missbrauchsdarstellungen aus harmlosen Fotos generiert. xAI fordert Schadenersatz/Nutzungsverbot. 2026 bereits 52.222 gesperrte Konten, >73.000 NCMEC-Meldungen.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Mbappé-Amarilla-Eklat eskaliert weiter nach WM-Ende",
+      "date": "2026-07-23",
+      "summary": "Amarilla provoziert erneut mit 'Karma'-Aussage nach Frankreichs Halbfinal-Aus, Auftritt in spanischen Farben im Senat. Pariser Staatsanwaltschaft ermittelt wegen Beleidigung/Hassaufstachelung, franz. Verband kündigt rechtliche Schritte an. Kein Abschluss.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Janey Needs A Shooter – Bruce Springsteen",
+      "date": "2026-07-23",
+      "summary": "Song des Tages, gewählt aus Lukas' zuletzt gehörten Titeln (Bruce Springsteen, gestern erneut gehört). Handelt von einer Frau, die Schutz vor Gefahr braucht - passt zum Grundton der Sicherheitsthemen des Tages (Schwarzmeer-Korridor, Houthi-Blockade, Geheimdienstreform, Libori-Sicherheitskonzept für Merz-Besuch).",
+      "status": "neu",
+      "quelle": "recently-played"
     }
   ]
 }
