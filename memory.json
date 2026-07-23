@@ -2054,6 +2054,13 @@
       "status": "laufend"
     },
     {
+      "category": "feedback",
+      "title": "Nutzer-Feedback: Ausgewogenheit/Themenrotation + Schwarz-Digits-Campus nachholen",
+      "date": "2026-07-23",
+      "summary": "Lukas wünscht weniger tägliche Wiederholung der Dauer-Top-Themen (Iran/Ukraine hatten seit ca. 9.7. durchgehend eigene Artikel in Global) und stattdessen mehr Mischung aus Wirtschaft/Gesellschaft/Kultur/Technologie/Stil pro Ebene — Regeln siehe CLAUDE.md (Sättigungsregel + Themenmix-Quote). Konkret verpasst und in der nächsten Ausgabe nachzuholen, sofern noch relevant: Eröffnung des Schwarz-Digits-Campus in Bad Friedrichshall am 21.7.2026 (Schwarz-Gruppe, bis zu 5.500 Beschäftigte, Fokus Cybersecurity/Cloud/KI/digitale Souveränität, u.a. tagesschau/STIMME.de/echo24). Nach Umsetzung diesen Eintrag auf 'abgeschlossen' setzen.",
+      "status": "neu"
+    },
+    {
       "category": "song",
       "title": "Janey Needs A Shooter – Bruce Springsteen",
       "date": "2026-07-23",

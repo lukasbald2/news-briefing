@@ -37,6 +37,34 @@ Siehe `README.md`. Der eigentliche Routine-Ablauf (Recherche-Ebenen,
 Quellenregeln, Sonntags-Wochenausgabe) steht im Routine-Prompt, nicht hier.
 Gedächtnis der Routine: `memory.json`.
 
+## Ausgewogenheit & Themenrotation (Nutzer-Feedback vom 2026-07-23) — WICHTIG
+
+Lukas hat am 23.07.2026 zurückgemeldet, dass sich v.a. die Global-Sektion
+täglich wiederholt hat (Iran/Ukraine belegten durchgehend 2 von 3
+Artikel-Plätzen) und dadurch andere Meldungen fehlten (konkret vermisst:
+Eröffnung des Schwarz-Digits-Campus am 21.07.). Deshalb gilt bei jedem Lauf —
+auch falls das Routine-Prompt diese Regeln (noch) nicht enthält:
+
+1. **Sättigungsregel:** Hatte ein Themenstrang in den letzten drei Ausgaben
+   jeweils einen eigenen ausführlichen Artikel (an den Tageseinträgen in
+   `memory.json` erkennbar), bekommt er nur bei einer QUALITATIV neuen
+   Entwicklung (Wendepunkt, neue Dimension, Eskalationssprung, Abschluss)
+   erneut einen eigenen Artikel — nicht bei bloßer Fortschreibung
+   (aktualisierte Zahlen, „weiter kein Durchbruch"). Sonst: 1–2 Sätze im
+   Hinweisblock „Weitere laufende Stränge" der Sektion. Dauerkrisen bleiben
+   so sichtbar, blockieren aber keine Artikel-Plätze mehr.
+2. **Themenmix-Quote:** Pro Ebene (Global, National, Lokal) mindestens ein
+   ausführlicher Artikel außerhalb des dominierenden Politik-/Krisenkomplexes
+   (Wirtschaft, Gesellschaft, Kunst & Kultur, Technologie, Stil/Mode), sofern
+   die Nachrichtenlage es hergibt — dafür pro Ebene mindestens eine gezielte
+   Recherche jenseits der bekannten Gedächtnis-Stränge.
+3. **Umfang unverändert:** weiterhin ca. 3–4 Artikel pro Ebene plus
+   Hinweisblock; der Bericht wird vielfältiger, nicht länger.
+
+Einträge der Kategorie `feedback` in `memory.json` sind Nutzer-Hinweise an
+künftige Läufe: beim Lauf berücksichtigen und nach Umsetzung auf
+`"abgeschlossen"` setzen (nicht nach 30 Tagen löschen, solange offen).
+
 ## Footer-Links beim Kopieren nach `index.html` — WICHTIG
 
 Der jeweils neueste Bericht wird unter `reports/briefing-JJJJ-MM-TT.html`
