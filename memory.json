@@ -2057,8 +2057,8 @@
       "category": "feedback",
       "title": "Nutzer-Feedback: Ausgewogenheit/Themenrotation + Schwarz-Digits-Campus nachholen",
       "date": "2026-07-23",
-      "summary": "Lukas wünscht weniger tägliche Wiederholung der Dauer-Top-Themen (Iran/Ukraine hatten seit ca. 9.7. durchgehend eigene Artikel in Global) und stattdessen mehr Mischung aus Wirtschaft/Gesellschaft/Kultur/Technologie/Stil pro Ebene — Regeln siehe CLAUDE.md (Sättigungsregel + Themenmix-Quote). Konkret verpasst und in der nächsten Ausgabe nachzuholen, sofern noch relevant: Eröffnung des Schwarz-Digits-Campus in Bad Friedrichshall am 21.7.2026 (Schwarz-Gruppe, bis zu 5.500 Beschäftigte, Fokus Cybersecurity/Cloud/KI/digitale Souveränität, u.a. tagesschau/STIMME.de/echo24). Nach Umsetzung diesen Eintrag auf 'abgeschlossen' setzen.",
-      "status": "neu"
+      "summary": "Lukas wünscht weniger tägliche Wiederholung der Dauer-Top-Themen (Iran/Ukraine hatten seit ca. 9.7. durchgehend eigene Artikel in Global) und stattdessen mehr Mischung aus Wirtschaft/Gesellschaft/Kultur/Technologie/Stil pro Ebene — Regeln siehe CLAUDE.md (Sättigungsregel + Themenmix-Quote). Umgesetzt am 24.7.: Sättigungsregel/Themenmix-Quote angewendet (Global: Tech-Ausverkauf Alphabet/Tesla als Themenmix-Artikel; National: Schwarz-Digits-Campus nachgetragen + Reiche/Spritpreise als Wirtschaftsartikel; Lokal: dSPACE-Gründer-Ehrung als Themenmix-Artikel). Schwarz-Digits-Campus-Eröffnung (21.7., Bad Friedrichshall, bis zu 5.500 Beschäftigte, Cybersecurity/Cloud/KI/digitale Souveränität) am 24.7. im National-Teil nachgeholt.",
+      "status": "abgeschlossen"
     },
     {
       "category": "song",
@@ -2067,6 +2067,112 @@
       "summary": "Song des Tages, gewählt aus Lukas' zuletzt gehörten Titeln (Bruce Springsteen, gestern erneut gehört). Handelt von einer Frau, die Schutz vor Gefahr braucht - passt zum Grundton der Sicherheitsthemen des Tages (Schwarzmeer-Korridor, Houthi-Blockade, Geheimdienstreform, Libori-Sicherheitskonzept für Merz-Besuch).",
       "status": "neu",
       "quelle": "recently-played"
+    },
+    {
+      "category": "global",
+      "title": "Iran übernimmt faktische Kontrolle über Straße von Hormuz, Ölpreis auf ~95 USD",
+      "date": "2026-07-24",
+      "summary": "Eskalationssprung ggü. bisherigen Einzelangriffen: Nach drei Tanker-Treffern im Südkorridor am 23.7. (u.a. LNG-Tanker 'Al Rekayyat', Supertanker 'Wedyan') verlagerte sich der Schiffsverkehr fast komplett auf den iranisch kontrollierten Nordkorridor (nur 2 von 12 Durchfahrten noch Südroute). Kharg-Island-Terminals leer, 15 Tanker mit abgeschaltetem Tracking. Brent auf 95,71 USD, Nasdaq -2,15 bis -2,70%. Quellenlage: Marineintelligence (Windward)/Fachmedien, nicht von Reuters/AP im Volltext bestätigt. Eigener Artikel.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine: Getreidekorridor bleibt komplett blockiert, Weizenpreise +16%",
+      "date": "2026-07-24",
+      "summary": "Zweiter Tag in Folge kein Schiff im Schwarzmeer-Korridor nach Golden-Rose-Angriff (22.7.); Weizen-Futures Chicago/MATIF +16%. UN-Dringlichkeitssitzung 27.7. bleibt bestehen. Chmara-Bestätigung weiter erst Mitte August erwartet. Eigener Artikel (2. Tag in Folge, neue wirtschaftliche Dimension).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "KI-Investitionsangst: Alphabet und Tesla brechen an der Börse ein",
+      "date": "2026-07-24",
+      "summary": "Themenmix-Artikel (Wirtschaft/Tech). Alphabet-Aktie -6-7% trotz +24% Umsatz, weil Capex-Ziel 2026 auf 195-205 Mrd. USD angehoben wurde (freier Cashflow -5,9 Mrd.). Tesla-Aktie zeitweise -15% trotz Rekordumsatz, operatives Ergebnis -57%. Zieht Nasdaq mit runter (-2,15 bis -2,70%).",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "Jürgen Klopp offiziell als Bundestrainer vorgestellt",
+      "date": "2026-07-24",
+      "summary": "Abschluss-Entwicklung: DFB stellte Klopp heute 11 Uhr in Frankfurt vor (Vertrag bis WM 2030, Co-Trainer Krawietz/Lijnders/Bender), nach Aufsichtsrat-/Gesellschafter-Billigung. Debüt 24.9. gegen Niederlande (Nations League). Strang damit abgeschlossen, keine weitere Fortschreibung nötig.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "BVerfG weist Heilmanns Organklage zum Heizungsgesetz-Tempo ab",
+      "date": "2026-07-24",
+      "summary": "Abschluss-Entwicklung: 2. Senat (Az. 2 BvE 4/23) wies Organklage des Ex-CDU-Abgeordneten Heilmann am 23.7. einstimmig ab - kein grundsätzliches 'Tempolimit' für Gesetzgebungsverfahren. Strang damit abgeschlossen.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Schwarz Digits eröffnet Cybersecurity-/Cloud-Campus in Bad Friedrichshall",
+      "date": "2026-07-24",
+      "summary": "Themenmix-Artikel (Wirtschaft/Tech), nachgetragen nach Nutzer-Feedback. Eröffnung war am 21.7.: 15,5 ha, 5 Gebäude, bis zu 5.500 Beschäftigte (Cybersecurity/Cloud/KI/digitale Souveränität), Ziel europäischer Cloud-Hyperscaler als Alternative zu AWS/Google/Azure.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Wirtschaftsministerin Reiche schließt neue Entlastungen bei Spritpreisen aus",
+      "date": "2026-07-24",
+      "summary": "Themenmix-Artikel (Wirtschaft). Trotz hoher Kraftstoffpreise (E10 2,15 €/l, Diesel 2,17 €/l) lehnt Reiche Tankrabatt/Preisdeckel ab, verweist auf 12-Uhr-Regel und Kartellrecht. SPD (Klüssendorf) hatte Preisdeckel gefordert.",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "Libori 2026: Innenstadt-Sperrungen starten, Merz-Besuch/Gegendemo im Detail bestätigt",
+      "date": "2026-07-24",
+      "summary": "Sperrungen (Liboriberg/Domplatz/Marktplatz) starten heute 9 Uhr, große Sperrzone ab 25.7. Fest startet 25.7. mit Kirmes-Öffnung/Eröffnung durch Bürgermeister Strate, >1 Mio. Besucher erwartet. Merz-Festrede 26.7. beim Libori-Mahl (Thema Europa), Gegendemo-Bündnis bestätigt Ort/Zeit: 26.7., 18:30 Uhr, Florianwiese, Motto 'Nein zu Sozialabbau'.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "dSPACE-Gründer Hanselmann erhält Paderpfau der Mittelstandsunion",
+      "date": "2026-07-24",
+      "summary": "Themenmix-Artikel (Wirtschaft), nur einfach belegt. MIT Kreis Paderborn ehrte dSPACE-Gründer Dr. Herbert Hanselmann beim Libori-Warm-Up; dSPACE 1988 mit drei Uni-Kollegen gegründet, heute Weltkonzern mit >2.700 Beschäftigten.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Delbrück: 81-jähriger Pedelec-Fahrer stirbt nach Fahrerflucht auf der B64",
+      "date": "2026-07-24",
+      "summary": "Unfall am 20.7. (dunkler 3er-BMW, Fahrer floh Richtung Rietberg ohne zu helfen), Opfer erlag 21.7. seinen Verletzungen. Polizei Paderborn sucht weiter nach Fahrer/Fahrzeug und Zeugen.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Charli xcx: Album 'Music, Fashion, Film' mit Scorsese-Cover",
+      "date": "2026-07-24",
+      "summary": "Release 24.7., Nachfolger zu 'Brat'. Cover zeigt Scorsese/Marc Jacobs/John Cale statt der Sängerin - kontrovers diskutiert. Mehrfach unabhängig belegt.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "'Du bist gut genug'-Meme-Song (Blumengarten & Shirin David feat. Rayan)",
+      "date": "2026-07-24",
+      "summary": "Seit Juni dominierendes deutschsprachiges Audio-Meme auf TikTok/Reels (Cleveland-Jr.-Clips wegen ähnlicher Stimme), einzelne Edits 3-5 Mio. Views. Trend hält an.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "KI-Studie 'Extreme Outlier ChatGPT User' (Doki-Doki-Fanfiction)",
+      "date": "2026-07-24",
+      "summary": "Uni Washington/Boulder-Studie (500.000 ChatGPT-Logs): ein Nutzer erzeugte ~28.000 Fanfiction-Prompts zur selben Szene, nur 2% der Nutzer erzeugten 80% der Interaktionen. Löst seit Anfang Juli anhaltende Debatte über KI-Nutzungsmuster aus.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Cucurella-Katzen-Meme erhält Google-Easter-Egg",
+      "date": "2026-07-24",
+      "summary": "Seit 2025 kursierendes Meme (Katze ähnelt Fußballer Cucurella) erlebte durch neues Google-Easter-Egg bei Suche nach 'Marc Cucurella' (animierte Katze mit spanischer Flagge) neuen Schub rund um WM-Finale.",
+      "status": "neu"
+    },
+    {
+      "category": "song",
+      "title": "Stay All Night – The Black Keys",
+      "date": "2026-07-24",
+      "summary": "Song des Tages, gewählt aus Lukas' aktuellen Top-Tracks (The Black Keys). Unbeschwerter Feier-Aufruf als Kontrapunkt zu Ölpreisschock/Getreidekrise und passend zum Vorabend des Libori-Fests in Paderborn.",
+      "status": "neu",
+      "quelle": "top-tracks"
     }
   ]
 }
