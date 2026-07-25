@@ -2173,6 +2173,133 @@
       "summary": "Song des Tages, gewählt aus Lukas' aktuellen Top-Tracks (The Black Keys). Unbeschwerter Feier-Aufruf als Kontrapunkt zu Ölpreisschock/Getreidekrise und passend zum Vorabend des Libori-Fests in Paderborn.",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "Nahost-Krieg: Huthi eröffnen mit Tanker-Angriffen zweite Front im Roten Meer",
+      "date": "2026-07-25",
+      "summary": "Erstmals wurde die am 20.7. angekündigte Huthi-Seeblockade real: zwei saudische Öltanker ('Encelia'/'Layla') am 23.7. angegriffen. Ölpreis erstmals über 100 USD/Barrel. Trump droht, Iran für Huthi-Angriffe verantwortlich zu machen, erwägt Ausweitung eigener Angriffe. Eigener Artikel (qualitativ neue Eskalationsdimension).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ebola-Ausbruch DR Kongo: schnellste Ausbreitung der Geschichte",
+      "date": "2026-07-25",
+      "summary": "Themenmix-Artikel (Gesundheit/Gesellschaft). Über 1.000 Tote, 2.273 Fälle; schnellster dokumentierter Ebola-Ausbruch (2 Monate statt >10 Monate 2018-2020 für 2.000 Fälle). Übergriff auf Uganda, importierter Fall in Frankreich, kein zugelassener Impfstoff für aktuellen Stamm.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "US-Erstanträge auf Arbeitslosenhilfe niedrigster Stand seit 1969",
+      "date": "2026-07-25",
+      "summary": "Themenmix-Artikel (Wirtschaft). 187.000 Erstanträge (Woche zum 18.7.), -22.000 ggü. Vorwoche, Erwartung war Anstieg auf ~212.000. Deutet auf robusten US-Arbeitsmarkt trotz geopolitischer Lage hin.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "Trump koppelt Saudi-Atomabkommen an Israel-Normalisierung",
+      "date": "2026-07-25",
+      "summary": "Nuklearabkommen (unterzeichnet 22.7.) laut Trump 'total davon abhängig', dass Saudi-Arabien den Abraham-Abkommen beitritt; Riad knüpft Normalisierung an Weg zu Palästinenserstaat. Eigener Artikel.",
+      "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine: Getreidekorridor bleibt blockiert, UN-Sitzung weiter für 27.7. terminiert",
+      "date": "2026-07-25",
+      "summary": "Keine qualitativ neue Entwicklung seit 24.7., nur Hinweisblock. Korridor weiterhin komplett blockiert, Reedereien wie Maersk setzen Anläufe aus.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "UK: Burnham zieht mit Regierungsarbeit ins dezentrale 'No 10 North' um",
+      "date": "2026-07-25",
+      "summary": "Organisatorischer Schritt (Umzug nach Manchester/Heron House) ohne neue politische Substanz, nur Hinweisblock.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Merz-Kabinettsumbau: Warken wird Kanzleramtschefin, Linnemann Gesundheitsminister, Amthor Staatsminister",
+      "date": "2026-07-25",
+      "summary": "Aus Spahn-Nachfolge wurde größere Regierungsumbildung: Frei soll 29.7. Fraktionschef werden, Warken (bisher Gesundheitsministerin) wird erste Kanzleramtschefin, Linnemann folgt als Gesundheitsminister, Amthor löst Meister als Staatsminister Bund-Länder ab. Eigener Artikel (qualitativ neu ggü. reiner Fraktionschef-Frage).",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "VW-Gewinn bricht im Q2 um ein Drittel ein, SAP übertrifft Erwartungen",
+      "date": "2026-07-25",
+      "summary": "VW: Gewinn -32,9% auf 1,54 Mrd. Euro (10. Rückgang in Folge), China-Absatz -1/3, Umsatzprognose gesenkt; Grundkonflikt Sparpaket/Stellenabbau ungelöst. SAP: Cloud-Umsatz +24% auf 6,3 Mrd. Euro, Auftragsbestand +26%, übertrifft Erwartungen trotz leicht gesenkter Gewinnprognose. Eigener Artikel (kombiniert, harte neue Zahlen).",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "150 Jahre Bayreuther Festspiele eröffnet",
+      "date": "2026-07-25",
+      "summary": "Themenmix-Artikel (Kultur). Eröffnung mit Beethovens Neunter unter Thielemann, Gäste u.a. Merz, Merkel, Söder, Özdemir, Dobrindt, Bär, Weimer.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Libori 2026 eröffnet, Trinkbrunnen weiterhin nicht fertig",
+      "date": "2026-07-25",
+      "summary": "Fest wie geplant eröffnet (Kirmesstart 14 Uhr, Fassbieranstich Strate 16:30 Uhr), >1 Mio. Besucher über 9 Tage erwartet. Trinkbrunnen trotz Ratsbeschluss 2025 und festgelegtem Standort weiterhin nicht gebaut. Merz-Festrede und Gegendemo morgen (26.7.). Eigener Artikel (Leitgeschichte).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Delbrück Fahrerflucht B64: Tatverdächtiger identifiziert, weiter flüchtig",
+      "date": "2026-07-25",
+      "summary": "Wendepunkt: BMW 3er sichergestellt (Schöninger Straße), 23-jähriger Bulgare mit Wohnsitz Delbrück als Tatverdächtiger identifiziert, Aufenthaltsort unbekannt, Fahndung läuft. Eigener Artikel.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Weserbrücke Höxter: Baurecht für Ersatzneubau erteilt",
+      "date": "2026-07-25",
+      "summary": "Themenmix-Artikel (Infrastruktur/Kreis Höxter). Straßen.NRW erhält Planfeststellungsbeschluss vom NRW-Verkehrsministerium; Weser-Radweg Herstelle-Beverungen war für Vorarbeiten kurz komplett gesperrt. Nur einfach belegt (Behördenmeldung).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Dornberger Straße Bielefeld: Vollsperrung weiter für 27.7. terminiert",
+      "date": "2026-07-25",
+      "summary": "Keine neue Entwicklung, nur Hinweisblock.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Elha Hövelhof: Schließung Eigenfertigung weiter für Q1/2027 terminiert",
+      "date": "2026-07-25",
+      "summary": "Keine neue Entwicklung, nur Hinweisblock.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'Jimothy' der Waschbär: Marken-Phänomen mit Tierschutz-Debatte",
+      "date": "2026-07-25",
+      "summary": "Waschbär mit Wirbelsäulendeformität aus Seattle wird zum kommerziellen Meme (Google-Easter-Egg, Slim Jim, Bobblehead-Museum, WoW/Roku-Crossover); Wildtierexperten warnen vor Menschenandrang/Fütterung. Mehrfach unabhängig belegt.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "'2026 is the new 2016': Nostalgie-Trend gegen KI-Feeds",
+      "date": "2026-07-25",
+      "summary": "TikTok/Instagram-Trend stellt 2016er-Ästhetik der heutigen KI-übersättigten Feed-Kultur gegenüber, inzwischen Mainstream-Marketingthema. Aufhänger: Charli-xcx-Album 'Music, Fashion, Film' (24.7.). Mehrfach unabhängig belegt.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "'Cat Walk': Nachbarschafts-Katzentouren auf TikTok",
+      "date": "2026-07-25",
+      "summary": "Aus Portland stammendes Phänomen (geführte Spaziergänge zum Katzen-Beobachten) verbreitet sich in weitere Städte (Toronto). Nur einfach belegt / überwiegend Lifestyle-Quellen.",
+      "status": "neu"
+    },
+    {
+      "category": "song",
+      "title": "Die rote Sonne von Barbados – Die Flippers",
+      "date": "2026-07-25",
+      "summary": "Song des Tages, gewählt aus Lukas' Top-Tracks (Die Flippers, erstmals gewählt). Unbeschwerter Schlager-Party-Song als Kontrapunkt zu Nahost-Eskalation/Ebola-Ausbruch und passend zur Feierlaune des heutigen Libori-Kirmesstarts.",
+      "status": "neu",
+      "quelle": "top-tracks"
     }
   ]
 }
