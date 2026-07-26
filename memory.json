@@ -2300,6 +2300,126 @@
       "summary": "Song des Tages, gewählt aus Lukas' Top-Tracks (Die Flippers, erstmals gewählt). Unbeschwerter Schlager-Party-Song als Kontrapunkt zu Nahost-Eskalation/Ebola-Ausbruch und passend zur Feierlaune des heutigen Libori-Kirmesstarts.",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "Nahost-Krieg: Huthi-Blockade gegen Saudi-Arabien real, Iran übernimmt faktisch Hormus-Kontrolle, Öl über 100 Dollar",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst: Huthi griffen 22./23.7. saudische Tanker Encelia/Layla/NCC Masa an, Saudi-Koalition antwortete mit Luftschlägen auf Hudaida. Schiffsverkehr durch Hormus verlagerte sich nach drei Tankertreffern (23.7.) fast komplett auf iranisch kontrollierten Nordkorridor. Brent-Ölpreis stieg von ~86 USD (20.7.) auf erstmals über 100 USD (25.7.). Trump knüpft Saudi-Nuklearabkommen zusätzlich an Israel-Normalisierung.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine: Schwarzmeer-Getreidekorridor komplett blockiert, UN-Dringlichkeitssitzung 27.7.",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst: Nach russischem Angriff auf Frachtschiff Golden Rose (22.7.) passierte erstmals kein Schiff mehr den Korridor, Maersk leitet über Rumänien um, Weizenpreise +16%. UN-Sicherheitsrats-Dringlichkeitssitzung für 27.7. einberufen. Chmara-Bestätigung als Verteidigungsminister weiter erst Mitte August erwartet.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Großbritannien: Andy Burnham als siebter Premierminister in zehn Jahren angetreten",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst: Vereidigt 20.7. nach Starmer-Rücktritt, Kabinett mit Healey/Rayner/Haigh/Miliband/Mahmood. Erstes Sozialpaket: 2-Pfund-Busticket-Deckel, MwSt.-Wegfall auf Haushaltsenergie. Trump nennt UK 'Poverty Stricken Disaster'. Burnham sichert Selenskyj Unterstützung zu, verlegt Regierungsarbeit teils nach Manchester.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ebola-Ausbruch Kongo bleibt am schnellsten wachsender der Geschichte",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst (Themenmix-Artikel Gesundheit/Gesellschaft). Stand 22.7.: 2.536 bestätigte Fälle, 1.033 Tote. Schnellster dokumentierter Ebola-Ausbruch (2 Monate statt >10 Monate 2018-2020 für 2.000 Fälle), kein zugelassener Impfstoff für aktuelle Virusvariante, Übergriff auf Uganda, importierter Fall Frankreich.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Kabinettsumbau: Warken soll Kanzleramtschefin werden, Linnemann Gesundheitsminister, Frei Fraktionschef",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst: Aus reiner Spahn-Nachfolge wurde größerer Umbau. Merz/Söder schlugen 22.7. offiziell Frei als Fraktionschef vor; Warken soll erste Kanzleramtschefin werden, Linnemann folgt als Gesundheitsminister, Amthor löst Meister als Staatsminister Bund-Länder ab. Formale Entscheidung erst Sondersitzung 29.7.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "VW-Krise: Quartalsgewinn -32,9%, bis zu 100.000 Stellen im Gespräch",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst: Q2-Gewinn auf 1,54 Mrd. Euro eingebrochen (10. Rückgang in Folge), China-Absatz -1/3. Blume nennt erstmals konkrete Eskalationszahl (bis 100.000 Stellen ohne Kostenzugeständnisse), widerspricht Betriebsrats-Zahl (bis 140.000). Neun Betriebsversammlungen 25.-31.8. terminiert. SAP übertrifft dagegen mit Cloud-Umsatz +24% Erwartungen.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Jürgen Klopp offiziell als Bundestrainer vorgestellt",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst und damit abgeschlossen: DFB stellte Klopp 24.7. in Frankfurt vor (Vertrag bis WM 2030, Co-Trainer Krawietz/Lijnders/Bender), Debüt 24.9. gegen Niederlande. Kein weiterer Nachverfolgungsbedarf.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "150 Jahre Bayreuther Festspiele eröffnet",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst (Themenmix-Artikel Kultur). Eröffnung 25.7. mit Beethovens Neunter statt Wagner-Oper, Gäste u.a. Merz/Merkel/Söder. Intendantin Katharina Wagner betont kritische NS-Aufarbeitung; Ausladung von Redner Michel Friedman löste Kritik aus.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Libori 2026 eröffnet, Merz-Festrede und Gegendemo stehen noch bevor",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst: Fest eröffnet 25.7., über 1 Mio. Besucher über 9 Tage erwartet, Trinkbrunnen weiterhin nicht gebaut. Merz' Festrede beim Libori-Mahl und Gegendemo (Florianwiese, 'Nein zu Sozialabbau') fanden erst nach Redaktionsschluss dieser Ausgabe statt (Sonntagabend) - Ergebnis für Folgeausgabe nachverfolgen.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Delbrück B64 Fahrerflucht: Tatverdächtiger identifiziert, weiter flüchtig",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst: 23-jähriger Bulgare mit Wohnsitz Delbrück nach Sicherstellung des BMW als Tatverdächtiger identifiziert (81-jähriges Unfallopfer am 21.7. verstorben). Aufenthaltsort unbekannt, Fahndung läuft - für Folgeausgabe nachverfolgen.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Dornberger Straße Bielefeld: Vollsperrung startet 27.7. nach mehrfacher Verschiebung",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst: Rund viermonatige Vollsperrung (L778, ca. 1,3 Mio. Euro) beginnt planmäßig Montag. Bürgerpetition (~900 Unterschriften) und FDP-Landtagsanfrage ohne erkennbare Wirkung geblieben.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Elha Hövelhof gibt Eigenfertigung am Hauptstandort komplett auf",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst (Themenmix-Artikel Wirtschaft). Eigenfertigung bis Q1/2027 eingestellt, ~240 Beschäftigte betroffen, Ausbildungswerkstätten bleiben/werden ausgebaut. Genaue Stellenabbauzahl weiter nicht verifizierbar (Paywall).",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "KI-Deepfake-Welle rund um die WM klingt mit Turnierende ab",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst und damit abgeschlossen: Revelum zählt final 2.736 bestätigte Fake-Anzeigen über sechs Topspieler. Letzte Einzelfälle (Haaland-Spiegelbild, Bellingham-FIFA-Zitat) vor Finaltag, kein neuer Fall danach dokumentiert.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "social",
+      "title": "Tate-Brüder in Miami festgenommen, Reaktionen drehen sich um Festnahme-Outfit",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst: Festnahme 18./19.7. auf britisches Auslieferungsersuchen (Vergewaltigung/Menschenhandel-Vorwürfe), Online-Fokus auf Kleidung statt Anklage. Nächste Anhörung 27.7. - für Folgeausgabe nachverfolgen.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'Bangladesh'-Song erreicht Sommerhöhepunkt, Charli xcx sorgt mit Scorsese-Cover für Diskussion",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst: Ian McConnells Track dominiert als 'Song des Sommers 2026'-Kandidat (Reichweiten nicht unabhängig geprüft). Charli xcx' Album 'Music, Fashion, Film' (24.7.) mit kontroversem Scorsese/Jacobs/Cale-Cover befeuert '2026 is the new 2016'-Nostalgietrend.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'Jimothy' der Waschbär wird zum kommerziellen Meme mit Tierschutz-Debatte",
+      "date": "2026-07-26",
+      "summary": "In Wochenausgabe vom 2026-07-26 zusammengefasst: Waschbär mit Wirbelsäulendeformität aus Seattle erhielt Google-Easter-Egg, Slim-Jim-Kooperation, Bobblehead-Museum, WoW/Roku-Crossover. Wildtierexperten warnen vor Menschenandrang/Fütterung.",
+      "status": "neu"
+    },
+    {
+      "category": "song",
+      "title": "Trouble – Keith Richards",
+      "date": "2026-07-26",
+      "summary": "Song der Woche, gewählt wegen Keith Richards als dominierendem Künstler des jüngsten Hörverlaufs (vier Solo-Titel an einem Morgen). Titel passt zur sich selbst befeuernden 'Trouble' der Woche (Nahost-Kriegsausweitung, Ölpreis über 100 USD, Getreidekorridor-Blockade, VW-Gewinneinbruch) bei gleichzeitigen versöhnlichen Gegenmomenten (Klopp-Amtsantritt, neuer britischer Premierminister, Libori-Festwoche).",
+      "status": "neu",
+      "quelle": "recently-played"
     }
   ]
 }
