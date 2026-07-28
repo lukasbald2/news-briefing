@@ -2561,6 +2561,189 @@
       "summary": "Song des Tages, gewählt aus Lukas' Top-Tracks (Rolling Stones, nicht in den letzten 14 Tagen vorgeschlagen). Hoffnungsvoller Text über eine Verbindung, die ihren Weg zurückfindet - passt zur fragilen US-Iran-Kampfpause und dem beigelegten Bettensteuer-Streit als hoffnungsvolle Randnotizen an einem Tag, der mit dem Berliner CSD-Terroranschlag begann.",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine: Militärführungsumbau nach Protesten, Selenskyj trifft Trump in Washington",
+      "date": "2026-07-28",
+      "summary": "Eigener Artikel (neue Entwicklung, bisher nicht im Gedächtnis erfasst). Nach Massenprotesten in Kyjiw und ≥16 weiteren Städten entließ Selenskyj Verteidigungsminister Fedorow und Oberbefehlshaber Syrskyi, neuer Oberbefehlshaber ist General Drapatyj. Selenskyj traf 28.7. in Washington (Anlass: Trauerfeier für Senator Lindsey Graham) zusätzlich Trump im Weißen Haus; Ergebnis des Treffens lag bei Redaktionsschluss noch nicht vor.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Frankreich/Spanien: Verheerende Waldbrände, vierte Hitzewelle im Anmarsch",
+      "date": "2026-07-28",
+      "summary": "Themenmix-Artikel (Gesellschaft/Katastrophe). Gironde-Feuer (seit 22.7.) vernichtete ~42.000 ha, näherte sich bis auf 15 km an Bordeaux; Spanien (Ávila/Toledo) ~77.000 ha betroffen. Über 300.000 Menschen evakuiert, Macron berief Krisensitzung ein. Frankreich 2026 bereits >13.500 Waldbrände - schwerste Saison der Landesgeschichte. Vierte Hitzewelle des Sommers (bis 42°C) ab 28.7. erwartet.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Sudan: UN warnt vor Wiederholung des Genozid-Musters in El-Obeid",
+      "date": "2026-07-28",
+      "summary": "Neue Dimension ggü. Erstmeldung vom 27.7. UN-Ermittlungsmission (jetzt 333 Zeugeninterviews) bekräftigt Genozid-Einschätzung zu El-Fasher (RSF gegen Zaghawa/Fur) und warnt vor Wiederholung des Musters in El-Obeid, dort neue dringliche Untersuchung eingeleitet. Sudan-Nothilfeplan weiter <1/3 finanziert.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Nvidia-OpenAI-Milliardendeal (Bericht) und Chip-Aktien-Ausverkauf in Asien",
+      "date": "2026-07-28",
+      "summary": "Themenmix-Artikel (Wirtschaft/Technologie), nur als WSJ-Bericht bestätigt (nicht offiziell). Nvidia verhandelt angeblich 250-Mrd.-USD-Finanzierungsgarantie für OpenAI-Rechenzentrumsprojekt (SB Energy, Ohio, ~500 Mrd. USD Gesamtprojekt). Parallel brachen asiatische Chip-Aktien ein (Kospi zeitweise -8,2%, Samsung/SK Hynix je >-9%) wegen Konkurrenzangst durch Chinas Chipindustrie (CXMT-Börsengang +466%).",
+      "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "US-Iran-Kampfpause hält an, weitere Vermittler aktiv",
+      "date": "2026-07-28",
+      "summary": "Nur Hinweisblock, Fortschreibung. Pause hält seit 25./26.7. an, Ölpreis weiter auf ~88 USD/Barrel gefallen. Neben Oman vermitteln nun auch Katar, Pakistan, Ägypten - weiterhin keine formelle Waffenruhe.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine: Schwarzmeer-Getreidekorridor weiter blockiert, UN-Sitzung ohne bekanntes Ergebnis",
+      "date": "2026-07-28",
+      "summary": "Nur Hinweisblock, Fortschreibung. UN-Sicherheitsratssitzung fand 27.7. wie angesetzt statt, Ergebnis bei Redaktionsschluss nicht verifizierbar, bindende Resolution wegen russischem Vetorecht ohnehin unwahrscheinlich.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ebola-Ausbruch Kongo wächst weiter, erste Stabilisierungssignale",
+      "date": "2026-07-28",
+      "summary": "Nur Hinweisblock, Fortschreibung. ~3.200 Fälle/1.405 Tote, weiterhin schnellster dokumentierter Ausbruch, laut WHO aber erste Anzeichen einer Stabilisierung.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Venezuela-Erdbeben: Opferzahl weiterhin widersprüchlich zwischen Quellen",
+      "date": "2026-07-28",
+      "summary": "Nur Hinweisblock. Quellen nennen zwischen ~3.900 und >5.000 Toten - Widerspruch transparent kennzeichnen, bis verlässlichere Zahl vorliegt.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "CSD-Anschlag Berlin: Täter kam trotz Gefährdereinstufung 'Rot' auf Bewährung frei",
+      "date": "2026-07-28",
+      "summary": "Eigener Artikel (neue Dimension: Justizskandal). Attentäter 'Abdul Ballout' war am 12.5.2026 vom Amtsgericht Tiergarten wegen Vorbereitung einer staatsgefährdenden Gewalttat verurteilt worden, Haftbefehl aber aufgehoben - trotz 'Rot'-Einstufung durch Terror-Abwehrzentrum. Wegner 'fassungslos', Justizsenatorin Badenberg kündigt Überprüfung des Jugendstrafrechts bei Gefährdern an. Todesopfer als 65-jährige Polin identifiziert, 29 Verletzte, 8.000-10.000 Menschen gedachten der Opfer am Brandenburger Tor.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "ARD-Deutschlandtrend: Rekordtief für Merz und Union, AfD stabil vorn",
+      "date": "2026-07-28",
+      "summary": "Eigener Artikel (neu). AfD unverändert 27% vor Union (-1 auf 22%, niedrigster Wert seit Nov. 2021), Merz-Zustimmung Rekordtief 13% (-3), Regierungszufriedenheit nur 13%. Rund 3/4 sorgen sich um Wirtschaftsstandort.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "Neue Hitzewelle erreicht Deutschland",
+      "date": "2026-07-28",
+      "summary": "Themenmix-Artikel (Gesellschaft/Wetter), amtliche DWD-Quelle. Bis Donnerstag verbreitet 33-38°C, örtlich bis 41°C erwartet. Juli 2026 bislang +2,2°C über Klimamittel 1961-90.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Kabinettsumbau: Frei-Wahl zum Fraktionschef morgen (29.7.)",
+      "date": "2026-07-28",
+      "summary": "Nur Hinweisblock, Fortschreibung. Wahl weiterhin für 29.7. angesetzt, Kritik an mangelnder Unabhängigkeit des Merz-Vertrauten Frei hält an (Handelsblatt-Kommentar).",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "VW-Krise: Stellenabbau-Zahlen weiter widersprüchlich (100.000-120.000)",
+      "date": "2026-07-28",
+      "summary": "Nur Hinweisblock, Fortschreibung. Offiziell bestätigt nur 2024er-Sozialplan (~35.000 Stellen bis 2030), höhere Zahlen (100.000-120.000) je nach Quelle unterschiedlich, keine neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Geheimdienstreform: weiterhin kein Kabinettsbeschluss",
+      "date": "2026-07-28",
+      "summary": "Nur Hinweisblock, Fortschreibung. Referentenentwurf Dobrindt weiter nicht beschlossen, anhaltende Kritik von Datenschutzbeauftragter/Verbänden.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Paderborn Wirtschaftsstandort: Benteler-Großinvestition und Additive-Marking-Finanzierungsrunde",
+      "date": "2026-07-28",
+      "summary": "Themenmix-Artikel (Wirtschaft/Technologie). Benteler investiert >50 Mio. Euro in Schloß Neuhaus (Rohrherstellung, Automotive Components, Digitalisierung). Startup Additive Marking gewinnt Seed-III-Investoren (GS1 Germany Accelerator, TCP Beteiligungs-GmbH) für digital nachverfolgbare 3D-Druck-Bauteile.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Weserbrücke Höxter: Planungsauftrag für Ersatzneubau erteilt",
+      "date": "2026-07-28",
+      "summary": "Eigener Artikel (neu). Straßen.NRW erhielt Planungsauftrag vom NRW-Verkehrsministerium für Ersatzneubau statt Sanierung, Fertigstellung bis 2036 angepeilt, Niedersachsen will mitreden.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Delbrück-Sudhagen: neuer Sportplatz mit Ex-BVB-Nationalspielern eröffnet",
+      "date": "2026-07-28",
+      "summary": "Themenmix-Artikel (Gesellschaft/Sport), nur einfach unabhängig belegt. Eröffnung des neuen Rasenplatzes SV Sudhagen am 25.7. im Rahmen des Dorfprojekts 'Haus der Vereine', Fußballspiel mit Ex-BVB-Nationalspielern.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Libori 2026 läuft ohne Zwischenfälle weiter",
+      "date": "2026-07-28",
+      "summary": "Nur Hinweisblock (Sättigungsregel - bereits mehrfach eigener Artikel 23.-27.7.). Programm läuft normal weiter (Pontifikalamt, Sorvina-Konzert), keine Zwischenfälle bekannt.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Delbrück B64 Fahrerflucht: Tatverdächtiger weiterhin flüchtig",
+      "date": "2026-07-28",
+      "summary": "Nur Hinweisblock, keine neue Entwicklung. 23-jähriger identifizierter Tatverdächtiger weiterhin nicht gefasst.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Warburg: Baustart Teilerneuerung Trinkwasser-Transportleitung",
+      "date": "2026-07-28",
+      "summary": "Nur einfach belegt (Stadtwerke Warburg). Erneuerung von ~1.140m Leitung ab 27.7., Fertigstellung Herbst geplant.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Delbrück: Ehrennadel in Gold mit Diamant posthum an Klaus Kramer verliehen",
+      "date": "2026-07-28",
+      "summary": "Nur einfach belegt. Würdigung des ehrenamtlichen Wirkens im Clemens-August-von-Galen-Haus, Kramer war Ende Juni verstorben.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "social",
+      "title": "Elon Musk kündigt KI-generierte 'historisch akkurate' Odyssee-Verfilmung an",
+      "date": "2026-07-28",
+      "summary": "Neu, mehrfach bestätigt. Grok-Imagine-KI-Clip auf X als Ankündigung eines kompletten xAI-Spielfilms zur Odyssee, Kontrastangebot zu Nolans 'The Odyssey'. Fachleute halten 'historische Akkuratesse' per KI für kaum einlösbar.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Chinas KI-Companion-Verbot: virale Abschiedswelle von Nutzern",
+      "date": "2026-07-28",
+      "summary": "Neu, mehrfach bestätigt. Seit 15.7. gültiges Regelwerk zwang Doubao/Qwen zur Abschaltung personalisierter Companion-Bots, Nutzer posten 'Abschieds'-Beiträge. Regulierung verweist auf Suizidfall in den USA nach Character.AI-Bindung.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'Jimothy' der Waschbär bekommt offiziellen Bobblehead mit Spendenanteil",
+      "date": "2026-07-28",
+      "summary": "Fortschreibung mit neuer Dimension. National Bobblehead Hall of Fame vertreibt lizenzierte Figur, Erlösanteil an Tierschutzorganisation PAWS.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Weitere Social-Fortschreibungen (nur Hinweisblock)",
+      "date": "2026-07-28",
+      "summary": "Pattinson-Beggars-Meme: Puristen bestehen auf grobkörniger Optik. White-House-TikTok: offiziell als 'Freedom 250' verteidigt. Tate-Brüder: Haftprüfung auf 13.8. terminiert. 'Bangladesh'/Charli-xcx/'2026 ist das neue 2016': bleibt prägender Sommertrend. 'Preparing for my Netflix Documentary'-Meme: neu, nur einfach/aggregator-belegt, soll auf Instagram überspringen.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Omen – The Prodigy",
+      "date": "2026-07-28",
+      "summary": "Song des Tages, gewählt aus Lukas' zuletzt gehörten Titeln (The Prodigy, 27.7. morgens gehört, nicht in den letzten 14 Tagen vorgeschlagen). Text über ein sich zusammenbrauendes Gefühl/Wetterumschwung ('it's an omen') passt zur anrollenden Hitzewelle nach den Waldbränden in Frankreich/Spanien und zur Mischung aus CSD-Justizskandal, Selenskyj-Trump-Treffen und fragiler Nahost-Kampfpause.",
+      "status": "neu",
+      "quelle": "recently-played"
     }
   ]
 }
