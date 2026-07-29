@@ -2744,6 +2744,182 @@
       "summary": "Song des Tages, gewählt aus Lukas' zuletzt gehörten Titeln (The Prodigy, 27.7. morgens gehört, nicht in den letzten 14 Tagen vorgeschlagen). Text über ein sich zusammenbrauendes Gefühl/Wetterumschwung ('it's an omen') passt zur anrollenden Hitzewelle nach den Waldbränden in Frankreich/Spanien und zur Mischung aus CSD-Justizskandal, Selenskyj-Trump-Treffen und fragiler Nahost-Kampfpause.",
       "status": "neu",
       "quelle": "recently-played"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine: Selenskyj-Trump-Treffen bringt Patriot-Eigenproduktion und Wiederannäherung an Friedensgespräche",
+      "date": "2026-07-29",
+      "summary": "Nach Militärführungsumbau (Entlassung Fedorow/Syrskyi, Nachfolger Drapatyi) trafen sich Selenskyj und Trump am 28.7. im Oval Office; Fokus auf ukrainischer Patriot-Eigenproduktion (Lizenz aus Ankara-Gipfel) und möglicher Wiederbelebung der Friedensgespräche. Eigener Artikel, da konkretes Treffen-Ergebnis (Tag 2 des Strangs, keine Sättigung).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Chip-Marktbeben: Asiens Börsen erholen sich nach Nvidia-OpenAI-Schock, Fed-Entscheid steht aus",
+      "date": "2026-07-29",
+      "summary": "Nach Kospi-Einbruch (-10,8%) am 28.7. kräftige Erholung am 29.7. (Kospi +2,76%, Nikkei über 63.000). CXMT-IPO (+466% Debüt) treibt China-Aufholjagd-Sorgen, Fed-Zinsentscheid unter neuem Chair Kevin Warsh heute erwartet. Eigener Artikel als Fortschreibung mit neuer Dimension (Erholung + Fed).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Waldbrand bei Madrid wird größter in Spaniens Geschichte",
+      "date": "2026-07-29",
+      "summary": "Feuer bei Ávila (>50.000 ha) und San Martín de Valdeiglesias (~27.000 ha) zusammengewachsen, bis zu 100.000 Betroffene, NASA/ESA-Bodenstation betroffen. Eigener Artikel wegen Rekord-Dimension (größter Waldbrand in Spaniens Geschichte).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "US-Iran-Kampfpause hält an",
+      "date": "2026-07-29",
+      "summary": "Nur Hinweisblock: Iran führt laut eigener Aussage keine Verhandlungen, Trump droht mit Wiederaufnahme der Angriffe, Hormus-Schiffsverkehr weiter stark eingeschränkt. Reine Fortschreibung, gesättigt.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine: Schwarzmeer-Getreidekorridor weiter blockiert",
+      "date": "2026-07-29",
+      "summary": "Nur Hinweisblock: rund ein Drittel der ukrainischen Exportkapazität verloren, keine neue Eskalationsstufe. Gesättigt, reine Fortschreibung.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Venezuela-Erdbeben: Opferzahl weiterhin uneinheitlich",
+      "date": "2026-07-29",
+      "summary": "Nur Hinweisblock: über 5.000, laut schwächer belegter Zweitquelle 5.546 Tote — Zahl mit Vorbehalt behandelt. Gesättigt, reine Fortschreibung.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ebola-Ausbruch Kongo wächst weiter",
+      "date": "2026-07-29",
+      "summary": "Nur Hinweisblock: rund 3.200 Fälle/1.405 Tote, WHO sieht gemischtes Bild (Stabilisierung in Teilgebieten, Ausbreitung in anderen). Gesättigt, kein klarer Wendepunkt.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Union stimmt über Thorsten Frei als Fraktionschef ab",
+      "date": "2026-07-29",
+      "summary": "Sondersitzung der CDU/CSU-Fraktion (208 Abgeordnete) zur Wahl von Frei als Spahn-Nachfolger; Abstimmungsergebnis bei Redaktionsschluss nicht verlässlich bestätigt (nur Einzelquelle 'breite Zustimmung', nicht gegengeprüft). Am Folgetag Ergebnis nachrecherchieren.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "CSD-Anschlag Berlin: Jugendstrafrecht-Debatte",
+      "date": "2026-07-29",
+      "summary": "Justizsenatorin Badenberg fordert Überprüfung des Jugendstrafrechts für Gefährder, Wegner 'sprachlos' über frühere Bewährungsentscheidung. Eigener Artikel, da neue politische Dimension (Strang erst seit 28.7., nicht gesättigt).",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Bilanzsaison: Deutsche Bank, BASF, Mercedes-Benz übertreffen Erwartungen",
+      "date": "2026-07-29",
+      "summary": "Deutsche Bank Vorsteuergewinn 2,4 Mrd. Euro, BASF EBITDA 2,4 Mrd./Umsatz +16%, Mercedes-Benz Gewinn +13,5% trotz China-Absatzminus 30%. Themenmix-Artikel Wirtschaft, einmaliges Ereignis.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Hitzewelle erreicht Deutschland, bis zu 41 Grad möglich",
+      "date": "2026-07-29",
+      "summary": "DWD-Warnung ab 29.7. bis ca. 4.8., Höhepunkt Donnerstag, 33-38 Grad verbreitet, punktuell bis 41 Grad. Themenmix-Artikel Gesellschaft/Wetter.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "VW-Krise: Stellenabbau-Zahlen weiter unbestätigt",
+      "date": "2026-07-29",
+      "summary": "Nur Hinweisblock: Zahlen weiter zwischen 100.000-120.000, keine neuen Fakten. Gesättigt.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Geheimdienstreform weiterhin ohne Kabinettsbeschluss",
+      "date": "2026-07-29",
+      "summary": "Nur Hinweisblock: laut Berichten nun frühestens Mitte August geplant. Gesättigt.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "ARD-Deutschlandtrend: Rekordtief Merz/Union",
+      "date": "2026-07-29",
+      "summary": "Nur Hinweisblock: keine neuen politischen Reaktionen seit gestriger ausführlicher Berichterstattung.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Lufthansa-Stellenabbau 'New Ways' konkretisiert",
+      "date": "2026-07-29",
+      "summary": "Freiwilligenprogramm seit 27.7., zunächst 550 Vollzeitstellen betroffen, Teil des bis 2030 geplanten Abbaus von 4.000 Stellen. Kurzmeldung im Hinweisblock.",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "Chefs-Culinar-Zentrallager Büren-Ahden: Rohbau sichtbar",
+      "date": "2026-07-29",
+      "summary": ">100 Mio. Euro Investition, 259x221x22m Halle, Rohbau-Fertigstellung November 2026, ~400 Arbeitsplätze, Vollbetrieb ab Q1/2028. Themenmix-Artikel Wirtschaft.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "269. Annentag Brakel startet 31.7.",
+      "date": "2026-07-29",
+      "summary": "Größtes innerstädtisches Volksfest im Weserbergland, ~350.000 Besucher erwartet, 31.7.-3.8.; K50-Baustelle pausiert für die Festtage. Themenmix-Artikel Kultur.",
+      "status": "neu"
+    },
+    {
+      "category": "lokal",
+      "title": "Hitzewarnung OWL Stufe 1",
+      "date": "2026-07-29",
+      "summary": "DWD-Warnung 11-19 Uhr, bis 33 Grad in Gütersloh. Kurzer Service-Artikel, einmalig.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Libori 2026 läuft ohne Zwischenfälle weiter",
+      "date": "2026-07-29",
+      "summary": "Nur Hinweisblock: Fest läuft bis 2.8. planmäßig weiter, keine neue Entwicklung. Gesättigt.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Delbrück B64 Fahrerflucht: Tatverdächtiger weiterhin flüchtig",
+      "date": "2026-07-29",
+      "summary": "Nur Hinweisblock: 23-jähriger Tatverdächtiger weiterhin nicht gefasst. Gesättigt.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Jimothy der Waschbär: Weißes Haus vereinnahmt Meme politisch",
+      "date": "2026-07-29",
+      "summary": "MAGA-Bildbearbeitung des Weißen Hauses löst Empörung der Fangemeinde aus; Bobblehead/Spenden-Strang läuft parallel weiter (>58.000 USD für Ballard Food Bank).",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Weißes-Haus-TikTok 'American Culture' trifft auf Pattinsons 'Beggars'-Meme",
+      "date": "2026-07-29",
+      "summary": "Offizielles Weißes-Haus-Video wird für Klischee-Auswahl verspottet, überschneidet sich mit viralem Nolan-Zitat-Meme aus 'The Odyssey'.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "'Die Saxophone werden lauter'-TikTok-Trend",
+      "date": "2026-07-29",
+      "summary": "Boyz-n-the-Hood-Saxophon-Motiv wird komödiantisch auf Alltagssituationen angewendet, mehrfach unabhängig belegt.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Tate-Brüder: Anhörung ohne Entscheidung",
+      "date": "2026-07-29",
+      "summary": "Nur Hinweisblock: Anhörung 27.7. ohne Freilassung, nächster Termin 13.8., Anwalt spricht von Morddrohungen in Haft.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Bad Penny – Rory Gallagher",
+      "date": "2026-07-29",
+      "summary": "Song des Tages, gewählt wegen Rory Gallagher als aktuellem Top-Künstler/meistgehörtem Track und thematischer Passung ('a bad penny always turns up' — wiederkehrende Krisen wie US-Iran-Pause, VW-Debatte, Hitzewellen) bei gleichzeitigem Fortschritt (Selenskyj-Trump-Einigung, Börsenerholung).",
+      "status": "neu",
+      "quelle": "top-tracks/recently-played"
     }
   ]
 }
