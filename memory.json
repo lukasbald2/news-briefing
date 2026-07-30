@@ -2920,6 +2920,119 @@
       "summary": "Song des Tages, gewählt wegen Rory Gallagher als aktuellem Top-Künstler/meistgehörtem Track und thematischer Passung ('a bad penny always turns up' — wiederkehrende Krisen wie US-Iran-Pause, VW-Debatte, Hitzewellen) bei gleichzeitigem Fortschritt (Selenskyj-Trump-Einigung, Börsenerholung).",
       "status": "neu",
       "quelle": "top-tracks/recently-played"
+    },
+    {
+      "category": "global",
+      "title": "US-Iran-Waffenruhe zerbricht: Raketenangriff auf US-Basis Jordanien, USA fliegen Vergeltungsschläge",
+      "date": "2026-07-30",
+      "summary": "Eigener Artikel (Wendepunkt/Eskalation nach vier Tagen De-Eskalation). IRGC griff in der Nacht zum 29.7. die US-Basis Muwaffaq Salti in Jordanien mit ballistischen Raketen an (alle abgefangen, keine Opfer); zuvor US-saudische Luftschläge gegen iranische Milizen im Irak (20 Tote). USA starteten am Abend des 29.7. eine 'schwere Angriffswelle' gegen Dutzende IRGC-Ziele im Iran. De-Eskalation seit 25./26.7. faktisch beendet.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Fed hält Leitzins trotz offenem Dissens, Chipmärkte uneinheitlich",
+      "date": "2026-07-30",
+      "summary": "Eigener Artikel (neue Dimension: Fed-Ergebnis war offene Frage vom 29.7.). Leitzins bei 3,50-3,75% belassen, 9:3-Abstimmung mit drei Gegenstimmen für Zinserhöhung (Logan/Kashkari/Hammack). Samsung profitiert von Rekord-Chipgewinn (+3-4%), SK Hynix fällt weiter (-4%), Kospi-Entwicklung zwischen Quellen widersprüchlich (-1,1% vs. +1,1-2,2%).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Big-Tech-Bilanzen: Meta enttäuscht, Microsoft übertrifft dank Azure",
+      "date": "2026-07-30",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft/Technologie. Meta-Umsatz 60,8 Mrd. USD (+27%), EPS verfehlt (6,18 statt 7,18 USD erwartet). Microsoft-Azure erstmals über 100 Mrd. USD Quartalsumsatz. Apple/Amazon berichten am 30.7. Einmaliges Bilanz-Ereignis.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "Weitere laufende globale Stränge (nur Hinweisblock)",
+      "date": "2026-07-30",
+      "summary": "Ukraine/Selenskyj-Trump: erneutes Treffen 28./29.7. ohne neue Ergebnisse. Getreidekorridor: weiter blockiert, UN-Sicherheitsrat ohne Resolution, Weizenpreise +20%. Venezuela-Erdbeben: weiter über 5.500 Tote, keine neue Zahl. Ebola Kongo: 3.262 Fälle/1.437 Tote (Stand 27.7.), Uganda seit 21.6. ohne Neufall. Sudan: RSF greift El-Obeid nahezu täglich an, Genozid-Muster-Warnung. Waldbrand Madrid: stabilisierend, nicht gelöscht; Frankreich/Bordeaux-Evakuierungen dauern an.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Thorsten Frei mit 91,9% zum Unionsfraktionschef gewählt",
+      "date": "2026-07-30",
+      "summary": "Eigener Artikel (Abschluss). Sondersitzung 29.7., 170 von 185 Stimmen für Frei als Spahn-Nachfolger. Letzter offener Baustein des Kabinettsumbaus damit besetzt. Kein weiterer Nachverfolgungsbedarf.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Hitzewelle erreicht Höhepunkt, Gewitter beenden sie ab dem Wochenende",
+      "date": "2026-07-30",
+      "summary": "Eigener Artikel (Höhepunkt + absehbares Ende, dritter Tag in Folge eigener Artikel zur Hitzewelle, damit Strang-Abschluss). Bis zu 39-40 Grad am 30.7. (Allzeitrekord von Ende Juni nicht erreicht), danach Kaltluftvorstoß mit Gewittern, ab Samstag deutlich frischer, kommende Woche nur noch 20-25 Grad.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Deutsche Bank mit höchstem Quartalsgewinn seit fast 20 Jahren, BASF hebt Prognose an",
+      "date": "2026-07-30",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft. Deutsche Bank Vorsteuerergebnis 2,68 Mrd. Euro, Nettogewinn 1,64 Mrd. (+10%), Investmentbank +60%. BASF Umsatz +16% auf 17,2 Mrd., EBITDA 2,4 Mrd., Prognoseanhebung. Einmaliges Bilanz-Ereignis.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Weitere laufende nationale Stränge (nur Hinweisblock)",
+      "date": "2026-07-30",
+      "summary": "CSD-Anschlag/Jugendstrafrecht: Dobrindt fordert weiterhin Fußfesseln/Präventivhaft, kein Gesetzentwurf. VW-Krise: keine neue Aufsichtsratsentscheidung seit 9.7., nur Tarifpaket 35.000 Stellen bestätigt. Geheimdienstreform: weiterhin kein Kabinettsbeschluss, frühestens August. Lufthansa 'New Ways': Freiwilligenprogramm läuft unverändert weiter.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "NRW-Ministerpräsident Wüst beim Libori-Tag des Handwerks in Paderborn",
+      "date": "2026-07-30",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft/Gesellschaft. Wüst als Festredner beim Tag des Handwerks der Kreishandwerkerschaft Paderborn-Lippe, Nachmittag an der Maspernhalle. Einmaliger Termin.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Großbaustelle B1/B64 Paderborn startet nach Libori",
+      "date": "2026-07-30",
+      "summary": "Eigener Artikel, Verkehr/Infrastruktur. Straßen.NRW saniert ab Anfang August rund 2,3 km zwischen Frankfurter Weg/Heinz-Nixdorf-Ring und Wewerstraße, ca. 4,5 Monate, Fertigstellung Herbst 2026. Für Folgeausgaben nur bei Zwischenfällen erneut aufgreifen.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Verlorene Plane sorgt für Unfall auf B64 bei Höxter",
+      "date": "2026-07-30",
+      "summary": "Eigener Artikel. Transporter verlor am 24.7. Plane, die einen nachfolgenden Audi zum Ausweichen in den Graben zwang; Fahrer fuhr weiter. Polizei Höxter sucht Verursacher/Zeugen - für Folgeausgabe nur bei Festnahme erneut aufgreifen.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Weitere laufende lokale Stränge (nur Hinweisblock)",
+      "date": "2026-07-30",
+      "summary": "Libori (Tag 6/9): läuft ruhig weiter, nur Taschendiebstahl/Sachbeschädigung, Präventionsstreifen. Delbrück B64 Fahrerflucht: 23-Jähriger weiterhin flüchtig. Annentag Brakel: startet morgen (31.7.), ca. 320.000 Besucher erwartet. Weserbrücke Höxter: keine neue Entwicklung seit Planungsauftrag. Flughafen PAD: Nachfolgersuche für Hüser weiter offen.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "„The Kumar Method“ – konstruierte Viralität als Marketing-Lehrstück",
+      "date": "2026-07-30",
+      "summary": "Neu, mehrfach bestätigt. Fiktiver 'Buchhalter'-Account (>35 Mio. Views kumuliert) als bewusst konstruiertes Viralitäts-Experiment enttarnt, verkauft inzwischen kostenpflichtigen 'Engineered Virality'-Kurs.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "„Rush Hour“-Zitate werden TikTok-Lippensynchronisations-Trend",
+      "date": "2026-07-30",
+      "summary": "Neu, nur einfach belegt (nur Trend-Aggregatoren, keine etablierten Medien). Jackie-Chan/Chris-Tucker-Filmszenen von 1998 werden massenhaft nachgestellt/lippensynchronisiert.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Weitere Social-Fortschreibungen (nur Hinweisblock)",
+      "date": "2026-07-30",
+      "summary": "Saxophone-Trend läuft als dominantes Format weiter. Jimothy der Waschbär, Weißes-Haus-TikTok/Pattinson-Beggars-Meme: keine neue Entwicklung. Tate-Brüder: Kautions-Anhörung weiter auf 13.8. terminiert.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Burn Bright – The Heavy",
+      "date": "2026-07-30",
+      "summary": "Song des Tages, gewählt aus Lukas' zuletzt gehörten Titeln (29.7. nachmittags, nicht in den letzten 14 Tagen vorgeschlagen). Doppelte Bildsprache: Hitzewellen-Höhepunkt und wiederaufgeflammter US-Iran-Konflikt 'brennen' beide heute, bevor eine Gewitterfront zumindest die Hitze abkühlt.",
+      "status": "neu",
+      "quelle": "recently-played"
     }
   ]
 }
