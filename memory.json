@@ -3146,6 +3146,140 @@
       "summary": "Song des Tages, gewählt aus Lukas' aktuellen Top-Tracks wegen thematischer Passung zum ungewöhnlich ereignisreichen Tag (Polen-Rakete, Ägypten-Eskalation, BIP/Inflation, Hitzewellen-Ende, Libori-Unwetter, Annentag-Start) — 'nur zwei Paar Hände' für zu viele gleichzeitige Bälle in der Luft.",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "Gaza: 'Board of Peace' verkündet Hamas-Entwaffnungs-Fahrplan",
+      "date": "2026-08-01",
+      "summary": "Eigener Artikel (echter Wendepunkt). 15-Punkte-Fahrplan vom 30.7. sieht Übergabe der Gaza-Verwaltung an neues 'National Committee' vor, gestützt von künftiger internationaler Stabilisierungstruppe. Israel reagiert gespalten (Ben Gvir dagegen), Hamas knüpft Waffenabgabe an Staatlichkeit-Vorbedingung.",
+      "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "Sudan: Armee hält El-Obeid, RSF verübt Vergeltungsangriffe auf Zivilisten",
+      "date": "2026-08-01",
+      "summary": "Eigener Artikel (neue Dimension gegenüber reiner Belagerungsmeldung). ~13.000 Soldaten halten Stadt, RSF ~30km entfernt; zurückweichende RSF-Kämpfer greifen Zivilisten in Um Badr, Sodari u.a. an, UN dokumentiert 45 zivile Tote durch Drohnen in 3 Juli-Wochen.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Apple und Amazon übertreffen Bilanz-Erwartungen deutlich",
+      "date": "2026-08-01",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft. Apple Q3: 109,4 Mrd. USD Umsatz (+16%), EPS 2,02 statt 1,88 USD erwartet. Amazon: 200,6 Mrd. USD Umsatz (+20%), AWS +37% (schnellstes Wachstum seit 18 Quartalen). Bilanzsaison der Tech-Riesen insgesamt stärker als befürchtet, Wall-Street-Rally 31.7.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "Waldbrand bei Madrid 'technisch stabilisiert'",
+      "date": "2026-08-01",
+      "summary": "Eigener Artikel (Wendepunkt zur Erholung nach vorherigem Rekord-Waldbrand-Artikel vom 29.7.). Über 50.000 Rückkehrer, letzte zwei komplett evakuierte Orte (Valdemaqueda, Robledo de Chavela) freigegeben. Flächenangaben uneinheitlich (27.000 vs. bis 34.000 Hektar).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "Weitere laufende globale Stränge (nur Hinweisblock)",
+      "date": "2026-08-01",
+      "summary": "Ukraine: erneuter Kyjiw-Angriff Nacht zum 1.8. (3 Tote), keine neue Eskalationsdimension. US-Iran-Kampfpause hält, Trump ausweichend zu Verhandlungen. Venezuela-Erdbeben weiter >5.500 Tote unverändert. Ebola Kongo 3.360 Fälle/1.487 Tote unverändert. Neu erwähnt: Anthropic legte parallel zu OpenAI-Fall eigenen KI-Sandkasten-Sicherheitsvorfall offen (30.7.).",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "CDU-Landtagsfraktion Rheinland-Pfalz sagt Treffen mit Merz ab",
+      "date": "2026-08-01",
+      "summary": "Eigener Artikel (neuer Strang). Fraktionschef Gensch begründet Absage mit fehlendem Vertrauen wegen Umgangs mit entlassenem Verkehrsminister Schnieder (RLP-Herkunft) im Zuge von Merz' Kabinettsumbau. Deutlichste offene innerparteiliche Kritik an Merz bislang.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "Nach CSD-Anschlag: Koalitionsstreit um Jugendstrafrecht, Faktenkorrektur",
+      "date": "2026-08-01",
+      "summary": "Eigener Artikel (neue Dimension: Koalitionsstreit + Korrektur). Grüne (von Notz) kritisieren Dobrindt scharf, Justizministerin Hubig lehnt niedrigere Strafmündigkeitsgrenze ab. Berliner Justizpressestelle korrigiert Dobrindt/Wegner: Täter hatte unbedingte statt Bewährungsstrafe.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Rechtsanspruch auf Ganztagsbetreuung tritt in Kraft",
+      "date": "2026-08-01",
+      "summary": "Eigener Artikel, Themenmix Gesellschaft. Ab 1.8. Rechtsanspruch für Erstklässler (8h/Tag, 5 Werktage), jährliche Erweiterung bis 2029 auf alle 4 Grundschuljahre. Bund: bis 3,5 Mrd. Euro Infrastruktur, ab 2030 1,3 Mrd./Jahr laufende Kosten. Einmaliges Stichtags-Ereignis.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Startup-Boom: KI treibt deutsche Gründerzahlen auf Rekordniveau",
+      "date": "2026-08-01",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft/Technologie. 3.053 Neugründungen H1 2026 (+52%), ein Drittel KI-Sektor, 36 deutsche 'Einhörner'. Bitkom-Umfrage: kein befragtes Startup verzichtet mehr auf KI.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Weitere laufende nationale Stränge (nur Hinweisblock)",
+      "date": "2026-08-01",
+      "summary": "VW: 9 außerordentliche Betriebsversammlungen 25.-31.8. angesetzt, Blume muss sich Fragen stellen. Geheimdienstreform weiterhin ohne Kabinettsbeschluss, Mitte August anvisiert. Lufthansa 'New Ways': gezielte Mitarbeitergespräche laufen seit 27.7. BIP/Inflations-Prognosen der Institute uneinheitlich (KfW 0,7% Wachstum, Bundesbank 2,9% Inflation).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Libori 2026 endet am 2.8., Handwerkstag-Nachholtermin in Vorbereitung",
+      "date": "2026-08-01",
+      "summary": "Eigener Artikel (neue Dimension: Abschluss + Klärung zum Ausfall vom 30.7.). Pontifikalamt 2.8., 11 Uhr im Dom beendet Fest. Kreishandwerkerschaft prüft Nachholtermin für Tag des Handwerks im Rahmen des Herbstlibori, Datum noch offen.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "269. Annentag Brakel startet mit großem Andrang",
+      "date": "2026-08-01",
+      "summary": "Eigener Artikel (neue Dimension: Fest hat begonnen). Start 31.7. mit großem Ansturm, ~280 Aussteller, 6 neue Fahrgeschäfte, läuft bis 3.8. Prozession Sonntag, Vieh-/Warenmarkt und Feuerwerk Montag. Besucherzahlen-Schätzungen zwischen Quellen uneinheitlich (300.000-350.000).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Warsteiner: Eignerin Cramer stützt Konzern mit 20 Mio. Euro aus Privatvermögen",
+      "date": "2026-08-01",
+      "summary": "Eigener Artikel (neue Dimension über Sozialplan hinaus). Cramer sagt Haus-Cramer-Gruppe Patronats-/Rangrücktrittserklärung über 20 Mio. Euro bis September 2027 zu. Für Standort Paderborn weiterhin Käufersuche (Veltins-Interesse unbestätigt), sonst Schließung Jahresende.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Neue WFG-Chefin Paderborn: Christine Tölle folgt auf Trienes",
+      "date": "2026-08-01",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft/Gesellschaft. Dr. Christine Tölle (zuletzt Benteler Business Service) wird zum 1.9. neue Geschäftsführerin der Wirtschaftsförderung Paderborn/TPG TechnologiePark, Nachfolge Trienes (wechselt nach Münster).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Weitere laufende lokale Stränge (nur Hinweisblock)",
+      "date": "2026-08-01",
+      "summary": "Delbrück B64 Fahrerflucht: 23-Jähriger weiterhin flüchtig. B1/B64-Großbaustelle Paderborn startet wie geplant Anfang August ohne Zwischenfälle. Verlorene Plane B64 Höxter: keine Festnahme. Weserbrücke Höxter/Flughafen-PB-LP-Nachfolge ohne neue Entwicklung. L828 Willebadessen: Polizei sucht weiter Zeugen.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'Grande-Man'/SpiderGrande: Doppel-Release-Meme (Ariana Grande + Spider-Man)",
+      "date": "2026-08-01",
+      "summary": "Neu, mehrfach bestätigt. Album 'petal' und 'Spider-Man: Brand New Day' erschienen beide 31.7., Fans erzeugen 'Barbenheimer 2.0'-Meme-Welle, offizieller Spider-Man-Account postet Grande-in-Maske-Bild.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Spider-Man-Spoiler-Leak-Flut überfordert Sonys Takedowns auf X",
+      "date": "2026-08-01",
+      "summary": "Neu, mehrfach bestätigt, Themenmix Technologie. Bootleg-Clips aus 'Brand New Day' kursieren massenhaft nach internationalen Vorpremieren; X' 4-Stunden-Video-Upload-Funktion für Premium-Nutzer als Ursache genannt, Sony kommt mit DMCA-Takedowns nicht hinterher.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Weitere Social-Fortschreibungen (nur Hinweisblock)",
+      "date": "2026-08-01",
+      "summary": "Saxophone-Trend weiter dominant. Ariana-Grande-TikTok-Sound-Trend läuft fort plus Kritiker-Backlash-Diskurs ('soft' statt 'feral'). Jimothy Waschbär, Weißes-Haus-TikTok/Pattinson-Meme ohne Änderung. Tate-Brüder-Anhörung weiter 13.8. Kumar-Method-Identität weiter ungeklärt. Rush-Hour-Trend läuft unverändert (einfach belegt). Airbnb-Strandfoto-Mystery gilt als abgeschlossen.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Peace Somehow – Avi Kaplan",
+      "date": "2026-08-01",
+      "summary": "Song des Tages, erneut gewählt (zuletzt 7.7., außerhalb 14-Tage-Sperrfrist) wegen wörtlichem Bezug zum fragilen Gaza-Entwaffnungs-Fahrplan des 'Board of Peace'.",
+      "status": "neu",
+      "quelle": "top-tracks"
     }
   ]
 }
