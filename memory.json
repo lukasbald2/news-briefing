@@ -177,41 +177,6 @@
     },
     {
       "category": "global",
-      "title": "Vatikan erklärt Piusbruderschaft schismatisch",
-      "date": "2026-07-05",
-      "summary": "Exkommunikationsdekret gegen SSPX-Bischöfe/-Priester vollzogen, keine Rücknahme in Sicht (in Wochenausgabe vom 2026-07-05 zusammengefasst).",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "national",
-      "title": "AfD-Bundesparteitag Erfurt mit Großprotesten",
-      "date": "2026-07-05",
-      "summary": "Rund 30.000 Demonstranten, größter Polizeieinsatz Thüringens seit der Wiedervereinigung, Blockadeversuche scheiterten (in Wochenausgabe vom 2026-07-05 zusammengefasst).",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "lokal",
-      "title": "Viaduktfest Altenbeken",
-      "date": "2026-07-05",
-      "summary": "Dreitägiges Fest endete am 5. Juli mit Familienprogramm (in Wochenausgabe vom 2026-07-05 zusammengefasst).",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "social",
-      "title": "TikTok-Kuss-Auspeitschung Aceh: Urteil vollstreckt",
-      "date": "2026-07-05",
-      "summary": "Paar am 2. Juli mit je 21 Rutenschlägen bestraft, Amnesty International verurteilt dies scharf (in Wochenausgabe vom 2026-07-05 zusammengefasst).",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "social",
-      "title": "'Freddy aus Deutschland': WM-Fan-Phänomen",
-      "date": "2026-07-05",
-      "summary": "Viraler Account (>750.000 Follower) nach Rassismus-Vorwürfen zu alten Posts deaktiviert — kompletter Auf-und-Ab-Bogen der Woche (in Wochenausgabe vom 2026-07-05 zusammengefasst).",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "global",
       "title": "NATO-Gipfel Ankara eröffnet",
       "date": "2026-07-07",
       "summary": "36. NATO-Gipfel (7.-8.7., erstmals seit 2004 wieder in der Türkei) gestartet. Rutte fordert 5%-BIP-Ziel bis 2035, Ausbau Rüstungsindustrie, weitere Ukraine-Hilfe. Trump verlangt Einhaltung der Ausgabenzusagen ('NATO 3.0'). Für 8.7. Treffen Trump-Selenskyj, Trump-Erdogan, Trump-Al-Sharaa geplant.",
@@ -3525,6 +3490,119 @@
       "title": "Tell Me Lies – The Black Keys",
       "date": "2026-08-03",
       "summary": "Song des Tages, gewählt aus Lukas' Top-Tracks (Black Keys als Top-Künstler, zuletzt 24.7. mit anderem Titel 'Stay All Night' vorgeschlagen). Bezug: Widerspruch zwischen Trumps Behauptung produktiver Iran-Gespräche und Irans Dementi - eine Frage von Wahrheit und Behauptung.",
+      "status": "neu",
+      "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "Erdbeben Kumamoto: Hitzewelle erschwert Wiederaufbau",
+      "date": "2026-08-04",
+      "summary": "Eigener Artikel (qualitativ neue Dimension: Übergang von Rettungsphase zu Hitze-Krise in Notunterkünften). Todeszahl unverändert 38, aber SDF liefert Klimageräte an ~400 Notunterkünfte (15.000 Evakuierte) wegen Hitzewelle >40°C; Teile des Kyushu-Shinkansen wieder in Betrieb.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "OpenAI-Modell 'Astra' löst zehn jahrzehntealte Mathematik-Probleme",
+      "date": "2026-08-04",
+      "summary": "Eigener Artikel, Themenmix Technologie/Wissenschaft (neuer Strang). Lean-4-verifizierte Beweise unter anderem zu nicht-sofischen Gruppen (offen seit 1999); Fields-Medaillengewinner Timothy Gowers unabhängig beeindruckt, Begleitpaper mit Noga Alon veröffentlicht.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "Sudan: Drohnenangriff auf Stammesgericht in Darfur tötet 35 Zivilisten",
+      "date": "2026-08-04",
+      "summary": "Eigener Artikel (schweres Einzelereignis). Armee griff am 2.8. Stammesgericht in Garra al-Zawaya (Nord-Darfur) an, mind. 35 Tote inkl. Stammesführer; Drohnenangriffe laut UN Hauptursache ziviler Todesfälle im Sudan-Krieg 2026.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Weitere laufende globale Stränge (nur Hinweisblock)",
+      "date": "2026-08-04",
+      "summary": "Iran/Nahost: angekündigte US-Iran-Gespräche laut Teheran nicht erfolgt, nur Iran-Oman-Gespräche zu Hormuz-Route (Ölpreis -4,6%) - Widerspruch hält an, kein neuer Wendepunkt. Gaza: Israel setzt Angriffe trotz Hamas-Entwaffnungszusage fort, Vermittler verurteilen. Venezuela-Erdbeben: Todeszahl auf 6.125 aktualisiert (erste neue Zahl seit Tagen). Ebola Kongo unverändert (3.605/1.587, Stand 30.7.). Ukraine ohne neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Bundesnetzagentur wird zentrale KI-Aufsichtsbehörde (EU AI Act)",
+      "date": "2026-08-04",
+      "summary": "Eigener Artikel, Themenmix Technologie (neuer Strang). Transparenzpflichten Art. 50 EU AI Act seit 2.8. in Kraft (Kennzeichnungspflicht KI-Inhalte, Bußgelder bis 35 Mio. Euro), Bundesnetzagentur als zentrale Marktüberwachungsbehörde bestätigt.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Frühstart-Rente: Kabinett berät 12.8., Start faktisch nur Jahrgang 2020",
+      "date": "2026-08-04",
+      "summary": "Eigener Artikel, Themenmix Gesellschaft/Sozialpolitik (neuer Strang). Referentenentwurf vom 22.7., wegen Haushaltsengpass (50 Mio. statt ~1 Mrd. Euro/Jahr nötig) startet Förderung faktisch nur mit Geburtsjahrgang 2020, ältere Jahrgänge frühestens ab 2029.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Bahn und GDL einigen sich ohne Streik auf zweijährigen Tarifvertrag",
+      "date": "2026-08-04",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft/Arbeitsmarkt (positive Randnotiz, einmaliges Ereignis). Erstmals seit 2018 Tarifabschluss ohne Warnstreik: +2,5%/+2,5% zum 1.8.26/1.8.27, Einmalzahlung 700 Euro, neue Erfahrungsstufe für GDL durchgesetzt.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Weitere laufende nationale Stränge (nur Hinweisblock)",
+      "date": "2026-08-04",
+      "summary": "VW-Krise eingefroren, Betriebsversammlungs-Fahrplan konkretisiert (25./26./31.8.). CDU-Kritik an Merz ohne neue Eskalation, aber AfD-Umfragehoch (~27,3%) neu. Geheimdienstreform weiter auf ca. 12.8. terminiert. Jugendstrafrecht-Debatte unverändert. Bayer/Continental-Halbjahreszahlen heute veröffentlicht, aber nicht ausreichend über etablierte Quellen verifizierbar - bewusst ohne Zahlen gelassen.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Warsteiner: Geschäftsführer fristlos freigestellt, Existenzrisiko dokumentiert",
+      "date": "2026-08-04",
+      "summary": "Eigener Artikel trotz Sättigung (echter Wendepunkt). Vertriebs-Geschäftsführer Raphael Rauer am 2.8. fristlos freigestellt (Bremser der Sanierung), Jahresabschluss 2024 dokumentiert Bestandsrisiko, Cramer sichert mit 20-Mio.-Patronatserklärung ab. Käufersuche Paderborn läuft weiter (Edeka-Verbund, MBG kolportiert).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Libori 2026 endet mit positiver Polizeibilanz",
+      "date": "2026-08-04",
+      "summary": "Eigener Artikel, Themenmix Gesellschaft/Kultur (Abschluss). 31 Strafanzeigen, 36 Platzverweise, 8 Drogenfahrten bei insgesamt ruhigem, gut besuchtem Fest - kein weiterer Nachverfolgungsbedarf.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Hövelhof: Bau des seit über zehn Jahren geplanten Kreisverkehrs beginnt",
+      "date": "2026-08-04",
+      "summary": "Eigener Artikel, Lokalpolitik/Infrastruktur (neuer Strang, Nachbarort Delbrücks). Kreuzung Delbrücker Straße/Grüner Weg/Bruchweg, ca. 1,4 Mio. Euro, dreiphasiger Bau bis April 2027, Grüner Weg wird für ~9 Monate Sackgasse. Für Folgeausgaben nur bei Zwischenfällen erneut aufgreifen.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Weitere laufende lokale Stränge (nur Hinweisblock)",
+      "date": "2026-08-04",
+      "summary": "Annentag Brakel beendet (3.8.), offizielle Besucherbilanz noch offen. Delbrück B64-Fahrerflucht weiterhin ohne Festnahme. Flughafen PB/LP-Nachfolge und Weserbrücke Höxter ohne neue Entwicklung. B1/B64-Großbaustelle Paderborn läuft planmäßig. Nur einfach belegt: Delbrücker Stadtarchiv erhielt historische Schenkung (Ärztefamilien Schmidtmann/Gockel).",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'Preparing for my Netflix Documentary'-Meme-Trend",
+      "date": "2026-08-04",
+      "summary": "Neu, mehrfach bestätigt. Gespielt-dramatische 'Geständnisse' vor der Kamera im Netflix-True-Crime-Stil, Ursprung @wassupa1ex (30.6.), Netflix selbst reagierte, von TikTok auf Instagram Reels übergeschwappt.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "'Chiki Sha'-Tanztrend (Brasilien)",
+      "date": "2026-08-04",
+      "summary": "Neu, nur einfach belegt (nur TikTok-Discover/Trend-Aggregatoren, keine etablierte Presse). Brasilianischer Tanztrend seit Ende Juli auf TikTok/YouTube Shorts.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Weitere Social-Fortschreibungen (nur Hinweisblock)",
+      "date": "2026-08-04",
+      "summary": "'Bangladesh'-Song treibt neues Substitutions-Format auf Instagram Reels an, zweiter Popularitätsschub hält an. Saxophone-Trend weiter nicht belegbar, evtl. abgeklungen. Tate-Brüder-Anhörung weiter 13.8. terminiert. 'Kumar Method'-Identität weiter ungeklärt.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Driftwood Seat – Mighty Oaks",
+      "date": "2026-08-04",
+      "summary": "Song des Tages, aus Lukas' Top-Tracks (nicht in den letzten 14 Tagen vorgeschlagen). Song über Ankommen/Zur-Ruhe-Kommen in der Natur nach Jahreszeitenwechsel, passend zur Grundstimmung des Tages: mehrere lange festgefahrene Dinge kommen in Bewegung (Hövelhof-Kreisverkehr nach 10 Jahren, Bahn/GDL-Einigung ohne Streik, Kumamoto-Bahnverkehr läuft wieder an).",
       "status": "neu",
       "quelle": "top-tracks"
     }
