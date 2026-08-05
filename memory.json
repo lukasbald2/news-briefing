@@ -3605,6 +3605,126 @@
       "summary": "Song des Tages, aus Lukas' Top-Tracks (nicht in den letzten 14 Tagen vorgeschlagen). Song über Ankommen/Zur-Ruhe-Kommen in der Natur nach Jahreszeitenwechsel, passend zur Grundstimmung des Tages: mehrere lange festgefahrene Dinge kommen in Bewegung (Hövelhof-Kreisverkehr nach 10 Jahren, Bahn/GDL-Einigung ohne Streik, Kumamoto-Bahnverkehr läuft wieder an).",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "Sudan: Drohnenangriff auf Stammesgericht in Darfur vertieft Belagerungskrise um El-Obeid",
+      "date": "2026-08-05",
+      "summary": "Eigener Artikel (schweres Einzelereignis, Vertiefung nicht-gesättigter Strang). Drohnenangriff der Armee auf Stammesgericht in Garra al-Zawaya (Nord-Darfur, 2.8.) tötete je nach Quelle 35 (Emergency Lawyers), 37 (Sudan Tribune) oder 40 (RSF-nahe Quelle) Menschen - Widerspruch transparent gekennzeichnet. Belagerung von El-Obeid (~500.000 Einwohner) haelt an, Armee haelt Stadt, RSF greift Infrastruktur an.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine trifft Ziele bei Moskau/Petersburg, Russland feuert Rekordzahl an Raketen ab",
+      "date": "2026-08-05",
+      "summary": "Eigener Artikel (neuer Schwerpunkt, zuvor mehrere Tage nur Hinweisblock). Ukrainische Drohnen trafen 4.8. Wildberries-Lager bei Moskau/St. Petersburg und Oelraffinerie Sysran, 5 Tote/10 Verletzte (Gouverneur Vorobjov). Gegenlaeufig: Russland feuerte im Juli Rekord 376 Marschflugkoerper/Raketen (davon 126 ballistische) - hoechste Monatsrate seit Kriegsbeginn, +58% ggue. Februar-Hoechststand.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Amazon knackt 3-Billionen-Dollar-Marke, Bezos verkauft Aktien fuer 4 Mrd. - Palantir mit groesstem Kurssprung der Firmengeschichte",
+      "date": "2026-08-05",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft/Technologie. Amazon erstmals ueber 3 Billionen Dollar Marktkapitalisierung (3.8., 284,02 USD/Aktie), Bezos verkauft zeitgleich (planmaessig, Rule-10b5-1) 15 Mio. Aktien fuer ~4,07 Mrd. USD. Palantir Q2: Umsatz +93% auf 1,94 Mrd. USD, Aktie +30% (groesster Ein-Tages-Sprung seit Boersengang), Jahresprognose auf 8,16 Mrd. USD angehoben.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "Weitere laufende globale Stränge (nur Hinweisblock)",
+      "date": "2026-08-05",
+      "summary": "Nahost/Iran: Trump droht 'letzte Chance'/'Enthauptung' (3.8.), Iran bestreitet weiter direkte Gespraeche, Katar vermittelt - keine echte Bewegung. Gaza: Israel setzt Angriffe trotz Entwaffnungs-Roadmap fort, besteht nun auf Truppenabzug erst nach voller Entwaffnung. Kumamoto: offiziell als 'Katastrophe von ausserordentlicher Schwere' eingestuft (150 Mio. USD Soforthilfe), Todeszahl unveraendert 38 - nur Verwaltungsfolge, keine neue Dimension, daher trotz vorheriger 3-Tage-Serie heute nur Hinweisblock (Saettigungsregel angewendet). Ebola Kongo unveraendert 3.605/1.587 (Stand 30.7.). Venezuela: neues schwaecheres Nachbeben (M4, 2.8.), Opferzahl unveraendert ~6.125.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "CDU-Ministerpraesidenten stellen sich gegen Abschaffung der Rente mit 63 - Frei spricht 'Machtwort'",
+      "date": "2026-08-05",
+      "summary": "Eigener Artikel (Fortschreibung mit neuer Dimension: von Stilkritik zu Sachkonflikt). Kretschmer/Schulze/Voigt stellen sich per Brief gegen Rentenkommissions-Empfehlung zur Abschaffung der abschlagsfreien Rente mit 63; Frei spricht 4.8. 'Machtwort' ohne Verhandlungsspielraum. Forsa (4.8.): 43% fuer Kanzlerwechsel in der Union, aber nur 46% der eigenen Anhaenger dafuer. AfD weiter bei 27-28%, CDU/CSU bei 20-23% (Institute uneinheitlich).",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Quartalszahlen-Welle: Bayer/Continental uebertreffen gedaempfte Erwartungen, Siemens Energy auf Rekordkurs",
+      "date": "2026-08-05",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft. Bayer Q2: Umsatz 10,87 Mrd. Euro (+2,2%), EBITDA +1,9% (Crop Science treibt). Continental: Umsatz 4,4 Mrd. Euro, EBIT +35,1% (Reifensparte), Aktie dennoch -2,5%. Siemens Energy: Auftragseingang +29,5% auf 17,7 Mrd. Euro (KI-Rechenzentren-Nachfrage), Rekord-Auftragsbestand 154 Mrd. Euro. Infineon-Zahlen (5.8.) zum Redaktionsschluss noch nicht verfuegbar, bewusst nicht mit unbestaetigten Zahlen wiedergegeben.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Bayreuther Festspiele: Erstmals komplett KI-generierter 'Ring des Nibelungen' spaltet Kritik",
+      "date": "2026-08-05",
+      "summary": "Eigener Artikel, Themenmix Kunst & Kultur. Zum 150-jaehrigen Jubilaeum erstmals vollstaendig KI-generierte Buehnenbilder ('Ring 10010110', Kurator Marcus Lobbes, Dirigent Thielemann). Musikalisch als Referenzereignis gefeiert, KI-Bildwelten scharf kritisiert (NZZ: 'Reizueberflutung'), Buhrufe nach 'Goetterdaemmerung' (1.8.). Debatte haelt tagelang nach Premiere an.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Weitere laufende nationale Stränge (nur Hinweisblock)",
+      "date": "2026-08-05",
+      "summary": "VW-Krise eingefroren, Aufsichtsrat vertagt bis 4.9., Betriebsversammlungs-Fahrplan (25./26./31.8.) unveraendert. Geheimdienstreform: neuer Widerstand von Landesaerztekammer Hessen/Bundesaerztekammer (Arzt-Patienten-Geheimnis), Kabinett weiter auf 12.8. terminiert. Jugendstrafrecht-Debatte weiter dormant, Studien-Zwischenbericht erst Ende 2027.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Einzelhandel in OWL waechst nominal - doch die Zahlen taeuschen",
+      "date": "2026-08-05",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft (neuer Strang, ausserhalb bekannter Dauerstraenge). Einzelhandel OWL H1 2026 nominal gewachsen, inflationsbereinigt nur +0,7% real - von Haendlervertretern als Stagnation statt Erholung gewertet.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Auto ueberschlaegt sich bei Ueberholmanoever in Lichtenau-Henglarn - zwei Kinder leicht verletzt",
+      "date": "2026-08-05",
+      "summary": "Eigener Artikel, Neu. Doppel-Ueberholmanoever (Autofahrerin vs. Traktor) am 3.8. auf der Dammstrasse, 42-Jaehrige weicht aus, ueberschlaegt sich mit Twingo; sie und ihre 6/9-jaehrigen Kinder leicht verletzt, ~12.000 Euro Sachschaden, L818 bis 18 Uhr gesperrt.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Anklage gegen mutmasslichen Gruender eines der weltgroessten Darknet-Drogenmarktplaetze aus OWL",
+      "date": "2026-08-05",
+      "summary": "Eigener Artikel, Neu. Generalstaatsanwaltschaft Frankfurt klagt 31-Jaehrigen aus Kreis Minden-Luebbecke wegen Gruendung des Darknet-Forums 'Archetype Market' an (laut BKA zeitweise weltgroesster Drogen-Online-Marktplatz), ~2,3 Mio. Bestellungen, ~33 Mio. Euro Umsatz. Beschuldigter seit 2025-Festnahme in Barcelona in U-Haft.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Weitere laufende lokale Stränge (nur Hinweisblock)",
+      "date": "2026-08-05",
+      "summary": "269. Annentag Brakel beendet (Feuerwerk 3.8.), Polizei Hoexter zieht mit 29 Einsaetzen ruhige Bilanz, Besucher-Endzahl weiter offen. Warsteiner/Haus Cramer: keine neue Entwicklung seit gestriger Fuehrungskrise, Kaeufersuche Paderborn laeuft weiter - Saettigung, daher nur Hinweisblock. Hoevelhof-Kreisverkehr laeuft wie gestern berichtet an (Rufbushaltestelle 'Gruener Weg' entfaellt seit 3.8.) - keine neue Entwicklung seit gestrigem Eigenartikel, daher heute nur Hinweisblock. Delbruecker B64-Fahrerflucht (23-Jaehriger) weiterhin ohne Festnahme. Kfz-Zulassungsstelle Warburg wegen Personalmangels bis 7.8. geschlossen.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Backlash gegen OpenAIs Luxus-Influencer-Reise 'Summer Club'",
+      "date": "2026-08-05",
+      "summary": "Neu, mehrfach bestaetigt (TechCrunch, NBC News). OpenAI lud Creator zu Luxus-Retreat im Norden New Yorks ein (Farm-to-Table, ChatGPT-Work-Schulungen); Kritik an PR-Vereinnahmung, verstaerkt durch parallele Umwelt-/Energiedebatte um KI-Rechenzentren (OpenAI verhandelt 500-Mrd.-USD-Rechenzentrums-Deal Ohio).",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "TikTok unter Druck: vertraulicher Algorithmus-Bericht und stille Vergleiche in Sucht-Klagen",
+      "date": "2026-08-05",
+      "summary": "Neu, teils nur einfach belegt. Bloomberg (4.8., Einzelquelle): TikTok stellte 2021 nur 90% der US-Nutzer auf sicherere Algorithmus-Version um, 15 Mio. Kontrollgruppe (u.a. verstorbener 16-Jaehriger). Mehrfach bestaetigt: aussergerichtliche Vergleiche in drei Sucht-Klagen (Illinois/New Jersey/Mississippi), ~2.600 weitere Verfahren in Kalifornien anhaengig.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "'Jimothy Night': Seattle Mariners widmen viralem Waschbaeren restlos ausverkauftes Stadion-Event",
+      "date": "2026-08-05",
+      "summary": "Fortschreibung, mehrfach bestaetigt. Mariners-Event gegen Detroit Tigers am 5.8. im T-Mobile Park (Trikot-/Rookie-Card-Giveaway, Erloes an Ballard Food Bank) bereits ausverkauft, zweiter Termin 7.8. angekuendigt - Wandel vom politisch vereinnahmten Meme zur wohltaetigen Fan-Tradition.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Weitere Social-Fortschreibungen (nur Hinweisblock)",
+      "date": "2026-08-05",
+      "summary": "'Kumar Method': neue Figur 'Cyrus' loest Kumar ab, Format-Ende oder Fortsetzung unklar (weiter nur Trendseiten). 'Bangladesh'-Song naehert sich 1 Mio. Spotify-Streams. Charli-XCX-'Rock Music'-Glitch-Trend unveraendert. 'Chiki Sha' weiterhin nur ueber TikTok selbst belegt. Ariana Grandes 'petal' ohne neue Rekorde. Tate-Bruesder-Anhoerung weiter 13.8.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "How You Like Me Now?! – The Heavy",
+      "date": "2026-08-05",
+      "summary": "Song des Tages, gewaehlt aus Lukas' aktuellen Top-Tracks wegen thematischer Passung zum wirtschaftlichen Triumph-Narrativ des Tages (Amazon knackt 3-Billionen-Dollar-Marke, Palantir groesster Kurssprung der Firmengeschichte, Siemens Energy Rekord-Auftragsbestand) - als musikalischer Kontrapunkt zu den zaehen Machtkaempfen des Tages (CDU-Rentenstreit, Sudan, Ukraine).",
+      "status": "neu",
+      "quelle": "top-tracks"
     }
   ]
 }
