@@ -3725,6 +3725,119 @@
       "summary": "Song des Tages, gewaehlt aus Lukas' aktuellen Top-Tracks wegen thematischer Passung zum wirtschaftlichen Triumph-Narrativ des Tages (Amazon knackt 3-Billionen-Dollar-Marke, Palantir groesster Kurssprung der Firmengeschichte, Siemens Energy Rekord-Auftragsbestand) - als musikalischer Kontrapunkt zu den zaehen Machtkaempfen des Tages (CDU-Rentenstreit, Sudan, Ukraine).",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "Russland attackiert Region Kiew mit einem der schwersten Angriffe des Krieges — 17 Tote",
+      "date": "2026-08-06",
+      "summary": "Eigener Artikel (Eskalationssprung). Nacht auf 5.8.: 24 ballistische Raketen, 4 Marschflugkörper/Hyperschallraketen, 115 Drohnen auf Region Kiew, 17 Tote/44+ Verletzte (Schwerpunkt Browary, Butscha, Fastiw). Kiewer Regionalverwaltung ruft 6.8. zum Trauertag aus. Russland nutzt laut mehreren Medien gezielt Mangel an Patriot-Interceptoren aus. Getrennt vom kleineren Angriff der Nacht auf 4.8. (14 Tote) zu sehen.",
+      "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "SpaceX legt erste Quartalszahlen als börsennotiertes Unternehmen vor — Rekordumsatz, aber Kurssturz",
+      "date": "2026-08-06",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft/Technologie. Erster Quartalsbericht seit IPO (Juni 2026, 85,7 Mrd. USD, größter Börsengang der Geschichte): Umsatz +92% auf 7,8 Mrd. USD, EBITDA fast verdreifacht auf 3,5 Mrd. USD. Aktie dennoch -13,6% (5.8.) wegen versechsfachter Capex (18,4 Mrd. USD, davon 15,8 Mrd. für KI-Infrastruktur) und Lock-up-Sorgen; -45% vom Hoch (16.6.). Musk: 1-Billionen-Umsatzmarke schon 2030 statt 2031.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "USA entziehen brasilianischer Botschafterin das Visum — diplomatischer Eklat vor den Wahlen",
+      "date": "2026-08-06",
+      "summary": "Eigener Artikel, Neu. Visum von Botschafterin Maria Luiza Ribeiro Viotti am 4.8. entzogen, da Brasilien dem designierten US-Botschafter Daniel Perez bislang das Agrément verweigert. Keine Ausweisung laut USA, reversibel bei Zustimmung Brasiliens. Weitere Eskalationsstufe in seit Monaten angespannten Beziehungen vor brasilianischen Wahlen.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Weitere laufende globale Stränge (nur Hinweisblock)",
+      "date": "2026-08-06",
+      "summary": "Nahost/Iran: weiter Zyklus aus Drohung/Rückzieher, keine Bewegung. Gaza/Board of Peace: weiter konditional, keine neue Dimension. Sudan/El-Obeid: Belagerung unverändert, laut UN >11.000 Geflüchtete (5.500 Kinder) in 2 Wochen, ~80% der Kinder-Opfer 2026 durch Drohnen. Kumamoto (38 Tote), Ebola Kongo (3.605/1.587, Stand 30.7.), Venezuela (~6.125 Tote) ohne neue Zahlen.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "CDU-Rentenstreit eskaliert zur parteiübergreifenden Bundesrats-Blockade — sieben Länder gegen Merz' Reformpaket",
+      "date": "2026-08-06",
+      "summary": "Eigener Artikel (neue Dimension: informell → formalisiert/parteiübergreifend). Offener Brief von Kretschmer/Schulze/Voigt (CDU) bekräftigt; neu: Schwesig (SPD) schließt sich an, fordert Rente mit 63 auch für künftige Generationen. Laut mehreren Quellen (Euronews, nd-aktuell, t-online) 7 von 16 Ländern (5 Ostländer + Saarland + Bremen) drohen Bundesrats-Blockade. Frei-Machtwort vom 4.8. bleibt bestehen.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Historisches Rhein-Niedrigwasser bei Kaub bedroht Industrie und Schifffahrt",
+      "date": "2026-08-06",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft/Klima. Pegel Kaub fiel auf 23 cm (Mi 5.8., 5 Uhr) und unterschritt damit erstmals den bisherigen Rekord von Okt. 2018 (24 cm Einzelmessung/25 cm Tagesmittel); Prognose bis Samstag 17 cm. Chemie-/Mineralöl-/Stahlindustrie betroffen, Spritpreise ziehen an. BIP-Dämpfer-Schätzungen uneinheitlich (IW Köln 0,4 Pp. vs. IfW 0,1-0,2% für Q3). Bilger beruft Krisentreffen für 6.8. ein.",
+      "status": "neu"
+    },
+    {
+      "category": "national",
+      "title": "Infineon meldet Rekordumsatz dank KI-Boom — Kontrastbild zur VW-Krise",
+      "date": "2026-08-06",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft/Technologie. Q3 GJ2026: Rekordumsatz 4,17 Mrd. Euro (+9% zum Vorquartal), Segmentergebnis +22% auf 797 Mio. Euro, getrieben von KI-Rechenzentren-Stromversorgung. Jahresprognose 16,3 Mrd. Euro bestätigt. Aktie dennoch -6,6% wegen Marge/gesenktem Free-Cashflow-Ausblick (ams-OSRAM-Übernahme).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Weitere laufende nationale Stränge (nur Hinweisblock)",
+      "date": "2026-08-06",
+      "summary": "VW-Krise eingefroren, nächste AR-Sitzung 4.9., Betriebsversammlungen 25./26./31.8. unverändert. Geheimdienstreform: Kabinett weiter auf 12.8. terminiert, neuer Widerstand von Bundesärztekammer/Landesärztekammer Hessen (Arzt-Patienten-Geheimnis).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Feuerwehr-Gerätehaus in Borchen-Etteln brennt vollständig aus — Millionenschaden",
+      "date": "2026-08-06",
+      "summary": "Eigener Artikel, Neu. Nacht zum 5.8., Alarmierung 23:47 Uhr über Rauchmelder. Drei Einsatzfahrzeuge und komplette Schutzausrüstung der Löschgruppe Etteln zerstört, ~100 Einsatzkräfte im Großeinsatz. Ursache: technischer Defekt an einem Fahrzeug in der Garage. Schaden im Millionenbereich.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Kreis Paderborn verbietet ab 6.8. Wasserentnahme aus Bächen und Flüssen",
+      "date": "2026-08-06",
+      "summary": "Eigener Artikel, Themenmix Umwelt/Gesellschaft. Allgemeinverfügung ab 6.8. bis 30.9.: Verbot des Abpumpens/Befüllens mobiler Behälter aus Bächen/Flüssen, Bußgeld bis 50.000 Euro. Schöpfen mit Eimer/Viehtränken weiter erlaubt. Zusätzlich seit 4.8. gesondertes Entnahmeverbot Lippe/Ems (Bezirksregierung Detmold, betrifft auch Kreis Gütersloh).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Vierter Angriff auf ein Pferd binnen zwei Monaten im Kreis Höxter",
+      "date": "2026-08-06",
+      "summary": "Eigener Artikel, Neu (eskalierende Serie). Pferd in Höxter-Bödexen mit Schnittwunden am Hals verletzt (Wochenende vor 5.8.) — vierter Fall in zwei Monaten nach Altenbergen/Papenhöfen. Polizei verstärkt Streifen, sucht Zeugen, Zusammenhang unklar. Keine bestätigte Verbindung zum früheren Fall Delbrück-Hagen (Juli).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Weitere laufende lokale Stränge (nur Hinweisblock)",
+      "date": "2026-08-06",
+      "summary": "Warsteiner/Haus Cramer ohne neue Entwicklung, Käufersuche Paderborn läuft weiter. Hövelhof-Kreisverkehr läuft planmäßig. Delbrücker B64-Fahrerflucht weiterhin ohne Festnahme. Flughafen PB/LP-Nachfolge und Weserbrücke Höxter ohne neue Entwicklung. Kfz-Zulassungsstelle Warburg bis 7.8. geschlossen. Neu, klein: Höxter verkauft systematisch ungenutzte Immobilien; Uhrmacher-/Juwelierwerkstatt Henning & Jegust in Höxter schließt nach über 25 Jahren.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Google zieht KI-Satellitenbild-Tool nach nur einem Tag zurück",
+      "date": "2026-08-06",
+      "summary": "Neu, mehrfach bestätigt (Forbes, TechXplore, Malwarebytes). Google-Earth-KI-Feature (Ende Juli) ermöglichte fotorealistische Fake-Satellitenbilder realer Orte (u.a. erfundene iranische Atomanlage); OSINT-Forscher deckten Missbrauchspotenzial binnen 24h auf, Google zog Feature zurück und kündigte strengere Guardrails an.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "'Du bist gut genug' schafft es unter die Top 10 des Jugendworts 2026",
+      "date": "2026-08-06",
+      "summary": "Fortschreibung mit neuer Dimension, mehrfach bestätigt (ZDFheute, 20 Minuten, Langenscheidt). Seit Mai laufender TikTok-Ohrwurm (KitschKrieg/Blumengarten, Shirin David) unter Top-10-Kandidaten für Langenscheidt-Jugendwort 2026. Voting bis 20.8., Finale bis 28.9., Verkündung 10.10. auf Frankfurter Buchmesse.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Weitere Social-Fortschreibungen (nur Hinweisblock)",
+      "date": "2026-08-06",
+      "summary": "Jimothy Night ausverkauft, zweiter Termin 7.8. Bangladesh-Song nähert sich 1 Mio. Spotify-Streams. Kumar-Method: neue Figur 'Cyrus' löst Kumar ab, Format-Zukunft unklar. Charli-XCX-Rock-Music-Glitch-Trend unverändert. Tate-Brüder-Anhörung weiter 13.8.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Hold On – Sons Of The East",
+      "date": "2026-08-06",
+      "summary": "Song des Tages, aus Lukas' zuletzt gehörter Musik (5.8., nicht in den letzten 14 Tagen vorgeschlagen). Titel als Kontrapunkt zum Durchhalten-Thema des Tages: Trauer in Kiew nach schwerem Angriff, Rhein-Rekordtiefstand, CDU-Länder halten geschlossen gegen Rente-mit-63-Abschaffung, eskalierende Pferde-Angriffsserie in Höxter.",
+      "status": "neu",
+      "quelle": "recently-played"
     }
   ]
 }
