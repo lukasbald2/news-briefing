@@ -302,14 +302,6 @@
       "status": "neu"
     },
     {
-      "category": "song",
-      "title": "Peace Somehow – Avi Kaplan",
-      "date": "2026-07-07",
-      "summary": "Song des Tages, gewählt wegen Avi Kaplan als aktuellem Top-Künstler (mehrfach zuletzt gehört) und thematischem Bezug zu NATO-Gipfel/Ukraine-Patt (Ringen um Frieden).",
-      "status": "neu",
-      "quelle": "recently-played"
-    },
-    {
       "category": "global",
       "title": "NATO-Gipfel Ankara: Abschlusserklärung mit 70-Mrd.-Ukraine-Zusage",
       "date": "2026-07-08",
@@ -3838,6 +3830,126 @@
       "summary": "Song des Tages, aus Lukas' zuletzt gehörter Musik (5.8., nicht in den letzten 14 Tagen vorgeschlagen). Titel als Kontrapunkt zum Durchhalten-Thema des Tages: Trauer in Kiew nach schwerem Angriff, Rhein-Rekordtiefstand, CDU-Länder halten geschlossen gegen Rente-mit-63-Abschaffung, eskalierende Pferde-Angriffsserie in Höxter.",
       "status": "neu",
       "quelle": "recently-played"
+    },
+    {
+      "category": "global",
+      "title": "Nahost: Hormuz-Deal wackelt, Saudi-Arabien/Türkei/Pakistan schmieden Verteidigungspakt",
+      "date": "2026-08-07",
+      "summary": "Eigener Artikel (Fortschreibung mit neuer Dimension). Iran/Oman einigen sich technisch auf neue Hormuz-Route, Iran erhebt aber Servicegebühren bis 2 Mio. USD/Durchfahrt, 8 Reederei-Verbände protestieren, Ölpreis +4% auf 82,80 USD. Ghalibaf spottet über Trumps Kurswechsel als 'Theaterdiplomatie in Dauerschleife'. Saudi-Arabien/Türkei/Pakistan unterzeichnen 7.8. eigenen Verteidigungspakt unabhängig von den USA.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "KI-Chip-Aktien erholen sich nach Milliarden-Ausverkauf — China meldet Rekord-Außenhandel",
+      "date": "2026-08-07",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft (neuer Strang). Micron/Marvell legen nach starken Quartalszahlen deutlich zu (+7%/+13%) nach vorherigem Billionen-Ausverkauf bei Nvidia/SK Hynix/Samsung/Micron. China meldet Juli-Außenhandelsplus (Exporte +23,9%, Importe +27,5%) dank globalem KI-Investitionsboom.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "Hitzewelle und Waldbrände in Europa erreichen Rekordausmaß",
+      "date": "2026-08-07",
+      "summary": "Eigener Artikel, Themenmix Gesellschaft/Klima (neuer Strang). Dritte Hitzewelle 2026, >10.000 Hitzetote laut WHO bis Mitte Juli, Waldbrandfläche EU ~499.000 Hektar (Rekord). Frankreich (Gironde, 220.000 Evakuierte) und Spanien (Madrid-Umland, 12 Tote) am schwersten betroffen.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Weitere laufende globale Stränge (nur Hinweisblock)",
+      "date": "2026-08-07",
+      "summary": "Ukraine: Selenskyjs 40-Tage-Frist für verdeckte Operationen lief 4.8. aus, keine neue Eskalation seit 5.8. Gaza: 8 Außenminister der Region verurteilen israelische Angriffe, Netanjahu bestätigt Ablehnung des Entwaffnungsplans. Sudan/El-Obeid-Belagerung unverändert, Darfur-Drohnenangriff jetzt 35-37 Tote. Kumamoto-Wiederaufbau kommt voran, Hitze erschwert Notunterkünfte. Ebola Kongo (~3.600/1.590) und Venezuela (~6.125 Tote) ohne neue Zahlen. Brasilien-USA-Visumsstreit offiziell bestätigt.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Rhein-Niedrigwasser erreicht neuen Rekord — Krisentreffen bringt Sofortmaßnahmen",
+      "date": "2026-08-07",
+      "summary": "Eigener Artikel (Fortschreibung mit neuer Dimension: weiterer Rekordbruch plus konkrete Maßnahmen). Pegel Kaub fiel von 24cm (3.8.) auf 19cm (5.8., neuer historischer Tiefstand), Prognose 17cm zum Wochenende. Bilger berief Krisentreffen 6.8. ein: Ausnahmen vom Sonntagsfahrverbot geprüft, DB Cargo soll Kapazitäten organisieren, Fahrrinnenausbau langfristiges Ziel.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Sprengstoff-Drohne am Flughafen Leipzig/Halle — Bundesanwaltschaft übernimmt Ermittlungen",
+      "date": "2026-08-07",
+      "summary": "Eigener Artikel, Neu. Mit Sprengvorrichtung ausgestattete Drohne in der Nacht auf 5.8. nahe ukrainischer Antonov-Maschine entdeckt, Luftverkehr zeitweise eingestellt. Dobrindt spricht von 'hybridem Anschlagsszenario', Generalbundesanwaltschaft übernimmt Ermittlungen. Sprengstoffmenge/Täterschaft nicht offiziell bestätigt, ukrainischer Botschafter vermutet Russland, BMI dementiert Munitionsbeladungs-Gerücht.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Thyssenkrupp-Aktionäre entscheiden über Abspaltung von tk accelis",
+      "date": "2026-08-07",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft (einmaliges Ereignis). Außerordentliche HV stimmt über Übertragung von 49% der Werkstoffsparte tk accelis an Aktionäre plus Umwandlung in Finanzholding ab (Strategie 'ACES 2030'). Ergebnis lag bei Redaktionsschluss nicht vor.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Debatte um Steinmeier-Nachfolge nimmt Fahrt auf — CDU, SPD und Grüne für Bundespräsidentin",
+      "date": "2026-08-07",
+      "summary": "Eigener Artikel, Neu. Özdemir (Grüne), SPD-Führung und führende Unionspolitiker sprechen sich vor Bundespräsidentenwahl 30.1.2027 parteiübergreifend für erste Bundespräsidentin aus. Kandidatinnen kursieren: Klöckner, Prien, Aigner (Söder-favorisiert). Merz befürwortet ebenfalls Frau im Amt. Klärung im Herbst erwartet.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Weitere laufende nationale Stränge (nur Hinweisblock)",
+      "date": "2026-08-07",
+      "summary": "CDU-Rentenstreit festgefahren, Frei sieht keinen Verhandlungsspielraum, 7/16 MP dagegen, JU warnt nun vor 'leichtfertigem Spiel'. Geheimdienstreform weiter auf ca. 12.8. terminiert. VW-Krise eingefroren (AR-Sitzung 4.9., Betriebsversammlungen 25./26./31.8.). BVerfG weist Wahlprüfungsbeschwerde zur BTW 2025 als nicht entscheidungsreif zurück. AAA-Bonitätssorgen wegen Klingbeils Neuverschuldungsplänen. DAX erstmals über 26.000 Punkte, Allianz/Munich Re/Daimler Truck legen 7.8. Zahlen vor. Jugendstrafrecht-Debatte weiter dormant.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Warsteiner/Haus Cramer: Stadt Paderborn schaltet sich in Zukunftssuche ein",
+      "date": "2026-08-07",
+      "summary": "Eigener Artikel (Fortschreibung mit neuer Dimension: kommunale Beteiligung). WFG Paderborn bietet Unterstützung bei Anschlussnutzung des Geländes an, Bürgermeister Strate sichert Beschäftigten Unterstützung zu. Cramer bestätigt Gespräche mit 'mehreren Interessenten' (Edeka-Verbund/MBG kolportiert, Veltins weiter unbestätigt). Mitarbeiterzahl Paderborn je nach Quelle 110-120.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Getreideernte im Kreis Paderborn fast abgeschlossen — Trockenheit setzt anderen Kulturen zu",
+      "date": "2026-08-07",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft/Landwirtschaft (neuer Strang). WLV-Zwischenbilanz: Getreide/Raps im Nordwesten des Kreises fertig eingefahren, Südkreis auf Zielgeraden. Mais, Zuckerrüben, Kartoffeln leiden unter Trockenheit. DWD bestätigt Bodenfeuchte-Niveau ähnlich Dürrejahren 2018/2022.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Festival 'Rock am Köterberg' startet in Lüdge-Niese",
+      "date": "2026-08-07",
+      "summary": "Eigener Artikel, Themenmix Kultur/Gesellschaft, nur einfach belegt (keine Tageszeitung, nur Veranstalter/Ticketportale). Zweitägiges Festival (7./8.8.) auf Kulturhof Gut Steimke, ~1000 Besucher, lokale Bands und Tribute-Acts.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Weitere laufende lokale Stränge (nur Hinweisblock)",
+      "date": "2026-08-07",
+      "summary": "Vierter Pferde-Angriff Kreis Höxter (Bödexen) weiter unaufgeklärt, verstärkte Streifen ohne neue Erkenntnisse. Delbrücker B64-Fahrerflucht (23-Jähriger) weiterhin flüchtig. Hövelhof-Kreisverkehr läuft planmäßig (Bauabschnitt 1 bis September). Flughafen PB/LP-Nachfolgesuche und Weserbrücke Höxter (Fertigstellung bis 2036) ohne neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'Kumar Method': Hauptfigur angeblich 'eliminiert', Nachfolger Cyrus sorgt für Wendung",
+      "date": "2026-08-07",
+      "summary": "Mehrfach bestätigt, neue Dimension (erzählerischer Bruch). Anonyme Gruppe 'The Council' beansprucht, Kumar eliminiert zu haben; Nachfolgefigur 'Cyrus' lehrt aggressivere Verhandlungstaktiken. Marketing-Fiktion, KI-Experiment oder echtes Format-Ende unter Zuschauern umstritten.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Jon Hamm tanzt sich zum globalen TikTok-Meme",
+      "date": "2026-08-07",
+      "summary": "Neu, mehrfach bestätigt. Clubszene aus Apple-TV+-Serie 'Your Friends & Neighbors' (Tanz zu 'Turn the Lights Off') seit Ursprung in Russland Okt. 2025 jetzt international 'unausweichlich', als Freude-/Erleichterungs-Edit-Format etabliert. Hamm selbst kommentierte den Hype öffentlich.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Weitere Social-Fortschreibungen (nur Hinweisblock)",
+      "date": "2026-08-07",
+      "summary": "Jimothy Night Teil 2 (7.8.) bei Seattle Mariners gegen Tampa Bay Rays. Saxophone-Trend entgegen Vortagesvermutung weiterhin aktiv/wachsend (Korrektur). Bangladesh-Song läuft weiter. Charli-XCX-Rock-Music-Glitch-Trend unverändert. Jugendwort-2026-Voting läuft bis 20.8. Tate-Brüder-Anhörung weiter 13.8. Nur einfach belegt: Bedazzling-Trend, '2016 ist das neue 2016'-Nostalgiewelle.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Den Selben Song Nochmal – SoOoster",
+      "date": "2026-08-07",
+      "summary": "Song des Tages, aus Lukas' aktuellen Top-Tracks (erstmals gewählt). Titel passt zur durchgehenden Beobachtung des Tages: Ghalibafs 'Theaterdiplomatie in Dauerschleife'-Vorwurf an Trump, festgefahrener CDU-Rentenstreit, erneut gebrochener Rhein-Niedrigwasser-Rekord — Ereignisse, die sich wiederholen statt sich aufzulösen.",
+      "status": "neu",
+      "quelle": "top-tracks"
     }
   ]
 }
