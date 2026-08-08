@@ -372,13 +372,6 @@
       "status": "laufend"
     },
     {
-      "category": "lokal",
-      "title": "Paderborn: Turbo-Geburt vor Klinikeingang",
-      "date": "2026-07-08",
-      "summary": "Tochter Tilda kam am 2.7. acht Minuten nach Ankunft vor der Frauen-/Kinderklinik St. Louise zur Welt, Mutter und Kind wohlauf.",
-      "status": "abgeschlossen"
-    },
-    {
       "category": "social",
       "title": "Rassismus-Eklat um Mbappé nach WM-Achtelfinale",
       "date": "2026-07-08",
@@ -391,14 +384,6 @@
       "date": "2026-07-08",
       "summary": "Gefälschter Eurosport-Artikel/-Video (91,3% KI laut Erkennungstool) erreichte 14 Mio. Views auf X; Fake-Domain 'euro-sport.fr' kurz vor Veröffentlichung registriert.",
       "status": "laufend"
-    },
-    {
-      "category": "song",
-      "title": "Change On The Rise – Avi Kaplan",
-      "date": "2026-07-08",
-      "summary": "Song des Tages, gewählt wegen Avi Kaplan als Top-Künstler und thematischem Bezug zu Durchhalten/Wandel (NATO-Solidarität trotz Reibung, Mbappés Kontern gegen Rassismus).",
-      "status": "neu",
-      "quelle": "recently-played"
     },
     {
       "category": "global",
@@ -3948,6 +3933,126 @@
       "title": "Den Selben Song Nochmal – SoOoster",
       "date": "2026-08-07",
       "summary": "Song des Tages, aus Lukas' aktuellen Top-Tracks (erstmals gewählt). Titel passt zur durchgehenden Beobachtung des Tages: Ghalibafs 'Theaterdiplomatie in Dauerschleife'-Vorwurf an Trump, festgefahrener CDU-Rentenstreit, erneut gebrochener Rhein-Niedrigwasser-Rekord — Ereignisse, die sich wiederholen statt sich aufzulösen.",
+      "status": "neu",
+      "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "Nahost: Verteidigungspakt Saudi-Arabien/Türkei/Pakistan besiegelt, Angriffswelle bleibt erneut aus",
+      "date": "2026-08-08",
+      "summary": "Eigener Artikel (Abschluss/neue Dimension). Makkah Joint Defense Agreement zwischen Saudi-Arabien, Türkei, Pakistan real unterzeichnet (Ortsangabe zwischen Quellen uneinheitlich: Mekka vs. Dschidda); erwartete US/Israel-Angriffswelle gegen Iran erneut ausgeblieben, Zyklus aus Drohung/Verschiebung hält an.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine: Wirtschaftskrieg gegen Russland — Rekord-Drohnenangriff auf Wildberries-Lager",
+      "date": "2026-08-08",
+      "summary": "Eigener Artikel (neue Dimension). Seit 18.7. gezielte Angriffe auf Lagerhäuser von Wildberries (>10% Logistikfläche zerstört), 7.8. Treffer in Rekorddistanz 1.700km von der Grenze; Verlagerung von Energie-/Militärzielen auf zivile Wirtschaftsinfrastruktur.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "SpaceX/Nvidia-Exklusivpartnerschaft für orbitale KI-Rechenzentren",
+      "date": "2026-08-08",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft/Technologie. SpaceX setzt für Projekt 'Starmind' exklusiv auf Nvidia Vera-Rubin-Chips, Ziel 2 GW Rechenleistung bis Ende 2026 (Machbarkeit unbestätigt), Nvidia-Aktie +4%.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "Sudan: UN warnt erstmals vor Massaker-Risiko in El-Obeid",
+      "date": "2026-08-08",
+      "summary": "Eigener Artikel (Eskalationsstufe im Warnton). UN-Menschenrechtsbüro vergleicht Lage mit El-Fasher-Massaker 2025, mind. 45 Zivilisten durch 15 Drohnenangriffe in 3 Wochen getötet, ~500.000 Menschen eingeschlossen; militärische Lage selbst unverändert.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Weitere laufende globale Stränge (nur Hinweisblock)",
+      "date": "2026-08-08",
+      "summary": "Gaza Board of Peace: erster Bauauftrag Militärposten, Blockade unverändert. Kumamoto: Todeszahl weiter 38, Rekordhitze, möglicher erster Hitzetoter wird untersucht. Europa-Hitzewelle: Pyrocumulonimbus erstmals in Frankreich beobachtet, ~14 Tote unverändert. USA/Brasilien-Visastreit unverändert. Hormuz-Gebührenstreit ungelöst.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Leipzig/Halle-Drohne: neue Details, ukrainisches Frachtflugzeug als Ziel, Widerspruch zur Ladung",
+      "date": "2026-08-08",
+      "summary": "Eigener Artikel (neue Dimension, Widerspruch gekennzeichnet). Ziel war Antonow-AN-124, Sprengsatz in Konservendose mit Semtex, zweites Flugobjekt kollidiert mit DHL-Maschine (Notlandung Hannover); Widerspruch zu Munitionsladung (Presse vs. Bundesinnenministerium/Flughafenbetreiberin), False-Flag-These wird geprüft.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Quartalszahlen-Reigen zeigt Druck auf deutsche Industrie (Allianz/Daimler Truck/Porsche SE)",
+      "date": "2026-08-08",
+      "summary": "Eigener Artikel, Themenmix Wirtschaft. Allianz operativer Rekordgewinn +10,6%, Daimler-Truck-Gewinn -48% auf 128 Mio. Euro (US-Zölle), Porsche SE Halbjahres-Nettoverlust 2,2 Mrd. Euro.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Bundespräsidentinnen-Debatte: Forsa sieht Merkel vorn, sie winkt ab",
+      "date": "2026-08-08",
+      "summary": "Eigener Artikel (neue Dimension). Forsa-Umfrage: Merkel Wunschkandidatin, lehnt aber ab; Dröge wirbt für Frau im Amt, Söder für Aigner; Union/SPD wollen im Herbst entscheiden.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Weitere laufende nationale Stränge (nur Hinweisblock)",
+      "date": "2026-08-08",
+      "summary": "CDU-Rentenstreit weiter festgefahren (Frei: kein Verhandlungsspielraum). Rhein-Pegel Kaub unverändert bei 17-19cm. VW-Krise eingefroren, Cavallo lehnt Werksschließungen ab, AR erst 4.9. Geheimdienstreform weiter auf 12.8. terminiert.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Wassernot OWL: Entnahmeverbot jetzt auch für Lippe und Ems",
+      "date": "2026-08-08",
+      "summary": "Eigener Artikel (neue Dimension, regionale Ausweitung), Themenmix Umwelt/Landwirtschaft. Bezirksregierung Detmold verbietet ab 4.8. auch Wasserentnahme aus Lippe/Ems zusätzlich zum Kreis-Paderborn-Verbot (seit 6.8.); betrifft v.a. Landwirtschaft, Bußgeld bis 50.000 Euro.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "PaderSprinter startet mit vollelektrischen Solobussen in Linienbetrieb",
+      "date": "2026-08-08",
+      "summary": "Eigener Artikel, Themenmix Technologie/Verkehr. Zwei neue Mercedes-Benz-eCitaro-Elektrobusse im Testbetrieb, NWL fördert 14 weitere Busse (~3 Mio. Euro) sowie Ladeinfrastruktur (~14 Mio. Euro).",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Weitere laufende lokale Stränge (nur Hinweisblock)",
+      "date": "2026-08-08",
+      "summary": "Warsteiner/Haus Cramer: Käufersuche Paderborn unverändert, keine neue Entwicklung. Pferde-Serie Kreis Höxter (Bödexen) weiter unaufgeklärt. Delbrücker B64-Fahrerflucht (23-Jähriger) weiterhin flüchtig. Flughafen PB/LP-Nachfolge weiter ohne Ergebnis. Hövelhof-Kreisverkehr läuft planmäßig. Ruhiger Samstag, daher nur zwei ausführliche Artikel statt drei bis vier.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'Wabi-Sabi'-TikTok-Trend feiert liebenswerte Unperfektheit",
+      "date": "2026-08-08",
+      "summary": "Neu, mehrfach bestätigt (Fast Company, CBC Kids News, Know Your Meme). Sound aus 'King of the Hill' als Aufhänger für Unperfektheits-/Authentizitäts-Content, Gegenbewegung zu Hochglanz-Content.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "'Yellow Font Theory' auf Instagram als Ehrlichkeits-Signal",
+      "date": "2026-08-08",
+      "summary": "Neu, mehrfach bestätigt (SocialBee, Know Your Meme). Gelbe Schrift für emotional ehrliche Reels-Botschaften, Ursprung @ericcromartie Ende 2025, mittlerweile Persiflage-Welle.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "'No I didn't, dingbat — LISTEN!' Dance-Moms-Sound-Trend",
+      "date": "2026-08-08",
+      "summary": "Neu, nur einfach belegt (nur TikTok/Instagram-Postings, keine redaktionelle Einordnung). Zehn Jahre alter Abby-Lee-Miller-Clip als Sound für Tanz-/Mimik-Parodien.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Weitere Social-Fortschreibungen (nur Hinweisblock)",
+      "date": "2026-08-08",
+      "summary": "Kumar Method: Cyrus/'The Council'-Narrativ unverändert. Jimothy Night Teil 2 fand 7.8. statt. Ariana Grandes 'petal' sechstes Mal UK-Nr.1. Spider-Man: Brand New Day trotz Leak umsatzstärkster Sony/Marvel-Kinostart.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "The Last Time (Mono) – The Rolling Stones",
+      "date": "2026-08-08",
+      "summary": "Song des Tages, aus Lukas' Top-Tracks (nicht in den letzten 14 Tagen vorgeschlagen). Titel 'this could be the last time' passt zur wiederkehrenden Beobachtung des Tages: ausbleibende Iran-Angriffswelle, erneut nahe Rekordtief-Rhein-Pegel, festgefahrener CDU-Rentenstreit.",
       "status": "neu",
       "quelle": "top-tracks"
     }
