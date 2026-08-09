@@ -463,14 +463,6 @@
       "status": "neu"
     },
     {
-      "category": "song",
-      "title": "Living In A Ghost Town – The Rolling Stones",
-      "date": "2026-07-09",
-      "summary": "Song des Tages, gewählt wegen Rolling Stones als Top-Künstler (zuletzt gehört 8.7.) und thematischem Bezug zur plötzlichen globalen Verunsicherung nach Zusammenbruch der US-Iran-Waffenruhe.",
-      "status": "neu",
-      "quelle": "recently-played"
-    },
-    {
       "category": "global",
       "title": "US-Iran-Konflikt eskaliert weiter: Angriffe auf Kharg Island, Ölpreise volatil",
       "date": "2026-07-10",
@@ -4055,6 +4047,153 @@
       "summary": "Song des Tages, aus Lukas' Top-Tracks (nicht in den letzten 14 Tagen vorgeschlagen). Titel 'this could be the last time' passt zur wiederkehrenden Beobachtung des Tages: ausbleibende Iran-Angriffswelle, erneut nahe Rekordtief-Rhein-Pegel, festgefahrener CDU-Rentenstreit.",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "category": "global",
+      "title": "Nahost: Erwartete Angriffswelle bleibt erneut aus, Diplomatie um Hormuz-Route und Mekka-Pakt gewinnt Boden",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe (korrigiert wiederholte Erwartung einer harten US/Israel-Angriffswelle). Iran/Oman naehern sich Hormuz-Route-Einigung (Details offen), Mekka-Verteidigungspakt SA/Tuerkei/Pakistan am 7.8. besiegelt. Gaza Board of Peace: Entwaffnungsfrist laeuft um 13.8. aus, Israel stimmt Plan weiter nicht offiziell zu, Gewalt haelt an (~1.250 Tote seit Waffenruhe).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ukraine-Krieg: wechselseitige Angriffswellen halten unvermindert an",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe. Nach schwerem Kiew-Angriff 5.8. (17 Tote) griff Russland weiter Kiew/Odessa an (9.8. erneut Fire-Point-Fabrik), Ukraine setzte Angriffe auf russische Oelinfrastruktur fort (Distanzrekord 1.700km). Russische Einnahme Ivanivka (Charkiw) unabhaengig nicht verifiziert. Selenskyj warnt bei Serbien-Besuch vor Eskalation im Winter.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Sudan: UN warnt vor 'rotem Alarm' in El-Obeid",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe (Eskalationsstufe im Warnton, UN-Kommissar Tuerk vergleicht mit El-Fasher-Massaker 2025). Belagerung El-Obeid durch RSF spitzt sich zu, Cholera-Ausbruch, sexualisierte Gewalt, wachsendes Vertriebenenlager. Keine militaerische Entscheidung bis 9.8.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "567 Millionen Jahre alte Fossilien in Kanada ruecken Ursprung tierischen Lebens vor",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe, Themenmix Wissenschaft. Dartmouth-Expedition Mackenzie Mountains findet >100 Fossilien/6 neue Organismengruppen der Ediacara-Zeit (Science Advances), deutet auf 5-10 Mio Jahre frueheren Ursprung von Bewegung/Fortpflanzung bei Tieren, evtl. Tiefsee statt Flachmeer als Ursprungsort.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "Weitere laufende globale Stränge (nur Hinweisblock)",
+      "date": "2026-08-09",
+      "summary": "Kumamoto: Chipfabriken (Renesas) fahren seit 5.8. wieder hoch, Rekordhitze (40,3C) erschwert Wiederaufbau. Ebola Kongo weiter rekordhoch (~3.600 Faelle/1.590 Tote, 44% Letalitaet), Uganda-Ausbruch beendet. Europa-Hitzewelle stagniert auf Rekordniveau. Wirtschaft: SpaceX erste Quartalsbilanz/Nvidia-Exklusivpartnerschaft, Gold-Rekord ~4.350 USD, DAX-Rekordhoch 26.319 Punkte.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "CDU-Rentenstreit: sieben Länder gegen Merz, Bundesratsblockade formalisiert",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe (Eskalationsstufe: informell zu parteiuebergreifender Bundesrats-Blockade). Alle 5 ostdt. Laender plus Saarland/Bremen gegen Abschaffung Rente mit 63, Schwesig (SPD) schliesst sich Kretschmer/Schulze/Voigt an. Fuer Bundesratsblockade fehlen rechnerisch ~10 Stimmen (nur einfach belegt). Frei sieht keinen Verhandlungsspielraum mehr.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Rhein-Niedrigwasser: neuer historischer Tiefstand bei Kaub (17cm), Sofortmassnahmen",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe, Themenmix Wirtschaft/Klima. Pegel Kaub faellt von 24cm (3.8.) ueber 19cm (5.8.) auf 17cm (7.8., neuer Rekord, unterbietet 2018er-Rekord von 24cm). RLP/Saarland setzen Lkw-Sonntagsfahrverbot bis 30.9. aus, NRW/Niedersachsen mit Ausnahme bis 31.8. Keine Entspannung in Sicht.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Drohnenanschlag Leipzig/Halle: Bundesanwaltschaft übernimmt Ermittlungen",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe (Fortschreibung). Generalbundesanwaltschaft uebernahm wegen besonderen Gewichts, Anfangsverdacht versuchte Sprengstoffexplosion. Ziel unter sechs stationierten Antonow-Maschinen unklar, keine Taeter/Festnahmen bekannt, Details zum zweiten Flugobjekt (DHL-Kollision Hannover) nur einfach belegt.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Bayreuther Festspiele: KI-generierter Jubiläums-'Ring' endet mit Buhrufen für Kreativteam",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe, Themenmix Kultur (Bilanz-Perspektive, in Wochenausgabe vom 2026-08-09 zusammengefasst). Kurator Lobbes/Team bei Goetterdaemmerung-Premiere 1.8. deutlich ausgebuht, KI-Bildkonzept gilt als dramaturgisch gescheitert, musikalische Seite (Thielemann) einhellig gelobt.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Weitere laufende nationale Stränge (nur Hinweisblock)",
+      "date": "2026-08-09",
+      "summary": "VW-Krise eingefroren (AR vertagt 4.9., Betriebsversammlungen 25./26./31.8.). Steinmeier-Nachfolge: Forsa sieht Merkel vorn (lehnt ab), Entscheidung erst nach Landtagswahlen September. Kabinett 12.8. (Fruehstart-Rente/Geheimdienstreform) weiter geplant, keine neuen Details. Quartalszahlen-Welle, Bahn/GDL-Tarifabschluss, Bundesnetzagentur als KI-Aufsicht, Thyssenkrupp-Abspaltung unveraendert.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Warsteiner/Haus Cramer: Sozialtarifvertrag final, Käufersuche Paderborn weiter offen",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe. Sozialtarifvertrag fuer 220 Beschaeftigte (Abfindungen bis 150.000 Euro, ~50 Ersatzarbeitsplaetze Warstein, Umzugszuschuesse). Herford schliesst Ende August fix. Paderborn (113 Arbeitsplaetze) ohne Kaeufer, Veltins-Interesse kursiert weiter unbestaetigt, MBG/Edeka nur einfach belegt.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Wassernot OWL: Entnahmeverbote auf Lippe, Ems und alle übrigen Bäche/Flüsse ausgeweitet",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe, Themenmix Umwelt/Gesellschaft. Bezirksregierung Detmold verbietet ab 4.8. Entnahme aus Lippe/Ems, Kreis Paderborn erweitert ab 6.8. auf alle Baeche/Fluesse (Bussgeld bis 50.000 Euro). Gilt bis 30.9., betrifft auch Landwirtschaft (Mais/Zuckerrueben/Kartoffeln).",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Fahrerflucht auf der B64 bei Delbrück: 23-Jähriger weiter flüchtig",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe, hyperlokal Delbrueck (Wohnort des Lesers). Nach toedlicher Kollision mit 81-jaehrigem Pedelec-Fahrer am 20.7. ist der 23-jaehrige mutmassliche Fahrer (Wohnsitz Delbrueck) weiterhin flüchtig, drei Wochen nach der Tat keine Festnahme bekannt.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Zukunftspreis Handwerk OWL: Zimmerei Peters aus Bad Lippspringe ausgezeichnet",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe, Themenmix Wirtschaft/Gesellschaft (einmaliges Ereignis, in Wochenausgabe vom 2026-08-09 zusammengefasst). Zimmerei/Saegewerk Meinolf Peters (Bad Lippspringe, Kreis Paderborn) fuer Ehrenamtskultur ausgezeichnet, Teil eines bewusst ausserhalb von Krisen-/Festthemen recherchierten Fundes.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Weitere laufende lokale Stränge (nur Hinweisblock)",
+      "date": "2026-08-09",
+      "summary": "Vierter Pferde-Angriff Kreis Hoexter (Boedexen, 2.8.) weiter unaufgeklaert. Libori/Annentag Brakel beendet, keine neuen Entwicklungen. Hoevelhof-Kreisverkehr im Bau. Feuerwehrhaus Borchen-Etteln ohne neue Angaben. Flughafen PB/LP-Nachfolge ergebnislos, PaderSprinter-E-Busse laufen. Brasseler Lemgo: IHK-Dialog 21.7., drittes TOP-100-Siegel. Einzelhandel OWL nominal +Wachstum. Darknet-Anklage Minden-Luebbecke ohne neue Schritte.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Ariana Grandes 'petal': Chart-Rekordlauf festigt sich über die ganze Woche",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe, mehrfach bestaetigt. Sechstes UK-Nr.1-Album, zusaetzlich Nr.1 australische ARIA-Charts, projiziertes US-#1-Debuet ~291.000 Einheiten, vier Tage globale Spotify-Daily-Artists-Spitze.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'The Kumar Method': Nachfolgefigur Cyrus übernimmt, Identität bleibt bewusst ungeklärt",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe, mehrfach bestaetigt im Kernnarrativ (als engineered-virality-Marketingformat eingeordnet). Cyrus fuehrt nach 'Elimination' Kumars durch fiktive Gruppe 'The Council', keine Aufloesung/Enthuellungstermin bis 9.8.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Backlash gegen OpenAIs Luxus-Influencer-Reise 'Summer Club' hält an",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe, mehrfach bestaetigt (NBC, TechCrunch, CBC, Futurism). Kritik an Creatorn haelt ueber die Woche an statt abzuklingen, mind. ein Video geloescht, Verknuepfung mit OpenAI-Rechenzentrums-/Pentagon-Deals und Umweltkritik.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'Jimothy Night' bei den Seattle Mariners: zweiter ausverkaufter Termin",
+      "date": "2026-08-09",
+      "summary": "Eigener Artikel in Wochenausgabe, mehrfach bestaetigt (in Wochenausgabe vom 2026-08-09 zusammengefasst). Zweiter Termin 7.8. nach Nachfrage nachgelegt, Sammelkarte fuer 10.000 USD zum Wiederverkauf angeboten.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "social",
+      "title": "Weitere Social-Fortschreibungen (nur Hinweisblock)",
+      "date": "2026-08-09",
+      "summary": "Bangladesh-Song naehert sich 1 Mio Streams, US-Tour angekuendigt. Spider-Man Brand New Day: ~143 Mio USD zweites Wochenende, hoechste 10-Tage-Summe Nordamerikas. Jugendwort 2026 Top-10 final (u.a. 'Du bist gut genug'). Neue TikTok-Formate (ChatGPT-Skript, X-Bully) nur einfach belegt. Aeltere Meme-Wellen (Wabi-Sabi, Yellow Font Theory, Dance-Moms-Sound, Jon-Hamm-Tanz) stabil ohne neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Burn Bright – The Heavy",
+      "date": "2026-08-09",
+      "summary": "Song der Woche, gewaehlt aus Lukas' aktuellen Top-Tracks (The Heavy, nicht in den letzten 14 Tagen vorgeschlagen). Titel passt doppelt zur Wochenstimmung: woertlich zu Rekordhitze/Trockenheit (Kumamoto, Rhein-Niedrigwasser, OWL-Entnahmeverbote), im uebertragenen Sinn zu mehreren Krisen (Nahost, Ukraine, Sudan, CDU-Rentenstreit), die auf hoher Flamme brannten, ohne zu eskalieren oder sich aufzuloesen.",
+      "status": "neu"
     }
   ]
 }
