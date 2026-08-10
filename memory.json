@@ -569,25 +569,10 @@
     },
     {
       "category": "social",
-      "title": "WM-Schiedsrichter-Kontroverse Frankreich-Marokko aufgelöst",
-      "date": "2026-07-10",
-      "summary": "Frankreich gewann 2:0 ohne Zwischenfälle trotz komplett argentinischem Schiedsrichter-Team, zieht als erstes Team ins Halbfinale ein (in dieser Ausgabe zusammengefasst).",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "social",
       "title": "'Hot Dog Summer'-TikTok-Trend (Jennifer-Coolidge-Zitat)",
       "date": "2026-07-10",
       "summary": "Altes 'Legally Blonde 2'-Zitat wird zum Lippensynchronisations-Meme und breiterer Sommer-Ästhetik. Nur über Branchenblogs/Plattform belegt, keine klassische Presse.",
       "status": "neu"
-    },
-    {
-      "category": "song",
-      "title": "Stop Breakin' Down Blues – Charlie Beale",
-      "date": "2026-07-10",
-      "summary": "Song des Tages, gewählt aus Lukas' aktuellen Top-Tracks wegen thematischer Passung zur Grundstimmung des Berichts (kollabierte Waffenruhe, volatile Ölmärkte, VW-Umbruch, Insolvenz Warburg-Scherfede) — 'please stop breakin' down' als musikalischer Kommentar zu Dingen, die unter Druck ins Wanken geraten.",
-      "status": "neu",
-      "quelle": "top-tracks"
     },
     {
       "category": "global",
@@ -4193,6 +4178,132 @@
       "title": "Burn Bright – The Heavy",
       "date": "2026-08-09",
       "summary": "Song der Woche, gewaehlt aus Lukas' aktuellen Top-Tracks (The Heavy, nicht in den letzten 14 Tagen vorgeschlagen). Titel passt doppelt zur Wochenstimmung: woertlich zu Rekordhitze/Trockenheit (Kumamoto, Rhein-Niedrigwasser, OWL-Entnahmeverbote), im uebertragenen Sinn zu mehreren Krisen (Nahost, Ukraine, Sudan, CDU-Rentenstreit), die auf hoher Flamme brannten, ohne zu eskalieren oder sich aufzuloesen.",
+      "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "Russland greift Odessa mit einem der massivsten Angriffe seit Kriegsbeginn an",
+      "date": "2026-08-10",
+      "summary": "Eigener Artikel (Eskalationssprung). Nacht auf 9.8.: ballistische Raketen (Iskander-M/S-400), Anti-Schiffs-/Anti-Radar-Systeme (Onyx, Ch-31P) auf Odessa, Energie-/Hafeninfrastruktur beschaedigt, 8+ Verletzte; parallel 2 Tote in Charkiw. Ukraine wehrte 174 Shahed-Drohnen/5 Banderol-Marschflugkoerper ab, eigener Gegenangriff auf Belgorod.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Ebola im Kongo ueberschreitet erstmals 4.000 bestaetigte Faelle",
+      "date": "2026-08-10",
+      "summary": "Eigener Artikel (neue Dimension: Meilenstein). Erste Augustwoche >4.000 Faelle (Ende Juli: 3.605/1.587 Tote), Bundibugyo-Variante, 49 Gesundheitszonen/5 Provinzen, groesster Ebola-Ausbruch der kongolesischen Geschichte. Seit 24.7. erste Testreihe eines Bundibugyo-spezifischen Impfstoffs (UK).",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Themenmix Wissenschaft: Totale Sonnenfinsternis 12.8. ueber Kontinentaleuropa",
+      "date": "2026-08-10",
+      "summary": "Eigener Artikel, Themenmix Wissenschaft/Kultur (neuer Strang, einmaliges Ereignis). Erste totale Sonnenfinsternis ueber West-/Kontinentaleuropa seit 1999 (Groenland, Island, Nordspanien/Balearen, max. 2:18 Totalitaet), 88-95% partielle Bedeckung in weiten Teilen Europas.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "Themenmix Wissenschaft: Physiker bestaetigen erstmals 'Glueball'-Teilchen",
+      "date": "2026-08-10",
+      "summary": "Eigener Artikel, Themenmix Wissenschaft (neuer Strang, einmaliges Ereignis). BESIII-Kollaboration (Peking) verkuendet nach 15 Jahren Beweiskette fuer Glueballs (Teilchen rein aus Gluonen); X(2370) als glueball-dominiert identifiziert, schliesst ~50 Jahre offene Suche der Teilchenphysik.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "global",
+      "title": "Weitere laufende globale Stränge (nur Hinweisblock)",
+      "date": "2026-08-10",
+      "summary": "Iran/Hormuz: weiter keine Angriffswelle, Iran/Oman 'sehr nah' an technischer Einigung zur Durchfahrt, volle Oeffnung weiter abgelehnt. Sudan/El-Obeid: Belagerung unveraendert, Blackout, Preise explodieren, ~500.000 eingeschlossen. Gaza/Board of Peace: 15-Punkte-Entwaffnungsplan vorgelegt, weiter konditional ohne Bewegung.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Nach Drohnenfund Leipzig/Halle: Bundesregierung hebt Bedrohungsstufe auf 'hoch'",
+      "date": "2026-08-10",
+      "summary": "Eigener Artikel (neue Dimension: offizielle Hochstufung). Dobrindt hebt Bedrohungseinstufung von 'abstrakt' auf 'hoch', spricht von 'hybrider Kriegsfuehrung'; Ausbau Drohnenabwehr-Forschung mit Baer geplant. Taeterschaft weiter unklar, Bundesanwaltschaft ermittelt.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Themenmix Technologie: RFA ONE — erster deutscher Orbitalstart-Versuch von Schottland aus",
+      "date": "2026-08-10",
+      "summary": "Eigener Artikel, Themenmix Technologie/Raumfahrt (neuer Strang). Rocket Factory Augsburg startet frueh. 10.8. 'RFA ONE' vom SaxaVord-Weltraumbahnhof (Shetland-Inseln) — erster Orbitalstart von brit. Boden, 2. Anlauf nach Explosion beim Bodentest 2024. 5-Wochen-Startfenster.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Rhein-Rekordtief: vier Bundeslaender setzen Lkw-Sonntagsfahrverbot aus",
+      "date": "2026-08-10",
+      "summary": "Eigener Artikel (neue Dimension: Massnahme ausgeweitet). Pegel Kaub Rekordtief 17cm (7.8.), Lkw-Sonntagsfahrverbot jetzt in NRW, Niedersachsen, Rheinland-Pfalz UND Saarland ausgesetzt (zuvor nur 2 Laender) zur Entlastung der Binnenschifffahrt.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Weitere laufende nationale Stränge (nur Hinweisblock)",
+      "date": "2026-08-10",
+      "summary": "Rentenstreit weiter festgefahren, keine neue Kompromisslinie. Steinmeier-Nachfolge: Merkel laut Forsa Wunschkandidatin, lehnt ab, Entscheidung erst nach Landtagswahlen September. Geheimdienstreform jetzt auf 13.8. terminiert. VW-Krise eingefroren bis AR-Sitzung 4.9. INSA: AfD bundesweit stabil bei 28%, Union nur noch 21-23%.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Brandursache Feuerwehrgerätehaus Etteln geklärt: technischer Defekt",
+      "date": "2026-08-10",
+      "summary": "Eigener Artikel (Abschluss). Kriminaltechnik der Polizei Paderborn identifiziert technischen Defekt an einem Feuerwehrfahrzeug im linken Garagenteil als Brandursache des Grossbrands vom 5.8. — kein Fremdverschulden, keine Brandstiftung.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Themenmix Kultur: Neue Open-Air-Konzertreihe 'Donnerstags in Paderborn'",
+      "date": "2026-08-10",
+      "summary": "Eigener Artikel, Themenmix Kultur/Gesellschaft (neuer Strang). Drei kostenlose Konzertabende auf dem Domplatz (13./20./27.8., 17-22 Uhr): Groovejet, Papa'z Finest, Royal Stage Army. Initiative des Stadtmarketings fuer niedrigschwelliges Kulturangebot in der City.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Themenmix Infrastruktur: Fahrbahnsanierung B1/B64 in Paderborn gestartet",
+      "date": "2026-08-10",
+      "summary": "Eigener Artikel, Themenmix Infrastruktur/Wirtschaft (neuer Strang). Strassen.NRW saniert ab 6.8. rund 2,3km B1/B64 samt Ab-/Auffahrten, 4,3 Mio. Euro Bundesmittel, ca. 4,5 Monate Bauzeit, betrifft Pendler-/Durchgangsverkehr.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Weitere laufende lokale Stränge (nur Hinweisblock)",
+      "date": "2026-08-10",
+      "summary": "Fahrerflucht B64 Delbrueck: 23-Jaehriger weiter fluechtig. Vierter Pferdeangriff Kreis Hoexter (Boedexen): Verletzung laut Forensik nicht durch Messer, Taeter/-werkzeug weiter unklar. Warsteiner/Haus Cramer: weiter kein Kaeufer. Entnahmeverbot Kreis Paderborn seit 6.8. offiziell in Kraft (reine Umsetzung). Hoevelhof-Kreisverkehr laeuft planmaessig, keine neue Meldung.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Instagrams KI-'Flash'-Filter: Kontroverse um veränderte Gesichtszüge/Hautton",
+      "date": "2026-08-10",
+      "summary": "Eigener Artikel (neue Dimension, anhaltende Kontroverse). Meistgenutzter viraler Effekt 2026, Kritik: Filter veraendert laut Nutzern auch Gesichtszuege/Hautton/wahrgenommene Ethnizitaet. Meta hatte im Juli verwandtes 'Create with AI'-Feature nach CAA-Kritik zurueckgezogen.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'2026 is the new 2016': Nostalgie-Makrotrend mit eigenem Wikipedia-Eintrag",
+      "date": "2026-08-10",
+      "summary": "Neu, mehrfach bestaetigt (Wikipedia, Know Your Meme). Seit Dez. 2025 laufender Nostalgie-Trend (2016-vs-2026-Vergleiche/Aesthetik) gilt als staerkster plattformuebergreifender Sammel-Trend des Sommers.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'Authentizitäts-Welle': unproduzierte Ein-Take-Videos vs. Hochglanz-Content",
+      "date": "2026-08-10",
+      "summary": "Neu, nur einfach belegt (nur Marketing-/Trendblogs, keine unabhaengige Redaktion). Lkw-Fahrer-Lipsync-Reel angeblich 337 Mio. Aufrufe als meistgesehenes Reel des Monats — Zahl nicht unabhaengig verifiziert.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "Weitere Social-Fortschreibungen (nur Hinweisblock)",
+      "date": "2026-08-10",
+      "summary": "Kumar Method/Cyrus unveraendert. OpenAI-Summer-Club-Backlash stagniert. Bangladesh-Song naehert sich 1 Mio. Streams (SZA/Chance the Rapper/Lizzo erwaehnten ihn). Spider-Man Brand New Day: zweitschnellster Film ueber 1 Mrd. USD (6 Tage). Ariana Grandes petal: 7. Nr.1-Album in Folge, groesste Verkaufswoche der 2020er. Korrektur: Jugendwort-2026-Voting laeuft noch bis 20.8., Finalisten erst 28.8., Entscheidung 10.10. (nicht bereits final wie zuvor gemeldet).",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Rehab – Amy Winehouse",
+      "date": "2026-08-10",
+      "summary": "Song des Tages, aus Lukas' Top-Tracks (nicht in den letzten 14 Tagen vorgeschlagen). Die trotzige Weigerung, sich Druck zu beugen ('I said no, no, no'), spiegelt Irans Ablehnung einer einseitigen Hormuz-Oeffnung und die Blockadehaltung mehrerer Bundeslaender im Rentenstreit trotz Drucks aus Berlin.",
       "status": "neu"
     }
   ]
