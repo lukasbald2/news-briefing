@@ -65,6 +65,54 @@ Einträge der Kategorie `feedback` in `memory.json` sind Nutzer-Hinweise an
 künftige Läufe: beim Lauf berücksichtigen und nach Umsetzung auf
 `"abgeschlossen"` setzen (nicht nach 30 Tagen löschen, solange offen).
 
+## Strang-Identität in `memory.json` (eingeführt 2026-08-11) — WICHTIG
+
+`memory.json` besteht aus zwei Teilen: `straenge` (Index aller aktiven
+Themenstränge) und `entries` (Tageseinträge). Jeder Strang hat eine stabile
+ID, damit Fortsetzungen nicht bei jedem Lauf über Freitext-Titel neu erraten
+werden müssen.
+
+```json
+{
+  "straenge": [
+    {"id": "gaza-waffenruhe", "titel": "…", "kategorie": "global",
+     "erstmals_am": "2026-07-14", "letzter_eintrag": "2026-08-11",
+     "status": "laufend"}
+  ],
+  "entries": [
+    {"strang_id": "gaza-waffenruhe", "form": "artikel", "kontrast": false,
+     "category": "global", "title": "…", "date": "2026-08-11",
+     "summary": "…", "status": "laufend"}
+  ]
+}
+```
+
+- `straenge` ist das **kontrollierte Vokabular**: Jede Meldung wird zuerst
+  gegen den Index zugeordnet; eine neue ID entsteht nur, wenn inhaltlich kein
+  Strang passt — nicht, weil sich die Formulierung geändert hat. Eine `id`
+  wird nie nachträglich geändert.
+- `form`: `"artikel"` oder `"hinweis"`. Damit ist die Sättigungsregel
+  abzählbar statt geschätzt.
+- `kontrast`: `true`, wenn der Strang in der Ausgabe den Quellen-Kontrast
+  bekommen hat (siehe nächsten Abschnitt).
+- **Keine Sammeleinträge.** Auch Hinweisblock-Stränge bekommen je einen
+  eigenen Eintrag. Ein Eintrag wie „Weitere Social-Fortschreibungen" mit
+  mehreren Themen im `summary` macht genau die Stränge unauffindbar, die die
+  Sättigungsregel am Folgetag bewerten müsste.
+- **Auto-Abschluss:** Stränge mit `status: "laufend"`, deren
+  `letzter_eintrag` über 14 Tage zurückliegt, werden auf
+  `"abgeschlossen (ausgelaufen)"` gesetzt. Ohne das bleiben Stränge
+  unbegrenzt offen und die Datei wächst monoton (Stand vor der Umstellung:
+  391 von 626 Einträgen auf `laufend`).
+- Einträge **ohne** `strang_id` sind Alt-Bestand von vor der Umstellung: bei
+  Strang-Regeln ignorieren, nicht vorzeitig löschen — sie laufen über die
+  normale 30-Tage-Regel aus.
+
+Im Bericht bekommt jeder Artikel zu einem fortlaufenden Strang einen
+Verlaufssatz als `<p class="verlauf">`, formuliert als ganzer Satz („Der
+Strang läuft seit dem 14. Juli, dies ist die sechste Meldung dazu.") — er
+wird mitvorgelesen, eine Datenzeile klänge im Audio wie ein Formularfeld.
+
 ## Quellen-Kontrast (eingeführt 2026-08-11) — WICHTIG
 
 Pro Ausgabe bekommt **genau eine** Meldung einen Block „Wie andere darüber

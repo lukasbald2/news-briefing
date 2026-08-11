@@ -1,4 +1,446 @@
 {
+  "straenge": [
+    {
+      "id": "sudan-el-obeid-belagerung",
+      "titel": "Sudan: Belagerung von El-Obeid",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-11",
+      "status": "laufend"
+    },
+    {
+      "id": "ukraine-krieg",
+      "titel": "Ukraine-Krieg: Angriffswellen und Gegenangriffe",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-10",
+      "status": "laufend"
+    },
+    {
+      "id": "amazon-boerse-palantir",
+      "titel": "Amazon-Boersenrekord und Palantir-Kurssprung",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-05",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "rentenstreit-koalition",
+      "titel": "Rentenstreit in der Koalition (Rente mit 63)",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-11",
+      "status": "laufend"
+    },
+    {
+      "id": "quartalszahlen-saison",
+      "titel": "Quartalszahlen-Saison deutscher Konzerne",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-08",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "bayreuther-festspiele-ki-ring",
+      "titel": "Bayreuther Festspiele: KI-generierter 'Ring'",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-09",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "einzelhandel-owl-wachstum",
+      "titel": "Einzelhandel OWL: nominales Wachstum",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-05",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "verkehrsunfall-lichtenau-henglarn",
+      "titel": "Verkehrsunfall Lichtenau-Henglarn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-05",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "darknet-anklage-minden-luebbecke",
+      "titel": "Darknet-Anklage aus Minden-Luebbecke",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-05",
+      "status": "laufend"
+    },
+    {
+      "id": "openai-summer-club-backlash",
+      "titel": "Backlash gegen OpenAIs 'Summer Club'",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-09",
+      "status": "laufend"
+    },
+    {
+      "id": "tiktok-algorithmus-suchtklagen",
+      "titel": "TikTok: Algorithmus-Bericht und Sucht-Klagen",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-05",
+      "status": "neu"
+    },
+    {
+      "id": "jimothy-night-mariners",
+      "titel": "'Jimothy Night' bei den Seattle Mariners",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-09",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "spacex-unternehmensnews",
+      "titel": "SpaceX: Quartalszahlen und Nvidia-Partnerschaft",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-08",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "usa-brasilien-visastreit",
+      "titel": "USA-Brasilien-Visastreit vor den Wahlen",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-06",
+      "status": "laufend"
+    },
+    {
+      "id": "rhein-niedrigwasser",
+      "titel": "Rhein-Niedrigwasser bei Kaub",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-10",
+      "status": "laufend"
+    },
+    {
+      "id": "feuerwehrhaus-etteln-brand",
+      "titel": "Brand des Feuerwehrgeraetehauses Etteln",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-10",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "wassernot-owl-entnahmeverbot",
+      "titel": "Wassernot OWL: Entnahmeverbote",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-09",
+      "status": "laufend"
+    },
+    {
+      "id": "pferderipper-serie-owl",
+      "titel": "Pferderipper-Serie in OWL",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-11",
+      "status": "laufend"
+    },
+    {
+      "id": "google-ki-satellitenbild-tool",
+      "titel": "Googles KI-Satellitenbild-Tool",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-06",
+      "status": "neu"
+    },
+    {
+      "id": "jugendwort-2026",
+      "titel": "Jugendwort 2026: 'Du bist gut genug'",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-06",
+      "status": "laufend"
+    },
+    {
+      "id": "nahost-iran-spannung",
+      "titel": "Nahost: Hormuz-Spannung und Verteidigungspakt",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-09",
+      "status": "laufend"
+    },
+    {
+      "id": "ki-chip-aktien-erholung",
+      "titel": "KI-Chip-Aktien: Erholung nach Ausverkauf",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-07",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "hitzewelle-westeuropa",
+      "titel": "Hitzewelle und Waldbraende in Westeuropa",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-11",
+      "status": "laufend"
+    },
+    {
+      "id": "leipzig-halle-drohne",
+      "titel": "Drohnenfund am Flughafen Leipzig/Halle",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-11",
+      "status": "laufend"
+    },
+    {
+      "id": "thyssenkrupp-accelis-abspaltung",
+      "titel": "Thyssenkrupp-Abspaltung von tk accelis",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-07",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "steinmeier-nachfolge",
+      "titel": "Debatte um Steinmeier-Nachfolge",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-08",
+      "status": "laufend"
+    },
+    {
+      "id": "warsteiner-haus-cramer",
+      "titel": "Warsteiner/Haus Cramer: Zukunftssuche Paderborn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-09",
+      "status": "laufend"
+    },
+    {
+      "id": "getreideernte-kreis-paderborn",
+      "titel": "Getreideernte im Kreis Paderborn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-07",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "festival-rock-am-koeterberg",
+      "titel": "Festival 'Rock am Koeterberg'",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-07",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "kumar-method-cyrus",
+      "titel": "'Kumar Method': Nachfolger Cyrus",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-09",
+      "status": "laufend"
+    },
+    {
+      "id": "jon-hamm-tiktok-meme",
+      "titel": "Jon Hamms TikTok-Meme",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-07",
+      "status": "neu"
+    },
+    {
+      "id": "padersprinter-elektrobusse",
+      "titel": "PaderSprinter-Elektrobusse",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-08",
+      "letzter_eintrag": "2026-08-08",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "wabi-sabi-tiktok-trend",
+      "titel": "'Wabi-Sabi'-TikTok-Trend",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-08",
+      "letzter_eintrag": "2026-08-08",
+      "status": "neu"
+    },
+    {
+      "id": "yellow-font-theory",
+      "titel": "'Yellow Font Theory' auf Instagram",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-08",
+      "letzter_eintrag": "2026-08-08",
+      "status": "neu"
+    },
+    {
+      "id": "dance-moms-sound-trend",
+      "titel": "Dance-Moms-Sound-Trend",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-08",
+      "letzter_eintrag": "2026-08-08",
+      "status": "neu"
+    },
+    {
+      "id": "fossilien-ediacara-kanada",
+      "titel": "Ediacara-Fossilien in Kanada",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-09",
+      "letzter_eintrag": "2026-08-09",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "fahrerflucht-b64-delbrueck",
+      "titel": "Fahrerflucht auf der B64 bei Delbrueck",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-09",
+      "letzter_eintrag": "2026-08-09",
+      "status": "laufend"
+    },
+    {
+      "id": "zukunftspreis-handwerk-owl",
+      "titel": "Zukunftspreis Handwerk OWL",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-09",
+      "letzter_eintrag": "2026-08-09",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "ariana-grande-petal-charts",
+      "titel": "Ariana Grandes 'petal' in den Charts",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-09",
+      "letzter_eintrag": "2026-08-09",
+      "status": "laufend"
+    },
+    {
+      "id": "ebola-kongo-ausbruch",
+      "titel": "Ebola-Ausbruch im Kongo",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-10",
+      "status": "laufend"
+    },
+    {
+      "id": "sonnenfinsternis-europa",
+      "titel": "Totale Sonnenfinsternis ueber Kontinentaleuropa",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-10",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "teilchenphysik-glueball",
+      "titel": "Bestaetigung des Glueball-Teilchens",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-10",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "rfa-one-orbitalstart",
+      "titel": "RFA ONE: Deutscher Orbitalstart-Versuch",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-10",
+      "status": "laufend"
+    },
+    {
+      "id": "konzertreihe-donnerstags-paderborn",
+      "titel": "Konzertreihe 'Donnerstags in Paderborn'",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-10",
+      "status": "laufend"
+    },
+    {
+      "id": "fahrbahnsanierung-b1-b64-paderborn",
+      "titel": "Fahrbahnsanierung B1/B64 Paderborn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-10",
+      "status": "laufend"
+    },
+    {
+      "id": "instagram-flash-filter-kontroverse",
+      "titel": "Instagrams KI-'Flash'-Filter-Kontroverse",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-10",
+      "status": "laufend"
+    },
+    {
+      "id": "nostalgie-trend-2016-2026",
+      "titel": "'2026 is the new 2016'-Nostalgietrend",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-10",
+      "status": "laufend"
+    },
+    {
+      "id": "authentizitaets-welle-ein-take",
+      "titel": "Authentizitaets-Welle: Ein-Take-Videos",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-10",
+      "status": "laufend"
+    },
+    {
+      "id": "gaza-friedensplan",
+      "titel": "Gaza: Board-of-Peace-Friedensplan",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-11",
+      "letzter_eintrag": "2026-08-11",
+      "status": "laufend"
+    },
+    {
+      "id": "deutsche-exporte-rekord",
+      "titel": "Deutsche Exporte auf Rekordniveau",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-11",
+      "letzter_eintrag": "2026-08-11",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "sonnenfinsternis-owl",
+      "titel": "Partielle Sonnenfinsternis ueber OWL",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-11",
+      "letzter_eintrag": "2026-08-11",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "schuesse-bielefeld-hauptbahnhof",
+      "titel": "Schuesse vor dem Bielefelder Hauptbahnhof",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-11",
+      "letzter_eintrag": "2026-08-11",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "flip-phone-summer",
+      "titel": "'Flip Phone Summer'",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-11",
+      "letzter_eintrag": "2026-08-11",
+      "status": "neu"
+    },
+    {
+      "id": "ki-begleiterin-ev-spiderman-backlash",
+      "titel": "Backlash gegen KI-Begleiterin 'E.V.' (Spider-Man)",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-11",
+      "letzter_eintrag": "2026-08-11",
+      "status": "neu"
+    },
+    {
+      "id": "reise-ansturm-sonnenfinsternis",
+      "titel": "Reise-Ansturm vor der Sonnenfinsternis",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-11",
+      "letzter_eintrag": "2026-08-11",
+      "status": "neu"
+    }
+  ],
   "entries": [
     {
       "category": "global",
@@ -3550,21 +3992,30 @@
       "title": "Sudan: Drohnenangriff auf Stammesgericht in Darfur vertieft Belagerungskrise um El-Obeid",
       "date": "2026-08-05",
       "summary": "Eigener Artikel (schweres Einzelereignis, Vertiefung nicht-gesättigter Strang). Drohnenangriff der Armee auf Stammesgericht in Garra al-Zawaya (Nord-Darfur, 2.8.) tötete je nach Quelle 35 (Emergency Lawyers), 37 (Sudan Tribune) oder 40 (RSF-nahe Quelle) Menschen - Widerspruch transparent gekennzeichnet. Belagerung von El-Obeid (~500.000 Einwohner) haelt an, Armee haelt Stadt, RSF greift Infrastruktur an.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "sudan-el-obeid-belagerung",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "Ukraine trifft Ziele bei Moskau/Petersburg, Russland feuert Rekordzahl an Raketen ab",
       "date": "2026-08-05",
       "summary": "Eigener Artikel (neuer Schwerpunkt, zuvor mehrere Tage nur Hinweisblock). Ukrainische Drohnen trafen 4.8. Wildberries-Lager bei Moskau/St. Petersburg und Oelraffinerie Sysran, 5 Tote/10 Verletzte (Gouverneur Vorobjov). Gegenlaeufig: Russland feuerte im Juli Rekord 376 Marschflugkoerper/Raketen (davon 126 ballistische) - hoechste Monatsrate seit Kriegsbeginn, +58% ggue. Februar-Hoechststand.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "ukraine-krieg",
+      "form": "hinweis",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "Amazon knackt 3-Billionen-Dollar-Marke, Bezos verkauft Aktien fuer 4 Mrd. - Palantir mit groesstem Kurssprung der Firmengeschichte",
       "date": "2026-08-05",
       "summary": "Eigener Artikel, Themenmix Wirtschaft/Technologie. Amazon erstmals ueber 3 Billionen Dollar Marktkapitalisierung (3.8., 284,02 USD/Aktie), Bezos verkauft zeitgleich (planmaessig, Rule-10b5-1) 15 Mio. Aktien fuer ~4,07 Mrd. USD. Palantir Q2: Umsatz +93% auf 1,94 Mrd. USD, Aktie +30% (groesster Ein-Tages-Sprung seit Boersengang), Jahresprognose auf 8,16 Mrd. USD angehoben.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "amazon-boerse-palantir",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
@@ -3578,21 +4029,30 @@
       "title": "CDU-Ministerpraesidenten stellen sich gegen Abschaffung der Rente mit 63 - Frei spricht 'Machtwort'",
       "date": "2026-08-05",
       "summary": "Eigener Artikel (Fortschreibung mit neuer Dimension: von Stilkritik zu Sachkonflikt). Kretschmer/Schulze/Voigt stellen sich per Brief gegen Rentenkommissions-Empfehlung zur Abschaffung der abschlagsfreien Rente mit 63; Frei spricht 4.8. 'Machtwort' ohne Verhandlungsspielraum. Forsa (4.8.): 43% fuer Kanzlerwechsel in der Union, aber nur 46% der eigenen Anhaenger dafuer. AfD weiter bei 27-28%, CDU/CSU bei 20-23% (Institute uneinheitlich).",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "rentenstreit-koalition",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Quartalszahlen-Welle: Bayer/Continental uebertreffen gedaempfte Erwartungen, Siemens Energy auf Rekordkurs",
       "date": "2026-08-05",
       "summary": "Eigener Artikel, Themenmix Wirtschaft. Bayer Q2: Umsatz 10,87 Mrd. Euro (+2,2%), EBITDA +1,9% (Crop Science treibt). Continental: Umsatz 4,4 Mrd. Euro, EBIT +35,1% (Reifensparte), Aktie dennoch -2,5%. Siemens Energy: Auftragseingang +29,5% auf 17,7 Mrd. Euro (KI-Rechenzentren-Nachfrage), Rekord-Auftragsbestand 154 Mrd. Euro. Infineon-Zahlen (5.8.) zum Redaktionsschluss noch nicht verfuegbar, bewusst nicht mit unbestaetigten Zahlen wiedergegeben.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "quartalszahlen-saison",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Bayreuther Festspiele: Erstmals komplett KI-generierter 'Ring des Nibelungen' spaltet Kritik",
       "date": "2026-08-05",
       "summary": "Eigener Artikel, Themenmix Kunst & Kultur. Zum 150-jaehrigen Jubilaeum erstmals vollstaendig KI-generierte Buehnenbilder ('Ring 10010110', Kurator Marcus Lobbes, Dirigent Thielemann). Musikalisch als Referenzereignis gefeiert, KI-Bildwelten scharf kritisiert (NZZ: 'Reizueberflutung'), Buhrufe nach 'Goetterdaemmerung' (1.8.). Debatte haelt tagelang nach Premiere an.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "bayreuther-festspiele-ki-ring",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
@@ -3606,21 +4066,30 @@
       "title": "Einzelhandel in OWL waechst nominal - doch die Zahlen taeuschen",
       "date": "2026-08-05",
       "summary": "Eigener Artikel, Themenmix Wirtschaft (neuer Strang, ausserhalb bekannter Dauerstraenge). Einzelhandel OWL H1 2026 nominal gewachsen, inflationsbereinigt nur +0,7% real - von Haendlervertretern als Stagnation statt Erholung gewertet.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "einzelhandel-owl-wachstum",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
       "title": "Auto ueberschlaegt sich bei Ueberholmanoever in Lichtenau-Henglarn - zwei Kinder leicht verletzt",
       "date": "2026-08-05",
       "summary": "Eigener Artikel, Neu. Doppel-Ueberholmanoever (Autofahrerin vs. Traktor) am 3.8. auf der Dammstrasse, 42-Jaehrige weicht aus, ueberschlaegt sich mit Twingo; sie und ihre 6/9-jaehrigen Kinder leicht verletzt, ~12.000 Euro Sachschaden, L818 bis 18 Uhr gesperrt.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "verkehrsunfall-lichtenau-henglarn",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
       "title": "Anklage gegen mutmasslichen Gruender eines der weltgroessten Darknet-Drogenmarktplaetze aus OWL",
       "date": "2026-08-05",
       "summary": "Eigener Artikel, Neu. Generalstaatsanwaltschaft Frankfurt klagt 31-Jaehrigen aus Kreis Minden-Luebbecke wegen Gruendung des Darknet-Forums 'Archetype Market' an (laut BKA zeitweise weltgroesster Drogen-Online-Marktplatz), ~2,3 Mio. Bestellungen, ~33 Mio. Euro Umsatz. Beschuldigter seit 2025-Festnahme in Barcelona in U-Haft.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "darknet-anklage-minden-luebbecke",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
@@ -3634,21 +4103,30 @@
       "title": "Backlash gegen OpenAIs Luxus-Influencer-Reise 'Summer Club'",
       "date": "2026-08-05",
       "summary": "Neu, mehrfach bestaetigt (TechCrunch, NBC News). OpenAI lud Creator zu Luxus-Retreat im Norden New Yorks ein (Farm-to-Table, ChatGPT-Work-Schulungen); Kritik an PR-Vereinnahmung, verstaerkt durch parallele Umwelt-/Energiedebatte um KI-Rechenzentren (OpenAI verhandelt 500-Mrd.-USD-Rechenzentrums-Deal Ohio).",
-      "status": "neu"
+      "status": "neu",
+      "strang_id": "openai-summer-club-backlash",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
       "title": "TikTok unter Druck: vertraulicher Algorithmus-Bericht und stille Vergleiche in Sucht-Klagen",
       "date": "2026-08-05",
       "summary": "Neu, teils nur einfach belegt. Bloomberg (4.8., Einzelquelle): TikTok stellte 2021 nur 90% der US-Nutzer auf sicherere Algorithmus-Version um, 15 Mio. Kontrollgruppe (u.a. verstorbener 16-Jaehriger). Mehrfach bestaetigt: aussergerichtliche Vergleiche in drei Sucht-Klagen (Illinois/New Jersey/Mississippi), ~2.600 weitere Verfahren in Kalifornien anhaengig.",
-      "status": "neu"
+      "status": "neu",
+      "strang_id": "tiktok-algorithmus-suchtklagen",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
       "title": "'Jimothy Night': Seattle Mariners widmen viralem Waschbaeren restlos ausverkauftes Stadion-Event",
       "date": "2026-08-05",
       "summary": "Fortschreibung, mehrfach bestaetigt. Mariners-Event gegen Detroit Tigers am 5.8. im T-Mobile Park (Trikot-/Rookie-Card-Giveaway, Erloes an Ballard Food Bank) bereits ausverkauft, zweiter Termin 7.8. angekuendigt - Wandel vom politisch vereinnahmten Meme zur wohltaetigen Fan-Tradition.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "jimothy-night-mariners",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
@@ -3670,21 +4148,30 @@
       "title": "Russland attackiert Region Kiew mit einem der schwersten Angriffe des Krieges — 17 Tote",
       "date": "2026-08-06",
       "summary": "Eigener Artikel (Eskalationssprung). Nacht auf 5.8.: 24 ballistische Raketen, 4 Marschflugkörper/Hyperschallraketen, 115 Drohnen auf Region Kiew, 17 Tote/44+ Verletzte (Schwerpunkt Browary, Butscha, Fastiw). Kiewer Regionalverwaltung ruft 6.8. zum Trauertag aus. Russland nutzt laut mehreren Medien gezielt Mangel an Patriot-Interceptoren aus. Getrennt vom kleineren Angriff der Nacht auf 4.8. (14 Tote) zu sehen.",
-      "status": "neu"
+      "status": "neu",
+      "strang_id": "ukraine-krieg",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "SpaceX legt erste Quartalszahlen als börsennotiertes Unternehmen vor — Rekordumsatz, aber Kurssturz",
       "date": "2026-08-06",
       "summary": "Eigener Artikel, Themenmix Wirtschaft/Technologie. Erster Quartalsbericht seit IPO (Juni 2026, 85,7 Mrd. USD, größter Börsengang der Geschichte): Umsatz +92% auf 7,8 Mrd. USD, EBITDA fast verdreifacht auf 3,5 Mrd. USD. Aktie dennoch -13,6% (5.8.) wegen versechsfachter Capex (18,4 Mrd. USD, davon 15,8 Mrd. für KI-Infrastruktur) und Lock-up-Sorgen; -45% vom Hoch (16.6.). Musk: 1-Billionen-Umsatzmarke schon 2030 statt 2031.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "spacex-unternehmensnews",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "USA entziehen brasilianischer Botschafterin das Visum — diplomatischer Eklat vor den Wahlen",
       "date": "2026-08-06",
       "summary": "Eigener Artikel, Neu. Visum von Botschafterin Maria Luiza Ribeiro Viotti am 4.8. entzogen, da Brasilien dem designierten US-Botschafter Daniel Perez bislang das Agrément verweigert. Keine Ausweisung laut USA, reversibel bei Zustimmung Brasiliens. Weitere Eskalationsstufe in seit Monaten angespannten Beziehungen vor brasilianischen Wahlen.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "usa-brasilien-visastreit",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
@@ -3698,21 +4185,30 @@
       "title": "CDU-Rentenstreit eskaliert zur parteiübergreifenden Bundesrats-Blockade — sieben Länder gegen Merz' Reformpaket",
       "date": "2026-08-06",
       "summary": "Eigener Artikel (neue Dimension: informell → formalisiert/parteiübergreifend). Offener Brief von Kretschmer/Schulze/Voigt (CDU) bekräftigt; neu: Schwesig (SPD) schließt sich an, fordert Rente mit 63 auch für künftige Generationen. Laut mehreren Quellen (Euronews, nd-aktuell, t-online) 7 von 16 Ländern (5 Ostländer + Saarland + Bremen) drohen Bundesrats-Blockade. Frei-Machtwort vom 4.8. bleibt bestehen.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "rentenstreit-koalition",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Historisches Rhein-Niedrigwasser bei Kaub bedroht Industrie und Schifffahrt",
       "date": "2026-08-06",
       "summary": "Eigener Artikel, Themenmix Wirtschaft/Klima. Pegel Kaub fiel auf 23 cm (Mi 5.8., 5 Uhr) und unterschritt damit erstmals den bisherigen Rekord von Okt. 2018 (24 cm Einzelmessung/25 cm Tagesmittel); Prognose bis Samstag 17 cm. Chemie-/Mineralöl-/Stahlindustrie betroffen, Spritpreise ziehen an. BIP-Dämpfer-Schätzungen uneinheitlich (IW Köln 0,4 Pp. vs. IfW 0,1-0,2% für Q3). Bilger beruft Krisentreffen für 6.8. ein.",
-      "status": "neu"
+      "status": "neu",
+      "strang_id": "rhein-niedrigwasser",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Infineon meldet Rekordumsatz dank KI-Boom — Kontrastbild zur VW-Krise",
       "date": "2026-08-06",
       "summary": "Eigener Artikel, Themenmix Wirtschaft/Technologie. Q3 GJ2026: Rekordumsatz 4,17 Mrd. Euro (+9% zum Vorquartal), Segmentergebnis +22% auf 797 Mio. Euro, getrieben von KI-Rechenzentren-Stromversorgung. Jahresprognose 16,3 Mrd. Euro bestätigt. Aktie dennoch -6,6% wegen Marge/gesenktem Free-Cashflow-Ausblick (ams-OSRAM-Übernahme).",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "quartalszahlen-saison",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
@@ -3726,21 +4222,30 @@
       "title": "Feuerwehr-Gerätehaus in Borchen-Etteln brennt vollständig aus — Millionenschaden",
       "date": "2026-08-06",
       "summary": "Eigener Artikel, Neu. Nacht zum 5.8., Alarmierung 23:47 Uhr über Rauchmelder. Drei Einsatzfahrzeuge und komplette Schutzausrüstung der Löschgruppe Etteln zerstört, ~100 Einsatzkräfte im Großeinsatz. Ursache: technischer Defekt an einem Fahrzeug in der Garage. Schaden im Millionenbereich.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "feuerwehrhaus-etteln-brand",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
       "title": "Kreis Paderborn verbietet ab 6.8. Wasserentnahme aus Bächen und Flüssen",
       "date": "2026-08-06",
       "summary": "Eigener Artikel, Themenmix Umwelt/Gesellschaft. Allgemeinverfügung ab 6.8. bis 30.9.: Verbot des Abpumpens/Befüllens mobiler Behälter aus Bächen/Flüssen, Bußgeld bis 50.000 Euro. Schöpfen mit Eimer/Viehtränken weiter erlaubt. Zusätzlich seit 4.8. gesondertes Entnahmeverbot Lippe/Ems (Bezirksregierung Detmold, betrifft auch Kreis Gütersloh).",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "wassernot-owl-entnahmeverbot",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
       "title": "Vierter Angriff auf ein Pferd binnen zwei Monaten im Kreis Höxter",
       "date": "2026-08-06",
       "summary": "Eigener Artikel, Neu (eskalierende Serie). Pferd in Höxter-Bödexen mit Schnittwunden am Hals verletzt (Wochenende vor 5.8.) — vierter Fall in zwei Monaten nach Altenbergen/Papenhöfen. Polizei verstärkt Streifen, sucht Zeugen, Zusammenhang unklar. Keine bestätigte Verbindung zum früheren Fall Delbrück-Hagen (Juli).",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "pferderipper-serie-owl",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
@@ -3754,14 +4259,20 @@
       "title": "Google zieht KI-Satellitenbild-Tool nach nur einem Tag zurück",
       "date": "2026-08-06",
       "summary": "Neu, mehrfach bestätigt (Forbes, TechXplore, Malwarebytes). Google-Earth-KI-Feature (Ende Juli) ermöglichte fotorealistische Fake-Satellitenbilder realer Orte (u.a. erfundene iranische Atomanlage); OSINT-Forscher deckten Missbrauchspotenzial binnen 24h auf, Google zog Feature zurück und kündigte strengere Guardrails an.",
-      "status": "neu"
+      "status": "neu",
+      "strang_id": "google-ki-satellitenbild-tool",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
       "title": "'Du bist gut genug' schafft es unter die Top 10 des Jugendworts 2026",
       "date": "2026-08-06",
       "summary": "Fortschreibung mit neuer Dimension, mehrfach bestätigt (ZDFheute, 20 Minuten, Langenscheidt). Seit Mai laufender TikTok-Ohrwurm (KitschKrieg/Blumengarten, Shirin David) unter Top-10-Kandidaten für Langenscheidt-Jugendwort 2026. Voting bis 20.8., Finale bis 28.9., Verkündung 10.10. auf Frankfurter Buchmesse.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "jugendwort-2026",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
@@ -3783,21 +4294,30 @@
       "title": "Nahost: Hormuz-Deal wackelt, Saudi-Arabien/Türkei/Pakistan schmieden Verteidigungspakt",
       "date": "2026-08-07",
       "summary": "Eigener Artikel (Fortschreibung mit neuer Dimension). Iran/Oman einigen sich technisch auf neue Hormuz-Route, Iran erhebt aber Servicegebühren bis 2 Mio. USD/Durchfahrt, 8 Reederei-Verbände protestieren, Ölpreis +4% auf 82,80 USD. Ghalibaf spottet über Trumps Kurswechsel als 'Theaterdiplomatie in Dauerschleife'. Saudi-Arabien/Türkei/Pakistan unterzeichnen 7.8. eigenen Verteidigungspakt unabhängig von den USA.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "nahost-iran-spannung",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "KI-Chip-Aktien erholen sich nach Milliarden-Ausverkauf — China meldet Rekord-Außenhandel",
       "date": "2026-08-07",
       "summary": "Eigener Artikel, Themenmix Wirtschaft (neuer Strang). Micron/Marvell legen nach starken Quartalszahlen deutlich zu (+7%/+13%) nach vorherigem Billionen-Ausverkauf bei Nvidia/SK Hynix/Samsung/Micron. China meldet Juli-Außenhandelsplus (Exporte +23,9%, Importe +27,5%) dank globalem KI-Investitionsboom.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "ki-chip-aktien-erholung",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "Hitzewelle und Waldbrände in Europa erreichen Rekordausmaß",
       "date": "2026-08-07",
       "summary": "Eigener Artikel, Themenmix Gesellschaft/Klima (neuer Strang). Dritte Hitzewelle 2026, >10.000 Hitzetote laut WHO bis Mitte Juli, Waldbrandfläche EU ~499.000 Hektar (Rekord). Frankreich (Gironde, 220.000 Evakuierte) und Spanien (Madrid-Umland, 12 Tote) am schwersten betroffen.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "hitzewelle-westeuropa",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
@@ -3811,28 +4331,40 @@
       "title": "Rhein-Niedrigwasser erreicht neuen Rekord — Krisentreffen bringt Sofortmaßnahmen",
       "date": "2026-08-07",
       "summary": "Eigener Artikel (Fortschreibung mit neuer Dimension: weiterer Rekordbruch plus konkrete Maßnahmen). Pegel Kaub fiel von 24cm (3.8.) auf 19cm (5.8., neuer historischer Tiefstand), Prognose 17cm zum Wochenende. Bilger berief Krisentreffen 6.8. ein: Ausnahmen vom Sonntagsfahrverbot geprüft, DB Cargo soll Kapazitäten organisieren, Fahrrinnenausbau langfristiges Ziel.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "rhein-niedrigwasser",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Sprengstoff-Drohne am Flughafen Leipzig/Halle — Bundesanwaltschaft übernimmt Ermittlungen",
       "date": "2026-08-07",
       "summary": "Eigener Artikel, Neu. Mit Sprengvorrichtung ausgestattete Drohne in der Nacht auf 5.8. nahe ukrainischer Antonov-Maschine entdeckt, Luftverkehr zeitweise eingestellt. Dobrindt spricht von 'hybridem Anschlagsszenario', Generalbundesanwaltschaft übernimmt Ermittlungen. Sprengstoffmenge/Täterschaft nicht offiziell bestätigt, ukrainischer Botschafter vermutet Russland, BMI dementiert Munitionsbeladungs-Gerücht.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "leipzig-halle-drohne",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Thyssenkrupp-Aktionäre entscheiden über Abspaltung von tk accelis",
       "date": "2026-08-07",
       "summary": "Eigener Artikel, Themenmix Wirtschaft (einmaliges Ereignis). Außerordentliche HV stimmt über Übertragung von 49% der Werkstoffsparte tk accelis an Aktionäre plus Umwandlung in Finanzholding ab (Strategie 'ACES 2030'). Ergebnis lag bei Redaktionsschluss nicht vor.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "thyssenkrupp-accelis-abspaltung",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Debatte um Steinmeier-Nachfolge nimmt Fahrt auf — CDU, SPD und Grüne für Bundespräsidentin",
       "date": "2026-08-07",
       "summary": "Eigener Artikel, Neu. Özdemir (Grüne), SPD-Führung und führende Unionspolitiker sprechen sich vor Bundespräsidentenwahl 30.1.2027 parteiübergreifend für erste Bundespräsidentin aus. Kandidatinnen kursieren: Klöckner, Prien, Aigner (Söder-favorisiert). Merz befürwortet ebenfalls Frau im Amt. Klärung im Herbst erwartet.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "steinmeier-nachfolge",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
@@ -3846,21 +4378,30 @@
       "title": "Warsteiner/Haus Cramer: Stadt Paderborn schaltet sich in Zukunftssuche ein",
       "date": "2026-08-07",
       "summary": "Eigener Artikel (Fortschreibung mit neuer Dimension: kommunale Beteiligung). WFG Paderborn bietet Unterstützung bei Anschlussnutzung des Geländes an, Bürgermeister Strate sichert Beschäftigten Unterstützung zu. Cramer bestätigt Gespräche mit 'mehreren Interessenten' (Edeka-Verbund/MBG kolportiert, Veltins weiter unbestätigt). Mitarbeiterzahl Paderborn je nach Quelle 110-120.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "warsteiner-haus-cramer",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
       "title": "Getreideernte im Kreis Paderborn fast abgeschlossen — Trockenheit setzt anderen Kulturen zu",
       "date": "2026-08-07",
       "summary": "Eigener Artikel, Themenmix Wirtschaft/Landwirtschaft (neuer Strang). WLV-Zwischenbilanz: Getreide/Raps im Nordwesten des Kreises fertig eingefahren, Südkreis auf Zielgeraden. Mais, Zuckerrüben, Kartoffeln leiden unter Trockenheit. DWD bestätigt Bodenfeuchte-Niveau ähnlich Dürrejahren 2018/2022.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "getreideernte-kreis-paderborn",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
       "title": "Festival 'Rock am Köterberg' startet in Lüdge-Niese",
       "date": "2026-08-07",
       "summary": "Eigener Artikel, Themenmix Kultur/Gesellschaft, nur einfach belegt (keine Tageszeitung, nur Veranstalter/Ticketportale). Zweitägiges Festival (7./8.8.) auf Kulturhof Gut Steimke, ~1000 Besucher, lokale Bands und Tribute-Acts.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "festival-rock-am-koeterberg",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
@@ -3874,14 +4415,20 @@
       "title": "'Kumar Method': Hauptfigur angeblich 'eliminiert', Nachfolger Cyrus sorgt für Wendung",
       "date": "2026-08-07",
       "summary": "Mehrfach bestätigt, neue Dimension (erzählerischer Bruch). Anonyme Gruppe 'The Council' beansprucht, Kumar eliminiert zu haben; Nachfolgefigur 'Cyrus' lehrt aggressivere Verhandlungstaktiken. Marketing-Fiktion, KI-Experiment oder echtes Format-Ende unter Zuschauern umstritten.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "kumar-method-cyrus",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
       "title": "Jon Hamm tanzt sich zum globalen TikTok-Meme",
       "date": "2026-08-07",
       "summary": "Neu, mehrfach bestätigt. Clubszene aus Apple-TV+-Serie 'Your Friends & Neighbors' (Tanz zu 'Turn the Lights Off') seit Ursprung in Russland Okt. 2025 jetzt international 'unausweichlich', als Freude-/Erleichterungs-Edit-Format etabliert. Hamm selbst kommentierte den Hype öffentlich.",
-      "status": "neu"
+      "status": "neu",
+      "strang_id": "jon-hamm-tiktok-meme",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
@@ -3903,28 +4450,40 @@
       "title": "Nahost: Verteidigungspakt Saudi-Arabien/Türkei/Pakistan besiegelt, Angriffswelle bleibt erneut aus",
       "date": "2026-08-08",
       "summary": "Eigener Artikel (Abschluss/neue Dimension). Makkah Joint Defense Agreement zwischen Saudi-Arabien, Türkei, Pakistan real unterzeichnet (Ortsangabe zwischen Quellen uneinheitlich: Mekka vs. Dschidda); erwartete US/Israel-Angriffswelle gegen Iran erneut ausgeblieben, Zyklus aus Drohung/Verschiebung hält an.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "nahost-iran-spannung",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "Ukraine: Wirtschaftskrieg gegen Russland — Rekord-Drohnenangriff auf Wildberries-Lager",
       "date": "2026-08-08",
       "summary": "Eigener Artikel (neue Dimension). Seit 18.7. gezielte Angriffe auf Lagerhäuser von Wildberries (>10% Logistikfläche zerstört), 7.8. Treffer in Rekorddistanz 1.700km von der Grenze; Verlagerung von Energie-/Militärzielen auf zivile Wirtschaftsinfrastruktur.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "ukraine-krieg",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "SpaceX/Nvidia-Exklusivpartnerschaft für orbitale KI-Rechenzentren",
       "date": "2026-08-08",
       "summary": "Eigener Artikel, Themenmix Wirtschaft/Technologie. SpaceX setzt für Projekt 'Starmind' exklusiv auf Nvidia Vera-Rubin-Chips, Ziel 2 GW Rechenleistung bis Ende 2026 (Machbarkeit unbestätigt), Nvidia-Aktie +4%.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "spacex-unternehmensnews",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "Sudan: UN warnt erstmals vor Massaker-Risiko in El-Obeid",
       "date": "2026-08-08",
       "summary": "Eigener Artikel (Eskalationsstufe im Warnton). UN-Menschenrechtsbüro vergleicht Lage mit El-Fasher-Massaker 2025, mind. 45 Zivilisten durch 15 Drohnenangriffe in 3 Wochen getötet, ~500.000 Menschen eingeschlossen; militärische Lage selbst unverändert.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "sudan-el-obeid-belagerung",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
@@ -3938,21 +4497,30 @@
       "title": "Leipzig/Halle-Drohne: neue Details, ukrainisches Frachtflugzeug als Ziel, Widerspruch zur Ladung",
       "date": "2026-08-08",
       "summary": "Eigener Artikel (neue Dimension, Widerspruch gekennzeichnet). Ziel war Antonow-AN-124, Sprengsatz in Konservendose mit Semtex, zweites Flugobjekt kollidiert mit DHL-Maschine (Notlandung Hannover); Widerspruch zu Munitionsladung (Presse vs. Bundesinnenministerium/Flughafenbetreiberin), False-Flag-These wird geprüft.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "leipzig-halle-drohne",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Quartalszahlen-Reigen zeigt Druck auf deutsche Industrie (Allianz/Daimler Truck/Porsche SE)",
       "date": "2026-08-08",
       "summary": "Eigener Artikel, Themenmix Wirtschaft. Allianz operativer Rekordgewinn +10,6%, Daimler-Truck-Gewinn -48% auf 128 Mio. Euro (US-Zölle), Porsche SE Halbjahres-Nettoverlust 2,2 Mrd. Euro.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "quartalszahlen-saison",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Bundespräsidentinnen-Debatte: Forsa sieht Merkel vorn, sie winkt ab",
       "date": "2026-08-08",
       "summary": "Eigener Artikel (neue Dimension). Forsa-Umfrage: Merkel Wunschkandidatin, lehnt aber ab; Dröge wirbt für Frau im Amt, Söder für Aigner; Union/SPD wollen im Herbst entscheiden.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "steinmeier-nachfolge",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
@@ -3966,14 +4534,20 @@
       "title": "Wassernot OWL: Entnahmeverbot jetzt auch für Lippe und Ems",
       "date": "2026-08-08",
       "summary": "Eigener Artikel (neue Dimension, regionale Ausweitung), Themenmix Umwelt/Landwirtschaft. Bezirksregierung Detmold verbietet ab 4.8. auch Wasserentnahme aus Lippe/Ems zusätzlich zum Kreis-Paderborn-Verbot (seit 6.8.); betrifft v.a. Landwirtschaft, Bußgeld bis 50.000 Euro.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "wassernot-owl-entnahmeverbot",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
       "title": "PaderSprinter startet mit vollelektrischen Solobussen in Linienbetrieb",
       "date": "2026-08-08",
       "summary": "Eigener Artikel, Themenmix Technologie/Verkehr. Zwei neue Mercedes-Benz-eCitaro-Elektrobusse im Testbetrieb, NWL fördert 14 weitere Busse (~3 Mio. Euro) sowie Ladeinfrastruktur (~14 Mio. Euro).",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "padersprinter-elektrobusse",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
@@ -3987,21 +4561,30 @@
       "title": "'Wabi-Sabi'-TikTok-Trend feiert liebenswerte Unperfektheit",
       "date": "2026-08-08",
       "summary": "Neu, mehrfach bestätigt (Fast Company, CBC Kids News, Know Your Meme). Sound aus 'King of the Hill' als Aufhänger für Unperfektheits-/Authentizitäts-Content, Gegenbewegung zu Hochglanz-Content.",
-      "status": "neu"
+      "status": "neu",
+      "strang_id": "wabi-sabi-tiktok-trend",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
       "title": "'Yellow Font Theory' auf Instagram als Ehrlichkeits-Signal",
       "date": "2026-08-08",
       "summary": "Neu, mehrfach bestätigt (SocialBee, Know Your Meme). Gelbe Schrift für emotional ehrliche Reels-Botschaften, Ursprung @ericcromartie Ende 2025, mittlerweile Persiflage-Welle.",
-      "status": "neu"
+      "status": "neu",
+      "strang_id": "yellow-font-theory",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
       "title": "'No I didn't, dingbat — LISTEN!' Dance-Moms-Sound-Trend",
       "date": "2026-08-08",
       "summary": "Neu, nur einfach belegt (nur TikTok/Instagram-Postings, keine redaktionelle Einordnung). Zehn Jahre alter Abby-Lee-Miller-Clip als Sound für Tanz-/Mimik-Parodien.",
-      "status": "neu"
+      "status": "neu",
+      "strang_id": "dance-moms-sound-trend",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
@@ -4023,28 +4606,40 @@
       "title": "Nahost: Erwartete Angriffswelle bleibt erneut aus, Diplomatie um Hormuz-Route und Mekka-Pakt gewinnt Boden",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe (korrigiert wiederholte Erwartung einer harten US/Israel-Angriffswelle). Iran/Oman naehern sich Hormuz-Route-Einigung (Details offen), Mekka-Verteidigungspakt SA/Tuerkei/Pakistan am 7.8. besiegelt. Gaza Board of Peace: Entwaffnungsfrist laeuft um 13.8. aus, Israel stimmt Plan weiter nicht offiziell zu, Gewalt haelt an (~1.250 Tote seit Waffenruhe).",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "nahost-iran-spannung",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "Ukraine-Krieg: wechselseitige Angriffswellen halten unvermindert an",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe. Nach schwerem Kiew-Angriff 5.8. (17 Tote) griff Russland weiter Kiew/Odessa an (9.8. erneut Fire-Point-Fabrik), Ukraine setzte Angriffe auf russische Oelinfrastruktur fort (Distanzrekord 1.700km). Russische Einnahme Ivanivka (Charkiw) unabhaengig nicht verifiziert. Selenskyj warnt bei Serbien-Besuch vor Eskalation im Winter.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "ukraine-krieg",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "Sudan: UN warnt vor 'rotem Alarm' in El-Obeid",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe (Eskalationsstufe im Warnton, UN-Kommissar Tuerk vergleicht mit El-Fasher-Massaker 2025). Belagerung El-Obeid durch RSF spitzt sich zu, Cholera-Ausbruch, sexualisierte Gewalt, wachsendes Vertriebenenlager. Keine militaerische Entscheidung bis 9.8.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "sudan-el-obeid-belagerung",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "567 Millionen Jahre alte Fossilien in Kanada ruecken Ursprung tierischen Lebens vor",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe, Themenmix Wissenschaft. Dartmouth-Expedition Mackenzie Mountains findet >100 Fossilien/6 neue Organismengruppen der Ediacara-Zeit (Science Advances), deutet auf 5-10 Mio Jahre frueheren Ursprung von Bewegung/Fortpflanzung bei Tieren, evtl. Tiefsee statt Flachmeer als Ursprungsort.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "fossilien-ediacara-kanada",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
@@ -4058,28 +4653,40 @@
       "title": "CDU-Rentenstreit: sieben Länder gegen Merz, Bundesratsblockade formalisiert",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe (Eskalationsstufe: informell zu parteiuebergreifender Bundesrats-Blockade). Alle 5 ostdt. Laender plus Saarland/Bremen gegen Abschaffung Rente mit 63, Schwesig (SPD) schliesst sich Kretschmer/Schulze/Voigt an. Fuer Bundesratsblockade fehlen rechnerisch ~10 Stimmen (nur einfach belegt). Frei sieht keinen Verhandlungsspielraum mehr.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "rentenstreit-koalition",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Rhein-Niedrigwasser: neuer historischer Tiefstand bei Kaub (17cm), Sofortmassnahmen",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe, Themenmix Wirtschaft/Klima. Pegel Kaub faellt von 24cm (3.8.) ueber 19cm (5.8.) auf 17cm (7.8., neuer Rekord, unterbietet 2018er-Rekord von 24cm). RLP/Saarland setzen Lkw-Sonntagsfahrverbot bis 30.9. aus, NRW/Niedersachsen mit Ausnahme bis 31.8. Keine Entspannung in Sicht.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "rhein-niedrigwasser",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Drohnenanschlag Leipzig/Halle: Bundesanwaltschaft übernimmt Ermittlungen",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe (Fortschreibung). Generalbundesanwaltschaft uebernahm wegen besonderen Gewichts, Anfangsverdacht versuchte Sprengstoffexplosion. Ziel unter sechs stationierten Antonow-Maschinen unklar, keine Taeter/Festnahmen bekannt, Details zum zweiten Flugobjekt (DHL-Kollision Hannover) nur einfach belegt.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "leipzig-halle-drohne",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Bayreuther Festspiele: KI-generierter Jubiläums-'Ring' endet mit Buhrufen für Kreativteam",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe, Themenmix Kultur (Bilanz-Perspektive, in Wochenausgabe vom 2026-08-09 zusammengefasst). Kurator Lobbes/Team bei Goetterdaemmerung-Premiere 1.8. deutlich ausgebuht, KI-Bildkonzept gilt als dramaturgisch gescheitert, musikalische Seite (Thielemann) einhellig gelobt.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "bayreuther-festspiele-ki-ring",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
@@ -4093,28 +4700,40 @@
       "title": "Warsteiner/Haus Cramer: Sozialtarifvertrag final, Käufersuche Paderborn weiter offen",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe. Sozialtarifvertrag fuer 220 Beschaeftigte (Abfindungen bis 150.000 Euro, ~50 Ersatzarbeitsplaetze Warstein, Umzugszuschuesse). Herford schliesst Ende August fix. Paderborn (113 Arbeitsplaetze) ohne Kaeufer, Veltins-Interesse kursiert weiter unbestaetigt, MBG/Edeka nur einfach belegt.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "warsteiner-haus-cramer",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
       "title": "Wassernot OWL: Entnahmeverbote auf Lippe, Ems und alle übrigen Bäche/Flüsse ausgeweitet",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe, Themenmix Umwelt/Gesellschaft. Bezirksregierung Detmold verbietet ab 4.8. Entnahme aus Lippe/Ems, Kreis Paderborn erweitert ab 6.8. auf alle Baeche/Fluesse (Bussgeld bis 50.000 Euro). Gilt bis 30.9., betrifft auch Landwirtschaft (Mais/Zuckerrueben/Kartoffeln).",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "wassernot-owl-entnahmeverbot",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
       "title": "Fahrerflucht auf der B64 bei Delbrück: 23-Jähriger weiter flüchtig",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe, hyperlokal Delbrueck (Wohnort des Lesers). Nach toedlicher Kollision mit 81-jaehrigem Pedelec-Fahrer am 20.7. ist der 23-jaehrige mutmassliche Fahrer (Wohnsitz Delbrueck) weiterhin flüchtig, drei Wochen nach der Tat keine Festnahme bekannt.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "fahrerflucht-b64-delbrueck",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
       "title": "Zukunftspreis Handwerk OWL: Zimmerei Peters aus Bad Lippspringe ausgezeichnet",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe, Themenmix Wirtschaft/Gesellschaft (einmaliges Ereignis, in Wochenausgabe vom 2026-08-09 zusammengefasst). Zimmerei/Saegewerk Meinolf Peters (Bad Lippspringe, Kreis Paderborn) fuer Ehrenamtskultur ausgezeichnet, Teil eines bewusst ausserhalb von Krisen-/Festthemen recherchierten Fundes.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "zukunftspreis-handwerk-owl",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
@@ -4128,28 +4747,40 @@
       "title": "Ariana Grandes 'petal': Chart-Rekordlauf festigt sich über die ganze Woche",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe, mehrfach bestaetigt. Sechstes UK-Nr.1-Album, zusaetzlich Nr.1 australische ARIA-Charts, projiziertes US-#1-Debuet ~291.000 Einheiten, vier Tage globale Spotify-Daily-Artists-Spitze.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "ariana-grande-petal-charts",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
       "title": "'The Kumar Method': Nachfolgefigur Cyrus übernimmt, Identität bleibt bewusst ungeklärt",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe, mehrfach bestaetigt im Kernnarrativ (als engineered-virality-Marketingformat eingeordnet). Cyrus fuehrt nach 'Elimination' Kumars durch fiktive Gruppe 'The Council', keine Aufloesung/Enthuellungstermin bis 9.8.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "kumar-method-cyrus",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
       "title": "Backlash gegen OpenAIs Luxus-Influencer-Reise 'Summer Club' hält an",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe, mehrfach bestaetigt (NBC, TechCrunch, CBC, Futurism). Kritik an Creatorn haelt ueber die Woche an statt abzuklingen, mind. ein Video geloescht, Verknuepfung mit OpenAI-Rechenzentrums-/Pentagon-Deals und Umweltkritik.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "openai-summer-club-backlash",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
       "title": "'Jimothy Night' bei den Seattle Mariners: zweiter ausverkaufter Termin",
       "date": "2026-08-09",
       "summary": "Eigener Artikel in Wochenausgabe, mehrfach bestaetigt (in Wochenausgabe vom 2026-08-09 zusammengefasst). Zweiter Termin 7.8. nach Nachfrage nachgelegt, Sammelkarte fuer 10.000 USD zum Wiederverkauf angeboten.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "jimothy-night-mariners",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
@@ -4170,28 +4801,40 @@
       "title": "Russland greift Odessa mit einem der massivsten Angriffe seit Kriegsbeginn an",
       "date": "2026-08-10",
       "summary": "Eigener Artikel (Eskalationssprung). Nacht auf 9.8.: ballistische Raketen (Iskander-M/S-400), Anti-Schiffs-/Anti-Radar-Systeme (Onyx, Ch-31P) auf Odessa, Energie-/Hafeninfrastruktur beschaedigt, 8+ Verletzte; parallel 2 Tote in Charkiw. Ukraine wehrte 174 Shahed-Drohnen/5 Banderol-Marschflugkoerper ab, eigener Gegenangriff auf Belgorod.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "ukraine-krieg",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "Ebola im Kongo ueberschreitet erstmals 4.000 bestaetigte Faelle",
       "date": "2026-08-10",
       "summary": "Eigener Artikel (neue Dimension: Meilenstein). Erste Augustwoche >4.000 Faelle (Ende Juli: 3.605/1.587 Tote), Bundibugyo-Variante, 49 Gesundheitszonen/5 Provinzen, groesster Ebola-Ausbruch der kongolesischen Geschichte. Seit 24.7. erste Testreihe eines Bundibugyo-spezifischen Impfstoffs (UK).",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "ebola-kongo-ausbruch",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "Themenmix Wissenschaft: Totale Sonnenfinsternis 12.8. ueber Kontinentaleuropa",
       "date": "2026-08-10",
       "summary": "Eigener Artikel, Themenmix Wissenschaft/Kultur (neuer Strang, einmaliges Ereignis). Erste totale Sonnenfinsternis ueber West-/Kontinentaleuropa seit 1999 (Groenland, Island, Nordspanien/Balearen, max. 2:18 Totalitaet), 88-95% partielle Bedeckung in weiten Teilen Europas.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "sonnenfinsternis-europa",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "Themenmix Wissenschaft: Physiker bestaetigen erstmals 'Glueball'-Teilchen",
       "date": "2026-08-10",
       "summary": "Eigener Artikel, Themenmix Wissenschaft (neuer Strang, einmaliges Ereignis). BESIII-Kollaboration (Peking) verkuendet nach 15 Jahren Beweiskette fuer Glueballs (Teilchen rein aus Gluonen); X(2370) als glueball-dominiert identifiziert, schliesst ~50 Jahre offene Suche der Teilchenphysik.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "teilchenphysik-glueball",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
@@ -4205,21 +4848,30 @@
       "title": "Nach Drohnenfund Leipzig/Halle: Bundesregierung hebt Bedrohungsstufe auf 'hoch'",
       "date": "2026-08-10",
       "summary": "Eigener Artikel (neue Dimension: offizielle Hochstufung). Dobrindt hebt Bedrohungseinstufung von 'abstrakt' auf 'hoch', spricht von 'hybrider Kriegsfuehrung'; Ausbau Drohnenabwehr-Forschung mit Baer geplant. Taeterschaft weiter unklar, Bundesanwaltschaft ermittelt.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "leipzig-halle-drohne",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Themenmix Technologie: RFA ONE — erster deutscher Orbitalstart-Versuch von Schottland aus",
       "date": "2026-08-10",
       "summary": "Eigener Artikel, Themenmix Technologie/Raumfahrt (neuer Strang). Rocket Factory Augsburg startet frueh. 10.8. 'RFA ONE' vom SaxaVord-Weltraumbahnhof (Shetland-Inseln) — erster Orbitalstart von brit. Boden, 2. Anlauf nach Explosion beim Bodentest 2024. 5-Wochen-Startfenster.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "rfa-one-orbitalstart",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Rhein-Rekordtief: vier Bundeslaender setzen Lkw-Sonntagsfahrverbot aus",
       "date": "2026-08-10",
       "summary": "Eigener Artikel (neue Dimension: Massnahme ausgeweitet). Pegel Kaub Rekordtief 17cm (7.8.), Lkw-Sonntagsfahrverbot jetzt in NRW, Niedersachsen, Rheinland-Pfalz UND Saarland ausgesetzt (zuvor nur 2 Laender) zur Entlastung der Binnenschifffahrt.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "rhein-niedrigwasser",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
@@ -4233,21 +4885,30 @@
       "title": "Brandursache Feuerwehrgerätehaus Etteln geklärt: technischer Defekt",
       "date": "2026-08-10",
       "summary": "Eigener Artikel (Abschluss). Kriminaltechnik der Polizei Paderborn identifiziert technischen Defekt an einem Feuerwehrfahrzeug im linken Garagenteil als Brandursache des Grossbrands vom 5.8. — kein Fremdverschulden, keine Brandstiftung.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "feuerwehrhaus-etteln-brand",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
       "title": "Themenmix Kultur: Neue Open-Air-Konzertreihe 'Donnerstags in Paderborn'",
       "date": "2026-08-10",
       "summary": "Eigener Artikel, Themenmix Kultur/Gesellschaft (neuer Strang). Drei kostenlose Konzertabende auf dem Domplatz (13./20./27.8., 17-22 Uhr): Groovejet, Papa'z Finest, Royal Stage Army. Initiative des Stadtmarketings fuer niedrigschwelliges Kulturangebot in der City.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "konzertreihe-donnerstags-paderborn",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
       "title": "Themenmix Infrastruktur: Fahrbahnsanierung B1/B64 in Paderborn gestartet",
       "date": "2026-08-10",
       "summary": "Eigener Artikel, Themenmix Infrastruktur/Wirtschaft (neuer Strang). Strassen.NRW saniert ab 6.8. rund 2,3km B1/B64 samt Ab-/Auffahrten, 4,3 Mio. Euro Bundesmittel, ca. 4,5 Monate Bauzeit, betrifft Pendler-/Durchgangsverkehr.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "fahrbahnsanierung-b1-b64-paderborn",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
@@ -4261,21 +4922,30 @@
       "title": "Instagrams KI-'Flash'-Filter: Kontroverse um veränderte Gesichtszüge/Hautton",
       "date": "2026-08-10",
       "summary": "Eigener Artikel (neue Dimension, anhaltende Kontroverse). Meistgenutzter viraler Effekt 2026, Kritik: Filter veraendert laut Nutzern auch Gesichtszuege/Hautton/wahrgenommene Ethnizitaet. Meta hatte im Juli verwandtes 'Create with AI'-Feature nach CAA-Kritik zurueckgezogen.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "instagram-flash-filter-kontroverse",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
       "title": "'2026 is the new 2016': Nostalgie-Makrotrend mit eigenem Wikipedia-Eintrag",
       "date": "2026-08-10",
       "summary": "Neu, mehrfach bestaetigt (Wikipedia, Know Your Meme). Seit Dez. 2025 laufender Nostalgie-Trend (2016-vs-2026-Vergleiche/Aesthetik) gilt als staerkster plattformuebergreifender Sammel-Trend des Sommers.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "nostalgie-trend-2016-2026",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
       "title": "'Authentizitäts-Welle': unproduzierte Ein-Take-Videos vs. Hochglanz-Content",
       "date": "2026-08-10",
       "summary": "Neu, nur einfach belegt (nur Marketing-/Trendblogs, keine unabhaengige Redaktion). Lkw-Fahrer-Lipsync-Reel angeblich 337 Mio. Aufrufe als meistgesehenes Reel des Monats — Zahl nicht unabhaengig verifiziert.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "authentizitaets-welle-ein-take",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
@@ -4296,21 +4966,30 @@
       "title": "Gaza: Netanyahu weist 'Board of Peace'-Friedensplan explizit zurück",
       "date": "2026-08-11",
       "summary": "Eigener Artikel (Wendepunkt). Netanyahu lehnte den 15-Punkte-Entwaffnungsplan am 9.8. offiziell ab, Hamas bekräftigt Zustimmung - offener Dissens vor Fristablauf 13.8.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "gaza-friedensplan",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "Themenmix Gesellschaft/Klima: Historische Hitzewelle stellt in Westeuropa neue Rekorde auf",
       "date": "2026-08-11",
       "summary": "Eigener Artikel, Themenmix. Heißester Juni/Juli seit Messbeginn (21,62°C, +2,79°C über Mittel), WWA bestätigt Klimawandel-Zusammenhang, nationale Waldbrandrekorde in Spanien/Frankreich/Portugal.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "hitzewelle-westeuropa",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
       "title": "Sudan: Armeechef al-Burhan sucht überraschend politischen Dialog",
       "date": "2026-08-11",
       "summary": "Eigener Artikel (neue Dimension: Diplomatie statt Militär). Unangekündigte Konsultationen 10.8., Vorbereitungskomitee für Dialogkonferenz vereinbart; Belagerung El-Obeid militärisch unverändert kritisch.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "sudan-el-obeid-belagerung",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "global",
@@ -4324,21 +5003,30 @@
       "title": "Leipzig/Halle: DNA-Spur soll Drohnenfall mit 2024er-Sabotage-Netzwerk (GRU-Bezug) verbinden",
       "date": "2026-08-11",
       "summary": "Eigener Artikel (neue Dimension, nur einfach belegt - Ursprung Bild, keine amtliche Bestätigung). DNA-Spur soll Fall mit DHL-Brandanschlag 2024 und mutmaßlichem russischem Sabotage-Netzwerk (Eurojust/GRU) verknüpfen.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "leipzig-halle-drohne",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Rentenstreit: SPD bringt 'Österreich-Modell' als Kompromissvorschlag ein",
       "date": "2026-08-11",
       "summary": "Eigener Artikel (neue Dimension: erster konkreter Lösungsvorschlag). SPD schlägt Schwerarbeitspension nach österreichischem Vorbild vor (Rentenbeginn ab 60 mit Abschlägen), Unions-Reaktion uneinheitlich.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "rentenstreit-koalition",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
       "title": "Themenmix Wirtschaft: Deutsche Exporte erreichen im Juni neuen Rekordwert",
       "date": "2026-08-11",
       "summary": "Eigener Artikel, Themenmix. Destatis: Exporte Juni 139,3 Mrd. Euro (Rekord, vorher 139,1 Mrd. Sept. 2022), +6,6% ggü. Vorjahr; Handelsbilanzüberschuss sank auf 15,4 Mrd. Euro.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "deutsche-exporte-rekord",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "national",
@@ -4352,21 +5040,30 @@
       "title": "'Pferderipper'-Serie erreicht mit fünftem, schwererem Fall erstmals Kreis Lippe (Elbrinxen)",
       "date": "2026-08-11",
       "summary": "Eigener Artikel (neue Dimension: neue Region + schwerere Tatform). Stute in Elbrinxen (Lügde, Kreis Lippe) schwer verletzt, möglicher Zusammenhang mit Höxteraner Serie (4 Fälle, zuletzt 2.8. Bödexen) wird geprüft, nicht bestätigt.",
-      "status": "laufend"
+      "status": "laufend",
+      "strang_id": "pferderipper-serie-owl",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
       "title": "Themenmix Wissenschaft: Partielle Sonnenfinsternis zieht am 12.8. über OWL",
       "date": "2026-08-11",
       "summary": "Eigener Artikel, Themenmix (Vorschau-Ereignis). Bielefeld/Paderborn ca. 89% Bedeckung gegen 20:10 Uhr, öffentliche Beobachtungen Volkssternwarte Ubbedissen und Schulsternwarte Minden-Lübbecke.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "sonnenfinsternis-owl",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
       "title": "Schüsse vor dem Bielefelder Hauptbahnhof: 21-Jähriger in Untersuchungshaft",
       "date": "2026-08-11",
       "summary": "Eigener Artikel (Vorfall 8.8., neu im Bericht). Nach Prügelattacke Schuss auf Taxi abgefeuert, Opfer nur leicht verletzt, Tatverdächtiger wegen gefährlicher Körperverletzung/versuchten Totschlags in U-Haft.",
-      "status": "abgeschlossen"
+      "status": "abgeschlossen",
+      "strang_id": "schuesse-bielefeld-hauptbahnhof",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "lokal",
@@ -4380,21 +5077,30 @@
       "title": "'Flip Phone Summer': Gen Z tauscht Smartphone gegen Klapphandy",
       "date": "2026-08-11",
       "summary": "Neu, mehrfach bestätigt. #FlipPhoneSummer/#BringBackFlipPhones-Trend, Light-Flip und Samsung Z Flip 8 als Marktreaktion; 47%-Nutzungsstatistik nur einfach belegt.",
-      "status": "neu"
+      "status": "neu",
+      "strang_id": "flip-phone-summer",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
       "title": "Backlash gegen KI-Begleiterin 'E.V.' in 'Spider-Man: Brand New Day'",
       "date": "2026-08-11",
       "summary": "Neu, mehrfach bestätigt. Kritik an KI-Sidekick als Ersatz für menschliche Nebenfiguren/Beziehungen, Debatte über KI-Normalisierung in Filmen.",
-      "status": "neu"
+      "status": "neu",
+      "strang_id": "ki-begleiterin-ev-spiderman-backlash",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
       "title": "Reise-Ansturm vor totaler Sonnenfinsternis am 12.8. (Island/Nordspanien)",
       "date": "2026-08-11",
       "summary": "Neu, mehrfach bestätigt. Viraler TikTok/Instagram-Reise-Hype wegen Kombination totale Sonnenfinsternis + Planetenparade + Perseiden-Maximum.",
-      "status": "neu"
+      "status": "neu",
+      "strang_id": "reise-ansturm-sonnenfinsternis",
+      "form": "artikel",
+      "kontrast": false
     },
     {
       "category": "social",
