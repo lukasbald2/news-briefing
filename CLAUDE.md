@@ -108,10 +108,26 @@ werden müssen.
   Strang-Regeln ignorieren, nicht vorzeitig löschen — sie laufen über die
   normale 30-Tage-Regel aus.
 
+**Reichweite des Index:** Der Index wurde am 2026-08-11 aus den sieben
+vorangegangenen Tagen aufgebaut. `erstmals_am` ist damit der Beginn der
+NACHVERFOLGUNG, nicht zwingend der Beginn der Geschichte — Dauerstränge wie
+Ukraine oder Nahost tragen dort ein Datum aus dem August 2026, obwohl sie
+längst laufen. `erstmals_am` wird nie nachträglich geändert.
+
 Im Bericht bekommt jeder Artikel zu einem fortlaufenden Strang einen
-Verlaufssatz als `<p class="verlauf">`, formuliert als ganzer Satz („Der
-Strang läuft seit dem 14. Juli, dies ist die sechste Meldung dazu.") — er
-wird mitvorgelesen, eine Datenzeile klänge im Audio wie ein Formularfeld.
+Verlaufssatz als `<p class="verlauf">`, formuliert als ganzer Satz — er wird
+mitvorgelesen, eine Datenzeile klänge im Audio wie ein Formularfeld. Der Satz
+muss sich dabei IMMER auf die Nachverfolgung beziehen und darf nie einen
+Beginn behaupten, den die Daten nicht hergeben:
+
+- richtig: „In dieser Nachverfolgung ist es die sechste Meldung zum Thema,
+  die erste seit dem 6. August."
+- richtig: „Der Bericht verfolgt den Strang seit mindestens dem 5. August."
+- falsch: „Der Strang läuft seit dem 5. August."
+
+Ist offenkundig, dass ein Strang deutlich länger läuft, als der Index hergibt,
+entfällt das Anfangsdatum ganz und es wird nur die Zahl der nachverfolgten
+Meldungen genannt.
 
 ## Quellen-Kontrast (eingeführt 2026-08-11) — WICHTIG
 
