@@ -65,6 +65,49 @@ Einträge der Kategorie `feedback` in `memory.json` sind Nutzer-Hinweise an
 künftige Läufe: beim Lauf berücksichtigen und nach Umsetzung auf
 `"abgeschlossen"` setzen (nicht nach 30 Tagen löschen, solange offen).
 
+## Quellen-Kontrast (eingeführt 2026-08-11) — WICHTIG
+
+Pro Ausgabe bekommt **genau eine** Meldung einen Block „Wie andere darüber
+schreiben": drei seriöse Medien mit ihrer tatsächlichen Überschrift und je
+einem Satz zu Schwerpunkt und Auslassung, danach ein Satz Einordnung, worin
+sich die Darstellungen unterscheiden (Wortwahl, unterstellte Ursache,
+Auslassung, Gewichtung). Der Block steht in der Sektion der Meldung, direkt
+unter dem zugehörigen Artikel, und ersetzt keinen Artikel-Platz.
+
+Hintergrund: Die Routine recherchiert für jede Meldung ohnehin ≥2 unabhängige
+Quellen, verwirft den Darstellungsunterschied aber bei der Synthese. Der Block
+macht diese bereits erhobene Information sichtbar.
+
+**Grenzen:** Keine Bias-Scores, keine politischen Etiketten („regierungsnah",
+„linksliberal"), keine Spekulation über Redaktionsmotive — nur am Text
+Beobachtbares. Decken sich die Darstellungen weitgehend, wird genau das in
+einem Satz festgehalten; **Unterschiede werden nicht konstruiert**. Nur
+Überschriften und kurze Kernaussagen zitieren, keine längeren Passagen.
+
+**Markup-Kontrakt (wichtig für `readaloud.js`):** Der Medienname steht im
+Absatz selbst, der Link separat in `<p class="quelle">` — `.quelle`-Elemente
+werden bewusst nicht vorgelesen, ein Medienname im Link wäre also stumm und
+die vorgelesenen Überschriften ließen sich nicht zuordnen.
+
+```html
+<div class="kontrast">
+  <h3>Wie andere darüber schreiben</h3>
+  <p><em>Reuters</em> titelt: „ÜBERSCHRIFT". Der Bericht rückt X in den
+     Vordergrund und lässt Y aus.</p>
+  <p class="quelle"><a href="URL">Reuters, TT.MM.JJJJ</a></p>
+  <!-- zwei weitere Quellen analog -->
+  <p>Unterschied: EIN SATZ EINORDNUNG.</p>
+</div>
+```
+
+Da `<h3>` und `<p>` verwendet werden, greift die Vorlesefunktion ohne
+Änderung an `readaloud.js`.
+
+**Auswahl:** bevorzugt die Top-Meldung des Tages; sind die Darstellungen dort
+deckungsgleich, die Meldung mit den deutlichsten Unterschieden. An drei
+aufeinanderfolgenden Tagen möglichst drei verschiedene Stränge — dafür wird im
+`memory.json`-Eintrag des Strangs der Zusatz „mit Quellen-Kontrast" vermerkt.
+
 ## Footer-Links beim Kopieren nach `index.html` — WICHTIG
 
 Der jeweils neueste Bericht wird unter `reports/briefing-JJJJ-MM-TT.html`
