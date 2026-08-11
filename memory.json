@@ -618,13 +618,6 @@
     },
     {
       "category": "national",
-      "title": "Heizungsgesetz-Novelle vom Bundestag beschlossen",
-      "date": "2026-07-11",
-      "summary": "Namentliche Abstimmung 10.7. (323:271): Öl-/Gasheizungen bleiben zulässig, ab 2029 verbindlicher Bioanteil ('Biotreppe'), ab 2045 klimaneutral. Schließt den seit 8.7. laufenden Thread ab (BVerfG hatte Linke-Eilantrag zuvor abgewiesen).",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "national",
       "title": "DFB/Klopp: mehrere Sportmedien melden nahezu fixierten Vertrag bis 2030",
       "date": "2026-07-11",
       "summary": "SPOX/Goal/90min/Blick berichten übereinstimmend von Vertrag bis 2030, ~7 Mio. Euro/Jahr, Debüt 24.9. gegen Niederlande. Offizielle DFB-Bestätigung steht noch aus.",
@@ -671,14 +664,6 @@
       "date": "2026-07-11",
       "summary": "Jackson-5-Remix (@neverbadagain) treibt Tanz-/Cover-Videos zum Biopic 'Michael' an. Auslöser (Kinostart/Soundtrack) über Branchenpresse bestätigt, konkreter Trend selbst nur einfach belegt.",
       "status": "neu"
-    },
-    {
-      "category": "song",
-      "title": "Bad Penny – Rory Gallagher",
-      "date": "2026-07-11",
-      "summary": "Song des Tages, gewählt aus Lukas' aktuellen Top-Tracks. Sprichwort 'a bad penny always turns up' passt zur Grundbeobachtung des Berichts: Waffenruhe erneut für beendet erklärt, Chatkontrolle kehrt per Verfahrenstrick zurück - wiederkehrende Konflikte/Vorhaben.",
-      "status": "neu",
-      "quelle": "top-tracks"
     },
     {
       "category": "global",
@@ -4305,6 +4290,126 @@
       "date": "2026-08-10",
       "summary": "Song des Tages, aus Lukas' Top-Tracks (nicht in den letzten 14 Tagen vorgeschlagen). Die trotzige Weigerung, sich Druck zu beugen ('I said no, no, no'), spiegelt Irans Ablehnung einer einseitigen Hormuz-Oeffnung und die Blockadehaltung mehrerer Bundeslaender im Rentenstreit trotz Drucks aus Berlin.",
       "status": "neu"
+    },
+    {
+      "category": "global",
+      "title": "Gaza: Netanyahu weist 'Board of Peace'-Friedensplan explizit zurück",
+      "date": "2026-08-11",
+      "summary": "Eigener Artikel (Wendepunkt). Netanyahu lehnte den 15-Punkte-Entwaffnungsplan am 9.8. offiziell ab, Hamas bekräftigt Zustimmung - offener Dissens vor Fristablauf 13.8.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Themenmix Gesellschaft/Klima: Historische Hitzewelle stellt in Westeuropa neue Rekorde auf",
+      "date": "2026-08-11",
+      "summary": "Eigener Artikel, Themenmix. Heißester Juni/Juli seit Messbeginn (21,62°C, +2,79°C über Mittel), WWA bestätigt Klimawandel-Zusammenhang, nationale Waldbrandrekorde in Spanien/Frankreich/Portugal.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Sudan: Armeechef al-Burhan sucht überraschend politischen Dialog",
+      "date": "2026-08-11",
+      "summary": "Eigener Artikel (neue Dimension: Diplomatie statt Militär). Unangekündigte Konsultationen 10.8., Vorbereitungskomitee für Dialogkonferenz vereinbart; Belagerung El-Obeid militärisch unverändert kritisch.",
+      "status": "laufend"
+    },
+    {
+      "category": "global",
+      "title": "Weitere laufende globale Stränge (nur Hinweisblock)",
+      "date": "2026-08-11",
+      "summary": "Ukraine: Odessa erneut angegriffen, Ukraine traf Raffinerien Taneco/Tobolsk - alle 11 großen russischen Raffinerien nun mind. einmal getroffen (Meilenstein, keine Eskalation). Iran/Hormuz weiter keine Angriffswelle, Einigung Iran/Oman nahe aber offen. Ebola Kongo bei 4.209 Fällen (1.916 Tote), inkrementell.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Leipzig/Halle: DNA-Spur soll Drohnenfall mit 2024er-Sabotage-Netzwerk (GRU-Bezug) verbinden",
+      "date": "2026-08-11",
+      "summary": "Eigener Artikel (neue Dimension, nur einfach belegt - Ursprung Bild, keine amtliche Bestätigung). DNA-Spur soll Fall mit DHL-Brandanschlag 2024 und mutmaßlichem russischem Sabotage-Netzwerk (Eurojust/GRU) verknüpfen.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Rentenstreit: SPD bringt 'Österreich-Modell' als Kompromissvorschlag ein",
+      "date": "2026-08-11",
+      "summary": "Eigener Artikel (neue Dimension: erster konkreter Lösungsvorschlag). SPD schlägt Schwerarbeitspension nach österreichischem Vorbild vor (Rentenbeginn ab 60 mit Abschlägen), Unions-Reaktion uneinheitlich.",
+      "status": "laufend"
+    },
+    {
+      "category": "national",
+      "title": "Themenmix Wirtschaft: Deutsche Exporte erreichen im Juni neuen Rekordwert",
+      "date": "2026-08-11",
+      "summary": "Eigener Artikel, Themenmix. Destatis: Exporte Juni 139,3 Mrd. Euro (Rekord, vorher 139,1 Mrd. Sept. 2022), +6,6% ggü. Vorjahr; Handelsbilanzüberschuss sank auf 15,4 Mrd. Euro.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "national",
+      "title": "Weitere laufende nationale Stränge (nur Hinweisblock)",
+      "date": "2026-08-11",
+      "summary": "Rhein-Niedrigwasser unverändert. Steinmeier-Nachfolge: Merkel weiter Wunschkandidatin laut Forsa, lehnt ab. VW-Krise eingefroren bis September. Korrektur RFA ONE: Start am 10.8. fand nicht statt, Rakete Ende Juli zerlegt, kein neuer Termin.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "'Pferderipper'-Serie erreicht mit fünftem, schwererem Fall erstmals Kreis Lippe (Elbrinxen)",
+      "date": "2026-08-11",
+      "summary": "Eigener Artikel (neue Dimension: neue Region + schwerere Tatform). Stute in Elbrinxen (Lügde, Kreis Lippe) schwer verletzt, möglicher Zusammenhang mit Höxteraner Serie (4 Fälle, zuletzt 2.8. Bödexen) wird geprüft, nicht bestätigt.",
+      "status": "laufend"
+    },
+    {
+      "category": "lokal",
+      "title": "Themenmix Wissenschaft: Partielle Sonnenfinsternis zieht am 12.8. über OWL",
+      "date": "2026-08-11",
+      "summary": "Eigener Artikel, Themenmix (Vorschau-Ereignis). Bielefeld/Paderborn ca. 89% Bedeckung gegen 20:10 Uhr, öffentliche Beobachtungen Volkssternwarte Ubbedissen und Schulsternwarte Minden-Lübbecke.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Schüsse vor dem Bielefelder Hauptbahnhof: 21-Jähriger in Untersuchungshaft",
+      "date": "2026-08-11",
+      "summary": "Eigener Artikel (Vorfall 8.8., neu im Bericht). Nach Prügelattacke Schuss auf Taxi abgefeuert, Opfer nur leicht verletzt, Tatverdächtiger wegen gefährlicher Körperverletzung/versuchten Totschlags in U-Haft.",
+      "status": "abgeschlossen"
+    },
+    {
+      "category": "lokal",
+      "title": "Weitere laufende lokale Stränge (nur Hinweisblock)",
+      "date": "2026-08-11",
+      "summary": "Fahrerflucht B64 Delbrück: 23-Jähriger weiter flüchtig. Warsteiner/Haus Cramer Paderborn weiter ohne Käufer. Hövelhof-Kreisverkehr planmäßig. Brasseler Lemgo: Wirtschaftsgespräch mit Stadt Lemgo ohne neue Entscheidungen.",
+      "status": "laufend"
+    },
+    {
+      "category": "social",
+      "title": "'Flip Phone Summer': Gen Z tauscht Smartphone gegen Klapphandy",
+      "date": "2026-08-11",
+      "summary": "Neu, mehrfach bestätigt. #FlipPhoneSummer/#BringBackFlipPhones-Trend, Light-Flip und Samsung Z Flip 8 als Marktreaktion; 47%-Nutzungsstatistik nur einfach belegt.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Backlash gegen KI-Begleiterin 'E.V.' in 'Spider-Man: Brand New Day'",
+      "date": "2026-08-11",
+      "summary": "Neu, mehrfach bestätigt. Kritik an KI-Sidekick als Ersatz für menschliche Nebenfiguren/Beziehungen, Debatte über KI-Normalisierung in Filmen.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Reise-Ansturm vor totaler Sonnenfinsternis am 12.8. (Island/Nordspanien)",
+      "date": "2026-08-11",
+      "summary": "Neu, mehrfach bestätigt. Viraler TikTok/Instagram-Reise-Hype wegen Kombination totale Sonnenfinsternis + Planetenparade + Perseiden-Maximum.",
+      "status": "neu"
+    },
+    {
+      "category": "social",
+      "title": "Weitere Social-Fortschreibungen (nur Hinweisblock)",
+      "date": "2026-08-11",
+      "summary": "Kumar Method/Cyrus-Narrativ unverändert. OpenAI Summer-Club-Backlash stagniert. Bangladesh-Song nähert sich Millionen-Streams. Instagram Flash-Filter-Kontroverse ohne neue Entwicklung. Jugendwort 2026: Abstimmung bis 20.8.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Aberdeen – Avi Kaplan",
+      "date": "2026-08-11",
+      "summary": "Song des Tages, aus Lukas' aktuellen Top-Tracks (nicht in den letzten 14 Tagen vorgeschlagen). Beschreibt kühle, schmerzlindernde Zufluchtsstätte - Kontrapunkt zur historischen Hitzewelle in Westeuropa sowie zu den harten Fronten bei Gaza-Plan-Ablehnung und Rentenstreit.",
+      "status": "neu",
+      "quelle": "top-tracks"
     }
   ]
 }
