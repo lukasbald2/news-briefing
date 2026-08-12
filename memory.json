@@ -5,7 +5,7 @@
       "titel": "Sudan: Belagerung von El-Obeid",
       "kategorie": "global",
       "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-11",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -13,7 +13,7 @@
       "titel": "Ukraine-Krieg: Angriffswellen und Gegenangriffe",
       "kategorie": "global",
       "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-10",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -29,7 +29,7 @@
       "titel": "Rentenstreit in der Koalition (Rente mit 63)",
       "kategorie": "national",
       "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-11",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -77,7 +77,7 @@
       "titel": "Backlash gegen OpenAIs 'Summer Club'",
       "kategorie": "social",
       "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-09",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -117,7 +117,7 @@
       "titel": "Rhein-Niedrigwasser bei Kaub",
       "kategorie": "national",
       "erstmals_am": "2026-08-06",
-      "letzter_eintrag": "2026-08-10",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -141,7 +141,7 @@
       "titel": "Pferderipper-Serie in OWL",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-06",
-      "letzter_eintrag": "2026-08-11",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -157,7 +157,7 @@
       "titel": "Jugendwort 2026: 'Du bist gut genug'",
       "kategorie": "social",
       "erstmals_am": "2026-08-06",
-      "letzter_eintrag": "2026-08-06",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -165,7 +165,7 @@
       "titel": "Nahost: Hormuz-Spannung und Verteidigungspakt",
       "kategorie": "global",
       "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-09",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -181,7 +181,7 @@
       "titel": "Hitzewelle und Waldbraende in Westeuropa",
       "kategorie": "global",
       "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-11",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -189,7 +189,7 @@
       "titel": "Drohnenfund am Flughafen Leipzig/Halle",
       "kategorie": "national",
       "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-11",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -205,7 +205,7 @@
       "titel": "Debatte um Steinmeier-Nachfolge",
       "kategorie": "national",
       "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-08",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -213,7 +213,7 @@
       "titel": "Warsteiner/Haus Cramer: Zukunftssuche Paderborn",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-09",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -237,7 +237,7 @@
       "titel": "'Kumar Method': Nachfolger Cyrus",
       "kategorie": "social",
       "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-09",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -293,7 +293,7 @@
       "titel": "Fahrerflucht auf der B64 bei Delbrueck",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-09",
-      "letzter_eintrag": "2026-08-09",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -317,7 +317,7 @@
       "titel": "Ebola-Ausbruch im Kongo",
       "kategorie": "global",
       "erstmals_am": "2026-08-10",
-      "letzter_eintrag": "2026-08-10",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -325,8 +325,8 @@
       "titel": "Totale Sonnenfinsternis ueber Kontinentaleuropa",
       "kategorie": "global",
       "erstmals_am": "2026-08-10",
-      "letzter_eintrag": "2026-08-10",
-      "status": "abgeschlossen"
+      "letzter_eintrag": "2026-08-12",
+      "status": "laufend"
     },
     {
       "id": "teilchenphysik-glueball",
@@ -389,7 +389,7 @@
       "titel": "Gaza: Board-of-Peace-Friedensplan",
       "kategorie": "global",
       "erstmals_am": "2026-08-11",
-      "letzter_eintrag": "2026-08-11",
+      "letzter_eintrag": "2026-08-12",
       "status": "laufend"
     },
     {
@@ -405,8 +405,8 @@
       "titel": "Partielle Sonnenfinsternis ueber OWL",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-11",
-      "letzter_eintrag": "2026-08-11",
-      "status": "abgeschlossen"
+      "letzter_eintrag": "2026-08-12",
+      "status": "laufend"
     },
     {
       "id": "schuesse-bielefeld-hauptbahnhof",
@@ -438,6 +438,62 @@
       "kategorie": "social",
       "erstmals_am": "2026-08-11",
       "letzter_eintrag": "2026-08-11",
+      "status": "neu"
+    },
+    {
+      "id": "geheimdienstreform-bnd-verfassungsschutz",
+      "titel": "Geheimdienstreform: erweiterte BND-Befugnisse",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-12",
+      "letzter_eintrag": "2026-08-12",
+      "status": "neu"
+    },
+    {
+      "id": "fruehstartrente-bafoegreform",
+      "titel": "Fruehstart-Rente und Bafoeg-Reform",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-12",
+      "letzter_eintrag": "2026-08-12",
+      "status": "neu"
+    },
+    {
+      "id": "foerderung-laendlicher-raum-owl",
+      "titel": "Landesfoerderung laendlicher Raum OWL",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-12",
+      "letzter_eintrag": "2026-08-12",
+      "status": "neu"
+    },
+    {
+      "id": "kreisstrasse-dalheim-sperrung",
+      "titel": "Vollsperrung Kreisstrasse Dalheim",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-12",
+      "letzter_eintrag": "2026-08-12",
+      "status": "neu"
+    },
+    {
+      "id": "delbrueck-kanalarbeiten-sperrung",
+      "titel": "Vollsperrung Delbrueck Kanalarbeiten",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-12",
+      "letzter_eintrag": "2026-08-12",
+      "status": "neu"
+    },
+    {
+      "id": "sonnenfinsternis-gravitations-hoax",
+      "titel": "Schwerkraft-Hoax zur Sonnenfinsternis",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-12",
+      "letzter_eintrag": "2026-08-12",
+      "status": "neu"
+    },
+    {
+      "id": "bangladesh-song-tiktok-trend",
+      "titel": "\"Bangladesh\"-Song TikTok/Instagram-Trend",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-12",
+      "letzter_eintrag": "2026-08-12",
       "status": "neu"
     }
   ],
@@ -1130,24 +1186,10 @@
     },
     {
       "category": "global",
-      "title": "Supertaifun Bavi: Festlandfall in China erfolgt",
-      "date": "2026-07-12",
-      "summary": "Bavi traf am Abend des 11.7. bei Yuhuan/Zhejiang auf Land, deutlich abgeschwächt (~144 km/h statt befürchteter Kat.-5-Böen), >1 Mio. bis 1,7 Mio. Evakuierte je nach Quelle. Zuvor mind. 17 Tote durch Erdrutsche auf den Philippinen. Landfall-Ereignis damit abgeschlossen (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "global",
       "title": "Neuer Ebola-Ausbruch DR Kongo",
       "date": "2026-07-12",
       "summary": "Bundibugyo-Ebola-Ausbruch seit Mai 2026, 1.792 bestätigte Fälle/625 Tote (Stand 9.7., gegenüber 1.561/506 fünf Tage zuvor), auch Uganda betroffen (20 Fälle/2 Tote). Erreichte 1.000 Fälle in nur 40 Tagen - ungewöhnlich schnelles Wachstum. Klinische Studie zu zwei Therapien läuft seit 2.7. (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
       "status": "neu"
-    },
-    {
-      "category": "global",
-      "title": "WM 2026: Halbfinalisten stehen fest",
-      "date": "2026-07-12",
-      "summary": "Frankreich, Spanien, Argentinien und England im Halbfinale (14./15.7. in Dallas/Atlanta), Finale 19.7. (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
-      "status": "abgeschlossen"
     },
     {
       "category": "national",
@@ -1162,13 +1204,6 @@
       "date": "2026-07-12",
       "summary": "Erstmals offizielle DFB-Stellungnahme nach Treffen in New York: Einigung über 'wesentliche Eckpunkte' eines Vertrags bis 2030. Steht unter Vorbehalt der Freigabe durch Red Bull; formaler DFB-Beschluss noch nicht erfolgt, weitere Gespräche 'kommende Woche' (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
       "status": "laufend"
-    },
-    {
-      "category": "national",
-      "title": "Brandanschlag Cottbus 'Zelle 79': CSD unter Polizeischutz durchgeführt",
-      "date": "2026-07-12",
-      "summary": "Mutmaßlich rechtsextremer Molotow-Cocktail-Anschlag in der Nacht zum 9.7., Ermittlungen wegen versuchten Mordes. Breite politische Verurteilung (OB Schick, Innenminister Redmann). CSD Cottbus fand am 11.7. unter verschärftem Polizeischutz statt, Ereignis damit abgeschlossen, Ermittlungen laufen als eigener Strang weiter (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
-      "status": "abgeschlossen"
     },
     {
       "category": "national",
@@ -1197,13 +1232,6 @@
       "date": "2026-07-12",
       "summary": "10.-13.7., Auftakt mit Zapfenstreich am 10.7. gefeiert, Höhepunkt (Königsschießen/Umzug neues Königspaar) erst am 13.7. - zum Berichtszeitpunkt noch nicht erfolgt (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
       "status": "laufend"
-    },
-    {
-      "category": "lokal",
-      "title": "AfD-Kreisvorsitzender Weber: Vereidigung als Ehrenbeamter verweigert",
-      "date": "2026-07-12",
-      "summary": "Bezirksregierung Detmold verweigerte Weber am 6.7. als einzigem Ausschussmitglied die Vereidigung wegen Zweifeln an Verfassungstreue (gestützt auf GFF-Gutachten), Begründung diese Woche öffentlich erläutert. Weber prüft rechtliche Schritte (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
-      "status": "abgeschlossen"
     },
     {
       "category": "lokal",
@@ -1253,14 +1281,6 @@
       "date": "2026-07-12",
       "summary": "~11,9 Mio. Posts laut CreatorDB, meistverwendeter deutschsprachiger Sound, springt auf US-Kanäle über; Gegenbewegung kritisiert Shirin Davids Part. Mehrfach belegt (in Wochenausgabe vom 2026-07-12 zusammengefasst).",
       "status": "neu"
-    },
-    {
-      "category": "song",
-      "title": "Sweet Virginia – The Rolling Stones",
-      "date": "2026-07-12",
-      "summary": "Song der Woche, gewählt wegen Rolling Stones als meistgehörtem Künstler der Woche. 'Got to scrape that shit right off your shoes' passt zur Wochenstimmung: kollabierte Waffenruhe, eskalierender Ölmarkt, Ebola-Ausbruch, VW-Zukunftsstreit, Brandanschlag Cottbus - Durchhalten trotz Unordnung statt klarer Auflösungen.",
-      "status": "neu",
-      "quelle": "top-tracks"
     },
     {
       "category": "global",
@@ -5116,6 +5136,263 @@
       "summary": "Song des Tages, aus Lukas' aktuellen Top-Tracks (nicht in den letzten 14 Tagen vorgeschlagen). Beschreibt kühle, schmerzlindernde Zufluchtsstätte - Kontrapunkt zur historischen Hitzewelle in Westeuropa sowie zu den harten Fronten bei Gaza-Plan-Ablehnung und Rentenstreit.",
       "status": "neu",
       "quelle": "top-tracks"
+    },
+    {
+      "strang_id": "ukraine-krieg",
+      "form": "artikel",
+      "kontrast": true,
+      "category": "global",
+      "title": "Russland greift Saporischschja mit einem der schwersten Angriffe des Krieges an",
+      "date": "2026-08-12",
+      "summary": "Ballistischer Treffer auf das Stahlwerk Zaporizhstal waehrend Luftalarm: 7 Tote, 21 Verletzte, Werk komplett gestoppt; landesweit mind. 12 Tote, 81 Verletzte. Selenskyj warnt vor weiterer Eskalation, Ukraine schlaegt mit Tiefangriffen auf russische Raffinerien zurueck. Erstmaliger Quellen-Kontrast-Block des Berichts (Al Jazeera/Reuters/Ukrinform zur Nordkorea-Raketen-Zuschreibung).",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "sonnenfinsternis-europa",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "global",
+      "title": "Themenmix Wissenschaft: Totale Sonnenfinsternis zieht ueber Island und Nordspanien",
+      "date": "2026-08-12",
+      "summary": "Erste totale Sonnenfinsternis ueber dem europaeischen Festland seit 1999, erste ueber der Iberischen Halbinsel seit ueber 100 Jahren. Bis zu 2:18 Min. Totalitaet, ca. 15 Mio. Menschen im Totalitaetspfad, bis zu 1 Mrd. koennen partielle Finsternis sehen. NASA begleitet mit WB-57-Forschungsjet.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "gaza-friedensplan",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Gaza-Friedensplan: Netanyahus Ablehnung haelt an, Wahldruck waechst",
+      "date": "2026-08-12",
+      "summary": "Keine neue Substanz seit 11.8. Netanyahu bleibt bei Ablehnung des Board-of-Peace-Plans, zusaetzlich unter Druck durch anstehende Parlamentswahl Ende Oktober.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "sudan-el-obeid-belagerung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Sudan: Dialogangebot al-Burhans haelt an, Belagerung El-Obeid unveraendert",
+      "date": "2026-08-12",
+      "summary": "Keine neue Entwicklung seit 11.8. Militaerische Lage in El-Obeid unveraendert kritisch, Dialogangebot ohne sichtbaren Fortschritt.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "nahost-iran-spannung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Iran/Hormuz: Teheran und Maskat naehern sich technischer Einigung",
+      "date": "2026-08-12",
+      "summary": "Keine qualitative Wende. Annaeherung bei Routen-Koordinaten, aber weiterhin keine Unterzeichnung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "hitzewelle-westeuropa",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Hitzewelle Westeuropa haelt mit neuen nationalen Rekordwerten an",
+      "date": "2026-08-12",
+      "summary": "Dritte Hitzewelle haelt an, 42,2 Grad in der Slowakei, keine neue Eskalationsstufe gegenueber 11.8.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "ebola-kongo-ausbruch",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Ebola-Ausbruch Kongo: 4.209 bestaetigte Faelle",
+      "date": "2026-08-12",
+      "summary": "Inkrementeller Anstieg gegenueber der am 10.8. gemeldeten 4.000er-Marke, keine neue Dimension.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "geheimdienstreform-bnd-verfassungsschutz",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "national",
+      "title": "Kabinett bringt Geheimdienstreform mit erweiterten BND-Befugnissen auf den Weg",
+      "date": "2026-08-12",
+      "summary": "Dobrindts ca. 700-seitiger Entwurf erlaubt BND/Verfassungsschutz in eng begrenzten Faellen aktives Eingreifen (z.B. IT-Manipulation bei Cyberangriffen), erweiterte Vorratsdatenspeicherung, neue Kontrollmechanismen. Kritik an Befugnisausweitung.",
+      "status": "neu"
+    },
+    {
+      "strang_id": "rentenstreit-koalition",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "national",
+      "title": "Rentenstreit: SPD-Schwerarbeitsrente spaltet die Koalition weiter",
+      "date": "2026-08-12",
+      "summary": "SPD konkretisiert Oesterreich-Modell als Schwerarbeitsrente (Haertefall ab 60). Frei (Union) nennt Vorschlag ueberzeugend, Reiche warnt, Verdi und IG Metall lehnen scharf ab. Echte Zuspitzung statt Zahlenfortschreibung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "rhein-niedrigwasser",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "national",
+      "title": "Rhein bei Kaub faellt auf neuen historischen Tiefstand von 16 cm",
+      "date": "2026-08-12",
+      "summary": "Neuer Rekord unter dem bisherigen Tiefstand von 25cm (Okt. 2018). WSV haelt einstellige Werte fuer moeglich. Binnenschifffahrtsverband warnt vor Ende wirtschaftlichen Frachttransports.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "fruehstartrente-bafoegreform",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "national",
+      "title": "Themenmix Familie/Bildung: Kabinett beschliesst Fruehstart-Rente und hoehere Bafoeg-Saetze",
+      "date": "2026-08-12",
+      "summary": "Kinder-Vorsorgedepot mit 10 Euro/Monat staatlichem Zuschuss ab 6 Jahren, plus hoehere Bafoeg-Bedarfssaetze fuer Studierende/Schueler.",
+      "status": "neu"
+    },
+    {
+      "strang_id": "leipzig-halle-drohne",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Leipzig/Halle-Drohnenfall: keine neue Substanz",
+      "date": "2026-08-12",
+      "summary": "Gesaettigter Strang (5 Tage in Folge eigener Artikel bis 11.8.), heute keine neue Entwicklung -- Ermittlungen zu DNA-Spur/GRU-Verbindung dauern unveraendert an.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "steinmeier-nachfolge",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Steinmeier-Nachfolge: Forsa-Umfrage sieht Merkel als Wunschkandidatin",
+      "date": "2026-08-12",
+      "summary": "47% fuer Merkel (hat abgesagt), vor Aigner (26%) und Jauch (25%). Parteien weiterhin ohne gemeinsamen Kandidaten.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "foerderung-laendlicher-raum-owl",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Themenmix Wirtschaft: Land foerdert laendlichen Raum in OWL mit rund 500.000 Euro",
+      "date": "2026-08-12",
+      "summary": "NRW-Landwirtschaftsministerin Gorissen uebergab Foerderbescheide in Steinhagen: Sportplatz Salzkotten (Kreis Paderborn), Dorfladen Rietberg, Spielplatz Steinhagen; zusaetzlich 590.000 Euro fuer Naturpark Teutoburger Wald/Eggegebirge.",
+      "status": "neu"
+    },
+    {
+      "strang_id": "sonnenfinsternis-owl",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Themenmix Wissenschaft: Heute Abend zieht die partielle Sonnenfinsternis ueber OWL",
+      "date": "2026-08-12",
+      "summary": "Maximum ca. 20:10 Uhr, 87-89% Bedeckung, gute Sichtbedingungen laut Meteorologen. Beobachtungsangebote TH OWL Lemgo und Volkssternwarte Ubbedissen (ausgebucht).",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "pferderipper-serie-owl",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Pferderipper-Serie: PETA setzt Belohnung aus, kein neuer Fall",
+      "date": "2026-08-12",
+      "summary": "Kein neuer (6.) Fall. PETA setzt 500 Euro Belohnung fuer Hinweise aus und fordert offizielles Register -- Fortschreibung ohne neue Dimension.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "fahrerflucht-b64-delbrueck",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Fahrerflucht B64 Delbrueck: Tatverdaechtiger weiterhin fluechtig",
+      "date": "2026-08-12",
+      "summary": "Keine neuen Ermittlungserfolge, 23-Jaehriger weiterhin nicht gefasst.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "warsteiner-haus-cramer",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Warsteiner/Haus Cramer: weiterhin kein bestaetigter Kaeufer",
+      "date": "2026-08-12",
+      "summary": "Keine neuen Meldungen, Sachstand unveraendert gegenueber 9.8.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "kreisstrasse-dalheim-sperrung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Kreis Hoexter: Vollsperrung Kreisstrasse Richtung Dalheim",
+      "date": "2026-08-12",
+      "summary": "Ab 12.8. Vollsperrung wegen Fahrbahnsanierung.",
+      "status": "neu"
+    },
+    {
+      "strang_id": "delbrueck-kanalarbeiten-sperrung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Delbrueck: Vollsperrung Seglingsweg/Ostenland wegen Kanalarbeiten",
+      "date": "2026-08-12",
+      "summary": "Vollsperrung 12.-19.8. wegen Kanalarbeiten der Stadt Delbrueck.",
+      "status": "neu"
+    },
+    {
+      "strang_id": "sonnenfinsternis-gravitations-hoax",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "social",
+      "title": "\"Project Anchor\": Viraler Schwerkraft-Hoax von NASA entkraeftet",
+      "date": "2026-08-12",
+      "summary": "TikTok/Instagram-Hoax behauptet 7 Sekunden Schwerkraftverlust am 12.8. NASA und Physiker dementieren ausdruecklich. Mehrfach unabhaengig durch Faktenchecks belegt.",
+      "status": "neu"
+    },
+    {
+      "strang_id": "bangladesh-song-tiktok-trend",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "social",
+      "title": "49-Sekunden-Song \"Bangladesh\" springt von TikTok auf Instagram ueber",
+      "date": "2026-08-12",
+      "summary": "Ian McConnells Song wird Soundtrack eines absurdistischen Lippensynchron-Formats, springt im August auf Instagram Reels ueber. Reaktionen von SZA, Chance the Rapper, Lizzo.",
+      "status": "neu"
+    },
+    {
+      "strang_id": "kumar-method-cyrus",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "social",
+      "title": "\"Kumar Method\": Cyrus-Erzaehlstrang laeuft unveraendert weiter",
+      "date": "2026-08-12",
+      "summary": "Keine neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "openai-summer-club-backlash",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "social",
+      "title": "Backlash gegen OpenAIs \"Summer Club\": keine neue Entwicklung",
+      "date": "2026-08-12",
+      "summary": "Keine wesentliche Weiterentwicklung seit einigen Tagen.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "jugendwort-2026",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "social",
+      "title": "Jugendwort 2026: Abstimmung laeuft bis 20.8.",
+      "date": "2026-08-12",
+      "summary": "Top-10-Abstimmung laeuft, Finalisten erst am 28.8., Entscheidung am 10.10.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Omen - The Prodigy",
+      "date": "2026-08-12",
+      "summary": "Aus Lukas' Top-Tracks. Titel passt zur alten Lesart von Sonnenfinsternissen als Vorzeichen sowie zum entkraefteten Schwerkraft-Hoax, treibende duestere Stimmung passt zur Ukraine-Eskalation.",
+      "status": "neu"
     }
   ]
 }
