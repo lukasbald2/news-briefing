@@ -58,6 +58,12 @@ auch falls das Routine-Prompt diese Regeln (noch) nicht enthält:
    (Wirtschaft, Gesellschaft, Kunst & Kultur, Technologie, Stil/Mode), sofern
    die Nachrichtenlage es hergibt — dafür pro Ebene mindestens eine gezielte
    Recherche jenseits der bekannten Gedächtnis-Stränge.
+   **Nie im Bericht benennen:** Die Quote ist eine interne Redaktionsregel.
+   Das Wort „Themenmix" gehört weder in Überschriften noch in den
+   „Was heute zählt"-Überblick noch in `memory.json`-Titel. Falsch:
+   „Themenmix Wissenschaft: Erste totale Sonnenfinsternis …". Richtig:
+   „Erste totale Sonnenfinsternis …". Kategorie-Chips nur mit dem
+   Sachgebiet (`<span class="tag">Wissenschaft</span>`).
 3. **Umfang unverändert:** weiterhin ca. 3–4 Artikel pro Ebene plus
    Hinweisblock; der Bericht wird vielfältiger, nicht länger.
 
@@ -129,6 +135,12 @@ Ist offenkundig, dass ein Strang deutlich länger läuft, als der Index hergibt,
 entfällt das Anfangsdatum ganz und es wird nur die Zahl der nachverfolgten
 Meldungen genannt.
 
+Die Verlaufssätze einer Ausgabe müssen sich in der Formulierung
+unterscheiden — viermal „In dieser Nachverfolgung ist es die …te Meldung"
+liest sich noch erträglich, vorgelesen wird daraus ein Trommeln. Mal die
+Zahl der Meldungen voran, mal der Abstand zur letzten, mal der Bezug zur
+vorigen Entwicklung.
+
 ## Quellen-Kontrast (eingeführt 2026-08-11) — WICHTIG
 
 Pro Ausgabe bekommt **genau eine** Meldung einen Block „Wie andere darüber
@@ -147,6 +159,9 @@ macht diese bereits erhobene Information sichtbar.
 Beobachtbares. Decken sich die Darstellungen weitgehend, wird genau das in
 einem Satz festgehalten; **Unterschiede werden nicht konstruiert**. Nur
 Überschriften und kurze Kernaussagen zitieren, keine längeren Passagen.
+Der Block umfasst höchstens ca. 160 Wörter — drei Quellen mit
+Überschrift, Einordnung und Schlusssatz passen realistisch nicht in
+weniger; Substanz geht vor Knappheit.
 
 **Markup-Kontrakt (wichtig für `readaloud.js`):** Der Medienname steht im
 Absatz selbst, der Link separat in `<p class="quelle">` — `.quelle`-Elemente
