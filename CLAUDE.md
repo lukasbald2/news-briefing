@@ -159,9 +159,11 @@ macht diese bereits erhobene Information sichtbar.
 Beobachtbares. Decken sich die Darstellungen weitgehend, wird genau das in
 einem Satz festgehalten; **Unterschiede werden nicht konstruiert**. Nur
 Überschriften und kurze Kernaussagen zitieren, keine längeren Passagen.
-Der Block umfasst höchstens ca. 160 Wörter — drei Quellen mit
-Überschrift, Einordnung und Schlusssatz passen realistisch nicht in
-weniger; Substanz geht vor Knappheit.
+**Länge über Satzanzahl, nicht über Wörter:** genau sieben Sätze — je
+Quelle ein Überschriften-Zitat mit einem Kommentarsatz (drei Quellen,
+sechs Sätze) plus ein Einordnungssatz. Wortgrenzen wurden in der Praxis
+zweimal deutlich überschritten (163 Wörter bei Limit 120, 179 bei Limit
+160); die Satzanzahl ist deshalb die verbindliche Vorgabe.
 
 **Markup-Kontrakt (wichtig für `readaloud.js`):** Der Medienname steht im
 Absatz selbst, der Link separat in `<p class="quelle">` — `.quelle`-Elemente
@@ -186,6 +188,46 @@ Da `<h3>` und `<p>` verwendet werden, greift die Vorlesefunktion ohne
 deckungsgleich, die Meldung mit den deutlichsten Unterschieden. An drei
 aufeinanderfolgenden Tagen möglichst drei verschiedene Stränge — dafür wird im
 `memory.json`-Eintrag des Strangs der Zusatz „mit Quellen-Kontrast" vermerkt.
+
+## Blinde Flecken (Wochenausgabe, eingeführt 2026-08-13) — WICHTIG
+
+Nur in der Sonntags-Wochenausgabe: ein eigener Abschnitt
+`<section class="ebene" id="blindeflecken">` zwischen „Social" und „Song der
+Woche", der zeigt, was der Bericht selbst übersehen oder liegengelassen hat.
+Sektionsreihenfolge: `global, national, lokal, social, blindeflecken, song`.
+
+**Komponente A — fallengelassene Stränge.** Aus dem `straenge`-Index: Status
+`laufend`, `letzter_eintrag` mindestens 7 Tage her. Das sind Geschichten, die
+angefangen und dann stillschweigend nicht mehr fortgeschrieben wurden.
+
+**Cutoff-Guard (zwingend):** nur Stränge mit `letzter_eintrag` **am oder nach
+dem 2026-08-12**. Davor steckten Hinweisblock-Stränge in Sammeleinträgen; ein
+älteres Datum heißt also nicht „fallengelassen", sondern nur „nicht einzeln
+erfasst". Ohne den Guard würden z.B. `darknet-anklage-minden-luebbecke` und
+`usa-brasilien-visastreit` sofort falsch gemeldet. Vor dem 2026-08-19 ist
+diese Komponente regelhaft leer — das ist korrekt und wird ausdrücklich als
+„keine Befunde" ausgewiesen, nicht mit Ersatzinhalten gefüllt.
+
+Gemeldete Stränge werden anschließend auf
+`status: "abgeschlossen (fallengelassen, gemeldet am JJJJ-MM-TT)"` gesetzt,
+sonst tauchen sie Woche für Woche erneut auf.
+
+**Komponente B — außerhalb der eingestellten Quellen.** Die Quellenliste des
+Routine-Prompts ist überwiegend westlich geprägt. 3–5 gezielte Suchen bei
+seriösen Medien außerhalb dieser Liste (Africanews, The Africa Report, The
+Hindu, Dawn, Folha de S.Paulo, El País América, Rest of World), dann
+Mengendifferenz gegen die Strang-Titel der Woche. 2–3 Themen, je 2–3 Sätze,
+mit Quelle und einem Satz dazu, warum es hier fehlte.
+
+**Ton:** nüchtern und selbstbezogen — eine Auskunft über die Reichweite der
+eingestellten Quellen, keine Enthüllung. Keine Verschwörungs-Rahmung. Das
+Quellenqualitäts-Prinzip gilt weiter: mindestens zwei unabhängige Belege.
+
+**Vorlesefunktion:** `assets/readaloud.js` kennt die Sektions-ID
+`blindeflecken` (Eintrag in `LABELS` und in `defs`, zwischen `social` und
+`song`). An Werktagen fehlt die Sektion — unkritisch, `buildSections()`
+überspringt fehlende Elemente. Im Abschnitt nur `<h3>` und `<p>` verwenden,
+Links in `<p class="quelle">`.
 
 ## Footer-Links beim Kopieren nach `index.html` — WICHTIG
 

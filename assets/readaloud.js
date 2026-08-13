@@ -30,6 +30,7 @@
     national: 'National',
     lokal: 'Lokal (OWL)',
     social: 'Social',
+    blindeflecken: 'Blinde Flecken',
     song: 'Song des Tages'
   };
 
@@ -165,6 +166,7 @@
       { key: 'national', el: document.getElementById('national') },
       { key: 'lokal', el: document.getElementById('lokal') },
       { key: 'social', el: document.getElementById('social') },
+      { key: 'blindeflecken', el: document.getElementById('blindeflecken') },
       { key: 'song', el: document.getElementById('song') }
     ];
     for (var i = 0; i < defs.length; i++) {
