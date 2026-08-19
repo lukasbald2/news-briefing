@@ -226,8 +226,21 @@ Quellenqualitäts-Prinzip gilt weiter: mindestens zwei unabhängige Belege.
 **Vorlesefunktion:** `assets/readaloud.js` kennt die Sektions-ID
 `blindeflecken` (Eintrag in `LABELS` und in `defs`, zwischen `social` und
 `song`). An Werktagen fehlt die Sektion — unkritisch, `buildSections()`
-überspringt fehlende Elemente. Im Abschnitt nur `<h3>` und `<p>` verwenden,
-Links in `<p class="quelle">`.
+überspringt fehlende Elemente. Im Abschnitt nur `<h3>` und `<p>` verwenden.
+
+**Quellennennung — wie beim Quellen-Kontrast:** Der **Medienname gehört in
+den Fließtext** des Absatzes; nur der Link kommt in ein separates
+`<p class="quelle">`. `.quelle`-Elemente werden nicht vorgelesen — steht die
+Quelle ausschließlich dort, hört ein Zuhörer die Befunde ohne jede
+Herkunftsangabe. Genau das ist in der Ausgabe vom 16.08.2026 passiert.
+
+- falsch: `<p>Kenias Stromversorger warnte …</p>` +
+  `<p class="quelle">Quellen: CNBC Africa, The Africa Report</p>`
+- richtig: `<p>Wie <em>CNBC Africa</em> und <em>The Africa Report</em>
+  berichten, warnte Kenias Stromversorger …</p>` +
+  `<p class="quelle"><a href="URL">CNBC Africa, TT.MM.JJJJ</a></p>`
+
+Gilt für beide Komponenten des Abschnitts.
 
 ## Footer-Links beim Kopieren nach `index.html` — WICHTIG
 
