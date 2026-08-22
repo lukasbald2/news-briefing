@@ -1,0 +1,505 @@
+<title>News-Briefing aus der Flugh&ouml;he</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,600;1,6..72,400&display=swap">
+
+<style>
+:root {
+  color-scheme: light;
+  --ground:      #eef0f2;
+  --surface:     #fafbfc;
+  --surface-2:   #f1f3f5;
+  --line:        #d9dde1;
+  --line-soft:   #e6e9ec;
+  --ink:         #14171a;
+  --ink-2:       #4e555c;
+  --ink-3:       #757d85;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100;
+  --heat-0: #e7ebef;
+  --heat-1: #86b6ef;
+  --heat-2: #1c5cab;
+  --focus: #2a78d6;
+  --shadow: 0 1px 2px rgba(20,23,26,.06), 0 6px 20px -12px rgba(20,23,26,.18);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --ground:    #101113;
+    --surface:   #1a1a1c;
+    --surface-2: #222326;
+    --line:      #34363a;
+    --line-soft: #26282b;
+    --ink:       #f2f3f4;
+    --ink-2:     #b3b8bd;
+    --ink-3:     #868c93;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
+    --heat-0: #232528;
+    --heat-2: #5598e7;
+    --heat-1: #184f95;
+    --focus: #5598e7;
+    --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px -14px rgba(0,0,0,.7);
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --ground:    #101113;
+  --surface:   #1a1a1c;
+  --surface-2: #222326;
+  --line:      #34363a;
+  --line-soft: #26282b;
+  --ink:       #f2f3f4;
+  --ink-2:     #b3b8bd;
+  --ink-3:     #868c93;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
+  --heat-0: #232528;
+  --heat-2: #5598e7;
+  --heat-1: #184f95;
+  --focus: #5598e7;
+  --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px -14px rgba(0,0,0,.7);
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--ground);
+  color: var(--ink);
+  font-family: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+.nav { display: flex; gap: 18px; margin: 16px 0 0; font-size: 14px; }
+.nav a { color: var(--s1); text-decoration: none; border-bottom: 1px solid transparent; }
+.nav a:hover { border-bottom-color: var(--s1); }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 40px 24px 72px; display: flex; flex-direction: column; gap: 30px; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 3px; }
+
+.eyebrow {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 11px; letter-spacing: .14em; text-transform: uppercase;
+  color: var(--ink-3); margin: 0 0 10px;
+}
+h1 {
+  font-family: Newsreader, Georgia, "Times New Roman", serif;
+  font-weight: 600; font-size: clamp(34px, 5vw, 52px); line-height: 1.06;
+  letter-spacing: -.015em; margin: 0; text-wrap: balance; color: var(--ink);
+}
+.lede {
+  font-family: Newsreader, Georgia, serif; font-style: italic; font-weight: 400;
+  font-size: clamp(17px, 2.1vw, 21px); line-height: 1.5; color: var(--ink-2);
+  margin: 14px 0 0; max-width: 62ch;
+}
+
+.stand {
+  background: var(--surface); border: 1px solid var(--line);
+  border-left: 3px solid var(--s2);
+  padding: 18px 22px; display: flex; flex-direction: column; gap: 7px;
+}
+.stand h2 {
+  font-family: "IBM Plex Mono", monospace; font-size: 11px; font-weight: 500;
+  letter-spacing: .14em; text-transform: uppercase; color: var(--s2); margin: 0;
+}
+.stand p { margin: 0; color: var(--ink-2); font-size: 14px; max-width: 76ch; }
+.stand strong { color: var(--ink); font-weight: 600; }
+
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 14px; }
+.tile {
+  background: var(--surface); border: 1px solid var(--line);
+  padding: 16px 18px; display: flex; flex-direction: column; gap: 3px;
+}
+.tile .n {
+  font-family: "IBM Plex Mono", monospace; font-variant-numeric: tabular-nums;
+  font-size: 30px; font-weight: 500; line-height: 1.1; color: var(--ink);
+}
+.tile .l { font-size: 13px; color: var(--ink-2); }
+.tile .s { font-size: 12px; color: var(--ink-3); }
+
+.panel { background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow); }
+.panel-head {
+  padding: 20px 22px 0; display: flex; flex-wrap: wrap; gap: 14px;
+  align-items: baseline; justify-content: space-between;
+}
+.panel-head h2 {
+  font-family: Newsreader, Georgia, serif; font-weight: 600;
+  font-size: 23px; margin: 0; letter-spacing: -.01em; color: var(--ink);
+}
+.panel-head p { margin: 5px 0 0; font-size: 13.5px; color: var(--ink-2); max-width: 68ch; }
+.panel-body { padding: 16px 22px 22px; }
+
+.controls { display: flex; flex-wrap: wrap; gap: 7px; align-items: center; }
+button {
+  font-family: inherit; font-size: 12.5px; color: var(--ink-2);
+  background: var(--surface-2); border: 1px solid var(--line);
+  padding: 5px 11px; cursor: pointer; line-height: 1.4;
+}
+button:hover { color: var(--ink); border-color: var(--ink-3); }
+button[aria-pressed="true"] { background: var(--ink); color: var(--surface); border-color: var(--ink); }
+
+.legend { display: flex; flex-wrap: wrap; gap: 16px; padding: 0 0 12px; }
+.legend span { display: inline-flex; align-items: center; gap: 7px; font-size: 13px; color: var(--ink-2); }
+.swatch { width: 11px; height: 11px; flex: none; }
+
+figure { margin: 0; }
+svg { display: block; width: 100%; height: auto; overflow: visible; }
+.scroller { overflow-x: auto; }
+.axis text { font-family: "IBM Plex Mono", monospace; font-size: 10.5px; fill: var(--ink-3); }
+.grid line { stroke: var(--line-soft); stroke-width: 1; }
+.band-edge { stroke: var(--surface); stroke-width: 2; fill: none; }
+.dlabel {
+  font-family: "IBM Plex Sans", sans-serif; font-size: 11.5px; font-weight: 600;
+  fill: var(--ink); paint-order: stroke; stroke: var(--surface); stroke-width: 3px;
+}
+
+.hrow-label {
+  font-family: "IBM Plex Sans", sans-serif; font-size: 11.5px; fill: var(--ink-2);
+}
+.hrow-count {
+  font-family: "IBM Plex Mono", monospace; font-size: 10.5px; fill: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+.hcell { stroke: var(--surface); stroke-width: 2; }
+.hcell:hover { stroke: var(--ink); stroke-width: 2; }
+.swatch { display: inline-block; }
+
+.tip {
+  position: fixed; pointer-events: none; z-index: 40; opacity: 0;
+  transition: opacity .1s linear;
+  background: var(--ink); color: var(--surface);
+  padding: 8px 11px; font-size: 12.5px; line-height: 1.45; max-width: 300px;
+  box-shadow: 0 8px 26px -10px rgba(0,0,0,.5);
+}
+.tip b { font-weight: 600; }
+.tip .m { font-family: "IBM Plex Mono", monospace; font-variant-numeric: tabular-nums; opacity: .8; }
+
+table { border-collapse: collapse; width: 100%; font-size: 12.5px; }
+th, td {
+  border-bottom: 1px solid var(--line-soft); padding: 5px 9px; text-align: right;
+  font-variant-numeric: tabular-nums; font-family: "IBM Plex Mono", monospace;
+  color: var(--ink-2);
+}
+th { color: var(--ink-3); font-weight: 500; text-align: right; white-space: nowrap; }
+th:first-child, td:first-child { text-align: left; }
+[hidden] { display: none !important; }
+
+.method { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 22px; }
+.method div { display: flex; flex-direction: column; gap: 6px; }
+.method h3 {
+  font-family: "IBM Plex Mono", monospace; font-size: 11px; font-weight: 500;
+  letter-spacing: .13em; text-transform: uppercase; color: var(--ink-3); margin: 0;
+}
+.method p { margin: 0; font-size: 13.5px; color: var(--ink-2); }
+.method code {
+  font-family: "IBM Plex Mono", monospace; font-size: 12.5px;
+  background: var(--surface-2); padding: 1px 4px; color: var(--ink);
+}
+footer { color: var(--ink-3); font-size: 12.5px; border-top: 1px solid var(--line); padding-top: 18px; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+@media (max-width: 640px) {
+  .wrap { padding: 26px 15px 50px; }
+  .panel-head, .panel-body { padding-left: 15px; padding-right: 15px; }
+}
+</style>
+
+<div class="wrap">
+
+  <header>
+    <p class="eyebrow">__EYEBROW__</p>
+    <h1>News-Briefing aus der Flugh&ouml;he</h1>
+    <p class="lede">Nicht was in den Nachrichten stand, sondern worauf dieses Briefing geschaut hat &mdash; und wie lange es hingeschaut hat.</p>
+    <p class="nav"><a href="index.html">Aktueller Bericht</a><a href="reports/index.html">Archiv aller Ausgaben</a></p>
+  </header>
+
+  <section class="stand">
+    <h2>Was diese Seite kann und was nicht</h2>
+    <p>Sie zeigt die Aufmerksamkeit <strong>dieses Berichts</strong> &mdash; nicht die der Medien und nicht die der Welt. Ein Thema fehlt hier, wenn der Bericht es nicht aufgegriffen hat; das sagt &uuml;ber das Thema nichts aus.</p>
+__REIFE__
+  </section>
+
+  <section class="tiles" id="tiles"></section>
+
+  <section class="panel">
+    <div class="panel-head">
+      <div>
+        <h2>Wie sich die Meldungen auf die Ebenen verteilen</h2>
+        <p>Meldungen je Tag, gestapelt nach Ebene. Jede Meldung z&auml;hlt einfach &mdash; ein ausf&uuml;hrlicher Artikel wie ein Eintrag im Hinweisblock.</p>
+      </div>
+      <div class="controls">
+        <button id="btn-tabelle" aria-pressed="false" aria-controls="tabelle">Als Tabelle</button>
+      </div>
+    </div>
+    <div class="panel-body">
+      <div class="legend" id="legende"></div>
+      <figure>
+        <svg id="verlauf" viewBox="0 0 980 340" role="img" aria-label="Gestapelter Fl&auml;chenverlauf der Meldungen je Tag nach Ebene &uuml;ber den gesamten erfassten Zeitraum"></svg>
+      </figure>
+      <div id="tabelle" hidden class="scroller" style="margin-top:16px; max-height:340px; overflow-y:auto"></div>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="panel-head">
+      <div>
+        <h2>Welcher Strang wann Aufmerksamkeit bekam</h2>
+        <p>Ein Feld je Strang und Tag. Dunkel: eigener ausf&uuml;hrlicher Artikel. Hell: nur eine Zeile im Hinweisblock. Leer: an dem Tag kein Thema. Gezeigt sind Str&auml;nge mit mindestens vier Meldungen.</p>
+      </div>
+      <div class="controls" id="filter"></div>
+    </div>
+    <div class="panel-body">
+      <div class="legend" id="hlegende"></div>
+      <div class="scroller">
+        <figure>
+          <svg id="heat" role="img" aria-label="Heatmap der Themenstr&auml;nge &uuml;ber die Tage, Intensit&auml;t nach Artikel oder Hinweisblock"></svg>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="panel-head"><div><h2>Wie diese Zahlen entstehen</h2></div></div>
+    <div class="panel-body">
+      <div class="method">
+        <div>
+          <h3>Quelle</h3>
+          <p>Alle Werte stammen aus <code>data/archiv.jsonl</code> im Repo &mdash; einer Zeile je Meldung, die der Tageslauf fortschreibt und aus der nie gel&ouml;scht wird.</p>
+        </div>
+        <div>
+          <h3>Drei Herk&uuml;nfte</h3>
+          <p><code>lauf</code> entsteht im regul&auml;ren Lauf, <code>memory-seed</code> bei der Erstbef&uuml;llung, <code>html-rekonstruiert</code> beim nachtr&auml;glichen Parsen alter Berichte. Nur die ersten beiden tragen Strang-Daten.</p>
+        </div>
+        <div>
+          <h3>L&uuml;cken</h3>
+          <p>__LUECKE__</p>
+        </div>
+        <div>
+          <h3>Gekappte Anf&auml;nge</h3>
+          <p>Der Strang-Index wurde am 11. August aus sieben Vortagen aufgebaut. Dauerthemen wie der Ukraine-Krieg erscheinen dadurch j&uuml;nger, als sie sind &mdash; die Heatmap zeigt Nachverfolgung, nicht Beginn.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+__FOOTER__
+  </footer>
+</div>
+
+<div class="tip" id="tip" aria-hidden="true"></div>
+
+<script id="daten" type="application/json">__DATEN__</script>
+<script>
+(function () {
+  var D = JSON.parse(document.getElementById('daten').textContent);
+  var NS = 'http://www.w3.org/2000/svg';
+  var KATNAME = { global: 'Global', national: 'National', lokal: 'Lokal (OWL)', social: 'Social' };
+  var SERIE = ['--s1', '--s2', '--s3', '--s4'];
+  var tip = document.getElementById('tip');
+
+  function el(n, a) {
+    var e = document.createElementNS(NS, n);
+    for (var k in a) e.setAttribute(k, a[k]);
+    return e;
+  }
+  function css(v) { return getComputedStyle(document.documentElement).getPropertyValue(v).trim(); }
+  function dt(s) {
+    var p = s.split('-');
+    return p[2].replace(/^0/, '') + '.' + p[1].replace(/^0/, '') + '.';
+  }
+  function dtj(s) { return dt(s) + s.split('-')[0]; }
+  function zeigTip(html, ev) {
+    tip.innerHTML = html;
+    tip.style.opacity = '1';
+    var r = tip.getBoundingClientRect();
+    var x = ev.clientX + 14, y = ev.clientY + 14;
+    if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - 14;
+    if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - 14;
+    tip.style.left = Math.max(8, x) + 'px';
+    tip.style.top = Math.max(8, y) + 'px';
+  }
+  function versteckTip() { tip.style.opacity = '0'; }
+
+  /* ---- Kennzahlen ---- */
+  var S = D.stat;
+  var kacheln = [
+    { n: S.meldungen.toLocaleString('de-DE'), l: 'Meldungen erfasst', s: S.tage + ' Tage, ' + dt(S.von) + ' – ' + dt(S.bis) },
+    { n: S.straenge, l: 'Themenstränge', s: S.gezeigt + ' davon mit ≥ 4 Meldungen' },
+    { n: S.mit_strang, l: 'Meldungen mit Strang-Kennung', s: 'erst ab ' + dt(S.ab) + ' vollständig' },
+    { n: S.artikel + ' : ' + S.hinweis, l: 'Artikel zu Hinweisblock', s: 'seit Einführung der Stränge' }
+  ];
+  document.getElementById('tiles').innerHTML = kacheln.map(function (k) {
+    return '<div class="tile"><span class="n">' + k.n + '</span><span class="l">' + k.l + '</span><span class="s">' + k.s + '</span></div>';
+  }).join('');
+
+  /* ---- Legende Verlauf ---- */
+  document.getElementById('legende').innerHTML = D.kat.map(function (k, i) {
+    return '<span><i class="swatch" style="background:var(' + SERIE[i] + ')"></i>' + KATNAME[k] + '</span>';
+  }).join('');
+
+  /* ---- Gestapelter Flaechenverlauf ---- */
+  var svgV = document.getElementById('verlauf');
+  function zeichneVerlauf() {
+    while (svgV.firstChild) svgV.removeChild(svgV.firstChild);
+    var W = 980, H = 340, ml = 38, mr = 96, mt = 12, mb = 30;
+    var iw = W - ml - mr, ih = H - mt - mb;
+    var n = D.verlauf.length;
+    var max = 0;
+    D.verlauf.forEach(function (d) {
+      var s = d.v.reduce(function (a, b) { return a + b; }, 0);
+      if (s > max) max = s;
+    });
+    max = Math.ceil(max / 10) * 10;
+    var x = function (i) { return ml + (n === 1 ? 0 : i * iw / (n - 1)); };
+    var y = function (v) { return mt + ih - v / max * ih; };
+
+    var g = el('g', { class: 'grid' });
+    for (var t = 0; t <= max; t += 10) {
+      g.appendChild(el('line', { x1: ml, x2: ml + iw, y1: y(t), y2: y(t) }));
+      var lb = el('text', { x: ml - 8, y: y(t) + 3.5, 'text-anchor': 'end' });
+      lb.textContent = t; g.appendChild(lb);
+    }
+    g.setAttribute('class', 'grid axis');
+    svgV.appendChild(g);
+
+    var ax = el('g', { class: 'axis' });
+    D.verlauf.forEach(function (d, i) {
+      if (d.d.slice(8) === '01' || i === 0 || i === n - 1) {
+        var tx = el('text', { x: x(i), y: mt + ih + 18, 'text-anchor': i === n - 1 ? 'end' : (i === 0 ? 'start' : 'middle') });
+        tx.textContent = dt(d.d); ax.appendChild(tx);
+      }
+    });
+    svgV.appendChild(ax);
+
+    var unten = new Array(n).fill(0);
+    D.kat.forEach(function (k, ki) {
+      var oben = unten.map(function (u, i) { return u + D.verlauf[i].v[ki]; });
+      var p = '';
+      for (var i = 0; i < n; i++) p += (i ? 'L' : 'M') + x(i).toFixed(1) + ' ' + y(oben[i]).toFixed(1);
+      for (var i = n - 1; i >= 0; i--) p += 'L' + x(i).toFixed(1) + ' ' + y(unten[i]).toFixed(1);
+      svgV.appendChild(el('path', { d: p + 'Z', fill: 'var(' + SERIE[ki] + ')' }));
+      var pe = '';
+      for (var i = 0; i < n; i++) pe += (i ? 'L' : 'M') + x(i).toFixed(1) + ' ' + y(oben[i]).toFixed(1);
+      svgV.appendChild(el('path', { d: pe, class: 'band-edge' }));
+      var mid = (oben[n - 1] + unten[n - 1]) / 2;
+      var lab = el('text', { x: ml + iw + 10, y: y(mid) + 4, class: 'dlabel' });
+      lab.textContent = KATNAME[k];
+      svgV.appendChild(lab);
+      unten = oben;
+    });
+
+    var cross = el('line', { y1: mt, y2: mt + ih, stroke: css('--ink-3'), 'stroke-width': 1, opacity: 0 });
+    svgV.appendChild(cross);
+    var hit = el('rect', { x: ml, y: mt, width: iw, height: ih, fill: 'transparent' });
+    svgV.appendChild(hit);
+    hit.addEventListener('mousemove', function (ev) {
+      var bb = svgV.getBoundingClientRect();
+      var px = (ev.clientX - bb.left) / bb.width * W;
+      var i = Math.round((px - ml) / iw * (n - 1));
+      i = Math.max(0, Math.min(n - 1, i));
+      var d = D.verlauf[i];
+      cross.setAttribute('x1', x(i)); cross.setAttribute('x2', x(i)); cross.setAttribute('opacity', .5);
+      var sum = d.v.reduce(function (a, b) { return a + b; }, 0);
+      var h = '<b>' + dtj(d.d) + '</b><br>';
+      if (sum === 0) h += 'kein Bericht an diesem Tag';
+      else {
+        D.kat.forEach(function (k, ki) { h += KATNAME[k] + ' <span class="m">' + d.v[ki] + '</span><br>'; });
+        h += '<span class="m">Summe ' + sum + '</span>';
+      }
+      zeigTip(h, ev);
+    });
+    hit.addEventListener('mouseleave', function () { cross.setAttribute('opacity', 0); versteckTip(); });
+  }
+
+  /* ---- Tabellenansicht ---- */
+  var btnT = document.getElementById('btn-tabelle');
+  var boxT = document.getElementById('tabelle');
+  btnT.addEventListener('click', function () {
+    var an = btnT.getAttribute('aria-pressed') === 'true';
+    btnT.setAttribute('aria-pressed', String(!an));
+    boxT.hidden = an;
+    if (!an && !boxT.innerHTML) {
+      var h = '<table><thead><tr><th>Tag</th>' + D.kat.map(function (k) { return '<th>' + KATNAME[k] + '</th>'; }).join('') + '<th>Summe</th></tr></thead><tbody>';
+      D.verlauf.forEach(function (d) {
+        var s = d.v.reduce(function (a, b) { return a + b; }, 0);
+        h += '<tr><td>' + d.d + '</td>' + d.v.map(function (v) { return '<td>' + v + '</td>'; }).join('') + '<td>' + s + '</td></tr>';
+      });
+      boxT.innerHTML = h + '</tbody></table>';
+    }
+  });
+
+  /* ---- Heatmap ---- */
+  document.getElementById('hlegende').innerHTML =
+    '<span><i class="swatch" style="background:var(--heat-2)"></i>Eigener Artikel</span>' +
+    '<span><i class="swatch" style="background:var(--heat-1)"></i>Nur Hinweisblock</span>' +
+    '<span><i class="swatch" style="background:var(--heat-0)"></i>Nicht im Bericht</span>';
+
+  var aktiv = null;
+  var svgH = document.getElementById('heat');
+  function zeichneHeat() {
+    while (svgH.firstChild) svgH.removeChild(svgH.firstChild);
+    var reihen = D.heat.filter(function (r) { return !aktiv || r.k === aktiv; });
+    var lw = 300, cw = 26, ch = 19, gap = 3, top = 26;
+    var W = lw + D.htage.length * cw + 16;
+    var H = top + reihen.length * (ch + gap) + 10;
+    svgH.setAttribute('viewBox', '0 0 ' + W + ' ' + H);
+    svgH.setAttribute('width', W);
+    svgH.style.width = W + 'px';
+    svgH.style.maxWidth = 'none';
+
+    var ax = el('g', { class: 'axis' });
+    D.htage.forEach(function (t, i) {
+      var tx = el('text', { x: lw + i * cw + cw / 2, y: top - 10, 'text-anchor': 'middle' });
+      tx.textContent = dt(t).replace(/\.$/, ''); ax.appendChild(tx);
+    });
+    svgH.appendChild(ax);
+
+    var farbe = ['var(--heat-0)', 'var(--heat-1)', 'var(--heat-2)'];
+    var wort = ['nicht im Bericht', 'nur Hinweisblock', 'eigener Artikel'];
+    reihen.forEach(function (r, ri) {
+      var y0 = top + ri * (ch + gap);
+      var ki = D.kat.indexOf(r.k);
+      svgH.appendChild(el('rect', { x: 0, y: y0, width: 3, height: ch, fill: 'var(' + SERIE[ki] + ')' }));
+      var lb = el('text', { x: 11, y: y0 + ch - 5.5, class: 'hrow-label' });
+      lb.textContent = r.id.length > 34 ? r.id.slice(0, 33) + '…' : r.id;
+      svgH.appendChild(lb);
+      var cn = el('text', { x: lw - 12, y: y0 + ch - 5.5, class: 'hrow-count', 'text-anchor': 'end' });
+      cn.textContent = r.n; svgH.appendChild(cn);
+      r.c.forEach(function (v, ci) {
+        var c = el('rect', { x: lw + ci * cw, y: y0, width: cw, height: ch, fill: farbe[v], class: 'hcell' });
+        c.addEventListener('mouseenter', function (ev) {
+          zeigTip('<b>' + r.t + '</b><br><span class="m">' + r.id + '</span><br>' +
+            dtj(D.htage[ci]) + ' — ' + wort[v] + '<br><span class="m">' + KATNAME[r.k] + ' · ' + r.n + ' Meldungen insgesamt</span>', ev);
+        });
+        c.addEventListener('mousemove', function (ev) { zeigTip(tip.innerHTML, ev); });
+        c.addEventListener('mouseleave', versteckTip);
+        svgH.appendChild(c);
+      });
+    });
+  }
+
+  var fil = document.getElementById('filter');
+  var opts = [{ k: null, t: 'Alle Ebenen' }].concat(D.kat.map(function (k) { return { k: k, t: KATNAME[k] }; }));
+  opts.forEach(function (o) {
+    var b = document.createElement('button');
+    b.textContent = o.t;
+    b.setAttribute('aria-pressed', String(o.k === aktiv));
+    b.addEventListener('click', function () {
+      aktiv = o.k;
+      Array.prototype.forEach.call(fil.children, function (c) { c.setAttribute('aria-pressed', 'false'); });
+      b.setAttribute('aria-pressed', 'true');
+      zeichneHeat();
+    });
+    fil.appendChild(b);
+  });
+
+  zeichneVerlauf();
+  zeichneHeat();
+  var mq = matchMedia('(prefers-color-scheme: dark)');
+  (mq.addEventListener ? mq.addEventListener.bind(mq, 'change') : mq.addListener.bind(mq))(function () {
+    zeichneVerlauf(); zeichneHeat();
+  });
+  new MutationObserver(function () { zeichneVerlauf(); zeichneHeat(); })
+    .observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+})();
+</script>
