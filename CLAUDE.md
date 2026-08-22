@@ -264,6 +264,30 @@ Eine Zeile je Meldung:
 Grundlage fuer eine spaetere Uebersichtsdarstellung. Beachten: die Daten
 zeigen die Aufmerksamkeit DIESES Berichts, nicht die der Medien allgemein.
 
+## Uebersichtsseite `uebersicht.html` (eingefuehrt 2026-08-22) - WICHTIG
+
+Eine Auswertung ueber alle bisherigen Berichte: Kategorie-Verlauf und eine
+Heatmap der Themenstraenge. Datenquelle ist `data/archiv.jsonl`.
+
+**Die Seite wird NIE von Hand geschrieben.** Sie entsteht ausschliesslich aus
+`tools/uebersicht.py`, das die Vorlage `tools/uebersicht_vorlage.html` mit
+fuenf Platzhaltern fuellt (`__DATEN__`, `__EYEBROW__`, `__REIFE__`,
+`__LUECKE__`, `__FOOTER__`). Aufruf aus dem Repo-Root:
+
+```
+python3 tools/uebersicht.py
+```
+
+Soll sich das Aussehen aendern, wird die **Vorlage** geaendert, nicht die
+erzeugte Seite - sonst ist die Aenderung beim naechsten Lauf weg.
+
+- Nur Standardbibliothek, keine Abhaengigkeiten.
+- In die Heatmap kommen Straenge ab 4 Meldungen (`MIN_MELDUNGEN` im Skript).
+- Der Vorbehalt zur duennen Strang-Datenbasis blendet sich selbst aus, sobald
+  42 Tage Strang-Daten vorliegen (`REIF_AB_TAGEN`).
+- Die Seite bindet `readaloud.js` bewusst NICHT ein - sie ist kein Bericht.
+- Sie zeigt die Aufmerksamkeit DIESES Berichts, nicht die der Medien allgemein.
+
 ## Footer-Links beim Kopieren nach `index.html` — WICHTIG
 
 Der jeweils neueste Bericht wird unter `reports/briefing-JJJJ-MM-TT.html`
