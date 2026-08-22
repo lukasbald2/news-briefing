@@ -272,7 +272,8 @@ Heatmap der Themenstraenge. Datenquelle ist `data/archiv.jsonl`.
 **Die Seite wird NIE von Hand geschrieben.** Sie entsteht ausschliesslich aus
 `tools/uebersicht.py`, das die Vorlage `tools/uebersicht_vorlage.html` mit
 fuenf Platzhaltern fuellt (`__DATEN__`, `__EYEBROW__`, `__REIFE__`,
-`__LUECKE__`, `__FOOTER__`). Aufruf aus dem Repo-Root:
+`__LUECKE__`, `__FOOTER__`). Der taegliche Lauf ruft das Skript in Schritt 7c
+aus dem Repo-Root auf:
 
 ```
 python3 tools/uebersicht.py
@@ -287,6 +288,9 @@ erzeugte Seite - sonst ist die Aenderung beim naechsten Lauf weg.
   42 Tage Strang-Daten vorliegen (`REIF_AB_TAGEN`).
 - Die Seite bindet `readaloud.js` bewusst NICHT ein - sie ist kein Bericht.
 - Sie zeigt die Aufmerksamkeit DIESES Berichts, nicht die der Medien allgemein.
+- Der Neubau laeuft TAEGLICH, nicht nur sonntags: Das Skript braucht eine
+  Sekunde, und bei woechentlichem Neubau waere die Seite nach einem einzigen
+  fehlgeschlagenen Lauf zwei Wochen alt.
 
 ## Footer-Links beim Kopieren nach `index.html` — WICHTIG
 
