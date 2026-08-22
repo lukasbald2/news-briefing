@@ -242,6 +242,28 @@ Herkunftsangabe. Genau das ist in der Ausgabe vom 16.08.2026 passiert.
 
 Gilt für beide Komponenten des Abschnitts.
 
+## Dauerarchiv `data/archiv.jsonl` (eingefuehrt 2026-08-19) - WICHTIG
+
+`memory.json` ist ein **rollierender Arbeitsspeicher**: Eintraege aelter als
+30 Tage werden entfernt. Fuer Langzeitauswertungen gibt es daneben
+`data/archiv.jsonl` im JSON-Lines-Format - **aus dieser Datei wird niemals
+geloescht**. Der taegliche Lauf schreibt sie in Schritt 7b fort.
+
+Eine Zeile je Meldung:
+`{"date","category","strang_id","form","kontrast","status","title","summary","quelle"}`
+
+- `quelle` unterscheidet die Herkunft: `lauf` (regulaerer Lauf),
+  `memory-seed` (Erstbefuellung aus memory.json am 2026-08-22),
+  `html-rekonstruiert` (nachtraeglich aus alten Berichten geparst, ohne
+  Strang-Daten). Bei Auswertungen nicht als gleichwertig behandeln.
+- Kategorien `song` und `feedback` kommen nicht ins Archiv.
+- Idempotenz im Tageslauf: vorhandene Zeilen mit heutigem `date` und
+  `quelle: "lauf"` werden ersetzt, alle anderen bleiben unberuehrt.
+- Die 30-Tage-Regel gilt ausschliesslich fuer memory.json, nie hier.
+
+Grundlage fuer eine spaetere Uebersichtsdarstellung. Beachten: die Daten
+zeigen die Aufmerksamkeit DIESES Berichts, nicht die der Medien allgemein.
+
 ## Footer-Links beim Kopieren nach `index.html` — WICHTIG
 
 Der jeweils neueste Bericht wird unter `reports/briefing-JJJJ-MM-TT.html`
