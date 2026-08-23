@@ -4,7 +4,8 @@
 Aufruf aus dem Repo-Root:  python3 tools/uebersicht.py
 
 Das Skript ist die einzige Stelle, an der die Uebersichtsseite entsteht.
-Der Sonntagslauf ruft es auf und committet das Ergebnis -- die Seite wird
+Der taegliche Lauf ruft es in Schritt 7c auf und committet das Ergebnis -- die
+Seite wird
 NICHT von Hand geschrieben, sonst driftet das Layout mit jeder Ausgabe.
 Nur Standardbibliothek, keine Abhaengigkeiten.
 """
@@ -103,7 +104,7 @@ def main():
              "htage": htage, "heat": heat, "stat": stat}
 
     # --- Texte, die sich mit den Daten mitbewegen -------------------------
-    eyebrow = "Aktualisiert sonntags &middot; Datenstand %s" % tag(hat[-1])
+    eyebrow = "T&auml;glich aktualisiert &middot; Datenstand %s" % tag(hat[-1])
 
     strangtage = len(htage)
     if strangtage < REIF_AB_TAGEN:
@@ -134,7 +135,7 @@ def main():
                       % (len(luecken), ", ".join(kurz(x) for x in luecken)))
 
     footer = ("Erzeugt am %s aus <code>data/archiv.jsonl</code> &middot; %d Meldungen, %s bis %s "
-              "&middot; Diese Seite wird vom Sonntagslauf neu gebaut; von Hand ge&auml;nderte "
+              "&middot; Diese Seite wird bei jedem Lauf neu gebaut; von Hand ge&auml;nderte "
               "Fassungen werden dabei &uuml;berschrieben."
               % (tag(datetime.date.today().isoformat()), len(rows), tag(hat[0]), tag(hat[-1])))
 
