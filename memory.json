@@ -1,22 +1,6 @@
 {
   "straenge": [
     {
-      "id": "sudan-el-obeid-belagerung",
-      "titel": "Sudan: Belagerung von El-Obeid",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "ukraine-krieg",
-      "titel": "Ukraine-Krieg: Angriffswellen und Gegenangriffe",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
       "id": "amazon-boerse-palantir",
       "titel": "Amazon-Boersenrekord und Palantir-Kurssprung",
       "kategorie": "global",
@@ -25,284 +9,28 @@
       "status": "abgeschlossen"
     },
     {
-      "id": "rentenstreit-koalition",
-      "titel": "Rentenstreit in der Koalition (Rente mit 63)",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "quartalszahlen-saison",
-      "titel": "Quartalszahlen-Saison deutscher Konzerne",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-08",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "bayreuther-festspiele-ki-ring",
-      "titel": "Bayreuther Festspiele: KI-generierter 'Ring'",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-09",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "einzelhandel-owl-wachstum",
-      "titel": "Einzelhandel OWL: nominales Wachstum",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-05",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "verkehrsunfall-lichtenau-henglarn",
-      "titel": "Verkehrsunfall Lichtenau-Henglarn",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-05",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "darknet-anklage-minden-luebbecke",
-      "titel": "Darknet-Anklage aus Minden-Luebbecke",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-05",
-      "status": "abgeschlossen (ausgelaufen)"
-    },
-    {
-      "id": "openai-summer-club-backlash",
-      "titel": "Backlash gegen OpenAIs 'Summer Club'",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-12",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "tiktok-algorithmus-suchtklagen",
-      "titel": "TikTok: Algorithmus-Bericht und Sucht-Klagen",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-05",
-      "status": "neu"
-    },
-    {
-      "id": "jimothy-night-mariners",
-      "titel": "Jimothy, der virale Waschbär aus Seattle",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "spacex-unternehmensnews",
-      "titel": "SpaceX: Quartalszahlen und Nvidia-Partnerschaft",
+      "id": "amazonas-entwaldung-rekordtief",
+      "titel": "Amazonas-Entwaldung auf Rekordtief",
       "kategorie": "global",
-      "erstmals_am": "2026-08-06",
-      "letzter_eintrag": "2026-08-08",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "usa-brasilien-visastreit",
-      "titel": "USA-Brasilien-Visastreit vor den Wahlen",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-06",
-      "letzter_eintrag": "2026-08-24",
+      "erstmals_am": "2026-08-15",
+      "letzter_eintrag": "2026-08-25",
       "status": "laufend"
     },
     {
-      "id": "rhein-niedrigwasser",
-      "titel": "Rhein-Niedrigwasser bei Kaub",
+      "id": "anti-afd-demonstrationen-bundesweit",
+      "titel": "Bundesweite Anti-AfD-Demonstrationen",
       "kategorie": "national",
-      "erstmals_am": "2026-08-06",
-      "letzter_eintrag": "2026-08-24",
+      "erstmals_am": "2026-08-23",
+      "letzter_eintrag": "2026-08-25",
       "status": "laufend"
     },
     {
-      "id": "feuerwehrhaus-etteln-brand",
-      "titel": "Brand des Feuerwehrgeraetehauses Etteln",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-06",
-      "letzter_eintrag": "2026-08-10",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "wassernot-owl-entnahmeverbot",
-      "titel": "Wassernot OWL: Entnahmeverbote",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-06",
-      "letzter_eintrag": "2026-08-09",
-      "status": "abgeschlossen (ausgelaufen)"
-    },
-    {
-      "id": "pferderipper-serie-owl",
-      "titel": "Pferderipper-Serie in OWL",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-06",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "google-ki-satellitenbild-tool",
-      "titel": "Googles KI-Satellitenbild-Tool",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-06",
-      "letzter_eintrag": "2026-08-06",
-      "status": "neu"
-    },
-    {
-      "id": "jugendwort-2026",
-      "titel": "Jugendwort 2026: 'Du bist gut genug'",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-06",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "nahost-iran-spannung",
-      "titel": "Nahost: Hormuz-Spannung und Verteidigungspakt",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "ki-chip-aktien-erholung",
-      "titel": "KI-Chip-Aktien: Erholung nach Ausverkauf",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-07",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "hitzewelle-westeuropa",
-      "titel": "Hitzewelle und Waldbraende in Westeuropa",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "leipzig-halle-drohne",
-      "titel": "Drohnenfund am Flughafen Leipzig/Halle",
+      "id": "antisemitismus-bericht-deutschland",
+      "titel": "Antisemitismus-Bericht: Deutschland weltweit höchste Vorfallzahl",
       "kategorie": "national",
-      "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-23",
+      "erstmals_am": "2026-08-23",
+      "letzter_eintrag": "2026-08-25",
       "status": "laufend"
-    },
-    {
-      "id": "thyssenkrupp-accelis-abspaltung",
-      "titel": "Thyssenkrupp-Abspaltung von tk accelis",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-07",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "steinmeier-nachfolge",
-      "titel": "Debatte um Steinmeier-Nachfolge",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "warsteiner-haus-cramer",
-      "titel": "Warsteiner/Haus Cramer: Zukunftssuche Paderborn",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "getreideernte-kreis-paderborn",
-      "titel": "Getreideernte im Kreis Paderborn",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-07",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "festival-rock-am-koeterberg",
-      "titel": "Festival 'Rock am Koeterberg'",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-07",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "kumar-method-cyrus",
-      "titel": "'Kumar Method': Nachfolger Cyrus",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-17",
-      "status": "laufend"
-    },
-    {
-      "id": "jon-hamm-tiktok-meme",
-      "titel": "Jon Hamms Tanzszene aus 'Your Friends & Neighbors' als Meme",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-16",
-      "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-23)"
-    },
-    {
-      "id": "padersprinter-elektrobusse",
-      "titel": "PaderSprinter-Elektrobusse",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-08",
-      "letzter_eintrag": "2026-08-08",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "wabi-sabi-tiktok-trend",
-      "titel": "'Wabi-Sabi'-TikTok-Trend: Unperfektheit als Gegenbewegung",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-08",
-      "letzter_eintrag": "2026-08-16",
-      "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-23)"
-    },
-    {
-      "id": "yellow-font-theory",
-      "titel": "'Yellow Font Theory' auf Instagram",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-08",
-      "letzter_eintrag": "2026-08-08",
-      "status": "neu"
-    },
-    {
-      "id": "dance-moms-sound-trend",
-      "titel": "Dance-Moms-Sound-Trend",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-08",
-      "letzter_eintrag": "2026-08-08",
-      "status": "neu"
-    },
-    {
-      "id": "fossilien-ediacara-kanada",
-      "titel": "Ediacara-Fossilien in Kanada",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-09",
-      "letzter_eintrag": "2026-08-09",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "fahrerflucht-b64-delbrueck",
-      "titel": "Fahrerflucht auf der B64 bei Delbrueck",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-09",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "zukunftspreis-handwerk-owl",
-      "titel": "Zukunftspreis Handwerk OWL",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-09",
-      "letzter_eintrag": "2026-08-09",
-      "status": "abgeschlossen"
     },
     {
       "id": "ariana-grande-petal-charts",
@@ -313,70 +41,6 @@
       "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-23)"
     },
     {
-      "id": "ebola-kongo-ausbruch",
-      "titel": "Ebola-Ausbruch im Kongo",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-10",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "sonnenfinsternis-europa",
-      "titel": "Totale Sonnenfinsternis ueber Kontinentaleuropa",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-10",
-      "letzter_eintrag": "2026-08-12",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "teilchenphysik-glueball",
-      "titel": "Bestaetigung des Glueball-Teilchens",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-10",
-      "letzter_eintrag": "2026-08-10",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "rfa-one-orbitalstart",
-      "titel": "RFA ONE: Deutscher Orbitalstart-Versuch",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-10",
-      "letzter_eintrag": "2026-08-10",
-      "status": "laufend"
-    },
-    {
-      "id": "konzertreihe-donnerstags-paderborn",
-      "titel": "Konzertreihe 'Donnerstags in Paderborn'",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-10",
-      "letzter_eintrag": "2026-08-20",
-      "status": "laufend"
-    },
-    {
-      "id": "fahrbahnsanierung-b1-b64-paderborn",
-      "titel": "Fahrbahnsanierung B1/B64 Paderborn",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-10",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "instagram-flash-filter-kontroverse",
-      "titel": "Instagrams KI-'Flash'-Filter-Kontroverse",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-10",
-      "letzter_eintrag": "2026-08-16",
-      "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-23)"
-    },
-    {
-      "id": "nostalgie-trend-2016-2026",
-      "titel": "'2026 is the new 2016'-Nostalgietrend",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-10",
-      "letzter_eintrag": "2026-08-10",
-      "status": "laufend"
-    },
-    {
       "id": "authentizitaets-welle-ein-take",
       "titel": "Authentizitaets-Welle: Ein-Take-Videos",
       "kategorie": "social",
@@ -385,187 +49,19 @@
       "status": "laufend"
     },
     {
-      "id": "gaza-friedensplan",
-      "titel": "Gaza: Board-of-Peace-Friedensplan",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-11",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "deutsche-exporte-rekord",
-      "titel": "Deutsche Exporte auf Rekordniveau",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-11",
-      "letzter_eintrag": "2026-08-11",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "sonnenfinsternis-owl",
-      "titel": "Partielle Sonnenfinsternis ueber OWL",
+      "id": "autohaeuser-fusion-bad-driburg",
+      "titel": "Autohäuser-Fusion Bad Driburg",
       "kategorie": "lokal",
-      "erstmals_am": "2026-08-11",
-      "letzter_eintrag": "2026-08-12",
-      "status": "abgeschlossen"
+      "erstmals_am": "2026-08-19",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
     },
     {
-      "id": "schuesse-bielefeld-hauptbahnhof",
-      "titel": "Schuesse vor dem Bielefelder Hauptbahnhof",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-11",
-      "letzter_eintrag": "2026-08-11",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "flip-phone-summer",
-      "titel": "'Flip Phone Summer'",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-11",
-      "letzter_eintrag": "2026-08-11",
-      "status": "neu"
-    },
-    {
-      "id": "ki-begleiterin-ev-spiderman-backlash",
-      "titel": "Backlash gegen KI-Begleiterin 'E.V.' (Spider-Man)",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-11",
-      "letzter_eintrag": "2026-08-11",
-      "status": "neu"
-    },
-    {
-      "id": "reise-ansturm-sonnenfinsternis",
-      "titel": "Reise-Ansturm vor der Sonnenfinsternis",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-11",
-      "letzter_eintrag": "2026-08-11",
-      "status": "neu"
-    },
-    {
-      "id": "geheimdienstreform-bnd-verfassungsschutz",
-      "titel": "Geheimdienstreform: erweiterte BND-Befugnisse",
+      "id": "autoindustrie-gewinneinbruch",
+      "titel": "Gewinneinbruch deutsche Autoindustrie",
       "kategorie": "national",
-      "erstmals_am": "2026-08-12",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "fruehstartrente-bafoegreform",
-      "titel": "Fruehstart-Rente und Bafoeg-Reform",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-12",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "foerderung-laendlicher-raum-owl",
-      "titel": "Landesfoerderung laendlicher Raum OWL",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-12",
-      "letzter_eintrag": "2026-08-12",
-      "status": "neu"
-    },
-    {
-      "id": "kreisstrasse-dalheim-sperrung",
-      "titel": "Vollsperrung Kreisstrasse Dalheim",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-12",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "delbrueck-kanalarbeiten-sperrung",
-      "titel": "Vollsperrung Delbrueck Kanalarbeiten",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-12",
-      "letzter_eintrag": "2026-08-19",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "sonnenfinsternis-gravitations-hoax",
-      "titel": "Schwerkraft-Hoax zur Sonnenfinsternis",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-12",
-      "letzter_eintrag": "2026-08-13",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "bangladesh-song-tiktok-trend",
-      "titel": "\"Bangladesh\"-Song TikTok/Instagram-Trend",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-12",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "nvidia-ki-infrastruktur-finanzierung",
-      "titel": "Nvidia-Finanzierungsrahmen für KI-Infrastruktur",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-13",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "merz-umfragetief-afd-vorsprung",
-      "titel": "Forsa-Umfragetief Merz / AfD-Vorsprung",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-13",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "waldbrand-rodenbach-brandstiftung",
-      "titel": "Waldbrand Rodenbach (Brandstiftungsverdacht)",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-13",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "hiv-neugeborene-dreifachtherapie",
-      "titel": "HIV-Dreifachtherapie fuer Neugeborene",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-14",
-      "letzter_eintrag": "2026-08-14",
-      "status": "neu"
-    },
-    {
-      "id": "waldbrand-huertgenwald-evakuierung",
-      "titel": "Waldbrand Huertgenwald-Gey: Evakuierung",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-14",
-      "letzter_eintrag": "2026-08-16",
-      "status": "abgeschlossen (in Wochenausgabe vom 2026-08-16 zusammengefasst)"
-    },
-    {
-      "id": "sc-paderborn-mika-baur-transfer",
-      "titel": "SC Paderborn: Rekordtransfer Mika Baur",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-14",
-      "letzter_eintrag": "2026-08-16",
-      "status": "abgeschlossen (in Wochenausgabe vom 2026-08-16 zusammengefasst)"
-    },
-    {
-      "id": "ki-fake-videos-tiktok-merz-hoax",
-      "titel": "KI-Fake-Video-Welle auf TikTok (Merz-Hoax)",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-14",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "amazonas-entwaldung-rekordtief",
-      "titel": "Amazonas-Entwaldung auf Rekordtief",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-15",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "sambia-praesidentschaftswahl-2026",
-      "titel": "Sambias Präsidentschaftswahl 2026",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-15",
-      "letzter_eintrag": "2026-08-24",
+      "erstmals_am": "2026-08-17",
+      "letzter_eintrag": "2026-08-25",
       "status": "laufend"
     },
     {
@@ -577,75 +73,35 @@
       "status": "abgeschlossen (in Wochenausgabe vom 2026-08-16 zusammengefasst)"
     },
     {
-      "id": "weser-niedrigwasser-hoexter",
-      "titel": "Weser-Niedrigwasser bei Höxter",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-15",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "erzbistum-paderborn-missbrauch-ruecklage",
-      "titel": "Erzbistum Paderborn: Rückstellung für Missbrauchsopfer",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-15",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "schuetzenfest-bentfeld",
-      "titel": "Schützenfest Bentfeld",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-15",
-      "letzter_eintrag": "2026-08-16",
-      "status": "abgeschlossen (in Wochenausgabe vom 2026-08-16 zusammengefasst)"
-    },
-    {
-      "id": "netflix-documentary-chair-trend",
-      "titel": "'Netflix Documentary'-TikTok/Instagram-Trend",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-15",
-      "letzter_eintrag": "2026-08-16",
-      "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-23)"
-    },
-    {
-      "id": "locarno-filmfestival-deutschland",
-      "titel": "Deutsches Kino bei Locarno prämiert",
+      "id": "badenberg-plagiatsvorwuerfe-berlin",
+      "titel": "Plagiatsvorwürfe Justizsenatorin Badenberg",
       "kategorie": "national",
-      "erstmals_am": "2026-08-16",
-      "letzter_eintrag": "2026-08-16",
-      "status": "abgeschlossen (in Wochenausgabe vom 2026-08-16 zusammengefasst)"
+      "erstmals_am": "2026-08-24",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
     },
     {
-      "id": "landpartie-schloss-neuhaus",
-      "titel": "Landpartie Schloss Neuhaus",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-16",
-      "letzter_eintrag": "2026-08-16",
-      "status": "abgeschlossen (in Wochenausgabe vom 2026-08-16 zusammengefasst)"
-    },
-    {
-      "id": "spider-man-decken-trend",
-      "titel": "Deckenlauf-Trend im Miles-Morales-Stil",
+      "id": "bangladesh-song-tiktok-trend",
+      "titel": "\"Bangladesh\"-Song TikTok/Instagram-Trend",
       "kategorie": "social",
-      "erstmals_am": "2026-08-16",
-      "letzter_eintrag": "2026-08-17",
+      "erstmals_am": "2026-08-12",
+      "letzter_eintrag": "2026-08-23",
       "status": "laufend"
     },
     {
-      "id": "erdbeben-indonesien-flores",
-      "titel": "Erdbeben Flores (Indonesien)",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-17",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "autoindustrie-gewinneinbruch",
-      "titel": "Gewinneinbruch deutsche Autoindustrie",
+      "id": "bayreuther-festspiele-ki-ring",
+      "titel": "Bayreuther Festspiele: KI-generierter 'Ring'",
       "kategorie": "national",
-      "erstmals_am": "2026-08-17",
-      "letzter_eintrag": "2026-08-24",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-09",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "benteler-windpark-lichtenau",
+      "titel": "Benteler-Werk Lichtenau: Windpark-Direktbelieferung",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-18",
+      "letzter_eintrag": "2026-08-25",
       "status": "laufend"
     },
     {
@@ -653,255 +109,7 @@
       "titel": "'Bielefelder Shortcut': Firmengründung in einem Tag",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-17",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "waldbrandgefahr-owl",
-      "titel": "Waldbrandgefahr in OWL",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-17",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "peter-pan-girl-disneyland-debatte",
-      "titel": "'Peter-Pan-Girl'-Debatte (Disneyland)",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-17",
-      "letzter_eintrag": "2026-08-17",
-      "status": "neu"
-    },
-    {
-      "id": "dance-moms-dingbat-trend",
-      "titel": "'Dance Moms'-Dingbat-Sound-Trend",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-17",
-      "letzter_eintrag": "2026-08-17",
-      "status": "neu"
-    },
-    {
-      "id": "schwarzes-loch-stern-entdeckung",
-      "titel": "Astronomen entdecken \"Schwarzes-Loch-Stern\"",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-18",
-      "letzter_eintrag": "2026-08-18",
-      "status": "neu"
-    },
-    {
-      "id": "waldbrand-hohes-venn-monschau",
-      "titel": "Waldbrand Hohes Venn bei Monschau",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-18",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "benteler-windpark-lichtenau",
-      "titel": "Benteler-Werk Lichtenau: Windpark-Direktbelieferung",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-18",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "seis-sete-funk-kpop-crossover",
-      "titel": "Funk-Trend \"Seis Sete\" x K-Pop",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-18",
-      "letzter_eintrag": "2026-08-18",
-      "status": "neu"
-    },
-    {
-      "id": "worth-the-money-tiktok-trend",
-      "titel": "\"5 Things Worth the Money\"-TikTok-Trend",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-18",
-      "letzter_eintrag": "2026-08-18",
-      "status": "neu"
-    },
-    {
-      "id": "saxophones-getting-louder-meme",
-      "titel": "\"The saxophones are getting louder\"-Meme",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-18",
-      "letzter_eintrag": "2026-08-18",
-      "status": "neu"
-    },
-    {
-      "id": "stuttgart-sabotage-urteil",
-      "titel": "OLG-Stuttgart-Sabotage-Urteil",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-19",
-      "letzter_eintrag": "2026-08-19",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "tarifverhandlung-einzelhandel-mitteldeutschland",
-      "titel": "Tarifverhandlung Einzelhandel Mitteldeutschland",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-19",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "china-wirtschaft-abkuehlung",
-      "titel": "Chinas Wirtschaftsabkühlung",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-19",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "autohaeuser-fusion-bad-driburg",
-      "titel": "Autohäuser-Fusion Bad Driburg",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-19",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "musk-grok-odyssee-wettbewerb",
-      "titel": "Musk/Grok-Odyssee-Wettbewerb",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-19",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "cortis-redred-tiktok",
-      "titel": "CORTIS 'REDRED'-Tanztrend",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-19",
-      "letzter_eintrag": "2026-08-19",
-      "status": "neu"
-    },
-    {
-      "id": "nostalgie-2016-trend",
-      "titel": "'2026 is the new 2016'-Nostalgietrend",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-19",
-      "letzter_eintrag": "2026-08-19",
-      "status": "neu"
-    },
-    {
-      "id": "instagram-wecker-leidens-reels",
-      "titel": "Instagram-Wecker-Leidens-Reels",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-19",
-      "letzter_eintrag": "2026-08-19",
-      "status": "neu"
-    },
-    {
-      "id": "meta-kindersicherheit-prozess",
-      "titel": "Kindersicherheitsprozess gegen Meta (Oakland)",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-20",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "unwetter-tornado-mehrere-bundeslaender",
-      "titel": "Unwetterserie mit Tornado-Verdacht in mehreren Bundesländern",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-20",
-      "letzter_eintrag": "2026-08-22",
-      "status": "laufend"
-    },
-    {
-      "id": "tiktok-generationenvergleich-eltern-trend",
-      "titel": "TikTok-Trend: Generationenvergleich mit Eltern",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-20",
-      "letzter_eintrag": "2026-08-20",
-      "status": "neu"
-    },
-    {
-      "id": "israel-gaza-kriegsverbrechen-ermittlungen",
-      "titel": "Israel eröffnet erste Kriegsverbrechen-Ermittlungen zu Hind Rajab und Rafah-Sanitätern",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-21",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "evergrande-hui-ka-yan-urteil",
-      "titel": "Evergrande-Gründer Hui Ka Yan zu lebenslanger Haft verurteilt",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-21",
-      "letzter_eintrag": "2026-08-24",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "nordkorea-raketen-trump-kim",
-      "titel": "Nordkorea feuert Raketensalve trotz angekündigtem Trump-Kim-Treffen",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-21",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "nordstream-sabotage-festnahme-kroatien",
-      "titel": "Generalbundesanwalt lässt zweiten Nord-Stream-Verdächtigen in Kroatien festnehmen",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-21",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "solarausbau-ziel-2026-erreicht",
-      "titel": "Deutschland erreicht Solarausbauziel 2026 vorzeitig, Branche warnt vor Einbruch danach",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-21",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "paderborner-weindorf-2026",
-      "titel": "Paderborner Weindorf eröffnet im Schlosspark Neuhaus",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-21",
-      "letzter_eintrag": "2026-08-23",
-      "status": "abgeschlossen"
-    },
-    {
-      "id": "six-seven-brazilian-funk-tiktok",
-      "titel": "„Six Seven“/„Seis Sete“: Brasilianischer Funk-Tanztrend erreicht K-Pop mit J-Hope",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-21",
-      "letzter_eintrag": "2026-08-23",
-      "status": "abgeschlossen (in Wochenausgabe vom 2026-08-23 zusammengefasst)"
-    },
-    {
-      "id": "instagram-logo-instagzam-spott",
-      "titel": "Instagrams Logo-Neugestaltung: Spott über „Instagzam“ hält an",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-21",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "dinge-jeden-cent-wert-tiktok-trend",
-      "titel": "„Dinge, die jeden Cent wert sind“: neues Listen-Format auf TikTok/Instagram",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-21",
-      "letzter_eintrag": "2026-08-21",
-      "status": "neu"
-    },
-    {
-      "id": "deutsche-bank-energiehandel-comeback",
-      "titel": "Deutsche Bank: Wiederaufbau Energiehandel",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-22",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
-    },
-    {
-      "id": "gruber-logistics-erfolgskurs-paderborn",
-      "titel": "Gruber Logistics: Erfolgskurs Paderborn",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-22",
-      "letzter_eintrag": "2026-08-23",
+      "letzter_eintrag": "2026-08-25",
       "status": "laufend"
     },
     {
@@ -913,155 +121,27 @@
       "status": "neu"
     },
     {
-      "id": "dance-moms-dingbat-tiktok-trend",
-      "titel": "'Dance Moms'-Dingbat-TikTok-Trend",
+      "id": "chattjb-fake-ai-chatbot",
+      "titel": "ChatTJB Fake-KI-Chatbot",
       "kategorie": "social",
-      "erstmals_am": "2026-08-22",
-      "letzter_eintrag": "2026-08-23",
-      "status": "laufend"
+      "erstmals_am": "2026-08-25",
+      "letzter_eintrag": "2026-08-25",
+      "status": "neu"
     },
     {
-      "id": "jemen-huthi-eskalation",
-      "titel": "Jemen: Eskalation Richtung Vollkrieg",
+      "id": "china-wirtschaft-abkuehlung",
+      "titel": "Chinas Wirtschaftsabkühlung",
       "kategorie": "global",
-      "erstmals_am": "2026-08-23",
-      "letzter_eintrag": "2026-08-24",
+      "erstmals_am": "2026-08-19",
+      "letzter_eintrag": "2026-08-25",
       "status": "laufend"
     },
     {
-      "id": "mali-africa-corps-massaker",
-      "titel": "Mali: HRW-Bericht zu Africa-Corps-Massaker",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-23",
-      "letzter_eintrag": "2026-08-23",
-      "status": "neu"
-    },
-    {
-      "id": "anti-afd-demonstrationen-bundesweit",
-      "titel": "Bundesweite Anti-AfD-Demonstrationen",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-23",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "antisemitismus-bericht-deutschland",
-      "titel": "Antisemitismus-Bericht: Deutschland weltweit höchste Vorfallzahl",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-23",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "sap-siemens-marktkapitalisierung",
-      "titel": "Siemens/SAP: Wettlauf um wertvollsten DAX-Konzern",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-23",
-      "letzter_eintrag": "2026-08-24",
-      "status": "laufend"
-    },
-    {
-      "id": "delbruecker-braumanufaktur-havarie",
-      "titel": "Delbrücker Braumanufaktur Havarie",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-23",
-      "letzter_eintrag": "2026-08-23",
-      "status": "neu"
-    },
-    {
-      "id": "messerangriff-salitos-beach-paderborn",
-      "titel": "Messerangriff Salitos Beach Paderborn: Razzien",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-23",
-      "letzter_eintrag": "2026-08-23",
-      "status": "neu"
-    },
-    {
-      "id": "gta-6-leak-cyberleek",
-      "titel": "GTA-6-Leak durch \"CyberLeek\"",
+      "id": "cortis-redred-tiktok",
+      "titel": "CORTIS 'REDRED'-Tanztrend",
       "kategorie": "social",
-      "erstmals_am": "2026-08-23",
-      "letzter_eintrag": "2026-08-23",
-      "status": "neu"
-    },
-    {
-      "id": "shake-shack-tipping-fatigue-debatte",
-      "titel": "Shake-Shack-\"No Tip\"-Debatte / Tipping Fatigue",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-23",
-      "letzter_eintrag": "2026-08-23",
-      "status": "neu"
-    },
-    {
-      "id": "jackson-hole-fed-warsh-rede",
-      "titel": "Fed-Chef Warsh: erste Grundsatzrede in Jackson Hole",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-24",
-      "letzter_eintrag": "2026-08-24",
-      "status": "neu"
-    },
-    {
-      "id": "merz-kabinettsklausur-neuhardenberg",
-      "titel": "Kabinettsklausur Neuhardenberg",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-24",
-      "letzter_eintrag": "2026-08-24",
-      "status": "neu"
-    },
-    {
-      "id": "solingen-gedenktag-messeranschlag",
-      "titel": "Solingen-Gedenktag (Messeranschlag)",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-24",
-      "letzter_eintrag": "2026-08-24",
-      "status": "neu"
-    },
-    {
-      "id": "eon-fernwaerme-sammelklage-olg-hamm",
-      "titel": "E.ON-Sammelklage Fernwärme (OLG Hamm)",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-24",
-      "letzter_eintrag": "2026-08-24",
-      "status": "neu"
-    },
-    {
-      "id": "badenberg-plagiatsvorwuerfe-berlin",
-      "titel": "Plagiatsvorwürfe Justizsenatorin Badenberg",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-24",
-      "letzter_eintrag": "2026-08-24",
-      "status": "neu"
-    },
-    {
-      "id": "fruehchen-infektion-st-louise-paderborn",
-      "titel": "Frühchen-Infektion Kinderklinik St. Louise Paderborn",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-24",
-      "letzter_eintrag": "2026-08-24",
-      "status": "neu"
-    },
-    {
-      "id": "domfestspiele-paderborn-2026",
-      "titel": "Domfestspiele Paderborn 2026",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-24",
-      "letzter_eintrag": "2026-08-24",
-      "status": "neu"
-    },
-    {
-      "id": "jennie-blackpink-ki-deepfake",
-      "titel": "KI-Deepfake gegen Blackpinks Jennie",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-24",
-      "letzter_eintrag": "2026-08-24",
-      "status": "neu"
-    },
-    {
-      "id": "grok-kauderwelsch-glitch",
-      "titel": "Grok-Kauderwelsch-Glitch",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-24",
-      "letzter_eintrag": "2026-08-24",
+      "erstmals_am": "2026-08-19",
+      "letzter_eintrag": "2026-08-19",
       "status": "neu"
     },
     {
@@ -1073,12 +153,972 @@
       "status": "neu"
     },
     {
+      "id": "dance-moms-dingbat-tiktok-trend",
+      "titel": "'Dance Moms'-Dingbat-TikTok-Trend",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-22",
+      "letzter_eintrag": "2026-08-23",
+      "status": "laufend"
+    },
+    {
+      "id": "dance-moms-dingbat-trend",
+      "titel": "'Dance Moms'-Dingbat-Sound-Trend",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-17",
+      "letzter_eintrag": "2026-08-17",
+      "status": "neu"
+    },
+    {
+      "id": "dance-moms-sound-trend",
+      "titel": "Dance-Moms-Sound-Trend",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-08",
+      "letzter_eintrag": "2026-08-08",
+      "status": "neu"
+    },
+    {
+      "id": "darknet-anklage-minden-luebbecke",
+      "titel": "Darknet-Anklage aus Minden-Luebbecke",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-05",
+      "status": "abgeschlossen (ausgelaufen)"
+    },
+    {
+      "id": "delbrueck-kanalarbeiten-sperrung",
+      "titel": "Vollsperrung Delbrueck Kanalarbeiten",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-12",
+      "letzter_eintrag": "2026-08-19",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "delbruecker-braumanufaktur-havarie",
+      "titel": "Delbrücker Braumanufaktur Havarie",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-23",
+      "letzter_eintrag": "2026-08-23",
+      "status": "neu"
+    },
+    {
+      "id": "deutsche-bank-energiehandel-comeback",
+      "titel": "Deutsche Bank: Wiederaufbau Energiehandel",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-22",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "deutsche-exporte-rekord",
+      "titel": "Deutsche Exporte auf Rekordniveau",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-11",
+      "letzter_eintrag": "2026-08-11",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "dinge-jeden-cent-wert-tiktok-trend",
+      "titel": "„Dinge, die jeden Cent wert sind“: neues Listen-Format auf TikTok/Instagram",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-21",
+      "letzter_eintrag": "2026-08-21",
+      "status": "neu"
+    },
+    {
+      "id": "domfestspiele-paderborn-2026",
+      "titel": "Domfestspiele Paderborn 2026",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-24",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "ebola-kongo-ausbruch",
+      "titel": "Ebola-Ausbruch im Kongo",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "einzelhandel-owl-wachstum",
+      "titel": "Einzelhandel OWL: nominales Wachstum",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-05",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "eon-fernwaerme-sammelklage-olg-hamm",
+      "titel": "E.ON-Sammelklage Fernwärme (OLG Hamm)",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-24",
+      "letzter_eintrag": "2026-08-24",
+      "status": "neu"
+    },
+    {
+      "id": "erdbeben-indonesien-flores",
+      "titel": "Erdbeben Flores (Indonesien)",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-17",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "erzbistum-paderborn-missbrauch-ruecklage",
+      "titel": "Erzbistum Paderborn: Rückstellung für Missbrauchsopfer",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-15",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "evergrande-hui-ka-yan-urteil",
+      "titel": "Evergrande-Gründer Hui Ka Yan zu lebenslanger Haft verurteilt",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-21",
+      "letzter_eintrag": "2026-08-25",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "fahrbahnsanierung-b1-b64-paderborn",
+      "titel": "Fahrbahnsanierung B1/B64 Paderborn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "fahrerflucht-b64-delbrueck",
+      "titel": "Fahrerflucht auf der B64 bei Delbrueck",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-09",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "festival-rock-am-koeterberg",
+      "titel": "Festival 'Rock am Koeterberg'",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-07",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "feuerwehrhaus-etteln-brand",
+      "titel": "Brand des Feuerwehrgeraetehauses Etteln",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-10",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "flip-phone-summer",
+      "titel": "'Flip Phone Summer'",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-11",
+      "letzter_eintrag": "2026-08-11",
+      "status": "neu"
+    },
+    {
+      "id": "foerderung-laendlicher-raum-owl",
+      "titel": "Landesfoerderung laendlicher Raum OWL",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-12",
+      "letzter_eintrag": "2026-08-12",
+      "status": "neu"
+    },
+    {
+      "id": "fossilien-ediacara-kanada",
+      "titel": "Ediacara-Fossilien in Kanada",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-09",
+      "letzter_eintrag": "2026-08-09",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "fruehchen-infektion-st-louise-paderborn",
+      "titel": "Frühchen-Infektion Kinderklinik St. Louise Paderborn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-24",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "fruehstartrente-bafoegreform",
+      "titel": "Fruehstart-Rente und Bafoeg-Reform",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-12",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "gaza-friedensplan",
+      "titel": "Gaza: Board-of-Peace-Friedensplan",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-11",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "geheimdienstreform-bnd-verfassungsschutz",
+      "titel": "Geheimdienstreform: erweiterte BND-Befugnisse",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-12",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "getreideernte-kreis-paderborn",
+      "titel": "Getreideernte im Kreis Paderborn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-07",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "google-ki-satellitenbild-tool",
+      "titel": "Googles KI-Satellitenbild-Tool",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-06",
+      "status": "neu"
+    },
+    {
+      "id": "grok-kauderwelsch-glitch",
+      "titel": "Grok-Kauderwelsch-Glitch",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-24",
+      "letzter_eintrag": "2026-08-24",
+      "status": "neu"
+    },
+    {
+      "id": "gruber-logistics-erfolgskurs-paderborn",
+      "titel": "Gruber Logistics: Erfolgskurs Paderborn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-22",
+      "letzter_eintrag": "2026-08-23",
+      "status": "laufend"
+    },
+    {
+      "id": "gta-6-leak-cyberleek",
+      "titel": "GTA-6-Leak durch \"CyberLeek\"",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-23",
+      "letzter_eintrag": "2026-08-23",
+      "status": "neu"
+    },
+    {
+      "id": "hitzewelle-westeuropa",
+      "titel": "Hitzewelle und Waldbraende in Westeuropa",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "hiv-neugeborene-dreifachtherapie",
+      "titel": "HIV-Dreifachtherapie fuer Neugeborene",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-14",
+      "letzter_eintrag": "2026-08-14",
+      "status": "neu"
+    },
+    {
+      "id": "instagram-flash-filter-kontroverse",
+      "titel": "Instagrams KI-'Flash'-Filter-Kontroverse",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-16",
+      "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-23)"
+    },
+    {
+      "id": "instagram-logo-instagzam-spott",
+      "titel": "Instagrams Logo-Neugestaltung: Spott über „Instagzam“ hält an",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-21",
+      "letzter_eintrag": "2026-08-23",
+      "status": "laufend"
+    },
+    {
+      "id": "instagram-wecker-leidens-reels",
+      "titel": "Instagram-Wecker-Leidens-Reels",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-19",
+      "letzter_eintrag": "2026-08-19",
+      "status": "neu"
+    },
+    {
+      "id": "israel-gaza-kriegsverbrechen-ermittlungen",
+      "titel": "Israel eröffnet erste Kriegsverbrechen-Ermittlungen zu Hind Rajab und Rafah-Sanitätern",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-21",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "jackson-hole-fed-warsh-rede",
+      "titel": "Fed-Chef Warsh: erste Grundsatzrede in Jackson Hole",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-24",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "jemen-huthi-eskalation",
+      "titel": "Jemen/Huthi-Eskalation Rotes Meer",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-23",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "jennie-blackpink-ki-deepfake",
+      "titel": "KI-Deepfake gegen Blackpinks Jennie",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-24",
+      "letzter_eintrag": "2026-08-24",
+      "status": "neu"
+    },
+    {
+      "id": "jimothy-night-mariners",
+      "titel": "Jimothy, der virale Waschbär aus Seattle",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-23",
+      "status": "laufend"
+    },
+    {
+      "id": "jon-hamm-tiktok-meme",
+      "titel": "Jon Hamms Tanzszene aus 'Your Friends & Neighbors' als Meme",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-16",
+      "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-23)"
+    },
+    {
+      "id": "jugendwort-2026",
+      "titel": "Jugendwort 2026: 'Du bist gut genug'",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-23",
+      "status": "laufend"
+    },
+    {
+      "id": "kanter-freedom-wnba-natasha-cloud",
+      "titel": "Kanter Freedom/WNBA-Konfrontation",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-25",
+      "letzter_eintrag": "2026-08-25",
+      "status": "neu"
+    },
+    {
+      "id": "ki-begleiterin-ev-spiderman-backlash",
+      "titel": "Backlash gegen KI-Begleiterin 'E.V.' (Spider-Man)",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-11",
+      "letzter_eintrag": "2026-08-11",
+      "status": "neu"
+    },
+    {
+      "id": "ki-chip-aktien-erholung",
+      "titel": "KI-Chip-Aktien: Erholung nach Ausverkauf",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-07",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "ki-fake-videos-tiktok-merz-hoax",
+      "titel": "KI-Fake-Video-Welle auf TikTok (Merz-Hoax)",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-14",
+      "letzter_eintrag": "2026-08-23",
+      "status": "laufend"
+    },
+    {
+      "id": "konzertreihe-donnerstags-paderborn",
+      "titel": "Konzertreihe 'Donnerstags in Paderborn'",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-20",
+      "status": "laufend"
+    },
+    {
+      "id": "kreisstrasse-dalheim-sperrung",
+      "titel": "Vollsperrung Kreisstrasse Dalheim",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-12",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "kumar-method-cyrus",
+      "titel": "'Kumar Method': Nachfolger Cyrus",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-17",
+      "status": "laufend"
+    },
+    {
+      "id": "landpartie-schloss-neuhaus",
+      "titel": "Landpartie Schloss Neuhaus",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-16",
+      "letzter_eintrag": "2026-08-16",
+      "status": "abgeschlossen (in Wochenausgabe vom 2026-08-16 zusammengefasst)"
+    },
+    {
+      "id": "leipzig-halle-drohne",
+      "titel": "Drohnenfund am Flughafen Leipzig/Halle",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "locarno-filmfestival-deutschland",
+      "titel": "Deutsches Kino bei Locarno prämiert",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-16",
+      "letzter_eintrag": "2026-08-16",
+      "status": "abgeschlossen (in Wochenausgabe vom 2026-08-16 zusammengefasst)"
+    },
+    {
+      "id": "mali-africa-corps-massaker",
+      "titel": "Mali: HRW-Bericht zu Africa-Corps-Massaker",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-23",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "merz-kabinettsklausur-neuhardenberg",
+      "titel": "Kabinettsklausur Neuhardenberg",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-24",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "merz-umfragetief-afd-vorsprung",
+      "titel": "Forsa-Umfragetief Merz / AfD-Vorsprung",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-13",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "messerangriff-salitos-beach-paderborn",
+      "titel": "Messerangriff Salitos Beach Paderborn: Razzien",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-23",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "meta-kindersicherheit-prozess",
+      "titel": "Kindersicherheitsprozess gegen Meta (Oakland)",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-20",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "musk-grok-odyssee-wettbewerb",
+      "titel": "Musk/Grok-Odyssee-Wettbewerb",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-19",
+      "letzter_eintrag": "2026-08-23",
+      "status": "laufend"
+    },
+    {
+      "id": "nahost-iran-spannung",
+      "titel": "Nahost: Hormuz-Spannung und Verteidigungspakt",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "nasa-roman-weltraumteleskop",
+      "titel": "NASA-Weltraumteleskop Nancy Grace Roman",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-25",
+      "letzter_eintrag": "2026-08-25",
+      "status": "neu"
+    },
+    {
+      "id": "netflix-documentary-chair-trend",
+      "titel": "'Netflix Documentary'-TikTok/Instagram-Trend",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-15",
+      "letzter_eintrag": "2026-08-16",
+      "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-23)"
+    },
+    {
+      "id": "nordkorea-raketen-trump-kim",
+      "titel": "Nordkorea feuert Raketensalve trotz angekündigtem Trump-Kim-Treffen",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-21",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "nordstream-sabotage-festnahme-kroatien",
+      "titel": "Generalbundesanwalt lässt zweiten Nord-Stream-Verdächtigen in Kroatien festnehmen",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-21",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "nostalgie-2016-trend",
+      "titel": "'2026 is the new 2016'-Nostalgietrend",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-19",
+      "letzter_eintrag": "2026-08-19",
+      "status": "neu"
+    },
+    {
+      "id": "nostalgie-trend-2016-2026",
+      "titel": "'2026 is the new 2016'-Nostalgietrend",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "nvidia-ki-infrastruktur-finanzierung",
+      "titel": "Nvidia-Finanzierungsrahmen für KI-Infrastruktur",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-13",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "openai-summer-club-backlash",
+      "titel": "Backlash gegen OpenAIs 'Summer Club'",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-12",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "paderborner-weindorf-2026",
+      "titel": "Paderborner Weindorf eröffnet im Schlosspark Neuhaus",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-21",
+      "letzter_eintrag": "2026-08-23",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "padersprinter-elektrobusse",
+      "titel": "PaderSprinter-Elektrobusse",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-08",
+      "letzter_eintrag": "2026-08-08",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "peter-pan-girl-disneyland-debatte",
+      "titel": "'Peter-Pan-Girl'-Debatte (Disneyland)",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-17",
+      "letzter_eintrag": "2026-08-17",
+      "status": "neu"
+    },
+    {
+      "id": "pferderipper-serie-owl",
+      "titel": "Pferderipper-Serie in OWL",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "pflegeversicherung-defizit-2027",
+      "titel": "Pflegeversicherung-Defizit ab 2027",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-25",
+      "letzter_eintrag": "2026-08-25",
+      "status": "neu"
+    },
+    {
+      "id": "quartalszahlen-saison",
+      "titel": "Quartalszahlen-Saison deutscher Konzerne",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-08",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "reise-ansturm-sonnenfinsternis",
+      "titel": "Reise-Ansturm vor der Sonnenfinsternis",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-11",
+      "letzter_eintrag": "2026-08-11",
+      "status": "neu"
+    },
+    {
+      "id": "rentenstreit-koalition",
+      "titel": "Rentenstreit in der Koalition (Rente mit 63)",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "rfa-one-orbitalstart",
+      "titel": "RFA ONE: Deutscher Orbitalstart-Versuch",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-10",
+      "status": "abgeschlossen (ausgelaufen)"
+    },
+    {
+      "id": "rhein-niedrigwasser",
+      "titel": "Rhein-Niedrigwasser bei Kaub",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "sambia-praesidentschaftswahl-2026",
+      "titel": "Sambia-Präsidentschaftswahl 2026 / Wahlanfechtung",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-15",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "sap-siemens-marktkapitalisierung",
+      "titel": "Siemens/SAP: Wettlauf um wertvollsten DAX-Konzern",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-23",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "saxophones-getting-louder-meme",
+      "titel": "\"The saxophones are getting louder\"-Meme",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-18",
+      "letzter_eintrag": "2026-08-18",
+      "status": "neu"
+    },
+    {
+      "id": "sc-paderborn-mika-baur-transfer",
+      "titel": "SC Paderborn: Rekordtransfer Mika Baur",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-14",
+      "letzter_eintrag": "2026-08-16",
+      "status": "abgeschlossen (in Wochenausgabe vom 2026-08-16 zusammengefasst)"
+    },
+    {
+      "id": "sc-paderborn-pokal-bundesliga-2026",
+      "titel": "SC Paderborn: Pokal und Bundesliga-Rückkehr",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-25",
+      "letzter_eintrag": "2026-08-25",
+      "status": "neu"
+    },
+    {
+      "id": "schuesse-bielefeld-hauptbahnhof",
+      "titel": "Schuesse vor dem Bielefelder Hauptbahnhof",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-11",
+      "letzter_eintrag": "2026-08-11",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "schuetzenfest-bentfeld",
+      "titel": "Schützenfest Bentfeld",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-15",
+      "letzter_eintrag": "2026-08-16",
+      "status": "abgeschlossen (in Wochenausgabe vom 2026-08-16 zusammengefasst)"
+    },
+    {
+      "id": "schwarzes-loch-stern-entdeckung",
+      "titel": "Astronomen entdecken \"Schwarzes-Loch-Stern\"",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-18",
+      "letzter_eintrag": "2026-08-18",
+      "status": "neu"
+    },
+    {
+      "id": "seis-sete-funk-kpop-crossover",
+      "titel": "Funk-Trend \"Seis Sete\" x K-Pop",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-18",
+      "letzter_eintrag": "2026-08-18",
+      "status": "neu"
+    },
+    {
+      "id": "shake-shack-tipping-fatigue-debatte",
+      "titel": "Shake-Shack-\"No Tip\"-Debatte / Tipping Fatigue",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-23",
+      "letzter_eintrag": "2026-08-23",
+      "status": "neu"
+    },
+    {
+      "id": "six-seven-brazilian-funk-tiktok",
+      "titel": "„Six Seven“/„Seis Sete“: Brasilianischer Funk-Tanztrend erreicht K-Pop mit J-Hope",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-21",
+      "letzter_eintrag": "2026-08-23",
+      "status": "abgeschlossen (in Wochenausgabe vom 2026-08-23 zusammengefasst)"
+    },
+    {
+      "id": "solarausbau-ziel-2026-erreicht",
+      "titel": "Deutschland erreicht Solarausbauziel 2026 vorzeitig, Branche warnt vor Einbruch danach",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-21",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "solingen-gedenktag-messeranschlag",
+      "titel": "Solingen-Gedenktag (Messeranschlag)",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-24",
+      "letzter_eintrag": "2026-08-24",
+      "status": "neu"
+    },
+    {
+      "id": "sonnenfinsternis-europa",
+      "titel": "Totale Sonnenfinsternis ueber Kontinentaleuropa",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-12",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "sonnenfinsternis-gravitations-hoax",
+      "titel": "Schwerkraft-Hoax zur Sonnenfinsternis",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-12",
+      "letzter_eintrag": "2026-08-13",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "sonnenfinsternis-owl",
+      "titel": "Partielle Sonnenfinsternis ueber OWL",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-11",
+      "letzter_eintrag": "2026-08-12",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "spacex-unternehmensnews",
+      "titel": "SpaceX: Quartalszahlen und Nvidia-Partnerschaft",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-08",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "spider-man-decken-trend",
+      "titel": "Deckenlauf-Trend im Miles-Morales-Stil",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-16",
+      "letzter_eintrag": "2026-08-17",
+      "status": "laufend"
+    },
+    {
+      "id": "steinmeier-nachfolge",
+      "titel": "Debatte um Steinmeier-Nachfolge",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "stuttgart-sabotage-urteil",
+      "titel": "OLG-Stuttgart-Sabotage-Urteil",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-19",
+      "letzter_eintrag": "2026-08-19",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "sudan-el-obeid-belagerung",
+      "titel": "Sudan: Belagerung von El-Obeid",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "tarifverhandlung-einzelhandel-mitteldeutschland",
+      "titel": "Tarifverhandlung Einzelhandel Mitteldeutschland",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-19",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "teilchenphysik-glueball",
+      "titel": "Bestaetigung des Glueball-Teilchens",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-10",
+      "letzter_eintrag": "2026-08-10",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "thyssenkrupp-accelis-abspaltung",
+      "titel": "Thyssenkrupp-Abspaltung von tk accelis",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-07",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "tiktok-algorithmus-suchtklagen",
+      "titel": "TikTok: Algorithmus-Bericht und Sucht-Klagen",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-05",
+      "status": "neu"
+    },
+    {
       "id": "tiktok-diamond-auction-trend",
       "titel": "TikTok-Diamantauktionen-Trend",
       "kategorie": "social",
       "erstmals_am": "2026-08-24",
       "letzter_eintrag": "2026-08-24",
       "status": "neu"
+    },
+    {
+      "id": "tiktok-generationenvergleich-eltern-trend",
+      "titel": "TikTok-Trend: Generationenvergleich mit Eltern",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-20",
+      "letzter_eintrag": "2026-08-20",
+      "status": "neu"
+    },
+    {
+      "id": "ukraine-krieg",
+      "titel": "Ukraine-Krieg: Angriffswellen und Gegenangriffe",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "unwetter-tornado-mehrere-bundeslaender",
+      "titel": "Unwetterserie mit Tornado-Verdacht in mehreren Bundesländern",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-20",
+      "letzter_eintrag": "2026-08-22",
+      "status": "laufend"
+    },
+    {
+      "id": "usa-brasilien-visastreit",
+      "titel": "USA-Brasilien-Visastreit vor den Wahlen",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "verkehrsunfall-lichtenau-henglarn",
+      "titel": "Verkehrsunfall Lichtenau-Henglarn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-05",
+      "letzter_eintrag": "2026-08-05",
+      "status": "abgeschlossen"
+    },
+    {
+      "id": "wabi-sabi-tiktok-trend",
+      "titel": "'Wabi-Sabi'-TikTok-Trend: Unperfektheit als Gegenbewegung",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-08",
+      "letzter_eintrag": "2026-08-16",
+      "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-23)"
+    },
+    {
+      "id": "waldbrand-hohes-venn-monschau",
+      "titel": "Waldbrand Hohes Venn bei Monschau",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-18",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "waldbrand-huertgenwald-evakuierung",
+      "titel": "Waldbrand Huertgenwald-Gey: Evakuierung",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-14",
+      "letzter_eintrag": "2026-08-16",
+      "status": "abgeschlossen (in Wochenausgabe vom 2026-08-16 zusammengefasst)"
+    },
+    {
+      "id": "waldbrand-rodenbach-brandstiftung",
+      "titel": "Waldbrand Rodenbach (Brandstiftungsverdacht)",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-13",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "waldbrandgefahr-owl",
+      "titel": "Waldbrandgefahr in OWL",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-17",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "warsteiner-haus-cramer",
+      "titel": "Warsteiner/Haus Cramer: Zukunftssuche Paderborn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-07",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "wassernot-owl-entnahmeverbot",
+      "titel": "Wassernot OWL: Entnahmeverbote",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-06",
+      "letzter_eintrag": "2026-08-09",
+      "status": "abgeschlossen (ausgelaufen)"
+    },
+    {
+      "id": "weser-niedrigwasser-hoexter",
+      "titel": "Weser-Niedrigwasser bei Höxter",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-15",
+      "letzter_eintrag": "2026-08-25",
+      "status": "laufend"
+    },
+    {
+      "id": "worth-the-money-tiktok-trend",
+      "titel": "\"5 Things Worth the Money\"-TikTok-Trend",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-18",
+      "letzter_eintrag": "2026-08-18",
+      "status": "neu"
+    },
+    {
+      "id": "yellow-font-theory",
+      "titel": "'Yellow Font Theory' auf Instagram",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-08",
+      "letzter_eintrag": "2026-08-08",
+      "status": "neu"
+    },
+    {
+      "id": "zukunftspreis-handwerk-owl",
+      "titel": "Zukunftspreis Handwerk OWL",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-09",
+      "letzter_eintrag": "2026-08-09",
+      "status": "abgeschlossen"
     }
   ],
   "entries": [
@@ -2918,13 +2958,6 @@
     },
     {
       "category": "global",
-      "title": "US-Erstanträge auf Arbeitslosenhilfe niedrigster Stand seit 1969",
-      "date": "2026-07-25",
-      "summary": "Themenmix-Artikel (Wirtschaft). 187.000 Erstanträge (Woche zum 18.7.), -22.000 ggü. Vorwoche, Erwartung war Anstieg auf ~212.000. Deutet auf robusten US-Arbeitsmarkt trotz geopolitischer Lage hin.",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "global",
       "title": "Trump koppelt Saudi-Atomabkommen an Israel-Normalisierung",
       "date": "2026-07-25",
       "summary": "Nuklearabkommen (unterzeichnet 22.7.) laut Trump 'total davon abhängig', dass Saudi-Arabien den Abraham-Abkommen beitritt; Riad knüpft Normalisierung an Weg zu Palästinenserstaat. Eigener Artikel.",
@@ -2957,13 +2990,6 @@
       "date": "2026-07-25",
       "summary": "VW: Gewinn -32,9% auf 1,54 Mrd. Euro (10. Rückgang in Folge), China-Absatz -1/3, Umsatzprognose gesenkt; Grundkonflikt Sparpaket/Stellenabbau ungelöst. SAP: Cloud-Umsatz +24% auf 6,3 Mrd. Euro, Auftragsbestand +26%, übertrifft Erwartungen trotz leicht gesenkter Gewinnprognose. Eigener Artikel (kombiniert, harte neue Zahlen).",
       "status": "laufend"
-    },
-    {
-      "category": "national",
-      "title": "150 Jahre Bayreuther Festspiele eröffnet",
-      "date": "2026-07-25",
-      "summary": "Themenmix-Artikel (Kultur). Eröffnung mit Beethovens Neunter unter Thielemann, Gäste u.a. Merz, Merkel, Söder, Özdemir, Dobrindt, Bär, Weimer.",
-      "status": "abgeschlossen"
     },
     {
       "category": "lokal",
@@ -3020,14 +3046,6 @@
       "date": "2026-07-25",
       "summary": "Aus Portland stammendes Phänomen (geführte Spaziergänge zum Katzen-Beobachten) verbreitet sich in weitere Städte (Toronto). Nur einfach belegt / überwiegend Lifestyle-Quellen.",
       "status": "neu"
-    },
-    {
-      "category": "song",
-      "title": "Die rote Sonne von Barbados – Die Flippers",
-      "date": "2026-07-25",
-      "summary": "Song des Tages, gewählt aus Lukas' Top-Tracks (Die Flippers, erstmals gewählt). Unbeschwerter Schlager-Party-Song als Kontrapunkt zu Nahost-Eskalation/Ebola-Ausbruch und passend zur Feierlaune des heutigen Libori-Kirmesstarts.",
-      "status": "neu",
-      "quelle": "top-tracks"
     },
     {
       "category": "global",
@@ -10464,6 +10482,593 @@
       "summary": "Song des Tages, aus Lukas' zuletzt gehörten Titeln (nicht in den letzten 14 Tagen vorgeschlagen). Trost- und Segenslied, das zum Tod eines Frühgeborenen in der Paderborner Kinderklinik St. Louise und zum sich beschleunigenden Ebola-Ausbruch im Kongo passt.",
       "status": "neu",
       "quelle": "recently-played"
+    },
+    {
+      "strang_id": "sambia-praesidentschaftswahl-2026",
+      "form": "artikel",
+      "kontrast": true,
+      "category": "global",
+      "title": "Sambia: Gerichte vor Ablauf der Anfechtungsfrist geschlossen, Mundubile offenbar bei UN-Stelle untergetaucht",
+      "date": "2026-08-25",
+      "summary": "Justiz stellt Betrieb vor Fristablauf ein, Mundubile soll aus Sicherheitsgründen bei UN-Einrichtung Zuflucht gesucht haben; ob Klage fristgerecht einging, unklar.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "jemen-huthi-eskalation",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "global",
+      "title": "Huthi-Rebellen greifen erstmals einen saudischen Supertanker im Roten Meer an",
+      "date": "2026-08-25",
+      "summary": "Angriff auf Bahri-Tanker 'Amzan' (rund 2 Mio. Barrel) markiert Ausweitung gegenüber bisherigen Angriffen auf kleinere Schiffe.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "nasa-roman-weltraumteleskop",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "global",
+      "title": "NASA bereitet vorgezogenen Start des Weltraumteleskops „Nancy Grace Roman“ vor",
+      "date": "2026-08-25",
+      "summary": "Start am 30.8. mit Falcon Heavy, neun Monate früher als geplant; Ziel Dunkle Energie und bis zu 100.000 neue Exoplaneten.",
+      "status": "neu"
+    },
+    {
+      "strang_id": "ukraine-krieg",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Ukraine-Krieg: keine neue Eskalationsstufe seit dem Doppelschlag auf Krywyj Rih",
+      "date": "2026-08-25",
+      "summary": "Doppelschlag vom Wochenende bleibt dominante Meldung, seit Sonntag keine neue Eskalationsstufe.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "nahost-iran-spannung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Nahost-Iran-Spannung: keine neue Entwicklung seit Ablauf des Übergangsabkommens",
+      "date": "2026-08-25",
+      "summary": "Seit Ablauf des 60-Tage-Übergangsabkommens am 17.8. keine neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "gaza-friedensplan",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Gaza-Friedensplan bleibt in bekannter Pattsituation",
+      "date": "2026-08-25",
+      "summary": "Seit dem Kushner-Netanyahu-Treffen unverändert.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "israel-gaza-kriegsverbrechen-ermittlungen",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Kriegsverbrechen-Ermittlungen zu Hind Rajab: keine neuen Fakten",
+      "date": "2026-08-25",
+      "summary": "Seit Einleitung am 19.8. keine neuen Fakten.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "sudan-el-obeid-belagerung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Sudan: Belagerung von El-Obeid ohne neue Zuspitzung",
+      "date": "2026-08-25",
+      "summary": "Humanitäre Lage bleibt kritisch, keine neue Zuspitzung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "nordkorea-raketen-trump-kim",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Nordkorea: keine weiteren Raketentests seit 20. August",
+      "date": "2026-08-25",
+      "summary": "Keine weiteren Tests seit der Salve vom 20.8.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "china-wirtschaft-abkuehlung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "China: Konjunkturpaket vom 1. August bleibt aktuellster Stand",
+      "date": "2026-08-25",
+      "summary": "Zinssubventionen seit 1.8. bleiben aktuellster Stand der Reaktion auf die Abkühlung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "usa-brasilien-visastreit",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "USA-Brasilien-Visastreit ohne neue Entwicklung",
+      "date": "2026-08-25",
+      "summary": "Keine neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "hitzewelle-westeuropa",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Hitzewelle Westeuropa hält an, keine neuen Rekorde",
+      "date": "2026-08-25",
+      "summary": "Keine neuen Rekorde.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "amazonas-entwaldung-rekordtief",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Amazonas-Entwaldung verharrt auf Juli-Rekordtief",
+      "date": "2026-08-25",
+      "summary": "Keine neuen Zahlen.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "erdbeben-indonesien-flores",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Erdbeben Flores: Totenzahl weiter bei mindestens 68",
+      "date": "2026-08-25",
+      "summary": "Keine neuere Zahl.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "meta-kindersicherheit-prozess",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Kindersicherheitsprozess gegen Meta: Zeugenaussagen dauern an",
+      "date": "2026-08-25",
+      "summary": "Ex-Manager sagte aus, Zuckerberg habe Wachstum über Kindersicherheit gestellt.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "evergrande-hui-ka-yan-urteil",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Evergrande-Urteil gilt endgültig als juristischer Schlusspunkt",
+      "date": "2026-08-25",
+      "summary": "Urteil vom 20.8. (lebenslange Haft) gilt als endgültiger Abschluss, keine Berufung bekannt.",
+      "status": "abgeschlossen"
+    },
+    {
+      "strang_id": "ebola-kongo-ausbruch",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Ebola Kongo verharrt bei WHO-Stand vom 20. August",
+      "date": "2026-08-25",
+      "summary": "5.290 Fälle, 2.516 Tote laut WHO, Stand 20.8.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "nvidia-ki-infrastruktur-finanzierung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Broadcom-Anthropic-Finanzierung wächst laut Bloomberg auf bis zu 100 Mrd. Dollar",
+      "date": "2026-08-25",
+      "summary": "Fremdkapitalpaket wächst laut Bloomberg auf bis zu 100 Mrd. Dollar.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "mali-africa-corps-massaker",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Mali/Africa-Corps-Massaker: keine neue Entwicklung seit HRW-Bericht",
+      "date": "2026-08-25",
+      "summary": "Keine neue Entwicklung seit HRW-Bericht vom 20.8.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "jackson-hole-fed-warsh-rede",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Jackson-Hole-Rede von Fed-Chef Warsh erst am Freitag",
+      "date": "2026-08-25",
+      "summary": "Grundsatzrede erst am 28.8., bislang nur Vorschau-Berichterstattung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "merz-kabinettsklausur-neuhardenberg",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "national",
+      "title": "Merz stellt Wirtschaftspolitik ins Zentrum der Kabinettsklausur in Neuhardenberg",
+      "date": "2026-08-25",
+      "summary": "Zweitägige Klausur mit Fokus Wirtschaft/Beschäftigung, Gäste u.a. Siemens- und Cohere-Chef; keine Beschlüsse geplant.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "pflegeversicherung-defizit-2027",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "national",
+      "title": "AOK warnt vor Acht-Milliarden-Loch in der Pflegeversicherung ab 2027",
+      "date": "2026-08-25",
+      "summary": "AOK-Chefin Reimann warnt vor 8-Mrd.-Defizit ab 2027, fordert Finanzausgleich und Steuerfinanzierung.",
+      "status": "neu"
+    },
+    {
+      "strang_id": "waldbrand-hohes-venn-monschau",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "national",
+      "title": "Waldbrand Hohes Venn: Rückfallgefahr durch Wind trotz vorläufiger Eindämmung",
+      "date": "2026-08-25",
+      "summary": "Front zur deutschen Grenze eingedämmt, aber Glutnester bleiben, Windwarnung für heute.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "rentenstreit-koalition",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Rentenstreit: keine neue Bewegung",
+      "date": "2026-08-25",
+      "summary": "Seit Signalisierung der Härtefallregelung am Wochenende keine neue Bewegung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "autoindustrie-gewinneinbruch",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Autoindustrie: Beschäftigung bleibt auf tiefstem Stand seit 2005",
+      "date": "2026-08-25",
+      "summary": "Destatis-Zahl bleibt aktuellster Stand.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "merz-umfragetief-afd-vorsprung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "AfD-Umfragehoch hält unverändert an",
+      "date": "2026-08-25",
+      "summary": "Rund acht Punkte Vorsprung vor der Union laut jüngsten Erhebungen.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "anti-afd-demonstrationen-bundesweit",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Bundesweite Anti-AfD-Demonstrationen laufen unverändert weiter",
+      "date": "2026-08-25",
+      "summary": "Laufen vor den Landtagswahlen im September unverändert weiter.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "antisemitismus-bericht-deutschland",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Antisemitismus-Bericht: keine neuen Zahlen",
+      "date": "2026-08-25",
+      "summary": "Keine neuen Zahlen seit dem Bericht zur weltweit höchsten Pro-Kopf-Rate.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "sap-siemens-marktkapitalisierung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Siemens bleibt knapp vor SAP wertvollster DAX-Konzern",
+      "date": "2026-08-25",
+      "summary": "Keine neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "rhein-niedrigwasser",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Rhein-Pegel bei Kaub verharrt auf Rekordtief",
+      "date": "2026-08-25",
+      "summary": "Keine neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "nordstream-sabotage-festnahme-kroatien",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Nord-Stream-Verdächtiger legt Rechtsmittel gegen Auslieferung ein",
+      "date": "2026-08-25",
+      "summary": "Verfahren muss binnen 60 Tagen abgeschlossen sein.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "badenberg-plagiatsvorwuerfe-berlin",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Plagiatsvorwürfe gegen Badenberg: Prüfung dauert an",
+      "date": "2026-08-25",
+      "summary": "Uni-Köln-Prüfung dauert an, Ergebnis vor der Wahl am 20.9. unwahrscheinlich.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "steinmeier-nachfolge",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Steinmeier-Nachfolge: weiterhin keine Einigung",
+      "date": "2026-08-25",
+      "summary": "Keine Einigung auf gemeinsame Kandidatur.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "geheimdienstreform-bnd-verfassungsschutz",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Geheimdienstreform bleibt beim Kabinettsbeschluss vom 12.8.",
+      "date": "2026-08-25",
+      "summary": "Keine neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "fruehstartrente-bafoegreform",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Frühstart-Rente/BAföG-Reform: keine neue Entwicklung",
+      "date": "2026-08-25",
+      "summary": "Kabinettsbeschluss vom 12.8. bleibt Stand.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "waldbrand-rodenbach-brandstiftung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Waldbrand Rodenbach: weiterhin kein Tatverdächtiger",
+      "date": "2026-08-25",
+      "summary": "Keine neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "tarifverhandlung-einzelhandel-mitteldeutschland",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Tarifrunde Einzelhandel verlagert sich nach NRW",
+      "date": "2026-08-25",
+      "summary": "Fünfte Runde in Hessen ergebnislos, NRW-Runde morgen.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "solarausbau-ziel-2026-erreicht",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Solarausbauziel 2026 erreicht, Branche warnt vor Ausbauknick",
+      "date": "2026-08-25",
+      "summary": "Branche warnt weiter vor Einbruch ab 2027.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "deutsche-bank-energiehandel-comeback",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Deutsche Bank baut Energiehandel weiter aus",
+      "date": "2026-08-25",
+      "summary": "Weitere Neueinstellungen.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "leipzig-halle-drohne",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Leipzig/Halle-Drohnenfall: weiterhin keine neue Ermittlungssubstanz",
+      "date": "2026-08-25",
+      "summary": "Keine neue Ermittlungssubstanz.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "fruehchen-infektion-st-louise-paderborn",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Frühchen-Tod in Paderborner Klinik: kein Ermittlungsverfahren gegen Klinik, Suche nach Infektionsquelle läuft weiter",
+      "date": "2026-08-25",
+      "summary": "Kein Verfahren wegen fahrlässiger Tötung, nur Todesermittlungsverfahren; Sepsis durch Enterobacter bei vier Kindern, Infektionsquelle ungeklärt.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "sc-paderborn-pokal-bundesliga-2026",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "SC Paderborn zieht mit 4:2 in Lübeck ins DFB-Pokal-Achtelfinale ein",
+      "date": "2026-08-25",
+      "summary": "4:2-Sieg bei Regionalligist Phönix Lübeck, letzter Härtetest vor der Bundesliga-Rückkehr am 29.8. gegen Mainz 05.",
+      "status": "neu"
+    },
+    {
+      "strang_id": "pferderipper-serie-owl",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Pferderipper-Serie: Ermittlungsgruppe „Pferd“ weiterhin ohne Durchbruch",
+      "date": "2026-08-25",
+      "summary": "Keine Festnahme, Spur zu weißem Ford Transit und möglichem Mai-Fall wird weiterverfolgt, Streifentätigkeit ausgeweitet.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "warsteiner-haus-cramer",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Warsteiner/Haus Cramer ohne neue Entwicklung",
+      "date": "2026-08-25",
+      "summary": "Keine neue Entwicklung seit den Kaufinteressenten vom Wochenende.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "weser-niedrigwasser-hoexter",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Weser bei Höxter bleibt auf Erholungskurs, Entnahmeverbot bleibt",
+      "date": "2026-08-25",
+      "summary": "Entnahmeverbot gilt weiterhin für vier Kreise.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "domfestspiele-paderborn-2026",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Domfestspiele Paderborn starten Donnerstag",
+      "date": "2026-08-25",
+      "summary": "Start mit Comedy „Caveman“, danach Tribute-Shows.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "erzbistum-paderborn-missbrauch-ruecklage",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Erzbistum Paderborn: Zivilklagen weiterhin nicht bestätigt",
+      "date": "2026-08-25",
+      "summary": "Eingang angekündigter Klagen weiterhin nicht bestätigt.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "fahrbahnsanierung-b1-b64-paderborn",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Fahrbahnsanierung B1/B64 Paderborn läuft planmäßig",
+      "date": "2026-08-25",
+      "summary": "Läuft planmäßig bis in den September.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "kreisstrasse-dalheim-sperrung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Vollsperrung Kreisstraße Dalheim läuft planmäßig",
+      "date": "2026-08-25",
+      "summary": "Läuft planmäßig bis 1.9.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "bielefelder-shortcut-gruendung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "„Bielefelder Shortcut“: weiterhin kein bestätigtes Startdatum",
+      "date": "2026-08-25",
+      "summary": "Start weiterhin für Ende August angekündigt, kein Datum bestätigt.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "fahrerflucht-b64-delbrueck",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Fahrerflucht B64 Delbrück: Tatverdächtiger weiterhin flüchtig",
+      "date": "2026-08-25",
+      "summary": "Tatverdächtiger weiterhin flüchtig.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "messerangriff-salitos-beach-paderborn",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Messerangriff Lippesee: Verdächtiger weiterhin unauffindbar",
+      "date": "2026-08-25",
+      "summary": "Verdächtiger aus Köln seit Razzien vom 19.8. unauffindbar.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "benteler-windpark-lichtenau",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Benteler-Windpark Lichtenau: keine neue Entwicklung",
+      "date": "2026-08-25",
+      "summary": "Keine neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "autohaeuser-fusion-bad-driburg",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Autohäuser-Fusion Bad Driburg: keine neue Entwicklung",
+      "date": "2026-08-25",
+      "summary": "Keine neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "waldbrandgefahr-owl",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Waldbrandgefahr OWL bleibt entspannt",
+      "date": "2026-08-25",
+      "summary": "Seit den Regenfällen entspannt.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "kanter-freedom-wnba-natasha-cloud",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "social",
+      "title": "Enes Kanter Freedom bei WNBA-Spiel nach Konfrontation mit Natasha Cloud vom Feld eskortiert",
+      "date": "2026-08-25",
+      "summary": "T-Shirt-Statement zur Trans-Debatte im Frauensport, Konfrontation mit Cloud, von Security eskortiert; mehrfach bestätigt.",
+      "status": "neu"
+    },
+    {
+      "strang_id": "chattjb-fake-ai-chatbot",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "social",
+      "title": "„ChatTJB“: Fake-KI-Chatbot, der in Wahrheit von einem Menschen beantwortet wird, bleibt viral",
+      "date": "2026-08-25",
+      "summary": "Künstler Tucker Bryant beantwortet ChatGPT-Klon persönlich per Hand, Billboard-Stunt seit Ende Juli viral.",
+      "status": "neu"
+    },
+    {
+      "strang_id": "nostalgie-trend-2016-2026",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "social",
+      "title": "„2026 is the new 2016“: Nostalgie-Welle bleibt Gegenbewegung zu algorithmischem Feed-Content",
+      "date": "2026-08-25",
+      "summary": "Seit Jahresbeginn laufender Trend bleibt aktiv, gedeutet als Absage an KI-durchsetzten Feed-Content; nach zwei Wochen wieder aufgegriffen.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Burn Bright – The Heavy",
+      "date": "2026-08-25",
+      "summary": "Song des Tages, aus Lukas' aktuellen Top-Tracks (nicht in den letzten 14 Tagen vorgeschlagen). Passt zum vorgezogenen Start des NASA-Weltraumteleskops Roman als optimistischer Kontrapunkt zu den schwereren Meldungen des Tages.",
+      "status": "neu"
     }
   ]
 }
