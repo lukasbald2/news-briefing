@@ -18,12 +18,14 @@ import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 ARCHIV = ROOT / "data" / "archiv.jsonl"
+THEMEN = ROOT / "data" / "themen.json"
 VORLAGE = ROOT / "tools" / "uebersicht_vorlage.html"
 ZIEL = ROOT / "uebersicht.html"
 
 KAT = ["global", "national", "lokal", "social"]
-MIN_MELDUNGEN = 4      # ab wie vielen Meldungen ein Strang in die Heatmap kommt
+MIN_MELDUNGEN = 4      # ab wie vielen Meldungen ein Strang eine eigene Flaeche bekommt
 REIF_AB_TAGEN = 42     # ab wann der Vorbehalt zur Strang-Tiefe entfaellt
+FENSTER = 7            # Tage im rollenden Fenster (Themenanteile und Strang-Flaechen)
 
 MONAT = ["", "Januar", "Februar", "Maerz", "April", "Mai", "Juni", "Juli",
          "August", "September", "Oktober", "November", "Dezember"]
@@ -67,10 +69,10 @@ def main():
     zahl = collections.Counter((r["date"], r["category"]) for r in rows)
     verlauf = [{"d": t, "v": [zahl.get((t, k), 0) for k in KAT]} for t in tage]
 
-    # --- Heatmap: nur Zeilen mit Strang-Kennung ---------------------------
+    # --- Strang-Flaechen: nur Zeilen mit Strang-Kennung ---------------------------
     sr = [r for r in rows if r.get("strang_id")]
     if not sr:
-        sys.exit("Abbruch: keine Zeile mit strang_id -- Heatmap waere leer.")
+        sys.exit("Abbruch: keine Zeile mit strang_id -- Strang-Flaechen waeren leer.")
     htage_vorhanden = sorted({r["date"] for r in sr})
     h0 = datetime.date.fromisoformat(htage_vorhanden[0])
     htage = [(h0 + datetime.timedelta(i)).isoformat() for i in range((d1 - h0).days + 1)]
@@ -88,7 +90,10 @@ def main():
         zelle[s] = max(zelle[s], rang.get(r.get("form"), 1))
 
     gewaehlt = [s for s, n in anzahl.items() if n >= MIN_MELDUNGEN]
-    gewaehlt.sort(key=lambda s: (KAT.index(kategorie[s]) if kategorie[s] in KAT else 9, -anzahl[s]))
+    # Rein nach Haeufigkeit, NICHT nach Kategorie gruppiert: die Frage der Seite
+    # ist "welcher Strang bekam am meisten Aufmerksamkeit", nicht "welche Ebene".
+    # Die ID entscheidet Gleichstaende, damit die Reihenfolge reproduzierbar ist.
+    gewaehlt.sort(key=lambda s: (-anzahl[s], s))
     heat = [{"id": s, "k": kategorie[s], "t": titel[s][:78], "n": anzahl[s],
              "c": [zelle.get((s, t), 0) for t in htage]} for s in gewaehlt]
 
@@ -100,8 +105,85 @@ def main():
         "von": hat[0], "luecke": luecken,
     }
 
+    # --- Themen: quer zu den Ebenen, ueber den GESAMTEN Zeitraum ----------
+    # Ein Strang traegt sein Thema aus themen.json. Meldungen ohne Strang
+    # (Juli-Nachtrag) tragen es als Feld 'thema' in der Zeile selbst.
+    # 'sammel' sind alte Sammeleintraege mit mehreren Themen in einer Zeile --
+    # sie lassen sich keinem Thema zuordnen und zaehlen deshalb nirgends mit.
+    if not THEMEN.exists():
+        sys.exit("Abbruch: %s fehlt." % THEMEN)
+    tj = json.loads(THEMEN.read_text(encoding="utf-8"))
+    zuordnung, feinnamen = tj["straenge"], tj["namen"]
+    gruppen, gruppe_von = tj["gruppen"], tj["gruppe_von"]
+
+    def fein_von(r):
+        s = r.get("strang_id")
+        return zuordnung.get(s) if s else r.get("thema")
+
+    def thema_von(r):
+        f = fein_von(r)
+        return gruppe_von.get(f) if f and f != "sammel" else None
+
+    unbekannt = sorted({f for f in (fein_von(r) for r in rows)
+                        if f and f != "sammel" and f not in gruppe_von})
+    if unbekannt:
+        sys.exit("Abbruch: unbekannte Feinthemen in den Daten: %s" % ", ".join(unbekannt))
+    treihe, tnamen = list(gruppen), gruppen
+
+    tzahl = collections.Counter()
+    ohne_thema = 0
+    for r in rows:
+        t = thema_von(r)
+        if t:
+            tzahl[(r["date"], t)] += 1
+        else:
+            ohne_thema += 1
+
+    tagessumme = [sum(tzahl.get((t, k), 0) for k in treihe) for t in tage]
+
+    def rollend(werte, i):
+        return sum(werte[max(0, i - FENSTER + 1): i + 1])
+
+    serie = {}
+    for k in treihe:
+        roh = [tzahl.get((t, k), 0) for t in tage]
+        anteile = []
+        for i in range(len(tage)):
+            nenner = rollend(tagessumme, i)
+            anteile.append(round(100.0 * rollend(roh, i) / nenner, 2) if nenner else None)
+        serie[k] = anteile
+
+    gesamt = {k: sum(tzahl.get((t, k), 0) for t in tage) for k in treihe}
+    summe = sum(gesamt.values()) or 1
+    # Verschiebung: Anteil in der zweiten gegen die erste Haelfte, in Prozentpunkten
+    mitte = len(tage) // 2
+    def anteil(k, ts):
+        n = sum(tzahl.get((t, kk), 0) for t in ts for kk in treihe) or 1
+        return 100.0 * sum(tzahl.get((t, k), 0) for t in ts) / n
+    verschiebung = {k: round(anteil(k, tage[mitte:]) - anteil(k, tage[:mitte]), 1) for k in treihe}
+
+    themen = {
+        "reihenfolge": sorted(treihe, key=lambda k: -gesamt[k]),
+        "namen": tnamen,
+        "kurz": tj["kurz"],
+        "gesamt": gesamt,
+        "anteil": {k: round(100.0 * gesamt[k] / summe, 1) for k in treihe},
+        "verschiebung": verschiebung,
+        "serie": serie,
+        "ohne": ohne_thema,
+        "fenster": FENSTER,
+    }
+
+    # Jede Strang-Zeile traegt ihre Themengruppe: nur so laesst sich die
+    # Strang-Ansicht als Aufklappen des Themenstapels lesen.
+    for h in heat:
+        h["g"] = gruppe_von.get(zuordnung.get(h["id"]))
+    fehlend = [h["id"] for h in heat if not h["g"]]
+    if fehlend:
+        sys.exit("Abbruch: Straenge ohne Thema in themen.json: %s" % ", ".join(fehlend))
+
     daten = {"tage": tage, "kat": KAT, "verlauf": verlauf,
-             "htage": htage, "heat": heat, "stat": stat}
+             "htage": htage, "heat": heat, "stat": stat, "themen": themen}
 
     # --- Texte, die sich mit den Daten mitbewegen -------------------------
     eyebrow = "T&auml;glich aktualisiert &middot; Datenstand %s" % tag(hat[-1])
@@ -109,18 +191,18 @@ def main():
     strangtage = len(htage)
     if strangtage < REIF_AB_TAGEN:
         reife = (
-            '    <p>Der Kategorie-Verlauf reicht &uuml;ber <strong>%d Tage</strong> und tr&auml;gt. '
-            'Die Strang-Heatmap beginnt erst am <strong>%s</strong>, weil Themenstr&auml;nge davor keine '
-            'feste Kennung hatten &mdash; <strong>%d Tage sind noch zu wenig f&uuml;r Aussagen &uuml;ber '
-            'Verschiebungen</strong>. Sie zeigt bis auf Weiteres die Form, nicht den Befund.</p>'
-            % (len(hat), tag(htage[0]), strangtage)
+            '    <p>Die Strang-Fl&auml;chen beginnen erst am <strong>%s</strong>, weil Themenstr&auml;nge '
+            'davor keine feste Kennung hatten &mdash; <strong>%d Tage sind noch zu wenig f&uuml;r Aussagen '
+            '&uuml;ber Verschiebungen</strong>. Sie zeigen bis auf Weiteres die Form, nicht den Befund. '
+            'Der Mengenverlauf darunter reicht &uuml;ber <strong>%d Tage</strong> und tr&auml;gt.</p>'
+            % (tag(htage[0]), strangtage, len(hat))
         )
     else:
         reife = (
-            '    <p>Der Kategorie-Verlauf reicht &uuml;ber <strong>%d Tage</strong>, die Strang-Heatmap '
-            '&uuml;ber <strong>%d Tage</strong> seit dem %s. Beide Zeitr&auml;ume sind lang genug, um '
+            '    <p>Die Strang-Fl&auml;chen reichen &uuml;ber <strong>%d Tage</strong> seit dem %s, der '
+            'Mengenverlauf &uuml;ber <strong>%d Tage</strong>. Beide Zeitr&auml;ume sind lang genug, um '
             'Verschiebungen zu zeigen &mdash; einzelne Ausschl&auml;ge bleiben trotzdem Einzelf&auml;lle.</p>'
-            % (len(hat), strangtage, tag(htage[0]))
+            % (strangtage, tag(htage[0]), len(hat))
         )
 
     if not luecken:
@@ -154,8 +236,11 @@ def main():
     print("  %d Meldungen, %s bis %s, %d Tage%s"
           % (len(rows), hat[0], hat[-1], len(hat),
              ", %d Luecke(n)" % len(luecken) if luecken else ""))
-    print("  Heatmap: %d von %d Straengen (ab %d Meldungen), %d Tage ab %s"
+    print("  Straenge: %d von %d (ab %d Meldungen), %d Tage ab %s"
           % (len(heat), len(anzahl), MIN_MELDUNGEN, strangtage, htage[0]))
+    print("  Themen: %d ueber %d Tage, %d Meldungen ohne Thema (Sammeleintraege)"
+          % (len(treihe), len(tage), ohne_thema))
+    print("  Themengruppen: %s" % ", ".join("%s %.1f%%" % (k, themen["anteil"][k]) for k in themen["reihenfolge"]))
 
 
 if __name__ == "__main__":
