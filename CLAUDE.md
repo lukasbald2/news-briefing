@@ -11,8 +11,14 @@ automatisch das „pages build and deployment" aus.
 ```
 git add -A
 git commit -m "Briefing $(date +%F)"
-git push origin main
+git push origin HEAD:main
 ```
+
+**`HEAD:main`, nicht `main`:** Die Cloud-Sandbox klont in einen detached HEAD,
+waehrend der lokale Branch `main` auf einem aelteren Stand stehenbleibt. Ein
+einfaches `git push origin main` schiebt dann diesen alten Stand und scheitert
+mit „non-fast-forward“ — obwohl inhaltlich nichts kollidiert. Am 2026-08-27 ist
+genau das dreimal passiert.
 
 Der Nutzer (lukasbald) hat am 2026-07-04 **ausdrücklich freigegeben**, direkt
 auf `main` zu pushen. **Keine `claude/`-Feature-Branches und kein Auto-Merge-
@@ -305,10 +311,82 @@ nicht rekonstruieren. Jede Auswertung auf diesen Feldern beginnt deshalb am
 Grundlage fuer eine spaetere Uebersichtsdarstellung. Beachten: die Daten
 zeigen die Aufmerksamkeit DIESES Berichts, nicht die der Medien allgemein.
 
+## Themen `data/themen.json` (eingefuehrt 2026-08-27) - WICHTIG
+
+Quer zu den vier Ebenen (global/national/lokal/social) liegt eine zweite
+Achse: das Thema. Hitzewelle in Europa, Rhein-Niedrigwasser und das
+Entnahmeverbot im Kreis Paderborn standen in drei verschiedenen Sektionen des
+Berichts und gehoeren zu EINEM Thema. Die Ebenen-Achse kann das nicht zeigen.
+
+Die Datei hat zwei Ebenen:
+
+- `namen` — elf FEINTHEMEN, das geschlossene Vokabular: `krieg`, `klima`,
+  `politik`, `justiz`, `wirtschaft`, `netzkultur`, `ki`, `infrastruktur`,
+  `kultur`, `katastrophen`, `wissenschaft`
+- `straenge` — die Zuordnung `strang-id` -> Feinthema, alphabetisch sortiert
+- `gruppen`, `gruppe_von`, `kurz` — fassen die elf zu neun Flaechen fuer die
+  Darstellung zusammen
+
+**Zwei Regeln, die nicht verhandelbar sind:**
+
+1. **Jeder Strang muss drinstehen.** Der Tageslauf traegt jeden NEU angelegten
+   Strang in Schritt 7a ein. Fehlt einer, bricht `tools/uebersicht.py` mit
+   "Straenge ohne Thema in themen.json" ab und die Uebersichtsseite friert auf
+   dem Vortag ein.
+2. **Eine bestehende Zuordnung wird NIE geaendert.** Auch nicht, wenn heute ein
+   anderes Thema besser passen wuerde. Sonst verschieben sich rueckwirkend alle
+   Auswertungen, und derselbe Zeitraum sieht morgen anders aus als heute —
+   dieselbe Ueberlegung wie bei `erstmals_am`.
+
+**Warum eine Gruppenebene?** Wieviele Flaechen die Seite zeigt, ist eine Frage
+der Lesbarkeit, keine der Daten. Neun statt elf zu zeigen kostet eine Zeile in
+`gruppe_von` und keinen Eingriff ins Archiv. Der Tageslauf fasst `gruppen`,
+`gruppe_von` und `kurz` NICHT an.
+
+**Wo das Thema herkommt:** Bei Meldungen MIT `strang_id` aus `data/themen.json`
+ueber den Strang. Die 542 Juli-Meldungen ohne Strang-Kennung tragen ihr
+Feinthema stattdessen als Feld `thema` direkt in `data/archiv.jsonl` —
+nachgetragen am 2026-08-27, damit der Themenverlauf ueber die vollen Tage reicht
+statt nur ueber die Strang-Aera. Neue Zeilen bekommen KEIN Feld `thema`;
+doppelte Wahrheit fuer denselben Strang waere ein Fehler.
+
+**53 Zeilen bleiben ohne Thema:** alte Sammeleintraege ("Weitere laufende
+nationale Straenge"), die mehrere Themen in einer Zeile buendeln. Sie zaehlen
+nirgends mit. Beim Nachtragen wurde der Sammel-Fall zuerst falsch auch am
+Zusammenfassungstext erkannt — "Nur Hinweisblock, Fortschreibung" steht aber
+auch in echten Einzelmeldungen, wodurch 84 statt 53 Zeilen aussortiert worden
+waeren, der Ukraine-Krieg darunter. Erkennung deshalb NUR am Titelanfang.
+
 ## Uebersichtsseite `uebersicht.html` (eingefuehrt 2026-08-22) - WICHTIG
 
-Eine Auswertung ueber alle bisherigen Berichte: Kategorie-Verlauf und eine
-Heatmap der Themenstraenge. Datenquelle ist `data/archiv.jsonl`.
+Eine Auswertung ueber alle bisherigen Berichte, in drei Sichten: ein
+gestapelter Themenverlauf (Anteile, nicht absolute Zahlen), darunter eine
+Flaeche je Themenstrang, ganz unten der Mengenverlauf nach Ebene. Datenquellen
+sind `data/archiv.jsonl` und `data/themen.json`.
+
+**Der Themenstapel ist der Kern.** Ein Klick auf eine Flaeche filtert die
+Strang-Ansicht darunter auf dieses Thema und springt hin — die Straenge lesen
+sich als Aufklappen des Stapels. Deshalb sind die Strangzeilen nach THEMA
+eingefaerbt, nicht nach Ebene; die Ebene steht im Tooltip und in der Tabelle.
+
+**Anteile statt Zahlen:** Der Bericht ist von zwoelf auf rund fuenfzig Meldungen
+taeglich gewachsen. In absoluten Zahlen "steigt" deshalb fast jedes Thema
+gleichzeitig — gemessen wird dann die Berichtslaenge, nicht die Aufmerksamkeit.
+Der Stapel ist auf 100 % normiert, geglaettet ueber sieben Tage.
+
+**Neun Farben:** `--t1` bis `--t9` in der Vorlage sind nicht geraten, sondern
+gesucht: benachbarte Baender haben in beiden Modi mindestens Delta-E 13 bei
+Rot-Gruen-Schwaeche (Boden 6) und 19 bei Normalsicht (Boden 15). Zusaetzlich
+traegt jedes Band eine eigene Beschriftung — Identitaet haengt nie allein an
+der Farbe. Wer die Farben aendert, muss neu pruefen.
+
+**Zwei Zeitraeume, ein Bruch:** Der Themenstapel reicht ueber alle Tage seit dem
+3. Juli, die Strang-Flaechen erst ab dem 5. August — vorher gab es keine
+Strang-Kennungen. Das Aufklappen springt also in einen kuerzeren Zeitraum. Der
+Versatz von 33 Tagen bleibt konstant, sein Gewicht schrumpft: Ende 2026 deckt
+die Strang-Sicht rund 82 % des Stapels ab. Nicht rueckwirkend fuellen — eine
+Strang-Kennung sagt aus, dass der Bericht die Geschichte damals verfolgt hat,
+und das hat er im Juli nicht getan.
 
 **Die Seite wird NIE von Hand geschrieben.** Sie entsteht ausschliesslich aus
 `tools/uebersicht.py`, das die Vorlage `tools/uebersicht_vorlage.html` mit
