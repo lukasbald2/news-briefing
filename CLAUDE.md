@@ -189,7 +189,7 @@ deckungsgleich, die Meldung mit den deutlichsten Unterschieden. An drei
 aufeinanderfolgenden Tagen möglichst drei verschiedene Stränge — dafür wird im
 `memory.json`-Eintrag des Strangs der Zusatz „mit Quellen-Kontrast" vermerkt.
 
-**Was archiviert wird:** Seit dem 2026-08-26 landen die drei verglichenen
+**Was archiviert wird:** Seit dem 2026-08-28 landen die drei verglichenen
 Medien und der Einordnungssatz als `kontrast_medien` und `kontrast_unterschied`
 in `data/archiv.jsonl`. Vorher hielt das Archiv nur ein `kontrast: true` fest —
 man wusste, *dass* verglichen wurde, aber nicht *wen mit wem*. Genau diese
@@ -248,7 +248,7 @@ Herkunftsangabe. Genau das ist in der Ausgabe vom 16.08.2026 passiert.
 
 Gilt für beide Komponenten des Abschnitts.
 
-**Archivierung in `data/blindeflecken.jsonl` (eingeführt 2026-08-26).** Jeder
+**Archivierung in `data/blindeflecken.jsonl` (eingeführt 2026-08-27, erste Zeilen mit der Wochenausgabe am 2026-08-30).** Jeder
 Fund wird zusätzlich als eigene Zeile archiviert:
 
 ```
@@ -276,7 +276,7 @@ geloescht**. Der taegliche Lauf schreibt sie in Schritt 7b fort.
 Eine Zeile je Meldung:
 `{"date","category","strang_id","form","kontrast","status","title","summary","medien","quelle"}`
 
-**Medienfelder (eingefuehrt 2026-08-26).** `medien` ist die Liste der
+**Medienfelder (eingefuehrt 2026-08-27, erste Zeilen ab dem Lauf vom 2026-08-28).** `medien` ist die Liste der
 Nachrichtenmedien, auf die sich die Meldung stuetzt - dieselben, die im Bericht
 sichtbar als Quelle stehen, nur Namen, keine URLs. Ist keine Quelle zuzuordnen:
 leere Liste, nicht raten. Die EINE Zeile mit `kontrast: true` traegt zusaetzlich
@@ -288,10 +288,10 @@ Zeilen fehlen diese beiden Felder.
 Nachrichtenmedien, `quelle` (Einzahl) ist die Herkunft der ZEILE. Die Namen
 liegen unangenehm nah beieinander - beim Auswerten darauf achten.
 
-Zeilen von vor dem 2026-08-26 haben keines der drei Felder. Sie werden NICHT
+Zeilen von vor dem 2026-08-28 haben keines der drei Felder. Sie werden NICHT
 nachtraeglich ergaenzt: Welche Medien eine Meldung damals stuetzten, laesst sich
 nicht rekonstruieren. Jede Auswertung auf diesen Feldern beginnt deshalb am
-2026-08-26, nicht frueher.
+2026-08-28, nicht frueher.
 
 - `quelle` unterscheidet die Herkunft: `lauf` (regulaerer Lauf),
   `memory-seed` (Erstbefuellung aus memory.json am 2026-08-22),
