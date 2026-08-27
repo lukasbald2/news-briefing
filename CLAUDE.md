@@ -189,6 +189,12 @@ deckungsgleich, die Meldung mit den deutlichsten Unterschieden. An drei
 aufeinanderfolgenden Tagen möglichst drei verschiedene Stränge — dafür wird im
 `memory.json`-Eintrag des Strangs der Zusatz „mit Quellen-Kontrast" vermerkt.
 
+**Was archiviert wird:** Seit dem 2026-08-26 landen die drei verglichenen
+Medien und der Einordnungssatz als `kontrast_medien` und `kontrast_unterschied`
+in `data/archiv.jsonl`. Vorher hielt das Archiv nur ein `kontrast: true` fest —
+man wusste, *dass* verglichen wurde, aber nicht *wen mit wem*. Genau diese
+Angaben sind die Grundlage fuer spaetere Auswertungen zur Medienauswahl.
+
 ## Blinde Flecken (Wochenausgabe, eingeführt 2026-08-13) — WICHTIG
 
 Nur in der Sonntags-Wochenausgabe: ein eigener Abschnitt
@@ -242,6 +248,24 @@ Herkunftsangabe. Genau das ist in der Ausgabe vom 16.08.2026 passiert.
 
 Gilt für beide Komponenten des Abschnitts.
 
+**Archivierung in `data/blindeflecken.jsonl` (eingeführt 2026-08-26).** Jeder
+Fund wird zusätzlich als eigene Zeile archiviert:
+
+```
+{"date","typ","titel","strang_id","medien","begruendung"}
+```
+
+- `typ` ist `"fallengelassen"` (Komponente A) oder `"ausserhalb"` (Komponente B)
+- `strang_id` nur bei A, bei B `null`; `medien` nur bei B, bei A leere Liste
+- keine Funde in einer Komponente → keine Zeile; eine leere Komponente A
+  erzeugt nichts
+- Dauerarchiv wie `archiv.jsonl`: **wird nie gelöscht**, Idempotenz über
+  Entfernen der Zeilen mit heutigem `date` vor dem Neuschreiben
+
+**Warum eine eigene Datei:** Blinde Flecken sind keine Meldungen. Lägen sie in
+`archiv.jsonl`, verfälschten sie die Kennzahl „Meldungen erfasst" auf der
+Übersichtsseite — die Seite zählt dort schlicht die Zeilen.
+
 ## Dauerarchiv `data/archiv.jsonl` (eingefuehrt 2026-08-19) - WICHTIG
 
 `memory.json` ist ein **rollierender Arbeitsspeicher**: Eintraege aelter als
@@ -250,7 +274,24 @@ Gilt für beide Komponenten des Abschnitts.
 geloescht**. Der taegliche Lauf schreibt sie in Schritt 7b fort.
 
 Eine Zeile je Meldung:
-`{"date","category","strang_id","form","kontrast","status","title","summary","quelle"}`
+`{"date","category","strang_id","form","kontrast","status","title","summary","medien","quelle"}`
+
+**Medienfelder (eingefuehrt 2026-08-26).** `medien` ist die Liste der
+Nachrichtenmedien, auf die sich die Meldung stuetzt - dieselben, die im Bericht
+sichtbar als Quelle stehen, nur Namen, keine URLs. Ist keine Quelle zuzuordnen:
+leere Liste, nicht raten. Die EINE Zeile mit `kontrast: true` traegt zusaetzlich
+`kontrast_medien` (die drei verglichenen Medien in der Reihenfolge des Blocks)
+und `kontrast_unterschied` (den Einordnungssatz woertlich); bei allen anderen
+Zeilen fehlen diese beiden Felder.
+
+**`medien` und `quelle` nicht verwechseln.** `medien` (Mehrzahl) sind die
+Nachrichtenmedien, `quelle` (Einzahl) ist die Herkunft der ZEILE. Die Namen
+liegen unangenehm nah beieinander - beim Auswerten darauf achten.
+
+Zeilen von vor dem 2026-08-26 haben keines der drei Felder. Sie werden NICHT
+nachtraeglich ergaenzt: Welche Medien eine Meldung damals stuetzten, laesst sich
+nicht rekonstruieren. Jede Auswertung auf diesen Feldern beginnt deshalb am
+2026-08-26, nicht frueher.
 
 - `quelle` unterscheidet die Herkunft: `lauf` (regulaerer Lauf),
   `memory-seed` (Erstbefuellung aus memory.json am 2026-08-22),
