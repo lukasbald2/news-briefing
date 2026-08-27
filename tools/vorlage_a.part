@@ -1,0 +1,375 @@
+<meta charset="UTF-8">
+<title>News-Briefing aus der Flughöhe</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,500;0,6..72,600;1,6..72,400&display=swap">
+
+<style>
+:root {
+  color-scheme: light;
+  --ground:      #eef0f2;
+  --surface:     #fafbfc;
+  --surface-2:   #f1f3f5;
+  --line:        #d9dde1;
+  --line-soft:   #e6e9ec;
+  --ink:         #14171a;
+  --ink-2:       #4e555c;
+  --ink-3:       #757d85;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100;
+  --t1: #bb565b;
+  --t2: #16b1cc;
+  --t3: #8e7a00;
+  --t4: #a65b9c;
+  --t5: #88ad4e;
+  --t6: #467ac6;
+  --t7: #de854e;
+  --t8: #a18ee8;
+  --t9: #0e8d81;
+  --focus: #2a78d6;
+  --shadow: 0 1px 2px rgba(20,23,26,.06), 0 6px 20px -12px rgba(20,23,26,.18);
+  --fill-op: .45;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --ground:    #101113;
+    --surface:   #1a1a1c;
+    --surface-2: #222326;
+    --line:      #34363a;
+    --line-soft: #26282b;
+    --ink:       #f2f3f4;
+    --ink-2:     #b3b8bd;
+    --ink-3:     #868c93;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
+    --t1: #b2494f;
+    --t2: #1296ad;
+    --t3: #827006;
+    --t4: #9c4e93;
+    --t5: #6f952d;
+    --t6: #396fbe;
+    --t7: #c56a2e;
+    --t8: #8974d1;
+    --t9: #078277;
+    --focus: #5598e7;
+    --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px -14px rgba(0,0,0,.7);
+    --fill-op: .55;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --ground:    #101113;
+  --surface:   #1a1a1c;
+  --surface-2: #222326;
+  --line:      #34363a;
+  --line-soft: #26282b;
+  --ink:       #f2f3f4;
+  --ink-2:     #b3b8bd;
+  --ink-3:     #868c93;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500;
+  --t1: #b2494f;
+  --t2: #1296ad;
+  --t3: #827006;
+  --t4: #9c4e93;
+  --t5: #6f952d;
+  --t6: #396fbe;
+  --t7: #c56a2e;
+  --t8: #8974d1;
+  --t9: #078277;
+  --focus: #5598e7;
+  --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px -14px rgba(0,0,0,.7);
+  --fill-op: .55;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--ground);
+  color: var(--ink);
+  font-family: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+.nav { display: flex; gap: 18px; margin: 16px 0 0; font-size: 14px; }
+.nav a { color: var(--s1); text-decoration: none; border-bottom: 1px solid transparent; }
+.nav a:hover { border-bottom-color: var(--s1); }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 40px 24px 72px; display: flex; flex-direction: column; gap: 30px; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 3px; }
+
+.eyebrow {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 11px; letter-spacing: .14em; text-transform: uppercase;
+  color: var(--ink-3); margin: 0 0 10px;
+}
+h1 {
+  font-family: Newsreader, Georgia, "Times New Roman", serif;
+  font-weight: 600; font-size: clamp(34px, 5vw, 52px); line-height: 1.06;
+  letter-spacing: -.015em; margin: 0; text-wrap: balance; color: var(--ink);
+}
+.lede {
+  font-family: Newsreader, Georgia, serif; font-style: italic; font-weight: 400;
+  font-size: clamp(17px, 2.1vw, 21px); line-height: 1.5; color: var(--ink-2);
+  margin: 14px 0 0; max-width: 62ch;
+}
+
+.stand {
+  background: var(--surface); border: 1px solid var(--line);
+  border-left: 3px solid var(--s2);
+  padding: 18px 22px; display: flex; flex-direction: column; gap: 7px;
+}
+.stand h2 {
+  font-family: "IBM Plex Mono", monospace; font-size: 11px; font-weight: 500;
+  letter-spacing: .14em; text-transform: uppercase; color: var(--s2); margin: 0;
+}
+.stand p { margin: 0; color: var(--ink-2); font-size: 14px; max-width: 76ch; }
+.stand strong { color: var(--ink); font-weight: 600; }
+
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 14px; margin-bottom: 24px; }
+.tile {
+  background: var(--surface-2); border: 1px solid var(--line-soft);
+  padding: 14px 16px; display: flex; flex-direction: column; gap: 3px;
+}
+.tile .n {
+  font-family: "IBM Plex Mono", monospace; font-variant-numeric: tabular-nums;
+  font-size: 26px; font-weight: 500; line-height: 1.1; color: var(--ink);
+}
+.tile .l { font-size: 13px; color: var(--ink-2); }
+.tile .s { font-size: 12px; color: var(--ink-3); }
+
+.panel { background: var(--surface); border: 1px solid var(--line); box-shadow: var(--shadow); }
+.panel-head {
+  padding: 20px 22px 0; display: flex; flex-wrap: wrap; gap: 14px;
+  align-items: baseline; justify-content: space-between;
+}
+.panel-head h2 {
+  font-family: Newsreader, Georgia, serif; font-weight: 600;
+  font-size: 23px; margin: 0; letter-spacing: -.01em; color: var(--ink);
+}
+.panel-head p { margin: 5px 0 0; font-size: 13.5px; color: var(--ink-2); max-width: 68ch; }
+.panel-body { padding: 16px 22px 22px; }
+
+.kern { border-left: 3px solid var(--s1); }
+
+.controls { display: flex; flex-wrap: wrap; gap: 7px; align-items: center; }
+button {
+  font-family: inherit; font-size: 12.5px; color: var(--ink-2);
+  background: var(--surface-2); border: 1px solid var(--line);
+  padding: 5px 11px; cursor: pointer; line-height: 1.4;
+}
+button:hover { color: var(--ink); border-color: var(--ink-3); }
+button[aria-pressed="true"] { background: var(--ink); color: var(--surface); border-color: var(--ink); }
+
+.legend { display: flex; flex-wrap: wrap; gap: 16px; padding: 0 0 12px; align-items: center; }
+.legend span { display: inline-flex; align-items: center; gap: 7px; font-size: 13px; color: var(--ink-2); }
+.swatch { display: inline-block; width: 11px; height: 11px; flex: none; }
+
+.skala {
+  font-size: 12.5px; color: var(--ink-3); margin: 0 0 14px;
+  padding-left: 11px; border-left: 2px solid var(--line); max-width: 74ch;
+}
+.skala strong { color: var(--ink-2); font-weight: 500; }
+
+figure { margin: 0; }
+svg { display: block; width: 100%; height: auto; overflow: visible; }
+.scroller { overflow-x: auto; }
+.axis text { font-family: "IBM Plex Mono", monospace; font-size: 10.5px; fill: var(--ink-3); }
+.grid line { stroke: var(--line-soft); stroke-width: 1; }
+.band-edge { stroke: var(--surface); stroke-width: 2; fill: none; }
+.dlabel {
+  font-family: "IBM Plex Sans", sans-serif; font-size: 11.5px; font-weight: 600;
+  fill: var(--ink); paint-order: stroke; stroke: var(--surface); stroke-width: 3px;
+}
+
+/* ---- Gestapelter Themenverlauf ---- */
+.tband { cursor: pointer; transition: opacity .12s linear; }
+.tband:hover { opacity: .82; }
+.tband:focus-visible { outline: 2px solid var(--ink); outline-offset: -2px; }
+.tlabel {
+  font-family: "IBM Plex Sans", sans-serif; font-size: 11.5px; font-weight: 600;
+  fill: var(--ink); cursor: pointer;
+}
+.tlabel-sub {
+  font-family: "IBM Plex Mono", monospace; font-size: 10px; fill: var(--ink-3);
+  font-variant-numeric: tabular-nums; cursor: pointer;
+}
+.hinweis-klick {
+  margin: 10px 0 0; font-size: 12.5px; color: var(--ink-3);
+}
+
+/* ---- Strang-Fl&auml;chen ---- */
+.srow-label { font-family: "IBM Plex Sans", sans-serif; font-size: 11.5px; fill: var(--ink-2); }
+.srow-label.an { fill: var(--ink); font-weight: 600; }
+.srow-count {
+  font-family: "IBM Plex Mono", monospace; font-size: 10.5px; fill: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+.srow-base { stroke: var(--line-soft); stroke-width: 1; }
+.sband { fill: var(--surface-2); }
+.sband-line { stroke: var(--ink-3); stroke-width: 1; stroke-dasharray: 2 3; opacity: .55; }
+.sband-text {
+  font-family: "IBM Plex Mono", monospace; font-size: 10px; fill: var(--ink-3);
+  letter-spacing: .08em; text-transform: uppercase;
+}
+.shit { fill: transparent; }
+.srow-hl { fill: var(--ink); opacity: 0; }
+.srow-hl.an { opacity: .045; }
+
+.tip {
+  position: fixed; pointer-events: none; z-index: 40; opacity: 0;
+  transition: opacity .1s linear;
+  background: var(--ink); color: var(--surface);
+  padding: 8px 11px; font-size: 12.5px; line-height: 1.45; max-width: 320px;
+  box-shadow: 0 8px 26px -10px rgba(0,0,0,.5);
+}
+.tip b { font-weight: 600; }
+.tip .m { font-family: "IBM Plex Mono", monospace; font-variant-numeric: tabular-nums; opacity: .8; }
+
+table { border-collapse: collapse; width: 100%; font-size: 12.5px; }
+th, td {
+  border-bottom: 1px solid var(--line-soft); padding: 5px 9px; text-align: right;
+  font-variant-numeric: tabular-nums; font-family: "IBM Plex Mono", monospace;
+  color: var(--ink-2);
+}
+th { color: var(--ink-3); font-weight: 500; text-align: right; white-space: nowrap; }
+th:first-child, td:first-child { text-align: left; }
+[hidden] { display: none !important; }
+
+.method { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 22px; }
+.method div { display: flex; flex-direction: column; gap: 6px; }
+.method h3 {
+  font-family: "IBM Plex Mono", monospace; font-size: 11px; font-weight: 500;
+  letter-spacing: .13em; text-transform: uppercase; color: var(--ink-3); margin: 0;
+}
+.method p { margin: 0; font-size: 13.5px; color: var(--ink-2); }
+.method code {
+  font-family: "IBM Plex Mono", monospace; font-size: 12.5px;
+  background: var(--surface-2); padding: 1px 4px; color: var(--ink);
+}
+footer { color: var(--ink-3); font-size: 12.5px; border-top: 1px solid var(--line); padding-top: 18px; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
+@media (max-width: 640px) {
+  .wrap { padding: 26px 15px 50px; }
+  .panel-head, .panel-body { padding-left: 15px; padding-right: 15px; }
+}
+</style>
+
+<div class="wrap">
+
+  <header>
+    <p class="eyebrow">__EYEBROW__</p>
+    <h1>News-Briefing aus der Flugh&ouml;he</h1>
+    <p class="lede">Nicht was in den Nachrichten stand, sondern worauf dieses Briefing geschaut hat &mdash; und wie lange es hingeschaut hat.</p>
+    <p class="nav"><a href="index.html">Aktueller Bericht</a><a href="reports/index.html">Archiv aller Ausgaben</a></p>
+  </header>
+
+  <section class="stand">
+    <h2>Was diese Seite kann und was nicht</h2>
+    <p>Sie zeigt die Aufmerksamkeit <strong>dieses Berichts</strong> &mdash; nicht die der Medien und nicht die der Welt. Ein Thema fehlt hier, wenn der Bericht es nicht aufgegriffen hat; das sagt &uuml;ber das Thema nichts aus.</p>
+__REIFE__
+  </section>
+
+  <section class="panel kern">
+    <div class="panel-head">
+      <div>
+        <h2>Worauf der Bericht schaut</h2>
+        <p>Neun Themen, quer zu den Ebenen: Die Hitzewelle in Europa, das Rhein-Niedrigwasser und das Entnahmeverbot im Kreis Paderborn geh&ouml;ren zu <em>einem</em> Thema, auch wenn sie in drei verschiedenen Sektionen des Berichts standen.</p>
+      </div>
+    </div>
+    <div class="panel-body">
+      <p class="skala">Gezeigt ist der <strong>Anteil am Tag</strong>, nicht die Zahl der Meldungen: Der Bericht ist von zw&ouml;lf auf rund f&uuml;nfzig Meldungen t&auml;glich gewachsen, in absoluten Zahlen w&uuml;rde deshalb fast jedes Thema &bdquo;steigen&ldquo;. Die Fl&auml;che ist immer voll &mdash; nur die Aufteilung wandert. Gegl&auml;ttet &uuml;ber sieben Tage.</p>
+      <div class="legend" id="tlegende"></div>
+      <figure>
+        <svg id="themen" viewBox="0 0 980 360" role="img" aria-label="Gestapelter Anteilsverlauf der neun Themen &uuml;ber den gesamten erfassten Zeitraum"></svg>
+      </figure>
+      <p class="hinweis-klick">Ein Klick auf eine Fl&auml;che zeigt darunter die Str&auml;nge dieses Themas.</p>
+      <div id="ttabelle" hidden class="scroller" style="margin-top:14px; max-height:340px; overflow-y:auto"></div>
+      <div class="controls" style="margin-top:14px">
+        <button id="btn-ttabelle" aria-pressed="false" aria-controls="ttabelle">Als Tabelle</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="panel" id="straenge-panel">
+    <div class="panel-head">
+      <div>
+        <h2>Welcher Strang wann Aufmerksamkeit bekam</h2>
+        <p>Eine Fl&auml;che je Themenstrang, sortiert nach der Zahl der Meldungen. Steigt die Fl&auml;che, wendet der Bericht dem Strang mehr Platz zu; f&auml;llt sie, ebbt er ab.</p>
+      </div>
+      <div class="controls" id="filter"></div>
+    </div>
+    <div class="panel-body">
+      <div class="legend" id="slegende"></div>
+      <p class="skala">H&ouml;he der Fl&auml;che: <strong>Aufmerksamkeit der letzten sieben Tage</strong> &mdash; ein eigener Artikel z&auml;hlt 2, eine Zeile im Hinweisblock 1, h&ouml;chstens 14. Der einzelne Tag kennt nur drei Werte und ergibt keinen Verlauf; erst das Wochenfenster macht daraus eine Form.</p>
+      <figure>
+        <svg id="straenge" role="img" aria-label="Ein Fl&auml;chenverlauf je Themenstrang, nach H&auml;ufigkeit sortiert, H&ouml;he als rollende Sieben-Tage-Aufmerksamkeit"></svg>
+      </figure>
+      <div class="controls" style="margin-top:16px">
+        <button id="btn-stabelle" aria-pressed="false" aria-controls="stabelle">Als Tabelle</button>
+      </div>
+      <div id="stabelle" hidden class="scroller" style="margin-top:12px; max-height:420px; overflow-y:auto"></div>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="panel-head">
+      <div>
+        <h2>Wie viel der Bericht insgesamt gemeldet hat</h2>
+        <p>Meldungen je Tag, gestapelt nach Ebene &mdash; der Mengenrahmen, in dem die Str&auml;nge oben stehen. Jede Meldung z&auml;hlt einfach, ein ausf&uuml;hrlicher Artikel wie ein Eintrag im Hinweisblock.</p>
+      </div>
+      <div class="controls">
+        <button id="btn-tabelle" aria-pressed="false" aria-controls="tabelle">Als Tabelle</button>
+      </div>
+    </div>
+    <div class="panel-body">
+      <div class="legend" id="legende"></div>
+      <figure>
+        <svg id="verlauf" viewBox="0 0 980 340" role="img" aria-label="Gestapelter Fl&auml;chenverlauf der Meldungen je Tag nach Ebene &uuml;ber den gesamten erfassten Zeitraum"></svg>
+      </figure>
+      <div id="tabelle" hidden class="scroller" style="margin-top:16px; max-height:340px; overflow-y:auto"></div>
+    </div>
+  </section>
+
+  <section class="panel">
+    <div class="panel-head"><div><h2>Wie diese &Uuml;bersicht entsteht</h2>
+      <p>Die Datenbasis in Zahlen, und was bei ihrer Auslegung zu beachten ist.</p></div></div>
+    <div class="panel-body">
+      <div class="tiles" id="tiles"></div>
+      <div class="method">
+        <div>
+          <h3>Quelle</h3>
+          <p>Alle Werte stammen aus <code>data/archiv.jsonl</code> im Repo &mdash; einer Zeile je Meldung, die der Tageslauf fortschreibt und aus der nie gel&ouml;scht wird.</p>
+        </div>
+        <div>
+          <h3>Drei Herk&uuml;nfte</h3>
+          <p><code>lauf</code> entsteht im regul&auml;ren Lauf, <code>memory-seed</code> bei der Erstbef&uuml;llung, <code>html-rekonstruiert</code> beim nachtr&auml;glichen Parsen alter Berichte. Nur die ersten beiden tragen Strang-Daten.</p>
+        </div>
+        <div>
+          <h3>L&uuml;cken</h3>
+          <p>__LUECKE__</p>
+        </div>
+        <div>
+          <h3>Gekappte Anf&auml;nge</h3>
+          <p>Der Strang-Index wurde am 11. August aus sieben Vortagen aufgebaut. Dauerthemen wie der Ukraine-Krieg erscheinen dadurch j&uuml;nger, als sie sind &mdash; die Fl&auml;chen zeigen Nachverfolgung, nicht Beginn.</p>
+        </div>
+        <div>
+          <h3>Anlauf des Fensters</h3>
+          <p>Die Sieben-Tage-Summe braucht sieben Tage. In den ersten sechs Tagen f&uuml;llt sich das Fenster erst &mdash; der Anstieg dort ist Rechenartefakt, nicht wachsende Aufmerksamkeit. Die Fl&auml;chen kennzeichnen diesen Bereich.</p>
+        </div>
+        <div>
+          <h3>Schwelle</h3>
+          <p>Gezeigt werden Str&auml;nge mit mindestens vier Meldungen. Alles darunter w&auml;re eine Fl&auml;che aus ein bis zwei Punkten &mdash; zu wenig, um von einem Verlauf zu sprechen.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+__FOOTER__
+  </footer>
+</div>
+
+<div class="tip" id="tip" aria-hidden="true"></div>
+
