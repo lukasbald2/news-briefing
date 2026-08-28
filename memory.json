@@ -33,6 +33,14 @@
       "status": "laufend"
     },
     {
+      "id": "antisemitismusbeauftragter-nachfolge-klein",
+      "titel": "Antisemitismusbeauftragter: Nachfolge nach Kleins Abgang",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-26",
+      "letzter_eintrag": "2026-08-27",
+      "status": "laufend"
+    },
+    {
       "id": "ariana-grande-petal-charts",
       "titel": "Ariana Grandes 'petal' in den Charts",
       "kategorie": "social",
@@ -61,7 +69,7 @@
       "titel": "Gewinneinbruch deutsche Autoindustrie",
       "kategorie": "national",
       "erstmals_am": "2026-08-17",
-      "letzter_eintrag": "2026-08-27",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -118,6 +126,14 @@
       "kategorie": "lokal",
       "erstmals_am": "2026-08-22",
       "letzter_eintrag": "2026-08-22",
+      "status": "neu"
+    },
+    {
+      "id": "cat-in-the-hat-ai-horror-trend",
+      "titel": "'Cat in the Hat' KI-Horrortrend",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-28",
+      "letzter_eintrag": "2026-08-28",
       "status": "neu"
     },
     {
@@ -225,10 +241,26 @@
       "status": "neu"
     },
     {
+      "id": "dolly-parton-tod",
+      "titel": "Tod von Dolly Parton",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-26",
+      "letzter_eintrag": "2026-08-28",
+      "status": "laufend"
+    },
+    {
       "id": "domfestspiele-paderborn-2026",
       "titel": "Domfestspiele Paderborn 2026",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-24",
+      "letzter_eintrag": "2026-08-28",
+      "status": "laufend"
+    },
+    {
+      "id": "drk-m23-waffenruhe-verifizierung",
+      "titel": "DR Kongo: Verifizierung der M23-Waffenruhe",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-26",
       "letzter_eintrag": "2026-08-27",
       "status": "laufend"
     },
@@ -237,7 +269,7 @@
       "titel": "Ebola-Ausbruch im Kongo",
       "kategorie": "global",
       "erstmals_am": "2026-08-10",
-      "letzter_eintrag": "2026-08-27",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -261,7 +293,7 @@
       "titel": "Erdbeben Flores (Indonesien)",
       "kategorie": "global",
       "erstmals_am": "2026-08-17",
-      "letzter_eintrag": "2026-08-25",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -285,7 +317,7 @@
       "titel": "Fahrbahnsanierung B1/B64 Paderborn",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-10",
-      "letzter_eintrag": "2026-08-26",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -357,7 +389,7 @@
       "titel": "Gaza: Board-of-Peace-Friedensplan",
       "kategorie": "global",
       "erstmals_am": "2026-08-11",
-      "letzter_eintrag": "2026-08-27",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -409,6 +441,14 @@
       "status": "neu"
     },
     {
+      "id": "gta6-netflix-reveal",
+      "titel": "GTA 6 Netflix-Reveal",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-28",
+      "letzter_eintrag": "2026-08-28",
+      "status": "neu"
+    },
+    {
       "id": "hitzewelle-westeuropa",
       "titel": "Hitzewelle und Waldbraende in Westeuropa",
       "kategorie": "global",
@@ -425,12 +465,28 @@
       "status": "neu"
     },
     {
+      "id": "ifo-geschaeftsklimaindex",
+      "titel": "Ifo-Geschäftsklimaindex",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-28",
+      "letzter_eintrag": "2026-08-28",
+      "status": "neu"
+    },
+    {
       "id": "instagram-flash-filter-kontroverse",
       "titel": "Instagrams KI-'Flash'-Filter-Kontroverse",
       "kategorie": "social",
       "erstmals_am": "2026-08-10",
       "letzter_eintrag": "2026-08-16",
       "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-23)"
+    },
+    {
+      "id": "instagram-instagzam-logo-meme",
+      "titel": "Instagram-Logo-Meme „Instagzam\"",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-26",
+      "letzter_eintrag": "2026-08-26",
+      "status": "neu"
     },
     {
       "id": "instagram-logo-instagzam-spott",
@@ -461,7 +517,7 @@
       "titel": "Fed-Chef Warsh: erste Grundsatzrede in Jackson Hole",
       "kategorie": "global",
       "erstmals_am": "2026-08-24",
-      "letzter_eintrag": "2026-08-26",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -469,7 +525,7 @@
       "titel": "Jemen/Huthi-Eskalation Rotes Meer",
       "kategorie": "global",
       "erstmals_am": "2026-08-23",
-      "letzter_eintrag": "2026-08-27",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -478,6 +534,14 @@
       "kategorie": "social",
       "erstmals_am": "2026-08-24",
       "letzter_eintrag": "2026-08-24",
+      "status": "neu"
+    },
+    {
+      "id": "jennie-blackpink-wardrobe-video-agentur",
+      "titel": "Jennie/Blackpink: Wardrobe-Video-Streit",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-26",
+      "letzter_eintrag": "2026-08-26",
       "status": "neu"
     },
     {
@@ -513,6 +577,14 @@
       "status": "neu"
     },
     {
+      "id": "katharinenmarkt-delbrueck-wirtschaftsschau",
+      "titel": "Katharinenmarkt Delbrück: Wirtschaftsschau",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-27",
+      "letzter_eintrag": "2026-08-28",
+      "status": "laufend"
+    },
+    {
       "id": "ki-begleiterin-ev-spiderman-backlash",
       "titel": "Backlash gegen KI-Begleiterin 'E.V.' (Spider-Man)",
       "kategorie": "social",
@@ -541,8 +613,8 @@
       "titel": "Konzertreihe 'Donnerstags in Paderborn'",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-10",
-      "letzter_eintrag": "2026-08-27",
-      "status": "laufend"
+      "letzter_eintrag": "2026-08-28",
+      "status": "abgeschlossen"
     },
     {
       "id": "kreisstrasse-dalheim-sperrung",
@@ -561,6 +633,14 @@
       "status": "laufend"
     },
     {
+      "id": "la-peace-meme",
+      "titel": "'La Peace'-Meme (Kai Cenat)",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-27",
+      "letzter_eintrag": "2026-08-27",
+      "status": "neu"
+    },
+    {
       "id": "landpartie-schloss-neuhaus",
       "titel": "Landpartie Schloss Neuhaus",
       "kategorie": "lokal",
@@ -575,6 +655,22 @@
       "erstmals_am": "2026-08-07",
       "letzter_eintrag": "2026-08-26",
       "status": "laufend"
+    },
+    {
+      "id": "linke-mietendeckel-gutachten-bund",
+      "titel": "Linke-Gutachten: Bundesweiter Mietendeckel",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-27",
+      "letzter_eintrag": "2026-08-27",
+      "status": "neu"
+    },
+    {
+      "id": "linkedin-ai-slop-meldebutton",
+      "titel": "LinkedIn „AI slop\"-Meldebutton",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-26",
+      "letzter_eintrag": "2026-08-26",
+      "status": "neu"
     },
     {
       "id": "locarno-filmfestival-deutschland",
@@ -597,7 +693,7 @@
       "titel": "Kabinettsklausur Neuhardenberg",
       "kategorie": "national",
       "erstmals_am": "2026-08-24",
-      "letzter_eintrag": "2026-08-27",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -605,7 +701,7 @@
       "titel": "Forsa-Umfragetief Merz / AfD-Vorsprung",
       "kategorie": "national",
       "erstmals_am": "2026-08-13",
-      "letzter_eintrag": "2026-08-26",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -617,12 +713,28 @@
       "status": "laufend"
     },
     {
+      "id": "meta-jugendschutz-vergleich-47-staaten",
+      "titel": "Meta-Jugendschutz-Vergleich (47 Staaten)",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-28",
+      "letzter_eintrag": "2026-08-28",
+      "status": "neu"
+    },
+    {
       "id": "meta-kindersicherheit-prozess",
       "titel": "Kindersicherheitsprozess gegen Meta (Oakland)",
       "kategorie": "global",
       "erstmals_am": "2026-08-20",
       "letzter_eintrag": "2026-08-26",
       "status": "laufend"
+    },
+    {
+      "id": "motley-crue-ki-intro-backlash",
+      "titel": "Mötley Crüe: KI-Konzert-Intro-Kritik",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-27",
+      "letzter_eintrag": "2026-08-27",
+      "status": "neu"
     },
     {
       "id": "musk-grok-odyssee-wettbewerb",
@@ -637,8 +749,16 @@
       "titel": "Nahost: Hormuz-Spannung und Verteidigungspakt",
       "kategorie": "global",
       "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-27",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
+    },
+    {
+      "id": "nancy-mace-tattoo-enthuellung",
+      "titel": "Nancy Mace: Tattoo-Enthüllung",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-27",
+      "letzter_eintrag": "2026-08-27",
+      "status": "neu"
     },
     {
       "id": "nasa-roman-weltraumteleskop",
@@ -646,6 +766,14 @@
       "kategorie": "global",
       "erstmals_am": "2026-08-25",
       "letzter_eintrag": "2026-08-27",
+      "status": "laufend"
+    },
+    {
+      "id": "nepal-tibet-flutkatastrophe",
+      "titel": "Flutkatastrophe Nepal/Tibet",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-27",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -693,8 +821,16 @@
       "titel": "Nvidia-Finanzierungsrahmen für KI-Infrastruktur",
       "kategorie": "global",
       "erstmals_am": "2026-08-13",
-      "letzter_eintrag": "2026-08-26",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
+    },
+    {
+      "id": "obolus-jugendinitiative-paderborn",
+      "titel": "Jugendinitiative „Obolus\" Paderborn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-26",
+      "letzter_eintrag": "2026-08-26",
+      "status": "neu"
     },
     {
       "id": "openai-summer-club-backlash",
@@ -713,6 +849,14 @@
       "status": "abgeschlossen"
     },
     {
+      "id": "paderdies-kunstinstallation-naturkundemuseum",
+      "titel": "Kunstinstallation „Paderdies\" im Naturkundemuseum Paderborn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-26",
+      "letzter_eintrag": "2026-08-28",
+      "status": "laufend"
+    },
+    {
       "id": "padersprinter-elektrobusse",
       "titel": "PaderSprinter-Elektrobusse",
       "kategorie": "lokal",
@@ -729,11 +873,19 @@
       "status": "neu"
     },
     {
+      "id": "petermann-gletscher-kalbung",
+      "titel": "Petermann-Gletscher: Eisinsel-Kalbung",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-26",
+      "letzter_eintrag": "2026-08-26",
+      "status": "neu"
+    },
+    {
       "id": "pferderipper-serie-owl",
       "titel": "Pferderipper-Serie in OWL",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-06",
-      "letzter_eintrag": "2026-08-27",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -743,6 +895,22 @@
       "erstmals_am": "2026-08-25",
       "letzter_eintrag": "2026-08-27",
       "status": "laufend"
+    },
+    {
+      "id": "prophezeiungen-ausstellung-dioezesanmuseum",
+      "titel": "Ausstellung 'Prophezeiungen' im Diözesanmuseum Paderborn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-27",
+      "letzter_eintrag": "2026-08-28",
+      "status": "laufend"
+    },
+    {
+      "id": "puraite-ki-ausgruendung-paderborn",
+      "titel": "Puraite KI-Ausgründung Uni Paderborn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-28",
+      "letzter_eintrag": "2026-08-28",
+      "status": "neu"
     },
     {
       "id": "quartalszahlen-saison",
@@ -789,7 +957,7 @@
       "titel": "Sambia-Präsidentschaftswahl 2026 / Wahlanfechtung",
       "kategorie": "global",
       "erstmals_am": "2026-08-15",
-      "letzter_eintrag": "2026-08-27",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -821,7 +989,7 @@
       "titel": "SC Paderborn: Pokal und Bundesliga-Rückkehr",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-25",
-      "letzter_eintrag": "2026-08-27",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -839,6 +1007,14 @@
       "erstmals_am": "2026-08-15",
       "letzter_eintrag": "2026-08-16",
       "status": "abgeschlossen (in Wochenausgabe vom 2026-08-16 zusammengefasst)"
+    },
+    {
+      "id": "schulbrand-michaelsgymnasium-paderborn",
+      "titel": "Schulbrand Michaelsgymnasium Paderborn",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-08-28",
+      "letzter_eintrag": "2026-08-28",
+      "status": "neu"
     },
     {
       "id": "schwarzes-loch-stern-entdeckung",
@@ -953,11 +1129,19 @@
       "status": "laufend"
     },
     {
+      "id": "suedkorea-leitzinserhoehung",
+      "titel": "Südkorea: Leitzinserhöhungen der Notenbank",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-27",
+      "letzter_eintrag": "2026-08-27",
+      "status": "neu"
+    },
+    {
       "id": "tarifverhandlung-einzelhandel-mitteldeutschland",
       "titel": "Tarifverhandlung Einzelhandel Mitteldeutschland",
       "kategorie": "national",
       "erstmals_am": "2026-08-19",
-      "letzter_eintrag": "2026-08-26",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -1001,11 +1185,19 @@
       "status": "neu"
     },
     {
+      "id": "twitch-mutter-attackiert-streamer-nitro-camden",
+      "titel": "Twitch: Mutter attackiert Streamer live",
+      "kategorie": "social",
+      "erstmals_am": "2026-08-26",
+      "letzter_eintrag": "2026-08-26",
+      "status": "neu"
+    },
+    {
       "id": "ukraine-krieg",
       "titel": "Ukraine-Krieg: Angriffswellen und Gegenangriffe",
       "kategorie": "global",
       "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-27",
+      "letzter_eintrag": "2026-08-28",
       "status": "laufend"
     },
     {
@@ -1031,6 +1223,22 @@
       "erstmals_am": "2026-08-05",
       "letzter_eintrag": "2026-08-05",
       "status": "abgeschlossen"
+    },
+    {
+      "id": "villena-kunstraub-spanien",
+      "titel": "Villena-Kunstraub Spanien",
+      "kategorie": "global",
+      "erstmals_am": "2026-08-28",
+      "letzter_eintrag": "2026-08-28",
+      "status": "neu"
+    },
+    {
+      "id": "voigt-misstrauensvotum-thueringen",
+      "titel": "Misstrauensvotum gegen Voigt (Thüringen)",
+      "kategorie": "national",
+      "erstmals_am": "2026-08-28",
+      "letzter_eintrag": "2026-08-28",
+      "status": "neu"
     },
     {
       "id": "wabi-sabi-tiktok-trend",
@@ -1119,150 +1327,6 @@
       "erstmals_am": "2026-08-09",
       "letzter_eintrag": "2026-08-09",
       "status": "abgeschlossen"
-    },
-    {
-      "id": "linkedin-ai-slop-meldebutton",
-      "titel": "LinkedIn „AI slop\"-Meldebutton",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-26",
-      "letzter_eintrag": "2026-08-26",
-      "status": "neu"
-    },
-    {
-      "id": "antisemitismusbeauftragter-nachfolge-klein",
-      "titel": "Antisemitismusbeauftragter: Nachfolge nach Kleins Abgang",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-26",
-      "letzter_eintrag": "2026-08-27",
-      "status": "laufend"
-    },
-    {
-      "id": "jennie-blackpink-wardrobe-video-agentur",
-      "titel": "Jennie/Blackpink: Wardrobe-Video-Streit",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-26",
-      "letzter_eintrag": "2026-08-26",
-      "status": "neu"
-    },
-    {
-      "id": "instagram-instagzam-logo-meme",
-      "titel": "Instagram-Logo-Meme „Instagzam\"",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-26",
-      "letzter_eintrag": "2026-08-26",
-      "status": "neu"
-    },
-    {
-      "id": "drk-m23-waffenruhe-verifizierung",
-      "titel": "DR Kongo: Verifizierung der M23-Waffenruhe",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-26",
-      "letzter_eintrag": "2026-08-27",
-      "status": "laufend"
-    },
-    {
-      "id": "obolus-jugendinitiative-paderborn",
-      "titel": "Jugendinitiative „Obolus\" Paderborn",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-26",
-      "letzter_eintrag": "2026-08-26",
-      "status": "neu"
-    },
-    {
-      "id": "twitch-mutter-attackiert-streamer-nitro-camden",
-      "titel": "Twitch: Mutter attackiert Streamer live",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-26",
-      "letzter_eintrag": "2026-08-26",
-      "status": "neu"
-    },
-    {
-      "id": "paderdies-kunstinstallation-naturkundemuseum",
-      "titel": "Kunstinstallation „Paderdies\" im Naturkundemuseum Paderborn",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-26",
-      "letzter_eintrag": "2026-08-27",
-      "status": "laufend"
-    },
-    {
-      "id": "petermann-gletscher-kalbung",
-      "titel": "Petermann-Gletscher: Eisinsel-Kalbung",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-26",
-      "letzter_eintrag": "2026-08-26",
-      "status": "neu"
-    },
-    {
-      "id": "dolly-parton-tod",
-      "titel": "Tod von Dolly Parton",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-26",
-      "letzter_eintrag": "2026-08-27",
-      "status": "laufend"
-    },
-    {
-      "id": "nepal-tibet-flutkatastrophe",
-      "titel": "Flutkatastrophe Nepal/Tibet",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-27",
-      "letzter_eintrag": "2026-08-27",
-      "status": "neu"
-    },
-    {
-      "id": "suedkorea-leitzinserhoehung",
-      "titel": "Südkorea: Leitzinserhöhungen der Notenbank",
-      "kategorie": "global",
-      "erstmals_am": "2026-08-27",
-      "letzter_eintrag": "2026-08-27",
-      "status": "neu"
-    },
-    {
-      "id": "linke-mietendeckel-gutachten-bund",
-      "titel": "Linke-Gutachten: Bundesweiter Mietendeckel",
-      "kategorie": "national",
-      "erstmals_am": "2026-08-27",
-      "letzter_eintrag": "2026-08-27",
-      "status": "neu"
-    },
-    {
-      "id": "katharinenmarkt-delbrueck-wirtschaftsschau",
-      "titel": "Katharinenmarkt Delbrück: Wirtschaftsschau",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-27",
-      "letzter_eintrag": "2026-08-27",
-      "status": "neu"
-    },
-    {
-      "id": "prophezeiungen-ausstellung-dioezesanmuseum",
-      "titel": "Ausstellung 'Prophezeiungen' im Diözesanmuseum Paderborn",
-      "kategorie": "lokal",
-      "erstmals_am": "2026-08-27",
-      "letzter_eintrag": "2026-08-27",
-      "status": "neu"
-    },
-    {
-      "id": "la-peace-meme",
-      "titel": "'La Peace'-Meme (Kai Cenat)",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-27",
-      "letzter_eintrag": "2026-08-27",
-      "status": "neu"
-    },
-    {
-      "id": "nancy-mace-tattoo-enthuellung",
-      "titel": "Nancy Mace: Tattoo-Enthüllung",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-27",
-      "letzter_eintrag": "2026-08-27",
-      "status": "neu"
-    },
-    {
-      "id": "motley-crue-ki-intro-backlash",
-      "titel": "Mötley Crüe: KI-Konzert-Intro-Kritik",
-      "kategorie": "social",
-      "erstmals_am": "2026-08-27",
-      "letzter_eintrag": "2026-08-27",
-      "status": "neu"
     }
   ],
   "entries": [
@@ -3494,24 +3558,10 @@
     },
     {
       "category": "lokal",
-      "title": "Paderborn Wirtschaftsstandort: Benteler-Großinvestition und Additive-Marking-Finanzierungsrunde",
-      "date": "2026-07-28",
-      "summary": "Themenmix-Artikel (Wirtschaft/Technologie). Benteler investiert >50 Mio. Euro in Schloß Neuhaus (Rohrherstellung, Automotive Components, Digitalisierung). Startup Additive Marking gewinnt Seed-III-Investoren (GS1 Germany Accelerator, TCP Beteiligungs-GmbH) für digital nachverfolgbare 3D-Druck-Bauteile.",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "lokal",
       "title": "Weserbrücke Höxter: Planungsauftrag für Ersatzneubau erteilt",
       "date": "2026-07-28",
       "summary": "Eigener Artikel (neu). Straßen.NRW erhielt Planungsauftrag vom NRW-Verkehrsministerium für Ersatzneubau statt Sanierung, Fertigstellung bis 2036 angepeilt, Niedersachsen will mitreden.",
       "status": "laufend"
-    },
-    {
-      "category": "lokal",
-      "title": "Delbrück-Sudhagen: neuer Sportplatz mit Ex-BVB-Nationalspielern eröffnet",
-      "date": "2026-07-28",
-      "summary": "Themenmix-Artikel (Gesellschaft/Sport), nur einfach unabhängig belegt. Eröffnung des neuen Rasenplatzes SV Sudhagen am 25.7. im Rahmen des Dorfprojekts 'Haus der Vereine', Fußballspiel mit Ex-BVB-Nationalspielern.",
-      "status": "abgeschlossen"
     },
     {
       "category": "lokal",
@@ -3526,20 +3576,6 @@
       "date": "2026-07-28",
       "summary": "Nur Hinweisblock, keine neue Entwicklung. 23-jähriger identifizierter Tatverdächtiger weiterhin nicht gefasst.",
       "status": "laufend"
-    },
-    {
-      "category": "lokal",
-      "title": "Warburg: Baustart Teilerneuerung Trinkwasser-Transportleitung",
-      "date": "2026-07-28",
-      "summary": "Nur einfach belegt (Stadtwerke Warburg). Erneuerung von ~1.140m Leitung ab 27.7., Fertigstellung Herbst geplant.",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "lokal",
-      "title": "Delbrück: Ehrennadel in Gold mit Diamant posthum an Klaus Kramer verliehen",
-      "date": "2026-07-28",
-      "summary": "Nur einfach belegt. Würdigung des ehrenamtlichen Wirkens im Clemens-August-von-Galen-Haus, Kramer war Ende Juni verstorben.",
-      "status": "abgeschlossen"
     },
     {
       "category": "social",
@@ -3568,14 +3604,6 @@
       "date": "2026-07-28",
       "summary": "Pattinson-Beggars-Meme: Puristen bestehen auf grobkörniger Optik. White-House-TikTok: offiziell als 'Freedom 250' verteidigt. Tate-Brüder: Haftprüfung auf 13.8. terminiert. 'Bangladesh'/Charli-xcx/'2026 ist das neue 2016': bleibt prägender Sommertrend. 'Preparing for my Netflix Documentary'-Meme: neu, nur einfach/aggregator-belegt, soll auf Instagram überspringen.",
       "status": "laufend"
-    },
-    {
-      "category": "song",
-      "title": "Omen – The Prodigy",
-      "date": "2026-07-28",
-      "summary": "Song des Tages, gewählt aus Lukas' zuletzt gehörten Titeln (The Prodigy, 27.7. morgens gehört, nicht in den letzten 14 Tagen vorgeschlagen). Text über ein sich zusammenbrauendes Gefühl/Wetterumschwung ('it's an omen') passt zur anrollenden Hitzewelle nach den Waldbränden in Frankreich/Spanien und zur Mischung aus CSD-Justizskandal, Selenskyj-Trump-Treffen und fragiler Nahost-Kampfpause.",
-      "status": "neu",
-      "quelle": "recently-played"
     },
     {
       "category": "global",
@@ -11929,6 +11957,322 @@
       "title": "Hey You – Pink Floyd",
       "summary": "Aus zuletzt gehörten Titeln, in 14 Tagen nicht vorgeschlagen; Bezug zu Themen von Nepal/Tibet-Flut und Gaza-Warnung (Verbindung über eine Trennlinie hinweg).",
       "status": "neu"
+    },
+    {
+      "strang_id": "nepal-tibet-flutkatastrophe",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "global",
+      "title": "Flutkatastrophe Nepal/Tibet: Totenzahl auf mindestens 469 gestiegen, neue Warnung vor Gletschersee-Bruch",
+      "date": "2026-08-28",
+      "summary": "Die Zahl der bestätigten Toten ist von zuletzt 162 auf mindestens 469 gestiegen, über 1.400 Menschen gelten weiter als vermisst. Behörden warnen zusätzlich vor einem möglichen Bruch eines durch die Katastrophe entstandenen Gletschersees in den kommenden Tagen.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "sambia-praesidentschaftswahl-2026",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "global",
+      "title": "Sambia: Oppositionsführer Mundubile stellt sich nach Hochverrats-Haftbefehl der Polizei",
+      "date": "2026-08-28",
+      "summary": "Brian Mundubile hat sich zusammen mit seinem Vize-Kandidaten Zulu der Polizei gestellt, nachdem er zuvor Zuflucht auf UN-Gelände gesucht hatte; bei einer vorausgegangenen Razzia bei ihm zu Hause wurden nach Behördenangaben Sturmgewehre gefunden und elf Menschen festgenommen.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "villena-kunstraub-spanien",
+      "form": "artikel",
+      "kontrast": true,
+      "category": "global",
+      "title": "Bronzezeit-Goldschatz von Villena in Spanien in Vier-Minuten-Raubzug gestohlen",
+      "date": "2026-08-28",
+      "summary": "Aus dem archäologischen Museum in Villena bei Alicante haben Diebe in nur vier Minuten den Großteil des 'Tesoro de Villena' erbeutet — 66 überwiegend goldene Objekte aus der Spätbronzezeit, entdeckt 1963. Der reine Materialwert wird auf rund 1,7 bis 2 Millionen Euro geschätzt, der historische Wert gilt als unbezifferbar; die Täter lenkten Sicherheitskräfte offenbar zuvor mit einem Fehlalarm ab.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "ukraine-krieg",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Ukraine-Krieg: weitere Nacht mit massiven russischen Angriffswellen auf mehrere Städte",
+      "date": "2026-08-28",
+      "summary": "In der Nacht auf Freitag flog Russland nach ukrainischen Angaben einen massiven Angriff auf neun Städte; ein von USA, Ukraine und EU diskutierter Drei-Stufen-Rahmen für einen Waffenstillstand bleibt ohne Durchbruch.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "gaza-friedensplan",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Gaza-Friedensplan bleibt nach Mladenovs Warnung ohne neue Bewegung",
+      "date": "2026-08-28",
+      "summary": "Seit der Warnung des UN-Sondergesandten Mladenov vor einem 'Punkt ohne Wiederkehr' gibt es keine neue Entwicklung; israelische Angriffe halten laut Berichten an.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "nahost-iran-spannung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Nahost-Iran-Spannung: Iran und Oman verhandeln weiter über Hormuz-Sicherheitskorridor",
+      "date": "2026-08-28",
+      "summary": "Der am 25. August vereinbarte phasenweise Rahmen für einen Sicherheitskorridor durch die Straße von Hormus bleibt Stand der Dinge, weitere Gespräche sind für die kommenden Wochen angesetzt.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "jemen-huthi-eskalation",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Jemen: keine neuen Huthi-Angriffe seit Tanker-Treffer",
+      "date": "2026-08-28",
+      "summary": "Seit dem Treffer auf den saudischen Supertanker 'Wafa' am 24. August wurden keine weiteren Angriffe der Huthi-Rebellen im Roten Meer bekannt.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "erdbeben-indonesien-flores",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Erdbeben Flores: Totenzahl auf mindestens 100 gestiegen",
+      "date": "2026-08-28",
+      "summary": "Die Zahl der bestätigten Todesopfer des Erdbebens auf der indonesischen Insel Flores ist von zuvor 68 auf mindestens 100 gestiegen.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "ebola-kongo-ausbruch",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Ebola-Ausbruch Kongo: 2.744 Tote bei 5.656 bestätigten Fällen",
+      "date": "2026-08-28",
+      "summary": "Der als tödlichster Ausbruch der Landesgeschichte geltende Ebola-Ausbruch wuchs auf 5.656 bestätigte Fälle und 2.744 Tote; Uganda hatte seinen eigenen, separaten Ausbruch bereits für beendet erklärt.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "nvidia-ki-infrastruktur-finanzierung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "KI-Finanzierungswelle: Nvidia sichert bis zu 105 Milliarden Dollar für OpenAI-Rechenzentrum in Ohio zu",
+      "date": "2026-08-28",
+      "summary": "Zusätzlich zu Broadcoms laufenden Verhandlungen über 70 bis 100 Milliarden Dollar Fremdkapital für KI-Chip-Kunden wie Anthropic baut auch Nvidia sein Finanzierungsnetzwerk für KI-Rechenzentren weiter aus.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "dolly-parton-tod",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Dolly Parton: Familie kündigt private Trauerfeier an",
+      "date": "2026-08-28",
+      "summary": "Nach dem Tod der Country-Legende kündigte ihre Familie eine kleine, private Trauerfeier statt einer öffentlichen Zeremonie an; weitere Tribute aus der Musikbranche halten an.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "jackson-hole-fed-warsh-rede",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Fed-Chef Warshs Grundsatzrede in Jackson Hole findet heute statt",
+      "date": "2026-08-28",
+      "summary": "Warsh hält seine erste große Grundsatzrede als Fed-Vorsitzender bei angespannter Ausgangslage - die Inflation liegt bei 3,7 Prozent, Praesident Trump draengt oeffentlich auf Zinssenkungen; das Ergebnis lag bei Redaktionsschluss noch nicht vor.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "voigt-misstrauensvotum-thueringen",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "national",
+      "title": "AfD startet zweiten Anlauf für Misstrauensvotum gegen Thüringens Ministerpräsident Voigt",
+      "date": "2026-08-28",
+      "summary": "Der Thüringer Landtag stimmt heute erneut über einen von der AfD-Fraktion eingebrachten Antrag auf ein konstruktives Misstrauensvotum gegen Ministerpräsident Mario Voigt (CDU) ab, nachdem die TU Chemnitz Anfang August seinen Einspruch gegen die Aberkennung seines Doktortitels endgültig zurückgewiesen hatte. Für einen Erfolg wären mindestens 45 der 88 Stimmen nötig; die AfD verfügt über 32 Sitze. Das Ergebnis lag bei Redaktionsschluss noch nicht vor.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "ifo-geschaeftsklimaindex",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "national",
+      "title": "Ifo-Geschäftsklima steigt vierten Monat in Folge stärker als erwartet",
+      "date": "2026-08-28",
+      "summary": "Der ifo-Geschäftsklimaindex kletterte im August von 86,7 auf 88,8 Punkte - deutlicher als von Analysten erwartet und der höchste Stand seit rund einem Jahr. Das Ifo-Institut wertet das trotz gestiegener Energiepreise als Zeichen einer beginnenden Erholung, während die Industrie weiterhin über eine schwache Auftragslage klagt.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "tarifverhandlung-einzelhandel-mitteldeutschland",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "national",
+      "title": "Tarifstreit Einzelhandel: Arbeitgeberangebot abgelehnt, Verdi droht mit verschärften Warnstreiks",
+      "date": "2026-08-28",
+      "summary": "Die fünften Verhandlungsrunden in Hessen und NRW endeten ohne Einigung; die Arbeitgeber legten ein überarbeitetes Angebot (2,4 Prozent ab November, 2 Prozent ab August 2027) vor, das Verdi als unzureichend zurückwies. Die Gewerkschaft fordert unter anderem 14,90 Euro Mindestentgelt pro Stunde und kündigt verschärfte bundesweite Warnstreiks an.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "merz-kabinettsklausur-neuhardenberg",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Kabinettsklausur Neuhardenberg: keine neuen Beschlüsse seit gestern",
+      "date": "2026-08-28",
+      "summary": "Nach dem gestrigen Abschluss der Klausur und dem offenen Koalitionsstreit um die 'Rente mit 63' gibt es heute keine neue Entwicklung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "merz-umfragetief-afd-vorsprung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Neue YouGov-Umfrage: AfD bei 28 Prozent, Union unverändert bei 20",
+      "date": "2026-08-28",
+      "summary": "Die AfD bleibt laut aktueller YouGov-Erhebung (14. bis 17. August) den fünften Monat in Folge stärkste Kraft, die Grünen erreichen mit 15 Prozent ihren höchsten Wert seit Januar 2025.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "autoindustrie-gewinneinbruch",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "VW-Sparkurs: Betriebsversammlung in Salzgitter als vierte Station der Werktour",
+      "date": "2026-08-28",
+      "summary": "Nach Wolfsburg, Zwickau und Emden fand heute die Betriebsversammlung in Salzgitter statt; der Aufsichtsrat berät am 4. September über die strategische Neuausrichtung.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "schulbrand-michaelsgymnasium-paderborn",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Brand am Michaelsgymnasium Paderborn: Ermittler gehen von fahrlässiger Brandstiftung aus",
+      "date": "2026-08-28",
+      "summary": "Beim Feuer im Dachstuhl des Gymnasiums und der Realschule St. Michael am Dienstag bekämpften mehr als 80 Einsatzkräfte einen hartnäckigen Glutbrand während laufender Bauarbeiten; ein 57-Jähriger wurde wegen Rauchgasinhalation leicht verletzt. Der Sachschaden geht in die Millionen, ein technischer Defekt gilt laut Polizei als Ursache ausgeschlossen.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "sc-paderborn-pokal-bundesliga-2026",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "SC Paderborn vor Bundesliga-Debüt: Kapitänsfrage geklärt, Kaderumbau vor Mainz-Spiel",
+      "date": "2026-08-28",
+      "summary": "Vor dem ersten Bundesliga-Spiel seit dem Aufstieg über die Relegation am Samstag bei Mainz 05 bleibt Felix Götze Vereinskapitän, in Mainz führt aber Laurin Curda die Mannschaft. Torhüter Seimen kehrte nach Stuttgart zurück, Verteidiger Brackelmann wechselte nach Augsburg; Trainer Kettemann muss vor dem Debüt noch Kaderentscheidungen treffen.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "domfestspiele-paderborn-2026",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Domfestspiele Paderborn eröffnen mit Comedy 'Caveman'",
+      "date": "2026-08-28",
+      "summary": "Die vierte Auflage der Domfestspiele startete am Donnerstagabend vor der Stadtbibliothek mit der Beziehungscomedy 'Caveman'; das Programm bis zum 1. September mischt Lesungen, Comedy und Konzerte, unter anderem mit Ulrike Folkerts und Max Moor.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "puraite-ki-ausgruendung-paderborn",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Paderborner Uni-Ausgründung Puraite bringt KI-Literatursuche in die medizinische Forschung",
+      "date": "2026-08-28",
+      "summary": "Das Start-up Puraite, eine Ausgründung der Universität Paderborn, entwickelt eine KI-gestützte semantische Suchmaschine, die systematische Literaturübersichten in der medizinischen Forschung beschleunigen soll. Das Team wurde mit über 1,1 Millionen Euro öffentlicher Förderung unterstützt und hat über die Universität Zugriff auf einen der leistungsfähigsten Supercomputer in NRW.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "pferderipper-serie-owl",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Pferderipper-Serie: erneuter Vorfall in Brakel, kein Ermittlungsdurchbruch",
+      "date": "2026-08-28",
+      "summary": "Am Mittwoch wurde in Brakel ein weiteres Pferd am Vorderbein verletzt - laut Radio Lippe der sechste Fall im Kreis Höxter in diesem Sommer; die Ermittlungsgruppe 'Pferd' hat weiterhin keinen Durchbruch.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "fahrbahnsanierung-b1-b64-paderborn",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "B1/B64-Sanierung: zusätzliche Vollsperrung der Detmolder Straße ab heute",
+      "date": "2026-08-28",
+      "summary": "Wegen Restasphaltarbeiten im Neubaugebiet Winkelland ist ab heute bis Dienstag die stadteinwärtige Spur der Detmolder Straße zusätzlich gesperrt; Umleitung über George-Marshall-Ring und Steubenstraße.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "konzertreihe-donnerstags-paderborn",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "'Donnerstags in Paderborn' mit dritter Ausgabe beendet",
+      "date": "2026-08-28",
+      "summary": "Die Konzertreihe ging gestern mit DJ Jones und der Band Royal Stage Army auf dem Domplatz in ihre dritte und letzte Runde der Saison.",
+      "status": "abgeschlossen"
+    },
+    {
+      "strang_id": "paderdies-kunstinstallation-naturkundemuseum",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Naturkundemuseum eröffnet morgen Installation 'Paderdies'",
+      "date": "2026-08-28",
+      "summary": "Die neue Installation zum Fluss Pader eröffnet am Samstag im Naturkundemuseum Paderborn.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "prophezeiungen-ausstellung-dioezesanmuseum",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Diözesanmuseum eröffnet Sonderausstellung 'Prophezeiungen' am Sonntag",
+      "date": "2026-08-28",
+      "summary": "Die Ausstellung 'Prophezeiungen - Wer deutet die Zeichen der Zeit?' läuft bis 31. Januar 2027 und verbindet unter anderem KI- und Algorithmen-Bezüge mit Hörstationen, etwa mit Jochen Malmsheimer.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "katharinenmarkt-delbrueck-wirtschaftsschau",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Katharinenmarkt Delbrück: Termin und Umfang der Wirtschaftsschau jetzt bestätigt",
+      "date": "2026-08-28",
+      "summary": "Die 51. Wirtschaftsschau findet vom 18. bis 21. September mit rund 80 Ausstellern auf 2.400 Quadratmetern Zeltfläche statt; für den Katharinenmarkt insgesamt werden rund 300.000 Besucher erwartet.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "gta6-netflix-reveal",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "social",
+      "title": "GTA-6-Netflix-Reveal löst geteiltes Social-Echo aus",
+      "date": "2026-08-28",
+      "summary": "Rockstar Games und Netflix veröffentlichten ein rund 26-minütiges Gameplay-Video zu 'Grand Theft Auto VI' mitten in der laufenden Leak-Kontroverse der vergangenen Wochen. Auf X, TikTok und in Gaming-Foren reichte die Reaktion von Begeisterung über Grafik und Sound bis zu Kritik, es wirke nur wie 'hübscheres GTA 5'.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "cat-in-the-hat-ai-horror-trend",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "social",
+      "title": "KI-Horrortrend um 'Cat in the Hat' versetzt Teenager in Irland in echte Angst",
+      "date": "2026-08-28",
+      "summary": "Ein TikTok-Trend mit KI-generierten Videos der Dr.-Seuss-Figur, die nachts auf Straßen auftaucht, hat sich zu einem handfesten Angst-Phänomen unter Jugendlichen vor allem in Irland ausgeweitet. Irische Polizeidienststellen sahen sich genötigt, öffentlich klarzustellen, dass die Clips KI-generiert beziehungsweise inszeniert und nicht real sind.",
+      "status": "laufend"
+    },
+    {
+      "strang_id": "meta-jugendschutz-vergleich-47-staaten",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "social",
+      "title": "Meta zahlt bis zu 17 Milliarden Dollar wegen Sucht-Design für Minderjährige",
+      "date": "2026-08-28",
+      "summary": "Meta hat sich mit 47 US-Bundesstaaten auf einen Vergleich geeinigt, um einen Prozess wegen mutmaßlich absichtlich suchterzeugender Plattform-Gestaltung für Minderjährige zu beenden. Der Deal sieht unter anderem ein Zwei-Stunden-Tageslimit für Unter-18-Jährige und standardmäßig ausgeblendete Like-Zahlen vor; Kritiker bezweifeln die Durchsetzbarkeit.",
+      "status": "laufend"
+    },
+    {
+      "category": "song",
+      "title": "Commit A Crime – The Rolling Stones",
+      "date": "2026-08-28",
+      "summary": "Blues-Cover ueber eine gestohlene Herzensangelegenheit - augenzwinkernder Bezug zum Quellen-Kontrast ueber den Villena-Kunstraub."
     }
   ]
 }
