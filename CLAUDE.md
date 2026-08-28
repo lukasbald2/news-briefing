@@ -204,9 +204,11 @@ Angaben sind die Grundlage fuer spaetere Auswertungen zur Medienauswahl.
 ## Blinde Flecken (Wochenausgabe, eingeführt 2026-08-13) — WICHTIG
 
 Nur in der Sonntags-Wochenausgabe: ein eigener Abschnitt
-`<section class="ebene" id="blindeflecken">` zwischen „Social" und „Song der
-Woche", der zeigt, was der Bericht selbst übersehen oder liegengelassen hat.
-Sektionsreihenfolge: `global, national, lokal, social, blindeflecken, song`.
+`<section class="ebene" id="blindeflecken">` NACH „Social", der zeigt, was der
+Bericht selbst übersehen oder liegengelassen hat. Seit dem Rückbau des Songs
+am 2026-08-28 ist er der LETZTE Abschnitt der Wochenausgabe.
+Sektionsreihenfolge sonntags: `global, national, lokal, social, blindeflecken`.
+Werktags: `global, national, lokal, social`.
 
 **Komponente A — fallengelassene Stränge.** Aus dem `straenge`-Index: Status
 `laufend`, `letzter_eintrag` mindestens 7 Tage her. Das sind Geschichten, die
@@ -236,9 +238,10 @@ eingestellten Quellen, keine Enthüllung. Keine Verschwörungs-Rahmung. Das
 Quellenqualitäts-Prinzip gilt weiter: mindestens zwei unabhängige Belege.
 
 **Vorlesefunktion:** `assets/readaloud.js` kennt die Sektions-ID
-`blindeflecken` (Eintrag in `LABELS` und in `defs`, zwischen `social` und
-`song`). An Werktagen fehlt die Sektion — unkritisch, `buildSections()`
-überspringt fehlende Elemente. Im Abschnitt nur `<h3>` und `<p>` verwenden.
+`blindeflecken` (Eintrag in `LABELS` und in `defs`). An Werktagen fehlt die
+Sektion — unkritisch, `buildSections()` überspringt fehlende Elemente. Das
+gilt seit dem Rückbau genauso für die Sektion `song`, die das Skript weiterhin
+kennt, aber nie mehr vorfindet. Im Abschnitt nur `<h3>` und `<p>` verwenden.
 
 **Quellennennung — wie beim Quellen-Kontrast:** Der **Medienname gehört in
 den Fließtext** des Absatzes; nur der Link kommt in ein separates
@@ -443,8 +446,7 @@ ursprünglichen Footer mit beiden Links unverändert.
 Jeder Bericht kann sich per Web-Speech-API (Browser-Sprachausgabe) vorlesen
 lassen: ein „Bericht vorlesen"-Button oben, ein kleiner Play-Button je Sektion
 und eine Playback-Leiste am unteren Bildschirmrand (Play/Pause, Skip/Back
-zwischen Sektionen, X zum Schließen). Bei der Song-des-Tages-Sektion wird die
-Begründung vorgelesen und anschließend der 30-Sekunden-Spotify-Clip gestartet.
+zwischen Sektionen, X zum Schließen).
 
 Die gesamte Logik liegt in **`assets/readaloud.js`** (self-contained: injiziert
 eigenes CSS, alle Buttons und die Leiste; scannt die vorhandene Sektionsstruktur).
@@ -462,8 +464,43 @@ Repo unter `/news-briefing/` ausliefert. Kein relativer Pfad verwenden.
 
 Voraussetzung im generierten HTML (ist im Standard-Layout bereits gegeben):
 Zusammenfassung als `header .ueberblick`, Sektionen als
-`<section class="ebene" id="global|national|lokal|social|song">`, Song-Embed als
-`#song .spotify-embed iframe`. Quellen (`.quelle`), Chips (`.tag`), Navigation
-(`nav.toc`), Bildunterschriften und Footer werden bewusst NICHT vorgelesen.
-Solange diese Struktur erhalten bleibt, funktioniert das Vorlesen automatisch —
+`<section class="ebene" id="global|national|lokal|social|blindeflecken">`.
+Quellen (`.quelle`), Chips (`.tag`), Navigation (`nav.toc`),
+Bildunterschriften und Footer werden bewusst NICHT vorgelesen. Solange diese
+Struktur erhalten bleibt, funktioniert das Vorlesen automatisch —
 `readaloud.js` muss beim normalen Lauf nicht angefasst werden.
+
+## Song des Tages — zurückgebaut am 2026-08-28
+
+Das Feature lief seit Anfang Juli: ein zum Tagesthema passender Song aus dem
+persönlichen Spotify-Geschmack, mit Begründung und eingebettetem Player. Es
+wurde eingestellt, weil es zu selten genutzt wurde — nicht, weil etwas kaputt
+war.
+
+**Was abgeschaltet ist:** Der Routine-Prompt ruft nichts mehr bei Spotify auf.
+Schritt 5 (werktags) und Sonntagspunkt d) sind als ENTFÄLLT markiert statt
+gelöscht — die Nummerierung bleibt, damit die Verweise auf Schritt 7a, 7b, 7c
+und Sonntagspunkt f) in diesem Dokument und in `data/themen.json` gültig
+bleiben. Der Bericht endet werktags mit „Social", sonntags mit den Blinden
+Flecken. Neue `song`-Einträge entstehen nicht mehr.
+
+**Was absichtlich liegen bleibt — nicht „aufräumen":**
+
+- **`assets/readaloud.js`** enthält weiterhin die komplette Spotify-Steuerung:
+  Iframe-API, Controller, Play/Pause-Zustandsautomat, den Eintrag `song` in
+  `LABELS` und `defs`. `setupSpotify()` hat drei Frühausstiege (keine
+  Song-Sektion, kein Embed, keine Track-ID) und lädt das externe Spotify-Skript
+  ERST danach. Ohne Song-Sektion passiert also nichts: kein Netzwerkaufruf,
+  kein Fehler. Wer das entfernt, macht einen späteren Wiedereinbau teuer, ohne
+  heute etwas zu gewinnen.
+- **`memory.json`** hatte beim Rückbau 31 `song`-Einträge. Sie laufen über die
+  bestehende 30-Tage-Regel von selbst aus; die Aufräumregel bleibt deshalb im
+  Prompt stehen, obwohl keine neuen mehr entstehen.
+- **Alte Berichte in `reports/`** behalten ihre Song-Abschnitte. Sie sind
+  Archiv, kein laufender Code.
+- **`data/archiv.jsonl`** war nie betroffen — die Kategorie `song` kam dort nie
+  hinein. Die Übersichtsseite hat deshalb keine Lücke.
+
+**Wiedereinbau** wäre damit reine Prompt-Arbeit: Schritt 5 und Sonntagspunkt d)
+wieder mit Inhalt füllen, den Song-Abschnitt in Schritt 6 ergänzen, Zugangsdaten
+in die Umgebung legen. `readaloud.js` kann es dann sofort wieder.
