@@ -43,6 +43,10 @@ Siehe `README.md`. Der eigentliche Routine-Ablauf (Recherche-Ebenen,
 Quellenregeln, Sonntags-Wochenausgabe) steht im Routine-Prompt, nicht hier.
 Gedächtnis der Routine: `memory.json`.
 
+`BACKLOG.md` im Repo-Root sammelt unpriorisierte Ideen für den weiteren Ausbau
+von Bericht und Übersichtsseite. Die Datei wird von Hand gepflegt und ist für
+den Tageslauf ohne Bedeutung: nicht lesen, nicht ändern, nicht aufräumen.
+
 ## Ausgewogenheit & Themenrotation (Nutzer-Feedback vom 2026-07-23) — WICHTIG
 
 Lukas hat am 23.07.2026 zurückgemeldet, dass sich v.a. die Global-Sektion
