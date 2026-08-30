@@ -21,7 +21,7 @@
    "titel": "Bundesweite Anti-AfD-Demonstrationen",
    "kategorie": "national",
    "erstmals_am": "2026-08-23",
-   "letzter_eintrag": "2026-08-25",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -29,7 +29,7 @@
    "titel": "Antisemitismus-Bericht: Deutschland weltweit höchste Vorfallzahl",
    "kategorie": "national",
    "erstmals_am": "2026-08-23",
-   "letzter_eintrag": "2026-08-25",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -37,7 +37,7 @@
    "titel": "Antisemitismusbeauftragter: Nachfolge nach Kleins Abgang",
    "kategorie": "national",
    "erstmals_am": "2026-08-26",
-   "letzter_eintrag": "2026-08-27",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -54,7 +54,7 @@
    "kategorie": "social",
    "erstmals_am": "2026-08-10",
    "letzter_eintrag": "2026-08-18",
-   "status": "laufend"
+   "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-30)"
   },
   {
    "id": "autohaeuser-fusion-bad-driburg",
@@ -69,7 +69,7 @@
    "titel": "Gewinneinbruch deutsche Autoindustrie",
    "kategorie": "national",
    "erstmals_am": "2026-08-17",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -85,7 +85,7 @@
    "titel": "Plagiatsvorwürfe Justizsenatorin Badenberg",
    "kategorie": "national",
    "erstmals_am": "2026-08-24",
-   "letzter_eintrag": "2026-08-26",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -94,7 +94,7 @@
    "kategorie": "social",
    "erstmals_am": "2026-08-12",
    "letzter_eintrag": "2026-08-23",
-   "status": "laufend"
+   "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-30)"
   },
   {
    "id": "bayreuther-festspiele-ki-ring",
@@ -133,7 +133,7 @@
    "titel": "'Cat in the Hat' KI-Horrortrend",
    "kategorie": "social",
    "erstmals_am": "2026-08-28",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -174,7 +174,7 @@
    "kategorie": "social",
    "erstmals_am": "2026-08-22",
    "letzter_eintrag": "2026-08-23",
-   "status": "laufend"
+   "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-30)"
   },
   {
    "id": "dance-moms-dingbat-trend",
@@ -213,15 +213,15 @@
    "titel": "Delbrücker Braumanufaktur Havarie",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-23",
-   "letzter_eintrag": "2026-08-23",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "deutsche-bank-energiehandel-comeback",
    "titel": "Deutsche Bank: Wiederaufbau Energiehandel",
    "kategorie": "national",
    "erstmals_am": "2026-08-22",
-   "letzter_eintrag": "2026-08-26",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -253,7 +253,7 @@
    "titel": "Domfestspiele Paderborn 2026",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-24",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -261,7 +261,7 @@
    "titel": "DR Kongo: Verifizierung der M23-Waffenruhe",
    "kategorie": "global",
    "erstmals_am": "2026-08-26",
-   "letzter_eintrag": "2026-08-27",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -269,7 +269,7 @@
    "titel": "Ebola-Ausbruch im Kongo",
    "kategorie": "global",
    "erstmals_am": "2026-08-10",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -285,7 +285,7 @@
    "titel": "E.ON-Sammelklage Fernwärme (OLG Hamm)",
    "kategorie": "national",
    "erstmals_am": "2026-08-24",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -317,7 +317,7 @@
    "titel": "Fahrbahnsanierung B1/B64 Paderborn",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-10",
-   "letzter_eintrag": "2026-08-28",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -373,7 +373,7 @@
    "titel": "Frühchen-Infektion Kinderklinik St. Louise Paderborn",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-24",
-   "letzter_eintrag": "2026-08-27",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -381,7 +381,7 @@
    "titel": "Fruehstart-Rente und Bafoeg-Reform",
    "kategorie": "national",
    "erstmals_am": "2026-08-12",
-   "letzter_eintrag": "2026-08-25",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -389,7 +389,7 @@
    "titel": "Gaza: Board-of-Peace-Friedensplan",
    "kategorie": "global",
    "erstmals_am": "2026-08-11",
-   "letzter_eintrag": "2026-08-28",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -397,7 +397,7 @@
    "titel": "Geheimdienstreform: erweiterte BND-Befugnisse",
    "kategorie": "national",
    "erstmals_am": "2026-08-12",
-   "letzter_eintrag": "2026-08-25",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -421,8 +421,8 @@
    "titel": "Grok-Kauderwelsch-Glitch",
    "kategorie": "social",
    "erstmals_am": "2026-08-24",
-   "letzter_eintrag": "2026-08-24",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "gruber-logistics-erfolgskurs-paderborn",
@@ -430,22 +430,22 @@
    "kategorie": "lokal",
    "erstmals_am": "2026-08-22",
    "letzter_eintrag": "2026-08-23",
-   "status": "laufend"
+   "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-30)"
   },
   {
    "id": "gta-6-leak-cyberleek",
    "titel": "GTA-6-Leak durch \"CyberLeek\"",
    "kategorie": "social",
    "erstmals_am": "2026-08-23",
-   "letzter_eintrag": "2026-08-23",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "gta6-netflix-reveal",
    "titel": "GTA 6 Netflix-Reveal",
    "kategorie": "social",
    "erstmals_am": "2026-08-28",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -469,8 +469,8 @@
    "titel": "Ifo-Geschäftsklimaindex",
    "kategorie": "national",
    "erstmals_am": "2026-08-28",
-   "letzter_eintrag": "2026-08-28",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "instagram-flash-filter-kontroverse",
@@ -485,8 +485,8 @@
    "titel": "Instagram-Logo-Meme „Instagzam\"",
    "kategorie": "social",
    "erstmals_am": "2026-08-26",
-   "letzter_eintrag": "2026-08-26",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "instagram-logo-instagzam-spott",
@@ -494,7 +494,7 @@
    "kategorie": "social",
    "erstmals_am": "2026-08-21",
    "letzter_eintrag": "2026-08-23",
-   "status": "laufend"
+   "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-30)"
   },
   {
    "id": "instagram-wecker-leidens-reels",
@@ -517,7 +517,7 @@
    "titel": "Fed-Chef Warsh: erste Grundsatzrede in Jackson Hole",
    "kategorie": "global",
    "erstmals_am": "2026-08-24",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -525,7 +525,7 @@
    "titel": "Jemen/Huthi-Eskalation Rotes Meer",
    "kategorie": "global",
    "erstmals_am": "2026-08-23",
-   "letzter_eintrag": "2026-08-28",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -541,8 +541,8 @@
    "titel": "Jennie/Blackpink: Wardrobe-Video-Streit",
    "kategorie": "social",
    "erstmals_am": "2026-08-26",
-   "letzter_eintrag": "2026-08-26",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "jimothy-night-mariners",
@@ -550,7 +550,7 @@
    "kategorie": "social",
    "erstmals_am": "2026-08-05",
    "letzter_eintrag": "2026-08-23",
-   "status": "laufend"
+   "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-30)"
   },
   {
    "id": "jon-hamm-tiktok-meme",
@@ -565,7 +565,7 @@
    "titel": "Jugendwort 2026: 'Du bist gut genug'",
    "kategorie": "social",
    "erstmals_am": "2026-08-06",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -573,15 +573,15 @@
    "titel": "Kanter Freedom/WNBA-Konfrontation",
    "kategorie": "social",
    "erstmals_am": "2026-08-25",
-   "letzter_eintrag": "2026-08-25",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "katharinenmarkt-delbrueck-wirtschaftsschau",
    "titel": "Katharinenmarkt Delbrück: Wirtschaftsschau",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-27",
-   "letzter_eintrag": "2026-08-28",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -606,7 +606,7 @@
    "kategorie": "social",
    "erstmals_am": "2026-08-14",
    "letzter_eintrag": "2026-08-23",
-   "status": "laufend"
+   "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-30)"
   },
   {
    "id": "konzertreihe-donnerstags-paderborn",
@@ -621,7 +621,7 @@
    "titel": "Vollsperrung Kreisstrasse Dalheim",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-12",
-   "letzter_eintrag": "2026-08-26",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -630,15 +630,15 @@
    "kategorie": "social",
    "erstmals_am": "2026-08-07",
    "letzter_eintrag": "2026-08-17",
-   "status": "laufend"
+   "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-30)"
   },
   {
    "id": "la-peace-meme",
    "titel": "'La Peace'-Meme (Kai Cenat)",
    "kategorie": "social",
    "erstmals_am": "2026-08-27",
-   "letzter_eintrag": "2026-08-27",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "landpartie-schloss-neuhaus",
@@ -669,8 +669,8 @@
    "titel": "LinkedIn „AI slop\"-Meldebutton",
    "kategorie": "social",
    "erstmals_am": "2026-08-26",
-   "letzter_eintrag": "2026-08-26",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "locarno-filmfestival-deutschland",
@@ -685,7 +685,7 @@
    "titel": "Mali: HRW-Bericht zu Africa-Corps-Massaker",
    "kategorie": "global",
    "erstmals_am": "2026-08-23",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -701,7 +701,7 @@
    "titel": "Forsa-Umfragetief Merz / AfD-Vorsprung",
    "kategorie": "national",
    "erstmals_am": "2026-08-13",
-   "letzter_eintrag": "2026-08-28",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -709,7 +709,7 @@
    "titel": "Messerangriff Salitos Beach Paderborn: Razzien",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-23",
-   "letzter_eintrag": "2026-08-26",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -717,15 +717,15 @@
    "titel": "Meta-Jugendschutz-Vergleich (47 Staaten)",
    "kategorie": "social",
    "erstmals_am": "2026-08-28",
-   "letzter_eintrag": "2026-08-28",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "meta-kindersicherheit-prozess",
    "titel": "Kindersicherheitsprozess gegen Meta (Oakland)",
    "kategorie": "global",
    "erstmals_am": "2026-08-20",
-   "letzter_eintrag": "2026-08-26",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -733,8 +733,8 @@
    "titel": "Mötley Crüe: KI-Konzert-Intro-Kritik",
    "kategorie": "social",
    "erstmals_am": "2026-08-27",
-   "letzter_eintrag": "2026-08-27",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "musk-grok-odyssee-wettbewerb",
@@ -742,14 +742,14 @@
    "kategorie": "social",
    "erstmals_am": "2026-08-19",
    "letzter_eintrag": "2026-08-23",
-   "status": "laufend"
+   "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-30)"
   },
   {
    "id": "nahost-iran-spannung",
    "titel": "Nahost: Hormuz-Spannung und Verteidigungspakt",
    "kategorie": "global",
    "erstmals_am": "2026-08-07",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -765,7 +765,7 @@
    "titel": "NASA-Weltraumteleskop Nancy Grace Roman",
    "kategorie": "global",
    "erstmals_am": "2026-08-25",
-   "letzter_eintrag": "2026-08-27",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -773,7 +773,7 @@
    "titel": "Flutkatastrophe Nepal/Tibet",
    "kategorie": "global",
    "erstmals_am": "2026-08-27",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -797,7 +797,7 @@
    "titel": "Generalbundesanwalt lässt zweiten Nord-Stream-Verdächtigen in Kroatien festnehmen",
    "kategorie": "national",
    "erstmals_am": "2026-08-21",
-   "letzter_eintrag": "2026-08-26",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -829,8 +829,8 @@
    "titel": "Jugendinitiative „Obolus\" Paderborn",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-26",
-   "letzter_eintrag": "2026-08-26",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "openai-summer-club-backlash",
@@ -853,7 +853,7 @@
    "titel": "Kunstinstallation „Paderdies\" im Naturkundemuseum Paderborn",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-26",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -877,15 +877,15 @@
    "titel": "Petermann-Gletscher: Eisinsel-Kalbung",
    "kategorie": "global",
    "erstmals_am": "2026-08-26",
-   "letzter_eintrag": "2026-08-26",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "pferderipper-serie-owl",
    "titel": "Pferderipper-Serie in OWL",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-06",
-   "letzter_eintrag": "2026-08-28",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -893,7 +893,7 @@
    "titel": "Pflegeversicherung-Defizit ab 2027",
    "kategorie": "national",
    "erstmals_am": "2026-08-25",
-   "letzter_eintrag": "2026-08-27",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -901,7 +901,7 @@
    "titel": "Ausstellung 'Prophezeiungen' im Diözesanmuseum Paderborn",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-27",
-   "letzter_eintrag": "2026-08-28",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -909,8 +909,8 @@
    "titel": "Puraite KI-Ausgründung Uni Paderborn",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-28",
-   "letzter_eintrag": "2026-08-28",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "quartalszahlen-saison",
@@ -933,7 +933,7 @@
    "titel": "Rentenstreit in der Koalition (Rente mit 63)",
    "kategorie": "national",
    "erstmals_am": "2026-08-05",
-   "letzter_eintrag": "2026-08-26",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -957,7 +957,7 @@
    "titel": "Sambia-Präsidentschaftswahl 2026 / Wahlanfechtung",
    "kategorie": "global",
    "erstmals_am": "2026-08-15",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -965,7 +965,7 @@
    "titel": "Siemens/SAP: Wettlauf um wertvollsten DAX-Konzern",
    "kategorie": "national",
    "erstmals_am": "2026-08-23",
-   "letzter_eintrag": "2026-08-26",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -989,7 +989,7 @@
    "titel": "SC Paderborn: Pokal und Bundesliga-Rückkehr",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-25",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -1013,7 +1013,7 @@
    "titel": "Schulbrand Michaelsgymnasium Paderborn",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-28",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -1037,8 +1037,8 @@
    "titel": "Shake-Shack-\"No Tip\"-Debatte / Tipping Fatigue",
    "kategorie": "social",
    "erstmals_am": "2026-08-23",
-   "letzter_eintrag": "2026-08-23",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "six-seven-brazilian-funk-tiktok",
@@ -1102,14 +1102,14 @@
    "kategorie": "social",
    "erstmals_am": "2026-08-16",
    "letzter_eintrag": "2026-08-17",
-   "status": "laufend"
+   "status": "abgeschlossen (fallengelassen, gemeldet am 2026-08-30)"
   },
   {
    "id": "steinmeier-nachfolge",
    "titel": "Debatte um Steinmeier-Nachfolge",
    "kategorie": "national",
    "erstmals_am": "2026-08-07",
-   "letzter_eintrag": "2026-08-26",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -1133,15 +1133,15 @@
    "titel": "Südkorea: Leitzinserhöhungen der Notenbank",
    "kategorie": "global",
    "erstmals_am": "2026-08-27",
-   "letzter_eintrag": "2026-08-27",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "tarifverhandlung-einzelhandel-mitteldeutschland",
    "titel": "Tarifverhandlung Einzelhandel Mitteldeutschland",
    "kategorie": "national",
    "erstmals_am": "2026-08-19",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -1197,7 +1197,7 @@
    "titel": "Ukraine-Krieg: Angriffswellen und Gegenangriffe",
    "kategorie": "global",
    "erstmals_am": "2026-08-05",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -1205,7 +1205,7 @@
    "titel": "Unwetterserie mit Tornado-Verdacht in mehreren Bundesländern",
    "kategorie": "national",
    "erstmals_am": "2026-08-20",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -1229,7 +1229,7 @@
    "titel": "Villena-Kunstraub Spanien",
    "kategorie": "global",
    "erstmals_am": "2026-08-28",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -1237,7 +1237,7 @@
    "titel": "Misstrauensvotum gegen Voigt (Thüringen)",
    "kategorie": "national",
    "erstmals_am": "2026-08-28",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -1253,7 +1253,7 @@
    "titel": "Waldbrand Hohes Venn bei Monschau",
    "kategorie": "national",
    "erstmals_am": "2026-08-18",
-   "letzter_eintrag": "2026-08-27",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -1269,7 +1269,7 @@
    "titel": "Waldbrand Rodenbach (Brandstiftungsverdacht)",
    "kategorie": "national",
    "erstmals_am": "2026-08-13",
-   "letzter_eintrag": "2026-08-26",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -1277,7 +1277,7 @@
    "titel": "Waldbrandgefahr in OWL",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-17",
-   "letzter_eintrag": "2026-08-27",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -1285,7 +1285,7 @@
    "titel": "Warsteiner/Haus Cramer: Zukunftssuche Paderborn",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-07",
-   "letzter_eintrag": "2026-08-29",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -1301,7 +1301,7 @@
    "titel": "Weser-Niedrigwasser bei Höxter",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-15",
-   "letzter_eintrag": "2026-08-25",
+   "letzter_eintrag": "2026-08-30",
    "status": "laufend"
   },
   {
@@ -1333,32 +1333,32 @@
    "titel": "TikTok/ByteDance-COPPA-Vergleich",
    "kategorie": "social",
    "erstmals_am": "2026-08-29",
-   "letzter_eintrag": "2026-08-29",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "apple-ceo-wechsel-ternus",
    "titel": "Apple-CEO-Wechsel: Tim Cook zu John Ternus",
    "kategorie": "global",
    "erstmals_am": "2026-08-29",
-   "letzter_eintrag": "2026-08-29",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "dax-rekordhoch-2026",
    "titel": "DAX-Rekordhoch nach Warsh-Rede",
    "kategorie": "national",
    "erstmals_am": "2026-08-29",
-   "letzter_eintrag": "2026-08-29",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   },
   {
    "id": "walmart-boykott-darling-bann",
    "titel": "Walmart-Boykottaufruf nach Damon-Darling-Bann",
    "kategorie": "social",
    "erstmals_am": "2026-08-29",
-   "letzter_eintrag": "2026-08-29",
-   "status": "neu"
+   "letzter_eintrag": "2026-08-30",
+   "status": "laufend"
   }
  ],
  "entries": [
@@ -3800,13 +3800,6 @@
   },
   {
    "category": "global",
-   "title": "Big-Tech-Bilanzen: Meta enttäuscht, Microsoft übertrifft dank Azure",
-   "date": "2026-07-30",
-   "summary": "Eigener Artikel, Themenmix Wirtschaft/Technologie. Meta-Umsatz 60,8 Mrd. USD (+27%), EPS verfehlt (6,18 statt 7,18 USD erwartet). Microsoft-Azure erstmals über 100 Mrd. USD Quartalsumsatz. Apple/Amazon berichten am 30.7. Einmaliges Bilanz-Ereignis.",
-   "status": "abgeschlossen"
-  },
-  {
-   "category": "global",
    "title": "Weitere laufende globale Stränge (nur Hinweisblock)",
    "date": "2026-07-30",
    "summary": "Ukraine/Selenskyj-Trump: erneutes Treffen 28./29.7. ohne neue Ergebnisse. Getreidekorridor: weiter blockiert, UN-Sicherheitsrat ohne Resolution, Weizenpreise +20%. Venezuela-Erdbeben: weiter über 5.500 Tote, keine neue Zahl. Ebola Kongo: 3.262 Fälle/1.437 Tote (Stand 27.7.), Uganda seit 21.6. ohne Neufall. Sudan: RSF greift El-Obeid nahezu täglich an, Genozid-Muster-Warnung. Waldbrand Madrid: stabilisierend, nicht gelöscht; Frankreich/Bordeaux-Evakuierungen dauern an.",
@@ -3814,38 +3807,10 @@
   },
   {
    "category": "national",
-   "title": "Thorsten Frei mit 91,9% zum Unionsfraktionschef gewählt",
-   "date": "2026-07-30",
-   "summary": "Eigener Artikel (Abschluss). Sondersitzung 29.7., 170 von 185 Stimmen für Frei als Spahn-Nachfolger. Letzter offener Baustein des Kabinettsumbaus damit besetzt. Kein weiterer Nachverfolgungsbedarf.",
-   "status": "abgeschlossen"
-  },
-  {
-   "category": "national",
-   "title": "Hitzewelle erreicht Höhepunkt, Gewitter beenden sie ab dem Wochenende",
-   "date": "2026-07-30",
-   "summary": "Eigener Artikel (Höhepunkt + absehbares Ende, dritter Tag in Folge eigener Artikel zur Hitzewelle, damit Strang-Abschluss). Bis zu 39-40 Grad am 30.7. (Allzeitrekord von Ende Juni nicht erreicht), danach Kaltluftvorstoß mit Gewittern, ab Samstag deutlich frischer, kommende Woche nur noch 20-25 Grad.",
-   "status": "abgeschlossen"
-  },
-  {
-   "category": "national",
-   "title": "Deutsche Bank mit höchstem Quartalsgewinn seit fast 20 Jahren, BASF hebt Prognose an",
-   "date": "2026-07-30",
-   "summary": "Eigener Artikel, Themenmix Wirtschaft. Deutsche Bank Vorsteuerergebnis 2,68 Mrd. Euro, Nettogewinn 1,64 Mrd. (+10%), Investmentbank +60%. BASF Umsatz +16% auf 17,2 Mrd., EBITDA 2,4 Mrd., Prognoseanhebung. Einmaliges Bilanz-Ereignis.",
-   "status": "abgeschlossen"
-  },
-  {
-   "category": "national",
    "title": "Weitere laufende nationale Stränge (nur Hinweisblock)",
    "date": "2026-07-30",
    "summary": "CSD-Anschlag/Jugendstrafrecht: Dobrindt fordert weiterhin Fußfesseln/Präventivhaft, kein Gesetzentwurf. VW-Krise: keine neue Aufsichtsratsentscheidung seit 9.7., nur Tarifpaket 35.000 Stellen bestätigt. Geheimdienstreform: weiterhin kein Kabinettsbeschluss, frühestens August. Lufthansa 'New Ways': Freiwilligenprogramm läuft unverändert weiter.",
    "status": "laufend"
-  },
-  {
-   "category": "lokal",
-   "title": "NRW-Ministerpräsident Wüst beim Libori-Tag des Handwerks in Paderborn",
-   "date": "2026-07-30",
-   "summary": "Eigener Artikel, Themenmix Wirtschaft/Gesellschaft. Wüst als Festredner beim Tag des Handwerks der Kreishandwerkerschaft Paderborn-Lippe, Nachmittag an der Maspernhalle. Einmaliger Termin.",
-   "status": "abgeschlossen"
   },
   {
    "category": "lokal",
@@ -3888,14 +3853,6 @@
    "date": "2026-07-30",
    "summary": "Saxophone-Trend läuft als dominantes Format weiter. Jimothy der Waschbär, Weißes-Haus-TikTok/Pattinson-Beggars-Meme: keine neue Entwicklung. Tate-Brüder: Kautions-Anhörung weiter auf 13.8. terminiert.",
    "status": "laufend"
-  },
-  {
-   "category": "song",
-   "title": "Burn Bright – The Heavy",
-   "date": "2026-07-30",
-   "summary": "Song des Tages, gewählt aus Lukas' zuletzt gehörten Titeln (29.7. nachmittags, nicht in den letzten 14 Tagen vorgeschlagen). Doppelte Bildsprache: Hitzewellen-Höhepunkt und wiederaufgeflammter US-Iran-Konflikt 'brennen' beide heute, bevor eine Gewitterfront zumindest die Hitze abkühlt.",
-   "status": "neu",
-   "quelle": "recently-played"
   },
   {
    "category": "global",
@@ -12525,6 +12482,706 @@
    "title": "KI-Horrortrend „Cat in the Hat\" hält in Irland unverändert an",
    "date": "2026-08-29",
    "summary": "Der Trend hält unverändert an, Polizeidienststellen bestätigen weiterhin, dass die Clips KI-generiert sind.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "nahost-iran-spannung",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "global",
+   "title": "Iran und Oman einigen sich auf befristeten Hormuz-Korridor, Jemen-Front bleibt hochriskant",
+   "date": "2026-08-30",
+   "summary": "Wochenrückblick: Nach Auslaufen des US-Iran-Übergangsabkommens am 17.8. und Trump-Drohungen gegen Oman einigten sich Iran und Oman am 25.8. auf einen befristeten, elf Kilometer breiten Schifffahrtskorridor durch die Straße von Hormus; eine vollständige Öffnung ist damit nicht verbunden, Weiterverhandlungen laufen.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "jemen-huthi-eskalation",
+   "form": "artikel",
+   "kontrast": true,
+   "category": "global",
+   "title": "Jemen: Huthi-Rakete trifft saudischen Supertanker, UN warnt vor Rückfall in den Vollkrieg",
+   "date": "2026-08-30",
+   "summary": "Wochenrückblick: Huthi-Offensive in mehreren Provinzen seit Anfang August, Seeblockade gegen Saudi-Arabien, am 24.8. erster Raketentreffer auf einen saudischen Supertanker (Amzan) vor Yanbu; UN-Sondergesandter Grundberg warnt vor höchstem Kriegsrisiko seit 2022. Quellen-Kontrast (Al Jazeera/Bloomberg/Gulf News).",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "sambia-praesidentschaftswahl-2026",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "global",
+   "title": "Sambia: Vom Haftbefehl gegen Mundubile zur bevorstehenden Vereidigung Hichilemas",
+   "date": "2026-08-30",
+   "summary": "Wochenrückblick: Nach Blockade-Vorwürfen, geschlossenen Gerichten und Mundubiles Zuflucht bei der UN erging Haftbefehl wegen Hochverrats; er stellte sich am 28.8. der Polizei. Anfechtungsfrist verstrichen ohne Petition, Vereidigung Hichilemas für 1.9. in Lusaka bestätigt, Xi Jinping entsendet Sonderbeauftragten.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "nepal-tibet-flutkatastrophe",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "global",
+   "title": "Flutkatastrophe Nepal/Tibet: Totenzahl von 162 auf über 680 gestiegen, zweiter Gletschersee droht",
+   "date": "2026-08-30",
+   "summary": "Wochenrückblick: Gletscherkollaps am 26.8. löste Flutwelle im Bhote-Koshi-Tal aus; Totenzahl wuchs von zunächst 162 auf mindestens 682, über 3.000 weiterhin vermisst, darunter bis zu 90 US-Bürger. Ein zweiter neu entstandener Gletschersee droht zu bersten, über 7.500 Menschen bereits gerettet.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "nasa-roman-weltraumteleskop",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "global",
+   "title": "NASA startet Weltraumteleskop „Nancy Grace Roman\" neun Monate früher als geplant",
+   "date": "2026-08-30",
+   "summary": "Start des Weltraumteleskops für Sonntag, 07:26 Uhr Ostküstenzeit, per Falcon Heavy freigegeben; Ziel u.a. Vermessung Dunkler Energie und Zensus von Exoplaneten, bis zu 100.000 neue Funde erwartet. Ergebnis des Starts lag bei Redaktionsschluss noch nicht vor.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "ukraine-krieg",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Ukraine-Krieg: weiterhin tägliche Angriffswellen ohne diplomatische Bewegung",
+   "date": "2026-08-30",
+   "summary": "Russische Angriffswellen hielten die ganze Woche an, keine neue diplomatische Bewegung; Kyjiw setzt nach ausbleibenden zusätzlichen US-Patriot-Abfangraketen verstärkt auf europäische Waffentechnologie wie Storm-Shadow-Transfers.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "ebola-kongo-ausbruch",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Ebola-Ausbruch Kongo wächst auf 5.794 Fälle, Africa CDC warnt vor Dunkelziffer",
+   "date": "2026-08-30",
+   "summary": "Der tödlichste Ebola-Ausbruch der kongolesischen Geschichte wuchs auf 5.794 bestätigte Fälle und 2.786 Tote; die Afrikanische Gesundheitsbehörde Africa CDC warnt, die reale Fallzahl könne bis zu dreimal höher liegen.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "gaza-friedensplan",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Gaza-Friedensplan bleibt nach Mladenovs Warnung ohne neue Bewegung",
+   "date": "2026-08-30",
+   "summary": "UN-Sondergesandter Mladenov warnte den Sicherheitsrat vor einem 'Punkt ohne Wiederkehr' beim Scheitern der Waffenruhe; seither keine neue Entwicklung, israelische Angriffe halten laut Berichten an.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "mali-africa-corps-massaker",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Mali: Gefangenenaustausch und neue Nachschubroute der Africa Corps bekannt",
+   "date": "2026-08-30",
+   "summary": "Zwei gefangene Wagner-Söldner wurden freigelassen, zudem wurde eine neue Nachschubroute der russischen Africa Corps über Burkina Faso bekannt.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "drk-m23-waffenruhe-verifizierung",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "DRK-M23-Verifizierungsmission reist weiter, noch ohne Ergebnisse",
+   "date": "2026-08-30",
+   "summary": "Die Verifizierungsmission zur DR-Kongo-M23-Waffenruhe reiste von Minembwe nach Uvira/Kalehe weiter; beide Seiten werfen sich unbestätigte Vorfälle vor, ein Ergebnis liegt noch nicht vor.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "villena-kunstraub-spanien",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Villena-Kunstraub: weiterhin keine Festnahme",
+   "date": "2026-08-30",
+   "summary": "Die Guardia Civil prüft weiterhin Video- und Fahrzeugmaterial und vermutet eine auf Kulturgüter spezialisierte Bande; Europol warnt vor einer Zunahme solcher Netzwerke in Europa.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "apple-ceo-wechsel-ternus",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Apple-Führungswechsel: Ternus übernimmt zum 1. September von Cook",
+   "date": "2026-08-30",
+   "summary": "Zum 1. September übernimmt John Ternus offiziell die Konzernführung von Tim Cook, der Executive Chairman wird; das Herbst-Event mit erwartetem faltbaren iPhone ist für den 9. September angekündigt.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "meta-kindersicherheit-prozess",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Kindersicherheitsprozess gegen Meta: weitere belastende Zeugenaussagen",
+   "date": "2026-08-30",
+   "summary": "Im Oakland-Prozess sagten weitere frühere Meta-Manager aus, Zuckerberg habe Wachstum systematisch über Kindersicherheit gestellt; der Prozess läuft weiter ohne Urteil in dieser Woche.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "jackson-hole-fed-warsh-rede",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Fed-Chef Warsh warnt in Jackson Hole vor anhaltender Inflation",
+   "date": "2026-08-30",
+   "summary": "Warsh warnte in seiner ersten großen Grundsatzrede vor anhaltend hoher Inflation; die Wahrscheinlichkeit einer Zinserhöhung im September stieg laut CME-FedWatch-Index deutlich.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "petermann-gletscher-kalbung",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Petermann-Gletscher: Eisinsel-Kalbung bleibt größtes Ereignis seit 2020",
+   "date": "2026-08-30",
+   "summary": "Die rund 76 Quadratkilometer große, von Grönlands Petermann-Gletscher gelöste Eisinsel bleibt das größte arktische Kalbungsereignis seit 2020, keine neue Entwicklung.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "suedkorea-leitzinserhoehung",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Südkorea: zweite Leitzinserhöhung in Folge auf 3,0 Prozent bleibt Stand",
+   "date": "2026-08-30",
+   "summary": "Südkoreas Notenbank hatte den Leitzins wegen Preisdrucks bei robustem, halbleitergetriebenem Wachstum zum zweiten Mal in Folge erhöht; keine neue Entwicklung seither.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "merz-umfragetief-afd-vorsprung",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "national",
+   "title": "AfD hält Umfragevorsprung den fünften Monat in Folge, Abstand zur Union wächst wieder",
+   "date": "2026-08-30",
+   "summary": "Wochenrückblick: YouGov bestätigt die AfD bei 28 Prozent, fünfter Monat in Folge stärkste Kraft mit erstmals wieder wachsendem statt stagnierendem Abstand zur Union (20 Prozent); Insa maß den niedrigsten Unionswert seit Oktober 2021, Grüne bei 15 Prozent auf Jahreshoch.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "anti-afd-demonstrationen-bundesweit",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "national",
+   "title": "Bundesweite Anti-AfD-Demonstrationen vor den Landtagswahlen im September",
+   "date": "2026-08-30",
+   "summary": "Am Wochenende 22./23.8. demonstrierten in zahlreichen Städten (u.a. Berlin, Kassel, Karlsruhe, München) erneut Tausende gegen die AfD vor den Landtagswahlen in Sachsen-Anhalt und Mecklenburg-Vorpommern.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "voigt-misstrauensvotum-thueringen",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "national",
+   "title": "AfD scheitert im zweiten Anlauf mit Misstrauensvotum gegen Thüringens Ministerpräsidenten Voigt",
+   "date": "2026-08-30",
+   "summary": "Höcke erhielt in geheimer Wahl nur 33 von nötigen 45 Stimmen gegen Voigt, Anlass war erneut Voigts aberkannter Doktortitel; mindestens eine Stimme kam aus einer anderen Fraktion als der AfD.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "autoindustrie-gewinneinbruch",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "national",
+   "title": "VW-Werktour durch fünf Standorte, Beschäftigung auf tiefstem Stand seit 2005",
+   "date": "2026-08-30",
+   "summary": "Wochenrückblick: Vier von neun Betriebsversammlungen (Wolfsburg, Zwickau, Emden, Salzgitter) zum Sparkurs absolviert, Management soll zusätzlich zum Stellenabbau um ein Viertel schrumpfen; Beschäftigung branchenweit auf tiefstem Stand seit 2005, BMW-Halbjahresgewinn -28,5 Prozent.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "dax-rekordhoch-2026",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "national",
+   "title": "DAX erreicht nach Warsh-Rede neues Rekordhoch",
+   "date": "2026-08-30",
+   "summary": "Der DAX kletterte nach der als klärend gewerteten Jackson-Hole-Rede von Fed-Chef Warsh auf ein Rekordhoch von 26.618,74 Punkten, getragen auch von starken US-Technologiewerten.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "ifo-geschaeftsklimaindex",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "national",
+   "title": "Ifo-Geschäftsklima steigt vierten Monat in Folge stärker als erwartet",
+   "date": "2026-08-30",
+   "summary": "Der Ifo-Index kletterte im August von 86,7 auf 88,8 Punkte, höchster Stand seit rund einem Jahr, während die Industrie weiter über schwache Auftragslage klagt.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "waldbrand-hohes-venn-monschau",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "national",
+   "title": "Waldbrand Hohes Venn: Glutnester im Torfmoor bleiben trotz Regens Rückfallrisiko",
+   "date": "2026-08-30",
+   "summary": "Die Front zur deutschen Grenze gilt weiterhin als eingedämmt, doch unterirdische Glutnester im Torfmoor schwelen laut Feuerwehr trotz zwischenzeitlichen Regens weiter und bleiben ein wetterabhängiges Risiko.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "unwetter-tornado-mehrere-bundeslaender",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "national",
+   "title": "Orkanböen und Hagel richten schwere Schäden am Bodensee an",
+   "date": "2026-08-30",
+   "summary": "Der DWD rief die höchste Warnstufe für die Bodensee-Region aus; im Singener Ortsteil Bohlingen wurden rund 100 Dächer abgedeckt, rund 200 Feuerwehreinsätze, eine verletzte Person — die zweite schwere Unwetterwelle des Spätsommers.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "rentenstreit-koalition",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "national",
+   "title": "Rentenstreit: Härtefallregelung signalisiert, dann Konflikt um Länderchefs-Vorstoß",
+   "date": "2026-08-30",
+   "summary": "Unionsfraktionsvize Frei nannte eine Härtefallregelung bei der Rente mit 63 erstmals 'in jedem Fall angezeigt'; ein eigener Vorstoß dreier CDU-Länderchefs (Kretschmer, Voigt, Schulze) wurde von Merz nach der Kabinettsklausur zurückgewiesen — offener Koalitionskonflikt vor der Sachsen-Anhalt-Wahl.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "pflegeversicherung-defizit-2027",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "national",
+   "title": "AOK warnt vor Acht-Milliarden-Loch in der Pflegeversicherung ab 2027",
+   "date": "2026-08-30",
+   "summary": "AOK-Chefin Reimann warnt vor einem Defizit von acht Milliarden Euro ab 2027 und fordert Finanzausgleich sowie Steuerfinanzierung gemeinwohlorientierter Aufgaben der Pflegeversicherung.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "fruehstartrente-bafoegreform",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "national",
+   "title": "Frühstart-Rente/BAföG-Reform: Kritik an später wirksamer Wohnkostenpauschale hält an",
+   "date": "2026-08-30",
+   "summary": "Der Kabinettsbeschluss vom 12. August zu Frühstart-Rente und BAföG-Reform bleibt Stand; Kritik an der erst 2027 wirksamen Anhebung der Wohnkostenpauschale hielt die ganze Woche über an.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "nordstream-sabotage-festnahme-kroatien",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Zweiter Nord-Stream-Verdächtiger legt Rechtsmittel gegen Auslieferung ein",
+   "date": "2026-08-30",
+   "summary": "Der in Kroatien inhaftierte zweite Nord-Stream-Verdächtige legte Rechtsmittel gegen seine Auslieferung ein; das Verfahren muss binnen 60 Tagen abgeschlossen sein.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "antisemitismus-bericht-deutschland",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Antisemitismus-Bericht: keine neuen Zahlen seit weltweit höchster Pro-Kopf-Rate",
+   "date": "2026-08-30",
+   "summary": "Der J7/ADL-Bericht zur weltweit höchsten Rate antisemitischer Vorfälle pro Kopf blieb ohne neue Zahlen diese Woche.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "antisemitismusbeauftragter-nachfolge-klein",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Antisemitismusbeauftragter: Nachfolge nach Kleins Abgang weiterhin offen",
+   "date": "2026-08-30",
+   "summary": "Felix Klein schied nach acht Jahren aus dem Amt und wechselt zur deutschen OECD-Vertretung in Paris; Dobrindt kündigte weiterhin nur eine 'baldige' Nachfolge an, ohne Namen zu nennen.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "badenberg-plagiatsvorwuerfe-berlin",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Plagiatsprüfung gegen Justizsenatorin Badenberg dauert an",
+   "date": "2026-08-30",
+   "summary": "Die Prüfung der Plagiatsvorwürfe durch die Universität Köln dauert an, ein Ergebnis vor der Berlin-Wahl am 20. September gilt als unwahrscheinlich; Finanzsenator Evers stützt Badenberg weiter.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "sap-siemens-marktkapitalisierung",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Siemens und SAP liefern sich weiter Kopf-an-Kopf-Rennen um DAX-Spitzenplatz",
+   "date": "2026-08-30",
+   "summary": "Keine klare Entscheidung im Wettlauf um den Titel des wertvollsten DAX-Konzerns zwischen Siemens und SAP.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "tarifverhandlung-einzelhandel-mitteldeutschland",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Tarifstreit Einzelhandel: Verdi hält nach gescheiterter fünfter Runde an Warnstreik-Drohung fest",
+   "date": "2026-08-30",
+   "summary": "Nach der ergebnislosen fünften Verhandlungsrunde in Hessen und NRW lehnte Verdi ein überarbeitetes Arbeitgeberangebot ab und droht mit verschärften bundesweiten Warnstreiks.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "eon-fernwaerme-sammelklage-olg-hamm",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "E.ON-Fernwärme-Sammelklage: Beitrittsfrist läuft bis 14. September",
+   "date": "2026-08-30",
+   "summary": "Die Frist zum Beitritt zur Sammelklage vor dem OLG Hamm läuft noch bis zum 14. September, ein Urteil wird für den 12. Oktober erwartet.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "geheimdienstreform-bnd-verfassungsschutz",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Geheimdienstreform bleibt beim Kabinettsbeschluss vom 12. August",
+   "date": "2026-08-30",
+   "summary": "Kein neuer Fortschritt bei der Geheimdienstreform mit erweiterten BND-Befugnissen, ein Bundestagstermin ist weiterhin offen.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "steinmeier-nachfolge",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Steinmeier-Nachfolge: weiterhin keine Einigung auf gemeinsame Kandidatur",
+   "date": "2026-08-30",
+   "summary": "Namen wie Merkel, Aigner, di Fabio und Rhein kursieren weiter, Forsa sieht Merkel als Publikumsfavoritin; keine Einigung auf eine gemeinsame Kandidatur in Sicht.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "waldbrand-rodenbach-brandstiftung",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Waldbrand Rodenbach: weiterhin kein Tatverdächtiger",
+   "date": "2026-08-30",
+   "summary": "Die Polizei geht bei den rund 55 betroffenen Hektar weiterhin von Brandstiftung aus, ein konkreter Tatverdächtiger ist nicht identifiziert.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "deutsche-bank-energiehandel-comeback",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Deutsche Bank baut Energiehandel mit weiteren Neueinstellungen aus",
+   "date": "2026-08-30",
+   "summary": "Weitere Neueinstellungen früherer Goldman-Sachs- und Morgan-Stanley-Händler im Zuge des Wiederaufbaus des Energiehandels.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "pferderipper-serie-owl",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Pferderipper-Serie im Kreis Höxter wächst auf bis zu zehn Fälle, weiterhin kein Durchbruch",
+   "date": "2026-08-30",
+   "summary": "Wochenrückblick: Ermittlungsgruppe 'Pferd' seit 22.8. eingerichtet, möglicher Serienbeginn bereits im Mai (Borgentreich-Lütgeneder); aktuell sieben eindeutig zugeordnete Fälle, bei drei weiteren (u.a. Brakel-Schmechten) wird noch geprüft. Verstärkte Streifen, weiterhin kein Tatverdächtiger.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "sc-paderborn-pokal-bundesliga-2026",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "SC Paderborn kehrt nach 4:2-Pokalerfolg mit torlosem Remis bei Mainz 05 in die Bundesliga zurück",
+   "date": "2026-08-30",
+   "summary": "Nach 4:2-Pokalsieg in Lübeck bestritt der SC Paderborn sein erstes Bundesliga-Spiel seit 2020 bei Mainz 05, Endstand 0:0; Kapitän Götze war gesperrt, Curda führte die Mannschaft.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "domfestspiele-paderborn-2026",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Domfestspiele Paderborn eröffnen mit 'Caveman', Programm läuft bis 1. September",
+   "date": "2026-08-30",
+   "summary": "Die vierte Ausgabe der Domfestspiele eröffnete am 27.8. vor der Stadtbibliothek mit der Comedy 'Caveman', gefolgt von Tina-Turner-Tribute sowie Auftritten von Ulrike Folkerts und Max Moor.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "paderdies-kunstinstallation-naturkundemuseum",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Naturkundemuseum eröffnet Installation 'Paderdies' zur Paderborner Museumsnacht",
+   "date": "2026-08-30",
+   "summary": "Die Installation von Sarah Mevers und Cathrin Spönemann zur Pader als Ökosystem wurde zur Museumsnacht eröffnet und läuft bis 18. Oktober; weitere teilnehmende Häuser waren HNF, Kunstverein Paderborn und Kreismuseum Wewelsburg.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "fruehchen-infektion-st-louise-paderborn",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Frühchen-Tod in Paderborner Klinik: Erreger identifiziert, Infektionsquelle bleibt unklar",
+   "date": "2026-08-30",
+   "summary": "Der bei vier Kindern auf der Neonatologie St. Louise nachgewiesene Erreger Enterobacter ist nicht multiresistent; kein Ermittlungsverfahren wegen fahrlässiger Tötung, nur Todesermittlungsverfahren. Infektionsquelle weiterhin unklar, Station bleibt gesperrt.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "schulbrand-michaelsgymnasium-paderborn",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Nach Schulbrand Michaelsgymnasium: Ausweichstandort gefunden",
+   "date": "2026-08-30",
+   "summary": "Für einen Teil der Schülerinnen und Schüler kann das Erzbistum die frühere Von-Fürstenberg-Realschule im Riemekeviertel als Ausweichstandort nutzen, der Rest wird in bestehende Gebäude integriert.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "warsteiner-haus-cramer",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Haus Cramer: einzelne Produkte bereits in Warstein produziert, Entscheidung im Herbst offen",
+   "date": "2026-08-30",
+   "summary": "Einzelne Produkte der Paderborner Marke werden laut Unternehmen bereits in Warstein produziert, eine vollständige Verlagerung sei aber nicht erfolgt; Entscheidung über Verkauf oder Schließung steht für den Herbst aus.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "katharinenmarkt-delbrueck-wirtschaftsschau",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Katharinenmarkt Delbrück: 51. Wirtschaftsschau mit rund 80 Ausstellern vorbereitet",
+   "date": "2026-08-30",
+   "summary": "Delbrück wirbt um rund 80 Aussteller für die Wirtschaftsschau beim Katharinenmarkt (18. bis 21. September), für den insgesamt rund 300.000 Besucher erwartet werden.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "puraite-ki-ausgruendung-paderborn",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Puraite-KI-Ausgründung: keine neue Entwicklung seit Vorstellung",
+   "date": "2026-08-30",
+   "summary": "Die Paderborner Uni-Ausgründung Puraite entwickelt mit über 1,1 Millionen Euro Förderung eine KI-gestützte Literatursuche für die medizinische Forschung; keine neue Entwicklung seit der Vorstellung.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "weser-niedrigwasser-hoexter",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Weser-Pegel erholt sich weiter, Entnahmeverbot bleibt bis Ende September",
+   "date": "2026-08-30",
+   "summary": "Der Weser-Pegel bei Höxter erholte sich weiter vom Rekordtief, das Entnahmeverbot für die Kreise Herford, Höxter, Lippe und Minden-Lübbecke bleibt aber bis 30. September bestehen.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "waldbrandgefahr-owl",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Waldbrandgefahr OWL: Entspannung in Paderborn hält an, Höxter bleibt gefährdet",
+   "date": "2026-08-30",
+   "summary": "Nach Regen bleibt die Lage im Kreis Paderborn entspannt, im Kreis Höxter gilt weiterhin erhöhte Warnstufe.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "fahrbahnsanierung-b1-b64-paderborn",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "B1/B64-Sanierung: zusätzliche Sperrung der Detmolder Straße sorgte für Umleitungen",
+   "date": "2026-08-30",
+   "summary": "Eine zusätzliche Sperrung der Detmolder Straße wegen Restasphaltarbeiten sorgte für Umleitungen mehrerer Buslinien; die Hauptsanierung läuft weiterhin planmäßig bis in den Herbst.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "kreisstrasse-dalheim-sperrung",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Kreisstraße Warburg-Dalheim bleibt bis 1. September gesperrt",
+   "date": "2026-08-30",
+   "summary": "Die Vollsperrung der Kreisstraße läuft planmäßig bis zum Ende der Sommerferien am 1. September.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "messerangriff-salitos-beach-paderborn",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Messerangriff Salitos Beach: Verdächtiger aus Köln weiterhin unauffindbar",
+   "date": "2026-08-30",
+   "summary": "Seit den Razzien vom 19. August ist ein Verdächtiger aus Köln weiterhin unauffindbar, keine neue Entwicklung im Ermittlungsverfahren.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "obolus-jugendinitiative-paderborn",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Jugendinitiative 'Obolus' vermittelt weiterhin Sozialeinsätze",
+   "date": "2026-08-30",
+   "summary": "Das niedrigschwellige Angebot für 14- bis 18-Jährige zu generationenübergreifendem sozialem Engagement in Paderborner Privathaushalten läuft ohne neue Entwicklung weiter.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "prophezeiungen-ausstellung-dioezesanmuseum",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Diözesanmuseum: Sonderausstellung 'Prophezeiungen' eröffnet",
+   "date": "2026-08-30",
+   "summary": "Die Ausstellung mit KI- und Algorithmen-Bezügen und Hörstationen, u.a. mit Jochen Malmsheimer, läuft bis Ende Januar 2027.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "delbruecker-braumanufaktur-havarie",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Delbrücker Braumanufaktur: keine neue Entwicklung seit Wappen-Genehmigung",
+   "date": "2026-08-30",
+   "summary": "Die Genehmigung zur Nutzung des Delbrücker Stadtwappens durch die 'Havarie Braumanufaktur' bleibt Stand, Vermarktungsstart weiterhin für Ende September erwartet.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "meta-jugendschutz-vergleich-47-staaten",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "social",
+   "title": "Meta zahlt bis zu 17 Milliarden Dollar wegen Sucht-Design für Minderjährige",
+   "date": "2026-08-30",
+   "summary": "Meta einigte sich mit 47 US-Bundesstaaten auf einen Vergleich mit Zwei-Stunden-Tageslimit für Unter-18-Jährige und ausgeblendeten Like-Zahlen; Kritiker bezweifeln die Durchsetzbarkeit.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "tiktok-bytedance-coppa-vergleich",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "social",
+   "title": "TikTok/ByteDance zahlt 400 Millionen Dollar wegen Kinderdatenschutz-Verstößen",
+   "date": "2026-08-30",
+   "summary": "Das US-Justizministerium einigte sich mit TikTok/ByteDance auf einen COPPA-Vergleich wegen ignorierter Löschanfragen von Eltern — kurz nach dem größeren Meta-Vergleich, verstärkter Eindruck einer branchenweiten Abrechnung.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "gta-6-leak-cyberleek",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "social",
+   "title": "GTA-6-Leak: Rockstar/Take-Two erwirken Subpoenas gegen Microsoft und Discord",
+   "date": "2026-08-30",
+   "summary": "Nach dem CyberLeek-Leak funktionsfähigen Build-Materials erwirkte Take-Two gerichtliche Vorladungen gegen Microsoft und Discord zur Identifizierung des Lekers, Frist 4. September; Leaker weiterhin nicht identifiziert.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "gta6-netflix-reveal",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "social",
+   "title": "GTA-6-Netflix-Reveal: geteiltes Echo, Downgrade-Sorgen zerstreut",
+   "date": "2026-08-30",
+   "summary": "Rockstar und Netflix veröffentlichten ein 26-minütiges Gameplay-Video mit sechs Stunden Netflix-Exklusivität vor YouTube-Veröffentlichung; Reaktionen reichten von Begeisterung bis Kritik, Sorgen vor grafischem Downgrade haben sich weitgehend zerstreut, Release bleibt 19.11.2026.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "grok-kauderwelsch-glitch",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "social",
+   "title": "Chatbot Grok antwortete tagelang mit Kauderwelsch",
+   "date": "2026-08-30",
+   "summary": "xAI bestätigte einen 'seltenen, vorübergehenden Generierungsfehler' bei Grok.com, betroffen waren vor allem Grok-Lite-Nutzer nach PDF-Anfragen; nach viralen Screenshots auf Reddit/X.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "motley-crue-ki-intro-backlash",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "social",
+   "title": "Mötley Crüe: KI-generiertes Konzert-Intro sorgt weiter für Kritik",
+   "date": "2026-08-30",
+   "summary": "Die erkennbar KI-generierte Stimme im Tour-Intro wird weiter kritisiert, Teil einer größeren Anti-'KI-Slop'-Gegenbewegung.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "linkedin-ai-slop-meldebutton",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "social",
+   "title": "LinkedIns 'KI-Müll'-Meldebutton verzeichnet über eine Million Nutzungen",
+   "date": "2026-08-30",
+   "summary": "Der seit 30. Juli aktive Meldebutton wurde in zwei Wochen über eine Million Mal genutzt, Ansichten als KI-Müll eingestufter Inhalte sanken um 40 Prozent.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "cat-in-the-hat-ai-horror-trend",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "social",
+   "title": "KI-Horrortrend 'Cat in the Hat' versetzt irische Teenager in echte Angst",
+   "date": "2026-08-30",
+   "summary": "KI-generierte Horror-Videos der Dr.-Seuss-Figur auf nächtlichen Straßen breiteten sich in Irland und Großbritannien aus; Polizeidienststellen mussten öffentlich klarstellen, dass die Clips KI-generiert und nicht real sind.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "jugendwort-2026",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "social",
+   "title": "Jugendwort 2026: Top drei stehen fest, 'Du bist gut genug' im Rennen",
+   "date": "2026-08-30",
+   "summary": "Aus zehn nominierten Begriffen stehen die drei Finalisten fest, darunter der virale Songzeilen-Trend 'Du bist gut genug'; Abstimmung bis 28. September, Bekanntgabe 10. Oktober auf der Frankfurter Buchmesse.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "kanter-freedom-wnba-natasha-cloud",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "social",
+   "title": "Kanter Freedom/WNBA-Konfrontation: keine neue Entwicklung",
+   "date": "2026-08-30",
+   "summary": "Keine neue Entwicklung seit der Eskortierung vom Feld nach der Konfrontation mit Natasha Cloud.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "walmart-boykott-darling-bann",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "social",
+   "title": "Walmart-Boykottaufruf nach Darling-Bann hält an",
+   "date": "2026-08-30",
+   "summary": "Teile von Damon Darlings über zehn Millionen Followern halten trotz seiner eigenen Bitte am Boykottaufruf gegen Walmart fest.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "shake-shack-tipping-fatigue-debatte",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "social",
+   "title": "Shake-Shack-Debatte über Tipping Fatigue hält an",
+   "date": "2026-08-30",
+   "summary": "Die von einem viralen Kiosk-Video ausgelöste US-Debatte über Trinkgeld-Praktiken hält an, laut Studie sind inzwischen 78 Prozent der US-Konsumenten von 'Tipping Fatigue' betroffen.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "la-peace-meme",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "social",
+   "title": "'La Peace'-Meme bleibt viral",
+   "date": "2026-08-30",
+   "summary": "Kai Cenats Twitch-Versprecher bleibt als millionenfach geteiltes Meme-Format präsent, keine neue Entwicklung.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "jennie-blackpink-wardrobe-video-agentur",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "social",
+   "title": "Jennie/Blackpink: Agentur hält an Klageandrohung wegen Bühnenvideos fest",
+   "date": "2026-08-30",
+   "summary": "OA Entertainment hält an der Androhung zivil- und strafrechtlicher Schritte wegen irreführend geschnittener Bühnenvideos vom Summer-Sonic-Festival fest.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "instagram-instagzam-logo-meme",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "social",
+   "title": "Instagram-Logo-Meme 'Instagzam' hält weiterhin an",
+   "date": "2026-08-30",
+   "summary": "Der Spott über die Logo-Neugestaltung als 'Instagzam' hält an, Mosseri reagiert weiterhin gelassen.",
    "status": "laufend"
   }
  ]
