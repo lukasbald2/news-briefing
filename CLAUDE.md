@@ -120,9 +120,44 @@ werden müssen.
   `"abgeschlossen (ausgelaufen)"` gesetzt. Ohne das bleiben Stränge
   unbegrenzt offen und die Datei wächst monoton (Stand vor der Umstellung:
   391 von 626 Einträgen auf `laufend`).
+- **Wiederaufnahme (eingeführt 2026-08-30):** Kommt ein Thema zurück, dessen
+  Strang schon `abgeschlossen` ist, wird die **alte `id` weiterbenutzt** und der
+  Status auf `laufend` zurückgesetzt; `erstmals_am` bleibt. Vorher gab es keinen
+  Weg zurück aus `abgeschlossen` — ein wiederkehrendes Thema hatte damit keinen
+  zulässigen Zug außer einer zweiten Kennung. Genau so entstanden
+  `instagram-logo-instagzam-spott` (am 23.08. als fallengelassen gemeldet) und
+  `instagram-instagzam-logo-meme` (seit 26.08. wieder laufend). War der Strang
+  als fallengelassen gemeldet, benennt die nächste Wochenausgabe die
+  Wiederaufnahme in einem Satz.
 - Einträge **ohne** `strang_id` sind Alt-Bestand von vor der Umstellung: bei
   Strang-Regeln ignorieren, nicht vorzeitig löschen — sie laufen über die
   normale 30-Tage-Regel aus.
+
+**Dublettenprüfung (eingeführt 2026-08-30):** Schritt 7 des Routine-Prompts
+enthält einen Einzeiler, der die HEUTE neu angelegten Stränge gegen den
+gesamten Index hält und Paare meldet, die sich mindestens zwei
+unterscheidungskräftige Wortteile teilen — unterscheidungskräftig heißt: in
+höchstens drei IDs vorhanden, weshalb `tiktok` und `trend` nicht mitzählen. Der
+Befund ist ein **Verdacht, keine Automatik**: Der Lauf führt zusammen oder
+begründet im Lauf-Ergebnis, warum es zwei Geschichten sind.
+
+**Warum es sie gibt:** Die Zuordnungsregel stand seit dem 11.08. im Prompt, aber
+nichts prüfte sie nach — anders als die Themenzuordnung, die seit dem 27.08.
+eine maschinelle Selbstprüfung hat und seither sauber hält. Am 30.08.2026
+fanden sich vier Themen unter neun Kennungen, darunter
+`nostalgie-trend-2016-2026` neben `nostalgie-2016-trend`, angelegt neun Tage
+später, während der erste noch lief. Was ein zerfallener Strang kostet, zeigt
+der Instagram-Fall: getrennt zwei und zwei Meldungen, beide unter der Schwelle
+`MIN_MELDUNGEN = 4` — die Geschichte fehlt dadurch vollständig in der
+Strang-Aufmerksamkeit der Übersichtsseite, zusammengeführt wäre sie sichtbar.
+Dazu meldeten die Blinden Flecken den Strang als fallengelassen, obwohl das
+Thema drei Tage später weiterlief.
+
+**Bestehende Dubletten werden NICHT rückwirkend zusammengelegt.**
+`data/archiv.jsonl` wird nie umgeschrieben, und Strang-Kennungen sind
+Prozessgeschichte — dieselbe Begründung wie beim Verzicht auf nachträgliche
+Strang-IDs für die Juli-Meldungen. Die geschlossenen verschwinden ohnehin über
+die 30-Tage-Aufräumregel aus dem Index.
 
 **Reichweite des Index:** Der Index wurde am 2026-08-11 aus den sieben
 vorangegangenen Tagen aufgebaut. `erstmals_am` ist damit der Beginn der
