@@ -21,7 +21,7 @@
       "titel": "Bundesweite Anti-AfD-Demonstrationen",
       "kategorie": "national",
       "erstmals_am": "2026-08-23",
-      "letzter_eintrag": "2026-08-30",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -69,7 +69,7 @@
       "titel": "Gewinneinbruch deutsche Autoindustrie",
       "kategorie": "national",
       "erstmals_am": "2026-08-17",
-      "letzter_eintrag": "2026-08-31",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -133,7 +133,7 @@
       "titel": "'Cat in the Hat' KI-Horrortrend",
       "kategorie": "social",
       "erstmals_am": "2026-08-28",
-      "letzter_eintrag": "2026-08-31",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -253,8 +253,8 @@
       "titel": "Domfestspiele Paderborn 2026",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-24",
-      "letzter_eintrag": "2026-08-31",
-      "status": "laufend"
+      "letzter_eintrag": "2026-09-01",
+      "status": "abgeschlossen"
     },
     {
       "id": "drk-m23-waffenruhe-verifizierung",
@@ -373,7 +373,7 @@
       "titel": "Frühchen-Infektion Kinderklinik St. Louise Paderborn",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-24",
-      "letzter_eintrag": "2026-08-31",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -389,7 +389,7 @@
       "titel": "Gaza: Board-of-Peace-Friedensplan",
       "kategorie": "global",
       "erstmals_am": "2026-08-11",
-      "letzter_eintrag": "2026-08-31",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -437,7 +437,7 @@
       "titel": "GTA-6-Leak durch \"CyberLeek\"",
       "kategorie": "social",
       "erstmals_am": "2026-08-23",
-      "letzter_eintrag": "2026-08-30",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -525,7 +525,7 @@
       "titel": "Jemen/Huthi-Eskalation Rotes Meer",
       "kategorie": "global",
       "erstmals_am": "2026-08-23",
-      "letzter_eintrag": "2026-08-30",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -541,7 +541,7 @@
       "titel": "Jennie/Blackpink: Wardrobe-Video-Streit",
       "kategorie": "social",
       "erstmals_am": "2026-08-26",
-      "letzter_eintrag": "2026-08-30",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -701,7 +701,7 @@
       "titel": "Forsa-Umfragetief Merz / AfD-Vorsprung",
       "kategorie": "national",
       "erstmals_am": "2026-08-13",
-      "letzter_eintrag": "2026-08-31",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -717,7 +717,7 @@
       "titel": "Meta-Jugendschutz-Vergleich (47 Staaten)",
       "kategorie": "social",
       "erstmals_am": "2026-08-28",
-      "letzter_eintrag": "2026-08-30",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -749,7 +749,7 @@
       "titel": "Nahost: Hormuz-Spannung und Verteidigungspakt",
       "kategorie": "global",
       "erstmals_am": "2026-08-07",
-      "letzter_eintrag": "2026-08-31",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -773,7 +773,7 @@
       "titel": "Flutkatastrophe Nepal/Tibet",
       "kategorie": "global",
       "erstmals_am": "2026-08-27",
-      "letzter_eintrag": "2026-08-31",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -885,7 +885,7 @@
       "titel": "Pferderipper-Serie in OWL",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-06",
-      "letzter_eintrag": "2026-08-31",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -893,7 +893,7 @@
       "titel": "Pflegeversicherung-Defizit ab 2027",
       "kategorie": "national",
       "erstmals_am": "2026-08-25",
-      "letzter_eintrag": "2026-08-30",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -901,7 +901,7 @@
       "titel": "Ausstellung 'Prophezeiungen' im Diözesanmuseum Paderborn",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-27",
-      "letzter_eintrag": "2026-08-31",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -933,7 +933,7 @@
       "titel": "Rentenstreit in der Koalition (Rente mit 63)",
       "kategorie": "national",
       "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-31",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -957,7 +957,7 @@
       "titel": "Sambia-Präsidentschaftswahl 2026 / Wahlanfechtung",
       "kategorie": "global",
       "erstmals_am": "2026-08-15",
-      "letzter_eintrag": "2026-08-31",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -989,7 +989,7 @@
       "titel": "SC Paderborn: Pokal und Bundesliga-Rückkehr",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-25",
-      "letzter_eintrag": "2026-08-31",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -1197,7 +1197,7 @@
       "titel": "Ukraine-Krieg: Angriffswellen und Gegenangriffe",
       "kategorie": "global",
       "erstmals_am": "2026-08-05",
-      "letzter_eintrag": "2026-08-31",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -1237,8 +1237,8 @@
       "titel": "Misstrauensvotum gegen Voigt (Thüringen)",
       "kategorie": "national",
       "erstmals_am": "2026-08-28",
-      "letzter_eintrag": "2026-08-31",
-      "status": "abgeschlossen"
+      "letzter_eintrag": "2026-09-01",
+      "status": "laufend"
     },
     {
       "id": "wabi-sabi-tiktok-trend",
@@ -1277,7 +1277,7 @@
       "titel": "Waldbrandgefahr in OWL",
       "kategorie": "lokal",
       "erstmals_am": "2026-08-17",
-      "letzter_eintrag": "2026-08-31",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -1341,15 +1341,15 @@
       "titel": "Apple-CEO-Wechsel: Tim Cook zu John Ternus",
       "kategorie": "global",
       "erstmals_am": "2026-08-29",
-      "letzter_eintrag": "2026-08-30",
-      "status": "laufend"
+      "letzter_eintrag": "2026-09-01",
+      "status": "abgeschlossen"
     },
     {
       "id": "dax-rekordhoch-2026",
       "titel": "DAX-Rekordhoch nach Warsh-Rede",
       "kategorie": "national",
       "erstmals_am": "2026-08-29",
-      "letzter_eintrag": "2026-08-30",
+      "letzter_eintrag": "2026-09-01",
       "status": "laufend"
     },
     {
@@ -1373,8 +1373,8 @@
       "titel": "Landtagswahl Sachsen-Anhalt 2026",
       "kategorie": "national",
       "erstmals_am": "2026-08-31",
-      "letzter_eintrag": "2026-08-31",
-      "status": "neu"
+      "letzter_eintrag": "2026-09-01",
+      "status": "laufend"
     },
     {
       "id": "gamescom-2026-bilanz",
@@ -1391,6 +1391,54 @@
       "erstmals_am": "2026-08-31",
       "letzter_eintrag": "2026-08-31",
       "status": "neu"
+    },
+    {
+      "id": "kanada-vergeltungszoelle-usa",
+      "titel": "Kanada-Vergeltungszölle gegen die USA",
+      "kategorie": "global",
+      "erstmals_am": "2026-09-01",
+      "letzter_eintrag": "2026-09-01",
+      "status": "laufend"
+    },
+    {
+      "id": "boe-ki-finanzstabilitaets-warnung",
+      "titel": "BoE-Warnung: KI-Risiko für Finanzstabilität",
+      "kategorie": "global",
+      "erstmals_am": "2026-09-01",
+      "letzter_eintrag": "2026-09-01",
+      "status": "laufend"
+    },
+    {
+      "id": "db-alkoholverbot-bahnhoefe",
+      "titel": "DB-Alkoholverbot an Bahnhöfen",
+      "kategorie": "national",
+      "erstmals_am": "2026-09-01",
+      "letzter_eintrag": "2026-09-01",
+      "status": "laufend"
+    },
+    {
+      "id": "bitkom-ki-trend-startups",
+      "titel": "Bitkom-KI-Trend bei deutschen Start-ups",
+      "kategorie": "national",
+      "erstmals_am": "2026-09-01",
+      "letzter_eintrag": "2026-09-01",
+      "status": "laufend"
+    },
+    {
+      "id": "verkehrsunfall-bad-wuennenberg-forsthaus",
+      "titel": "Verkehrsunfall Bad Wünnenberg (Forsthaus)",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-09-01",
+      "letzter_eintrag": "2026-09-01",
+      "status": "laufend"
+    },
+    {
+      "id": "bielefelder-weinmarkt-2026",
+      "titel": "Bielefelder Weinmarkt 2026",
+      "kategorie": "lokal",
+      "erstmals_am": "2026-09-01",
+      "letzter_eintrag": "2026-09-01",
+      "status": "laufend"
     }
   ],
   "entries": [
@@ -4000,20 +4048,6 @@
     },
     {
       "category": "global",
-      "title": "Apple und Amazon übertreffen Bilanz-Erwartungen deutlich",
-      "date": "2026-08-01",
-      "summary": "Eigener Artikel, Themenmix Wirtschaft. Apple Q3: 109,4 Mrd. USD Umsatz (+16%), EPS 2,02 statt 1,88 USD erwartet. Amazon: 200,6 Mrd. USD Umsatz (+20%), AWS +37% (schnellstes Wachstum seit 18 Quartalen). Bilanzsaison der Tech-Riesen insgesamt stärker als befürchtet, Wall-Street-Rally 31.7.",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "global",
-      "title": "Waldbrand bei Madrid 'technisch stabilisiert'",
-      "date": "2026-08-01",
-      "summary": "Eigener Artikel (Wendepunkt zur Erholung nach vorherigem Rekord-Waldbrand-Artikel vom 29.7.). Über 50.000 Rückkehrer, letzte zwei komplett evakuierte Orte (Valdemaqueda, Robledo de Chavela) freigegeben. Flächenangaben uneinheitlich (27.000 vs. bis 34.000 Hektar).",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "global",
       "title": "Weitere laufende globale Stränge (nur Hinweisblock)",
       "date": "2026-08-01",
       "summary": "Ukraine: erneuter Kyjiw-Angriff Nacht zum 1.8. (3 Tote), keine neue Eskalationsdimension. US-Iran-Kampfpause hält, Trump ausweichend zu Verhandlungen. Venezuela-Erdbeben weiter >5.500 Tote unverändert. Ebola Kongo 3.360 Fälle/1.487 Tote unverändert. Neu erwähnt: Anthropic legte parallel zu OpenAI-Fall eigenen KI-Sandkasten-Sicherheitsvorfall offen (30.7.).",
@@ -4032,20 +4066,6 @@
       "date": "2026-08-01",
       "summary": "Eigener Artikel (neue Dimension: Koalitionsstreit + Korrektur). Grüne (von Notz) kritisieren Dobrindt scharf, Justizministerin Hubig lehnt niedrigere Strafmündigkeitsgrenze ab. Berliner Justizpressestelle korrigiert Dobrindt/Wegner: Täter hatte unbedingte statt Bewährungsstrafe.",
       "status": "laufend"
-    },
-    {
-      "category": "national",
-      "title": "Rechtsanspruch auf Ganztagsbetreuung tritt in Kraft",
-      "date": "2026-08-01",
-      "summary": "Eigener Artikel, Themenmix Gesellschaft. Ab 1.8. Rechtsanspruch für Erstklässler (8h/Tag, 5 Werktage), jährliche Erweiterung bis 2029 auf alle 4 Grundschuljahre. Bund: bis 3,5 Mrd. Euro Infrastruktur, ab 2030 1,3 Mrd./Jahr laufende Kosten. Einmaliges Stichtags-Ereignis.",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "national",
-      "title": "Startup-Boom: KI treibt deutsche Gründerzahlen auf Rekordniveau",
-      "date": "2026-08-01",
-      "summary": "Eigener Artikel, Themenmix Wirtschaft/Technologie. 3.053 Neugründungen H1 2026 (+52%), ein Drittel KI-Sektor, 36 deutsche 'Einhörner'. Bitkom-Umfrage: kein befragtes Startup verzichtet mehr auf KI.",
-      "status": "abgeschlossen"
     },
     {
       "category": "national",
@@ -4077,13 +4097,6 @@
     },
     {
       "category": "lokal",
-      "title": "Neue WFG-Chefin Paderborn: Christine Tölle folgt auf Trienes",
-      "date": "2026-08-01",
-      "summary": "Eigener Artikel, Themenmix Wirtschaft/Gesellschaft. Dr. Christine Tölle (zuletzt Benteler Business Service) wird zum 1.9. neue Geschäftsführerin der Wirtschaftsförderung Paderborn/TPG TechnologiePark, Nachfolge Trienes (wechselt nach Münster).",
-      "status": "abgeschlossen"
-    },
-    {
-      "category": "lokal",
       "title": "Weitere laufende lokale Stränge (nur Hinweisblock)",
       "date": "2026-08-01",
       "summary": "Delbrück B64 Fahrerflucht: 23-Jähriger weiterhin flüchtig. B1/B64-Großbaustelle Paderborn startet wie geplant Anfang August ohne Zwischenfälle. Verlorene Plane B64 Höxter: keine Festnahme. Weserbrücke Höxter/Flughafen-PB-LP-Nachfolge ohne neue Entwicklung. L828 Willebadessen: Polizei sucht weiter Zeugen.",
@@ -4109,14 +4122,6 @@
       "date": "2026-08-01",
       "summary": "Saxophone-Trend weiter dominant. Ariana-Grande-TikTok-Sound-Trend läuft fort plus Kritiker-Backlash-Diskurs ('soft' statt 'feral'). Jimothy Waschbär, Weißes-Haus-TikTok/Pattinson-Meme ohne Änderung. Tate-Brüder-Anhörung weiter 13.8. Kumar-Method-Identität weiter ungeklärt. Rush-Hour-Trend läuft unverändert (einfach belegt). Airbnb-Strandfoto-Mystery gilt als abgeschlossen.",
       "status": "laufend"
-    },
-    {
-      "category": "song",
-      "title": "Peace Somehow – Avi Kaplan",
-      "date": "2026-08-01",
-      "summary": "Song des Tages, erneut gewählt (zuletzt 7.7., außerhalb 14-Tage-Sperrfrist) wegen wörtlichem Bezug zum fragilen Gaza-Entwaffnungs-Fahrplan des 'Board of Peace'.",
-      "status": "neu",
-      "quelle": "top-tracks"
     },
     {
       "category": "global",
@@ -13436,6 +13441,316 @@
       "date": "2026-08-31",
       "summary": "Im KI-Horrortrend um „Cat in the Hat“ hat sich ein Jugendlicher in Kentucky der Polizei gestellt, weil er selbst entsprechende Videos gedreht hatte; die Polizei warnt vor gebundenen Einsatzkräften durch Fake-Notrufe.",
       "status": "laufend"
+    },
+    {
+      "strang_id": "sambia-praesidentschaftswahl-2026",
+      "form": "artikel",
+      "kontrast": true,
+      "category": "global",
+      "title": "Sambia: Hichilema trotz Legitimitätsstreit für zweite Amtszeit vereidigt",
+      "summary": "Hakainde Hichilema wurde trotz kurzzeitig geschlossener Gerichte, einer Erschießung bei einer Razzia und einer Hochverratsanklage gegen Oppositionsführer Mundubile für eine zweite Amtszeit vereidigt.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "nepal-tibet-flutkatastrophe",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "global",
+      "title": "Flutkatastrophe Nepal/Tibet: Mit über 900 Toten tödlichste Naturkatastrophe seit dem Erdbeben 2015",
+      "summary": "Die Zahl der Toten ist auf mindestens 903 gestiegen, mehr als 4.200 Menschen gelten als vermisst; die UN stufen die Flut als tödlichste Naturkatastrophe Nepals seit 2015 ein.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "kanada-vergeltungszoelle-usa",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "global",
+      "title": "Kanada verhängt Vergeltungszölle gegen die USA im eskalierenden Handelsstreit",
+      "summary": "Kanada kündigte Vergeltungszölle auf US-Importe im Umfang von rund 20 Milliarden US-Dollar an, nachdem Verhandlungen über neue US-Zölle gescheitert waren.",
+      "status": "neu",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "apple-ceo-wechsel-ternus",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "global",
+      "title": "Apple-Führungswechsel abgeschlossen: John Ternus löst Tim Cook als CEO ab",
+      "summary": "Tim Cook ist als Apple-CEO zurückgetreten, John Ternus hat zum 1. September offiziell übernommen; Cook wird Executive Chairman.",
+      "status": "abgeschlossen",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "ukraine-krieg",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Ukraine-Krieg: Kyiv erneut angegriffen, Ermittlungen zu Drohnenfabrik-Brand in Polen",
+      "summary": "Russland griff Kyiv erneut mit Raketen und Drohnen an; Polens Staatsanwaltschaft ermittelt wegen Terrorverdachts nach einem mutmaßlich vorsätzlichen Brand in einer Drohnenfabrik.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "nahost-iran-spannung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Nahost: Rund 6.000 Seeleute weiterhin im Persischen Golf festgesessen",
+      "summary": "Sechs Monate nach Kriegsbeginn sitzen laut Reedereiangaben weiterhin rund 6.000 Seeleute auf Schiffen im Persischen Golf fest, ohne dass sich die Lage entspannt hätte.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "jemen-huthi-eskalation",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Jemen/Huthi: Keine neuen Angriffe im Roten Meer seit dem 24. August",
+      "summary": "Seit dem Angriff auf einen saudischen Öltanker vor Yanbu gab es keine neuen Vorfälle im Roten Meer, die UN-Warnung vor einem Rückfall in den Vollkrieg bleibt aber bestehen.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "gaza-friedensplan",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Gaza-Friedensplan: Israel stimmt Entwaffnungsabkommen weiterhin nicht offiziell zu",
+      "summary": "Beim im Juli vereinbarten Entwaffnungsabkommen mit dem Board of Peace bleibt die offizielle Zustimmung Israels weiterhin aus.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "boe-ki-finanzstabilitaets-warnung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "global",
+      "title": "Bank-of-England-Chef warnt G20 vor KI-Risiken für die Finanzstabilität",
+      "summary": "BoE-Gouverneur Andrew Bailey warnte die G20-Finanzminister in einem Brief vor Cyberrisiken durch Frontier-KI-Modelle und vor der Konzentration auf wenige KI-Infrastruktur-Anbieter.",
+      "status": "neu",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "autoindustrie-gewinneinbruch",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "national",
+      "title": "VW-„Schicksalswoche“: Erstmals stehen Werksschließungen in Deutschland im Raum",
+      "summary": "Vor der Aufsichtsratssitzung am 4. September erwägt VW laut Berichten erstmals Werksschließungen in Deutschland, der Betriebsrat spricht von beschädigtem Vertrauen.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "sachsen-anhalt-landtagswahl-2026",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "national",
+      "title": "Sachsen-Anhalt: TV-Duell vor der Landtagswahl, Umfrage sieht AfD bei 42 Prozent",
+      "summary": "Eine Woche vor der Wahl am 6. September lieferten sich Schulze (CDU) und Siegmund (AfD) ein TV-Duell; eine Umfrage sieht die AfD bei 42, die CDU bei 22 Prozent.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "db-alkoholverbot-bahnhoefe",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "national",
+      "title": "Deutsche Bahn verbietet Alkohol an ersten Bahnhöfen, bundesweite Ausweitung bis Mitte Oktober",
+      "summary": "Seit dem 1. September gilt an vier Bahnhöfen ein Alkoholkonsumverbot, das bis 15. Oktober auf alle rund 5.400 Bahnhöfe ausgeweitet werden soll.",
+      "status": "neu",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "bitkom-ki-trend-startups",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "national",
+      "title": "Bitkom-Umfrage: Künstliche Intelligenz dominiert deutsche Start-up-Gründungen 2026",
+      "summary": "86 Prozent der befragten Gründerinnen und Gründer nennen KI als bestimmenden Trend 2026, Celonis bereitet einen Börsengang vor.",
+      "status": "neu",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "voigt-misstrauensvotum-thueringen",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Voigt kündigt nach Aberkennung des Doktortitels Klage an",
+      "summary": "Nach der endgültigen Aberkennung seines Doktortitels durch die TU Chemnitz hat Voigts Anwalt Klage angekündigt und den Fall präzedenzlos genannt.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "rentenstreit-koalition",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Rentenstreit: DGB warnt Länderchefs, Bas signalisiert Übergangsfrist",
+      "summary": "Der DGB warnte in einem Brief an alle Ministerpräsidenten vor der Abschaffung der Rente mit 63, Arbeitsministerin Bas signalisierte eine mehrjährige Übergangsfrist.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "merz-umfragetief-afd-vorsprung",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "AfD hält Umfragevorsprung den fünften Monat in Folge",
+      "summary": "Das RTL/ntv-Trendbarometer sieht die AfD unverändert bei 28 Prozent, sieben Punkte vor der Union.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "dax-rekordhoch-2026",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "DAX nach Rekordhoch wieder rund 200 Punkte zurückgefallen",
+      "summary": "Nach dem Rekordhoch von rund 26.600 Punkten ist der DAX zu Wochenbeginn wieder rund 200 Punkte zurückgefallen.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "pflegeversicherung-defizit-2027",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "AOK warnt vor Zahlungsunfähigkeit der Pflegeversicherung ab Oktober",
+      "summary": "Bei einem für 2026 erwarteten Defizit von 1,2 Milliarden Euro warnt die AOK, die Pflegeversicherung könne ab Oktober zahlungsunfähig werden.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "anti-afd-demonstrationen-bundesweit",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "national",
+      "title": "Bundesweite Anti-AfD-Demonstrationen laufen vor den Landtagswahlen weiter",
+      "summary": "Im Vorfeld der Landtagswahlen in Sachsen-Anhalt und Mecklenburg-Vorpommern laufen weitere Demo-Termine, u.a. in Halle, Bitterfeld-Wolfen und Merseburg.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "domfestspiele-paderborn-2026",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Domfestspiele Paderborn enden mit Lesung von Ulrike Folkerts",
+      "summary": "Die vierte Auflage der Domfestspiele endet mit einer Lesung von Ulrike Folkerts; eine offizielle Besucherbilanz lag noch nicht vor.",
+      "status": "abgeschlossen",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "verkehrsunfall-bad-wuennenberg-forsthaus",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Schwerer Unfall in Bad Wünnenberg: Rennradfahrer lebensgefährlich verletzt, Polizei sucht Zeugen",
+      "summary": "Bei einer Kollision zwischen Kleinkraftrad und Rennrad auf dem Weg „Forsthaus“ wurde ein 45-Jähriger lebensgefährlich verletzt; die Polizei sucht Zeugen.",
+      "status": "neu",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "bielefelder-weinmarkt-2026",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Bielefelder Weinmarkt eröffnet: Sechs Tage Weingenuss in der Altstadt",
+      "summary": "Der Bielefelder Weinmarkt mit rund 30 Ständen läuft bis zum 6. September in der Altstadt.",
+      "status": "neu",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "sc-paderborn-pokal-bundesliga-2026",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "SC Paderborn holt torloses Remis bei Mainz 05",
+      "summary": "Bei seiner Bundesliga-Rückkehr holte der SC Paderborn ein 0:0 bei Mainz 05 und empfängt am 5. September den SC Freiburg.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "pferderipper-serie-owl",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Pferderipper-Serie: Ermittlungsgruppe zählt bis zu zehn Fälle, weiter kein Durchbruch",
+      "summary": "Die Ermittlungsgruppe „Pferd“ der Kreispolizei Höxter zählt inzwischen bis zu zehn mögliche Fälle, ein Durchbruch bei der Täterermittlung steht weiter aus.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "fruehchen-infektion-st-louise-paderborn",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Neue Aufnahmeregeln für Kinderklinik St. Louise gelten unverändert fort",
+      "summary": "Die nach dem Frühchen-Tod eingeführten Aufnahmeregeln der Klinik St. Louise gelten unverändert fort, es gab keine neue Entwicklung.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "prophezeiungen-ausstellung-dioezesanmuseum",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Ausstellung „Prophezeiungen“ läuft nun bis Januar 2027",
+      "summary": "Die gestern eröffnete Ausstellung „Prophezeiungen“ im Diözesanmuseum Paderborn läuft bis zum 31. Januar 2027.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "waldbrandgefahr-owl",
+      "form": "hinweis",
+      "kontrast": false,
+      "category": "lokal",
+      "title": "Waldbrandgefahr in OWL nach Regenfällen weiter entspannt",
+      "summary": "Nach den jüngsten Regenfällen hat sich die Waldbrandgefahr in OWL weiter entspannt.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "cat-in-the-hat-ai-horror-trend",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "social",
+      "title": "Cat-in-the-Hat-KI-Horrortrend eskaliert: Schulwarnungen und erste Selbstanzeige in Kentucky",
+      "summary": "In Kentucky lösten KI-generierte Drohvideos mit Klarnamen Schulwarnungen aus; ein Jugendlicher stellte sich der Polizei, die Behörden sehen keine glaubwürdige Bedrohung.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "jennie-blackpink-wardrobe-video-agentur",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "social",
+      "title": "Jennie/Blackpink: Account nach Rechtsdrohung gesperrt, separater Rechtsstreit gewonnen",
+      "summary": "Der Account hinter dem manipulierten Jennie-Video wurde gesperrt; separat gewann Jennie einen Rechtsstreit gegen einen falschen „Vater“.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "meta-jugendschutz-vergleich-47-staaten",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "social",
+      "title": "Meta fordert TikTok und YouTube per offenem Brief zu vergleichbaren Jugendschutz-Standards auf",
+      "summary": "Meta fordert TikTok und YouTube per offenem Brief zu vergleichbaren Jugendschutz-Standards auf; ein Drittel der Meta-Zahlung ist daran geknüpft.",
+      "status": "laufend",
+      "date": "2026-09-01"
+    },
+    {
+      "strang_id": "gta-6-leak-cyberleek",
+      "form": "artikel",
+      "kontrast": false,
+      "category": "social",
+      "title": "GTA-6-Leak: Rockstar beantragt DMCA-Auskunft gegen Microsoft und Discord zur Identität von „CyberLeek“",
+      "summary": "Take-Two hat DMCA-Subpoenas gegen Microsoft und Discord erwirkt, um die Identität des GTA-6-Leakers „CyberLeek“ zu ermitteln.",
+      "status": "laufend",
+      "date": "2026-09-01"
     }
   ]
 }
