@@ -13,7 +13,7 @@
    "titel": "Bundesweite Anti-AfD-Demonstrationen",
    "kategorie": "national",
    "erstmals_am": "2026-08-23",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -61,7 +61,7 @@
    "titel": "Gewinneinbruch deutsche Autoindustrie",
    "kategorie": "national",
    "erstmals_am": "2026-08-17",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -125,7 +125,7 @@
    "titel": "'Cat in the Hat' KI-Horrortrend",
    "kategorie": "social",
    "erstmals_am": "2026-08-28",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -269,7 +269,7 @@
    "titel": "E.ON-Sammelklage Fernwärme (OLG Hamm)",
    "kategorie": "national",
    "erstmals_am": "2026-08-24",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -311,14 +311,6 @@
    "erstmals_am": "2026-08-09",
    "letzter_eintrag": "2026-08-26",
    "status": "abgeschlossen (fallengelassen, gemeldet am 2026-09-06)"
-  },
-  {
-   "id": "festival-rock-am-koeterberg",
-   "titel": "Festival 'Rock am Koeterberg'",
-   "kategorie": "lokal",
-   "erstmals_am": "2026-08-07",
-   "letzter_eintrag": "2026-08-07",
-   "status": "abgeschlossen"
   },
   {
    "id": "feuerwehrhaus-etteln-brand",
@@ -373,7 +365,7 @@
    "titel": "Gaza: Board-of-Peace-Friedensplan",
    "kategorie": "global",
    "erstmals_am": "2026-08-11",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -383,14 +375,6 @@
    "erstmals_am": "2026-08-12",
    "letzter_eintrag": "2026-08-30",
    "status": "abgeschlossen (fallengelassen, gemeldet am 2026-09-06)"
-  },
-  {
-   "id": "getreideernte-kreis-paderborn",
-   "titel": "Getreideernte im Kreis Paderborn",
-   "kategorie": "lokal",
-   "erstmals_am": "2026-08-07",
-   "letzter_eintrag": "2026-08-07",
-   "status": "abgeschlossen"
   },
   {
    "id": "google-ki-satellitenbild-tool",
@@ -421,7 +405,7 @@
    "titel": "GTA-6-Leak durch \"CyberLeek\"",
    "kategorie": "social",
    "erstmals_am": "2026-08-23",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -509,7 +493,7 @@
    "titel": "Jemen/Huthi-Eskalation Rotes Meer",
    "kategorie": "global",
    "erstmals_am": "2026-08-23",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -525,7 +509,7 @@
    "titel": "Jennie/Blackpink: Wardrobe-Video-Streit",
    "kategorie": "social",
    "erstmals_am": "2026-08-26",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -549,7 +533,7 @@
    "titel": "Jugendwort 2026: 'Du bist gut genug'",
    "kategorie": "social",
    "erstmals_am": "2026-08-06",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -565,7 +549,7 @@
    "titel": "Katharinenmarkt Delbrück: Wirtschaftsschau",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-27",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -575,14 +559,6 @@
    "erstmals_am": "2026-08-11",
    "letzter_eintrag": "2026-08-11",
    "status": "abgeschlossen (ausgelaufen)"
-  },
-  {
-   "id": "ki-chip-aktien-erholung",
-   "titel": "KI-Chip-Aktien: Erholung nach Ausverkauf",
-   "kategorie": "global",
-   "erstmals_am": "2026-08-07",
-   "letzter_eintrag": "2026-08-07",
-   "status": "abgeschlossen"
   },
   {
    "id": "ki-fake-videos-tiktok-merz-hoax",
@@ -701,7 +677,7 @@
    "titel": "Meta-Jugendschutz-Vergleich (47 Staaten)",
    "kategorie": "social",
    "erstmals_am": "2026-08-28",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -733,7 +709,7 @@
    "titel": "Nahost: Hormuz-Spannung und Verteidigungspakt",
    "kategorie": "global",
    "erstmals_am": "2026-08-07",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -757,7 +733,7 @@
    "titel": "Flutkatastrophe Nepal/Tibet",
    "kategorie": "global",
    "erstmals_am": "2026-08-27",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -869,7 +845,7 @@
    "titel": "Pferderipper-Serie in OWL",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-06",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -877,7 +853,7 @@
    "titel": "Pflegeversicherung-Defizit ab 2027",
    "kategorie": "national",
    "erstmals_am": "2026-08-25",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -917,7 +893,7 @@
    "titel": "Rentenstreit in der Koalition (Rente mit 63)",
    "kategorie": "national",
    "erstmals_am": "2026-08-05",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -941,7 +917,7 @@
    "titel": "Sambia-Präsidentschaftswahl 2026 / Wahlanfechtung",
    "kategorie": "global",
    "erstmals_am": "2026-08-15",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -973,7 +949,7 @@
    "titel": "SC Paderborn: Pokal und Bundesliga-Rückkehr",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-25",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -1137,14 +1113,6 @@
    "status": "abgeschlossen"
   },
   {
-   "id": "thyssenkrupp-accelis-abspaltung",
-   "titel": "Thyssenkrupp-Abspaltung von tk accelis",
-   "kategorie": "national",
-   "erstmals_am": "2026-08-07",
-   "letzter_eintrag": "2026-08-07",
-   "status": "abgeschlossen"
-  },
-  {
    "id": "tiktok-algorithmus-suchtklagen",
    "titel": "TikTok: Algorithmus-Bericht und Sucht-Klagen",
    "kategorie": "social",
@@ -1181,7 +1149,7 @@
    "titel": "Ukraine-Krieg: Angriffswellen und Gegenangriffe",
    "kategorie": "global",
    "erstmals_am": "2026-08-05",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -1213,7 +1181,7 @@
    "titel": "Misstrauensvotum gegen Voigt (Thüringen)",
    "kategorie": "national",
    "erstmals_am": "2026-08-28",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -1261,7 +1229,7 @@
    "titel": "Warsteiner/Haus Cramer: Zukunftssuche Paderborn",
    "kategorie": "lokal",
    "erstmals_am": "2026-08-07",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -1309,7 +1277,7 @@
    "titel": "TikTok/ByteDance-COPPA-Vergleich",
    "kategorie": "social",
    "erstmals_am": "2026-08-29",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -1349,7 +1317,7 @@
    "titel": "Landtagswahl Sachsen-Anhalt 2026",
    "kategorie": "national",
    "erstmals_am": "2026-08-31",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -1373,7 +1341,7 @@
    "titel": "Kanada-Vergeltungszölle gegen die USA",
    "kategorie": "global",
    "erstmals_am": "2026-09-01",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -1405,7 +1373,7 @@
    "titel": "Verkehrsunfall Bad Wünnenberg (Forsthaus)",
    "kategorie": "lokal",
    "erstmals_am": "2026-09-01",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -1437,7 +1405,7 @@
    "titel": "Hundeattacke Schloß Neuhaus Paderborn",
    "kategorie": "lokal",
    "erstmals_am": "2026-09-02",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -1493,7 +1461,7 @@
    "titel": "Frauen-Basketball-WM in Berlin",
    "kategorie": "national",
    "erstmals_am": "2026-09-04",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -1501,8 +1469,8 @@
    "titel": "Kreisschützenfest Salzkotten",
    "kategorie": "lokal",
    "erstmals_am": "2026-09-04",
-   "letzter_eintrag": "2026-09-06",
-   "status": "laufend"
+   "letzter_eintrag": "2026-09-07",
+   "status": "abgeschlossen"
   },
   {
    "id": "right-round-hangover-trend",
@@ -1541,7 +1509,7 @@
    "titel": "Spanner-Fall Buende",
    "kategorie": "lokal",
    "erstmals_am": "2026-09-05",
-   "letzter_eintrag": "2026-09-06",
+   "letzter_eintrag": "2026-09-07",
    "status": "laufend"
   },
   {
@@ -1559,6 +1527,86 @@
    "erstmals_am": "2026-09-05",
    "letzter_eintrag": "2026-09-06",
    "status": "laufend"
+  },
+  {
+   "id": "openai-gpt6-astra-release",
+   "titel": "OpenAI GPT-6 „Astra“-Release",
+   "kategorie": "global",
+   "erstmals_am": "2026-09-07",
+   "letzter_eintrag": "2026-09-07",
+   "status": "neu"
+  },
+  {
+   "id": "israel-libanon-luftangriffe",
+   "titel": "Israelische Luftangriffe im Südlibanon",
+   "kategorie": "global",
+   "erstmals_am": "2026-09-07",
+   "letzter_eintrag": "2026-09-07",
+   "status": "neu"
+  },
+  {
+   "id": "kolumbien-drohnenangriff-eln",
+   "titel": "Kolumbien: Drohnenangriff auf Militärposten (ELN)",
+   "kategorie": "global",
+   "erstmals_am": "2026-09-07",
+   "letzter_eintrag": "2026-09-07",
+   "status": "neu"
+  },
+  {
+   "id": "isar-aerospace-orbitalflug",
+   "titel": "Isar Aerospace: erster privater Orbitalflug Europas",
+   "kategorie": "national",
+   "erstmals_am": "2026-09-07",
+   "letzter_eintrag": "2026-09-07",
+   "status": "neu"
+  },
+  {
+   "id": "iw-studie-fachkraeftelucke-2029",
+   "titel": "IW-Studie Fachkräftelücke 2029",
+   "kategorie": "national",
+   "erstmals_am": "2026-09-07",
+   "letzter_eintrag": "2026-09-07",
+   "status": "neu"
+  },
+  {
+   "id": "hoehle-der-loewen-herb-investor",
+   "titel": "Andreas Herb neuer Investor bei „Die Höhle der Löwen“",
+   "kategorie": "lokal",
+   "erstmals_am": "2026-09-07",
+   "letzter_eintrag": "2026-09-07",
+   "status": "neu"
+  },
+  {
+   "id": "performance-paderborn-strassenkunst",
+   "titel": "Straßenkunst-Festival „Performance Paderborn“",
+   "kategorie": "lokal",
+   "erstmals_am": "2026-09-07",
+   "letzter_eintrag": "2026-09-07",
+   "status": "neu"
+  },
+  {
+   "id": "weserbergland-triathlon-hoexter",
+   "titel": "Weserbergland-Triathlon Höxter",
+   "kategorie": "lokal",
+   "erstmals_am": "2026-09-07",
+   "letzter_eintrag": "2026-09-07",
+   "status": "neu"
+  },
+  {
+   "id": "ancestor-photo-prank-tiktok",
+   "titel": "TikTok-Trend „Ancestor Photo Prank“",
+   "kategorie": "social",
+   "erstmals_am": "2026-09-07",
+   "letzter_eintrag": "2026-09-07",
+   "status": "neu"
+  },
+  {
+   "id": "jon-hamm-tanz-meme",
+   "titel": "Jon-Hamm-Tanz-Meme",
+   "kategorie": "social",
+   "erstmals_am": "2026-09-07",
+   "letzter_eintrag": "2026-09-07",
+   "status": "neu"
   }
  ],
  "entries": [
@@ -4730,16 +4778,6 @@
   },
   {
    "category": "global",
-   "title": "KI-Chip-Aktien erholen sich nach Milliarden-Ausverkauf — China meldet Rekord-Außenhandel",
-   "date": "2026-08-07",
-   "summary": "Eigener Artikel, Themenmix Wirtschaft (neuer Strang). Micron/Marvell legen nach starken Quartalszahlen deutlich zu (+7%/+13%) nach vorherigem Billionen-Ausverkauf bei Nvidia/SK Hynix/Samsung/Micron. China meldet Juli-Außenhandelsplus (Exporte +23,9%, Importe +27,5%) dank globalem KI-Investitionsboom.",
-   "status": "abgeschlossen",
-   "strang_id": "ki-chip-aktien-erholung",
-   "form": "artikel",
-   "kontrast": false
-  },
-  {
-   "category": "global",
    "title": "Hitzewelle und Waldbrände in Europa erreichen Rekordausmaß",
    "date": "2026-08-07",
    "summary": "Eigener Artikel, Themenmix Gesellschaft/Klima (neuer Strang). Dritte Hitzewelle 2026, >10.000 Hitzetote laut WHO bis Mitte Juli, Waldbrandfläche EU ~499.000 Hektar (Rekord). Frankreich (Gironde, 220.000 Evakuierte) und Spanien (Madrid-Umland, 12 Tote) am schwersten betroffen.",
@@ -4777,16 +4815,6 @@
   },
   {
    "category": "national",
-   "title": "Thyssenkrupp-Aktionäre entscheiden über Abspaltung von tk accelis",
-   "date": "2026-08-07",
-   "summary": "Eigener Artikel, Themenmix Wirtschaft (einmaliges Ereignis). Außerordentliche HV stimmt über Übertragung von 49% der Werkstoffsparte tk accelis an Aktionäre plus Umwandlung in Finanzholding ab (Strategie 'ACES 2030'). Ergebnis lag bei Redaktionsschluss nicht vor.",
-   "status": "abgeschlossen",
-   "strang_id": "thyssenkrupp-accelis-abspaltung",
-   "form": "artikel",
-   "kontrast": false
-  },
-  {
-   "category": "national",
    "title": "Debatte um Steinmeier-Nachfolge nimmt Fahrt auf — CDU, SPD und Grüne für Bundespräsidentin",
    "date": "2026-08-07",
    "summary": "Eigener Artikel, Neu. Özdemir (Grüne), SPD-Führung und führende Unionspolitiker sprechen sich vor Bundespräsidentenwahl 30.1.2027 parteiübergreifend für erste Bundespräsidentin aus. Kandidatinnen kursieren: Klöckner, Prien, Aigner (Söder-favorisiert). Merz befürwortet ebenfalls Frau im Amt. Klärung im Herbst erwartet.",
@@ -4809,26 +4837,6 @@
    "summary": "Eigener Artikel (Fortschreibung mit neuer Dimension: kommunale Beteiligung). WFG Paderborn bietet Unterstützung bei Anschlussnutzung des Geländes an, Bürgermeister Strate sichert Beschäftigten Unterstützung zu. Cramer bestätigt Gespräche mit 'mehreren Interessenten' (Edeka-Verbund/MBG kolportiert, Veltins weiter unbestätigt). Mitarbeiterzahl Paderborn je nach Quelle 110-120.",
    "status": "laufend",
    "strang_id": "warsteiner-haus-cramer",
-   "form": "artikel",
-   "kontrast": false
-  },
-  {
-   "category": "lokal",
-   "title": "Getreideernte im Kreis Paderborn fast abgeschlossen — Trockenheit setzt anderen Kulturen zu",
-   "date": "2026-08-07",
-   "summary": "Eigener Artikel, Themenmix Wirtschaft/Landwirtschaft (neuer Strang). WLV-Zwischenbilanz: Getreide/Raps im Nordwesten des Kreises fertig eingefahren, Südkreis auf Zielgeraden. Mais, Zuckerrüben, Kartoffeln leiden unter Trockenheit. DWD bestätigt Bodenfeuchte-Niveau ähnlich Dürrejahren 2018/2022.",
-   "status": "abgeschlossen",
-   "strang_id": "getreideernte-kreis-paderborn",
-   "form": "artikel",
-   "kontrast": false
-  },
-  {
-   "category": "lokal",
-   "title": "Festival 'Rock am Köterberg' startet in Lüdge-Niese",
-   "date": "2026-08-07",
-   "summary": "Eigener Artikel, Themenmix Kultur/Gesellschaft, nur einfach belegt (keine Tageszeitung, nur Veranstalter/Ticketportale). Zweitägiges Festival (7./8.8.) auf Kulturhof Gut Steimke, ~1000 Besucher, lokale Bands und Tribute-Acts.",
-   "status": "abgeschlossen",
-   "strang_id": "festival-rock-am-koeterberg",
    "form": "artikel",
    "kontrast": false
   },
@@ -4865,14 +4873,6 @@
    "date": "2026-08-07",
    "summary": "Jimothy Night Teil 2 (7.8.) bei Seattle Mariners gegen Tampa Bay Rays. Saxophone-Trend entgegen Vortagesvermutung weiterhin aktiv/wachsend (Korrektur). Bangladesh-Song läuft weiter. Charli-XCX-Rock-Music-Glitch-Trend unverändert. Jugendwort-2026-Voting läuft bis 20.8. Tate-Brüder-Anhörung weiter 13.8. Nur einfach belegt: Bedazzling-Trend, '2016 ist das neue 2016'-Nostalgiewelle.",
    "status": "laufend"
-  },
-  {
-   "category": "song",
-   "title": "Den Selben Song Nochmal – SoOoster",
-   "date": "2026-08-07",
-   "summary": "Song des Tages, aus Lukas' aktuellen Top-Tracks (erstmals gewählt). Titel passt zur durchgehenden Beobachtung des Tages: Ghalibafs 'Theaterdiplomatie in Dauerschleife'-Vorwurf an Trump, festgefahrener CDU-Rentenstreit, erneut gebrochener Rhein-Niedrigwasser-Rekord — Ereignisse, die sich wiederholen statt sich aufzulösen.",
-   "status": "neu",
-   "quelle": "top-tracks"
   },
   {
    "category": "global",
@@ -15629,6 +15629,396 @@
    "title": "Jennie/Blackpink-Rechtsstreit weiterhin ohne neue Entwicklung",
    "date": "2026-09-06",
    "summary": "Keine neue Entwicklung.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "ukraine-krieg",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "global",
+   "title": "Witkoff und Kushner treffen nach Moskau-Gesprächen erstmals in Kiew ein, Selenskyj spricht von „substanziellen“ Verhandlungen",
+   "date": "2026-09-07",
+   "summary": "Nach einem Treffen mit Putin in Moskau reisten die US-Sondergesandten am Sonntag erstmals nach Kiew weiter; beide Seiten hielten während der Besuche Luftangriffe auf die jeweils andere Hauptstadt zurück, eine generelle Waffenruhe kam nicht zustande.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "jemen-huthi-eskalation",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "global",
+   "title": "Jemen: Waffenruhe zwischen Huthi und Regierungstruppen bricht zusammen, mehr als 60 Tote bei Kämpfen um Taiz und Mokha",
+   "date": "2026-09-07",
+   "summary": "Nach dem Ende der seit 2022 geltenden Waffenruhe eskalierten die Kämpfe zwischen Huthi-Miliz und saudi-gestützten Regierungstruppen binnen weniger Tage zu den schwersten Zusammenstößen seit Jahren; im Roten Meer selbst blieb es ruhig.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "openai-gpt6-astra-release",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "global",
+   "title": "OpenAI veröffentlicht GPT-6 „Astra“ mit verschärften Sicherheitsauflagen nach dem Hugging-Face-Vorfall",
+   "date": "2026-09-07",
+   "summary": "Der gestaffelte Rollout startet zunächst mit einer eingeschränkten Version mit rund 1,05 Millionen Token Kontextlänge und neuen, aber stärker kontrollierten Agenten- und Cybersicherheitsfunktionen; Beobachter äußern Sorge vor Missbrauchspotenzial.",
+   "status": "neu"
+  },
+  {
+   "strang_id": "israel-libanon-luftangriffe",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Israel fliegt Luftangriffe auf Ziele im Südlibanon nach mutmaßlichem Hisbollah-Drohnenstart",
+   "date": "2026-09-07",
+   "summary": "Nach israelischen Angaben galten die Angriffe vom 6. September der Hisbollah-Infrastruktur; das libanesische Gesundheitsministerium und israelische Angaben nennen widersprüchliche Opferzahlen zwischen vier und sieben Toten.",
+   "status": "neu"
+  },
+  {
+   "strang_id": "kolumbien-drohnenangriff-eln",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Kolumbien: Drohnenangriff auf Militärposten nahe der venezolanischen Grenze tötet mindestens drei Soldaten",
+   "date": "2026-09-07",
+   "summary": "Der mutmaßlich von der Guerillagruppe ELN verübte Angriff auf den Posten El Trapiche bei Ocaña reiht sich in die schwerste Gewaltwelle Kolumbiens seit einem Jahrzehnt ein, Präsident Petro kündigte eine harte Reaktion an.",
+   "status": "neu"
+  },
+  {
+   "strang_id": "nahost-iran-spannung",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Nahost: weiterhin Patt an der Straße von Hormus, doch Teheran signalisiert erstmals wieder Gesprächsbereitschaft",
+   "date": "2026-09-07",
+   "summary": "Keine neue Eskalationsstufe seit der Angriffswelle vom Wochenanfang.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "gaza-friedensplan",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Gaza-Friedensplan: israelische Zustimmung zum Entwaffnungsabkommen weiterhin ausstehend",
+   "date": "2026-09-07",
+   "summary": "Keine neue Entwicklung seit gestern.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "nepal-tibet-flutkatastrophe",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Flutkatastrophe Nepal/Tibet: Totenzahl bei rund 1.280, Umsiedlung statt Wiederaufbau am selben Ort geplant",
+   "date": "2026-09-07",
+   "summary": "Wiederaufbau könnte laut Behördenangaben bis zu 5 Milliarden US-Dollar kosten, mehr als 5.600 Menschen gelten weiter als vermisst.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "sambia-praesidentschaftswahl-2026",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Sambia: keine neue Entwicklung seit der Vereidigung Hichilemas, Anerkennung durch Opposition weiter ungeklärt",
+   "date": "2026-09-07",
+   "summary": "Herausforderer Mundubile bleibt nach Berichten weiter inhaftiert.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "kanada-vergeltungszoelle-usa",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "global",
+   "title": "Kanadas Vergeltungszölle gegen die USA treten am 8. September in Kraft",
+   "date": "2026-09-07",
+   "summary": "Betroffen sind US-Produkte im Volumen von rund 28 Milliarden US-Dollar, Zollsätze zwischen 15 und 50 Prozent.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "sachsen-anhalt-landtagswahl-2026",
+   "form": "artikel",
+   "kontrast": true,
+   "category": "national",
+   "title": "AfD gewinnt Landtagswahl in Sachsen-Anhalt klar mit 43,8 Prozent, Regierungsbildung gilt als „sehr, sehr schwierig“",
+   "date": "2026-09-07",
+   "summary": "Die AfD verfehlt mit 39 von 83 Sitzen sowohl die absolute Mehrheit als auch die Sperrminorität; CDU (17,2 %), SPD, Grüne, Linke und erstmals das BSW (5,3 %) ziehen ebenfalls ein. Der Wahlbetrugsverdacht aus Dessau-Roßlau erwies sich als unbegründet.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "isar-aerospace-orbitalflug",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "national",
+   "title": "Isar Aerospace erreicht mit „Spectrum“ als erste private europäische Trägerrakete den Orbit",
+   "date": "2026-09-07",
+   "summary": "Die Rakete des deutschen Start-ups startete vom norwegischen Andøya aus und brachte fünf Kleinsatelliten sowie ein wissenschaftliches Experiment ins All — nach einem Fehlstart im März 2025 der zweite Versuch.",
+   "status": "neu"
+  },
+  {
+   "strang_id": "iw-studie-fachkraeftelucke-2029",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "national",
+   "title": "IW-Studie: Fachkräftelücke in Deutschland soll sich bis 2029 auf rund 723.000 fast verdoppeln",
+   "date": "2026-09-07",
+   "summary": "Am stärksten betroffen wären laut Institut der deutschen Wirtschaft Verkauf, Kinderbetreuung, Sozialarbeit und Pflege — Ursachen sind die Ruhestandswelle, zu wenig Nachwuchs und nachlassende Fachkräftezuwanderung.",
+   "status": "neu"
+  },
+  {
+   "strang_id": "autoindustrie-gewinneinbruch",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "VW-Sparpaket: Aufsichtsratsbeschluss vom Wochenanfang bleibt unverändert in Kraft",
+   "date": "2026-09-07",
+   "summary": "Keine neue Entwicklung seit gestern, IG Metall und Betriebsrat betonen weiterhin, keine Werksschließung sei besiegelt.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "fiba-frauen-basketball-wm-2026",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Basketball-Heim-WM: deutsche Frauen schließen die Gruppenphase gegen Mali ab",
+   "date": "2026-09-07",
+   "summary": "Nach dem Sieg gegen Japan folgte am Montag das letzte Gruppenspiel, die K.-o.-Runde beginnt in den kommenden Tagen.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "rentenstreit-koalition",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Rentenstreit: zugesicherte Übergangsfrist bei der Rente mit 63 bleibt Stand",
+   "date": "2026-09-07",
+   "summary": "Keine neue Entwicklung seit gestern.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "pflegeversicherung-defizit-2027",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Pflegeversicherung: Linnemanns Kurswechsel gegen Rentenkürzung für pflegende Angehörige bleibt ohne neuen Deckungsvorschlag",
+   "date": "2026-09-07",
+   "summary": "Ver.dis Pflegebett-Protest erreichte am Wochenende Berlin, ein Vorschlag zur Gegenfinanzierung wird erst für später im September erwartet.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "eon-fernwaerme-sammelklage-olg-hamm",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "E.ON-Fernwärme-Sammelklage: Beitrittsfrist läuft weiter bis 14. September",
+   "date": "2026-09-07",
+   "summary": "Keine neue Entwicklung seit gestern.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "anti-afd-demonstrationen-bundesweit",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Bundesweite Anti-AfD-Demonstrationen setzen sich nach dem Sachsen-Anhalt-Wahlergebnis fort",
+   "date": "2026-09-07",
+   "summary": "Keine grundlegend neue Dimension gegenüber den Protesten der Vortage.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "voigt-misstrauensvotum-thueringen",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "national",
+   "title": "Voigt hält nach Aberkennung des Doktortitels weiterhin an angekündigter Klage fest",
+   "date": "2026-09-07",
+   "summary": "Ein Verhandlungstermin steht weiterhin nicht fest.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "kreisschuetzenfest-salzkotten-2026",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "67. Kreisschützenfest Salzkotten zu Ende: David Käuper mit dem 92. Schuss neuer Kreisschützenkönig",
+   "date": "2026-09-07",
+   "summary": "An der Seite von Königin Sabrina Bohr und 13 Hofstaatpaaren zählten die Veranstalter allein am Sonntag rund 30.000 Besucherinnen und Besucher zum Abschluss des Fests unter dem Motto „Unita durant“.",
+   "status": "abgeschlossen"
+  },
+  {
+   "strang_id": "hoehle-der-loewen-herb-investor",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Paderborner Unternehmer Andreas W. Herb startet als neuer Investor bei „Die Höhle der Löwen“",
+   "date": "2026-09-07",
+   "summary": "Der Gründer der Paderborner MBG Group (u. a. Marken effect und Salitos) ist ab heute Abend fester Investor der 20. Staffel bei VOX.",
+   "status": "neu"
+  },
+  {
+   "strang_id": "performance-paderborn-strassenkunst",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "20. Straßenkunst-Festival „Performance Paderborn“ startet im Schlosspark Neuhaus",
+   "date": "2026-09-07",
+   "summary": "Rund 65 Künstlerinnen und Künstler bespielen bis Dienstag bei freiem Eintritt 30 Bühnen mit etwa 130 Auftritten, die Abschlussgala findet im Marstall statt.",
+   "status": "neu"
+  },
+  {
+   "strang_id": "sc-paderborn-pokal-bundesliga-2026",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "SC Paderborn verliert erstes Bundesliga-Heimspiel der Saison knapp gegen Freiburg",
+   "date": "2026-09-07",
+   "summary": "Das 0:1 fiel bereits in der 26. Minute, nächster Gegner ist am 12. September Borussia Dortmund auswärts.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "pferderipper-serie-owl",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Pferderipper-Serie: Ermittlungsgruppe „Pferd“ nimmt Verdächtigen mit weißem Lieferwagen fest — mangels Beweisen wieder entlassen",
+   "date": "2026-09-07",
+   "summary": "Weiterhin keine Anklage in der seit Monaten laufenden Fallserie im Kreis Höxter.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "verkehrsunfall-bad-wuennenberg-forsthaus",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Schwerverletzter Rennradfahrer aus Bad Wünnenberg schwebt weiterhin in Lebensgefahr",
+   "date": "2026-09-07",
+   "summary": "Keine neue Entwicklung seit gestern.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "hundeattacke-schlossneuhaus-paderborn",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Hundeattacke Schloß Neuhaus: Polizei weiterhin ohne neue Erkenntnisse",
+   "date": "2026-09-07",
+   "summary": "Keine neue Entwicklung seit gestern.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "buende-spanner-fussballerinnen",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Spanner-Fall Bünde: Staatsanwaltschaft Bielefeld ermittelt weiterhin ohne Tatverdächtigen",
+   "date": "2026-09-07",
+   "summary": "Keine neue Entwicklung seit gestern.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "warsteiner-haus-cramer",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Haus Cramer: Entscheidung über Verkauf oder Schließung steht weiterhin für den Herbst aus",
+   "date": "2026-09-07",
+   "summary": "Keine neue Entwicklung seit gestern.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "katharinenmarkt-delbrueck-wirtschaftsschau",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "Katharinenmarkt Delbrück: 51. Wirtschaftsschau eröffnet planmäßig am 18. September",
+   "date": "2026-09-07",
+   "summary": "Die Vorbereitungen für das Fest mit rund 300.000 erwarteten Besuchern laufen unverändert weiter.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "weserbergland-triathlon-hoexter",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "lokal",
+   "title": "7. Weserbergland-Triathlon in Höxter-Godelheim mit Teilnehmerrekord",
+   "date": "2026-09-07",
+   "summary": "Kreis Höxter, Stadt Höxter und Kreissportbund meldeten rund 300 Einzelstarter und 50 Staffeln als neuen Rekord.",
+   "status": "neu"
+  },
+  {
+   "strang_id": "cat-in-the-hat-ai-horror-trend",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "social",
+   "title": "„Cat in the Hat“-KI-Horrortrend: FBI identifiziert Tatverdächtigen in Kentucky, Ermittlungswelle weitet sich aus",
+   "date": "2026-09-07",
+   "summary": "Nach Michigan und Tennessee ist nun auch Kentucky betroffen, eine Anklage gegen den Jugendlichen steht nach Behördenangaben bevor. Der Trend soll laut Ermittlern aus dem Ausland stammen und kursiert bereits seit Monaten.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "ancestor-photo-prank-tiktok",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "social",
+   "title": "TikTok-Trend „Ancestor Photo Prank“: KI-generierte Ahnenfotos sollen Familie hereinlegen",
+   "date": "2026-09-07",
+   "summary": "Nutzerinnen und Nutzer schicken Verwandten ein sepiafarbenes, angeblich über Ancestry.com gefundenes KI-Bild und lösen die Verblüffung erst später auf. Belegt bislang nur über TikToks eigene Trendübersichten und Marketingblogs — Reichweite und Ursprung nicht unabhängig verifizierbar.",
+   "status": "neu"
+  },
+  {
+   "strang_id": "jon-hamm-tanz-meme",
+   "form": "artikel",
+   "kontrast": false,
+   "category": "social",
+   "title": "Jon-Hamm-Tanzszene aus „Your Friends & Neighbors“ wird zum Reaction-Meme",
+   "date": "2026-09-07",
+   "summary": "Eine Slow-Motion-Tanzszene des Schauspielers wird massenhaft remixt und auf andere Kontexte übertragen — mehrfach unabhängig bestätigt durch Fachmedien und Meme-Archive.",
+   "status": "neu"
+  },
+  {
+   "strang_id": "gta-6-leak-cyberleek",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "social",
+   "title": "GTA-6-Leak: keine bestätigte Festnahme oder Enttarnung von „CyberLeek“",
+   "date": "2026-09-07",
+   "summary": "Kursierende Gerüchte über eine Ergreifung sind unbelegte Spekulation, Take-Two verfolgt weiter rechtliche Schritte gegen mehrere Plattformen.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "tiktok-bytedance-coppa-vergleich",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "social",
+   "title": "TikTok/ByteDance-COPPA-Vergleich: Anhörung zur Aufhebung des alten Consent Decrees für 21. September angesetzt",
+   "date": "2026-09-07",
+   "summary": "An der 400-Millionen-Dollar-Einigung selbst hat sich nichts geändert.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "meta-jugendschutz-vergleich-47-staaten",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "social",
+   "title": "Metas Jugendschutz-Vergleich: weiterhin keine öffentliche Reaktion von TikTok, YouTube und Snap auf den offenen Brief",
+   "date": "2026-09-07",
+   "summary": "Keine neue Entwicklung seit gestern.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "jugendwort-2026",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "social",
+   "title": "Jugendwort 2026: Abstimmung unter den Top 3 läuft weiter bis Ende September",
+   "date": "2026-09-07",
+   "summary": "Keine neue Entwicklung seit gestern.",
+   "status": "laufend"
+  },
+  {
+   "strang_id": "jennie-blackpink-wardrobe-video-agentur",
+   "form": "hinweis",
+   "kontrast": false,
+   "category": "social",
+   "title": "Jennie/Blackpink-Rechtsstreit: Account, der das mutmaßlich manipulierte Video verbreitete, nach Abmahnung gesperrt",
+   "date": "2026-09-07",
+   "summary": "Bestätigt bislang eher die bekannte Linie des Falls als eine neue Dimension.",
    "status": "laufend"
   }
  ]
