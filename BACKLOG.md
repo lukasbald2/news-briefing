@@ -70,6 +70,11 @@ Herkunft des Mediums, die Region, über die berichtet wird, oder die Ebene
 
 ## 3. Gegen die Ergebnisse chatten
 
+**Status: Datengrundlage gebaut am 15.09.2026.** Der Chat selbst ist NICHT
+gebaut und auch nicht entschieden. Schritt 7d des Routine-Prompts schreibt seit
+dem Lauf vom 16.09.2026 die Begründungen nach `data/begruendungen.jsonl` —
+Einzelheiten in CLAUDE.md. Rückwirkend gibt es diese Daten bewusst nicht.
+
 **Lukas, 13.09.2026:**
 
 > Nur mal als Idee bzw. erste Bewertung: Ich habe die Vorstellung, dass ich

@@ -399,6 +399,46 @@ Zusammenfassungstext erkannt — "Nur Hinweisblock, Fortschreibung" steht aber
 auch in echten Einzelmeldungen, wodurch 84 statt 53 Zeilen aussortiert worden
 waeren, der Ukraine-Krieg darunter. Erkennung deshalb NUR am Titelanfang.
 
+## Begruendungen `data/begruendungen.jsonl` (eingefuehrt 2026-09-15) - WICHTIG
+
+Das Archiv hielt bis dahin nur ERGEBNISSE fest. Dass `gamescom-2026-bilanz` zu
+`wirtschaft` gehoert, steht in `themen.json` — warum nicht zu `kultur`, stand
+nirgends. Schritt 7d des Routine-Prompts schreibt deshalb je Lauf die
+ERWAEGUNGEN mit, eine Zeile je Entscheidung:
+
+```
+{"date":"2026-09-16","typ":"thema","gegenstand":"gamescom-2026-bilanz","entscheidung":"wirtschaft","begruendung":"…"}
+```
+
+Vier Typen, mehr nicht:
+
+- `thema` — jeder neu angelegte Strang
+- `kontrast` — genau eine Zeile je Ausgabe: warum diese drei Medien (nicht,
+  worin sie sich unterscheiden, das steht schon in `kontrast_unterschied`)
+- `saettigung` — nur wo die Saettigungsregel tatsaechlich griff, also bei
+  Straengen mit `form: "artikel"` in den letzten drei Ausgaben. Das ist die
+  interessanteste Zeile: Hier verliert ein Thema seinen Platz.
+- `dublette` — nur wenn die Selbstpruefung aus Schritt 7 ein Paar meldete
+
+**Warum das die eigentliche Arbeit ist:** Ein spaeterer Chat gegen diese Daten
+wuerde „was" exakt beantworten und „warum" erfinden, solange die Gruende nicht
+im Moment der Entscheidung mitgeschrieben werden. Eine nachtraeglich plausibel
+klingende Begruendung ist SCHLECHTER als gar keine, weil sie spaeter wie ein
+Beleg aussieht. Deshalb steht im Prompt ausdruecklich: Gab es keine Abwaegung,
+wird genau das hingeschrieben ("Einziges passendes Thema, keine Abwaegung
+noetig.").
+
+**Nicht nachgetragen.** Entscheidungen von vor dem 2026-09-15 bleiben ohne
+Begruendung — dieselbe Regel wie bei den fehlenden Strang-IDs der
+Juli-Meldungen: Was damals erwogen wurde, weiss heute niemand mehr.
+
+Dauerarchiv, aus dem nie geloescht wird, idempotent je Tag. Bewusst getrennt von
+`archiv.jsonl`: dort eine Zeile je Meldung, hier eine je Entscheidung — im
+selben Archiv wuerden sie die Zaehlung "Meldungen erfasst" verfaelschen.
+
+Selbstpruefung am Ende von Schritt 7d: Jeder heute neue Strang hat eine
+`thema`-Zeile, und es gibt genau eine `kontrast`-Zeile.
+
 ## Uebersichtsseite `uebersicht.html` (eingefuehrt 2026-08-22) - WICHTIG
 
 Eine Auswertung ueber alle bisherigen Berichte, in drei Sichten: ein
