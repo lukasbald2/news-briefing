@@ -325,6 +325,8 @@ __REIFE__
     </div>
     <div class="panel-body">
       <div class="legend" id="legende"></div>
+      <p class="skala">__BRUCH__</p>
+      <p class="skala">Ein Klick auf eine Fl&auml;che oder ihre Beschriftung &ouml;ffnet oben die Str&auml;nge dieser Ebene.</p>
       <figure>
         <svg id="verlauf" viewBox="0 0 980 340" role="img" aria-label="Gestapelter Fl&auml;chenverlauf der Meldungen je Tag nach Ebene &uuml;ber den gesamten erfassten Zeitraum"></svg>
       </figure>
@@ -381,6 +383,7 @@ __FOOTER__
   var KATNAME = { global: 'Global', national: 'National', lokal: 'Lokal (OWL)', social: 'Social' };
   var SERIE = ['--s1', '--s2', '--s3', '--s4'];
   var FENSTER = 7;
+  var BRUCH = D.bruch || null;
   var MAXROLL = 2 * FENSTER;
   var tip = document.getElementById('tip');
 
@@ -601,11 +604,12 @@ __FOOTER__
   }
 
   /* Aufklappen: Themenfläche oben -> zugehörige Stränge unten */
-  function zeigeStraengeZu(k) {
-    aktivThema = k;
-    Array.prototype.forEach.call(fil.children, function (c) {
-      c.setAttribute('aria-pressed', String(c.dataset.thema === (k || '')));
-    });
+  function zeigeStraengeZu(k) { zeigeStraenge('thema', k); }
+
+  function zeigeStraenge(art, wert) {
+    aktivThema = art === 'thema' ? wert : null;
+    aktivEbene = art === 'ebene' ? wert : null;
+    markiereFilter();
     zeichneStraenge();
     boxS.innerHTML = '';
     if (!boxS.hidden) baueStabelle();
@@ -633,12 +637,17 @@ __FOOTER__
   });
 
   /* ================= Strang-Flaechen (Kern der Seite) ================= */
-  var aktivThema = null;
+  var aktivThema = null, aktivEbene = null;
+  /* Immer nur EIN Filter zugleich: Thema UND Ebene gleichzeitig ergaebe
+     leere Auswahlen, die wie ein Fehler aussehen. */
+  function passt(r) {
+    return (!aktivThema || r.g === aktivThema) && (!aktivEbene || r.k === aktivEbene);
+  }
   var svgS = document.getElementById('straenge');
 
   function zeichneStraenge() {
     while (svgS.firstChild) svgS.removeChild(svgS.firstChild);
-    var reihen = REIHEN.filter(function (r) { return !aktivThema || r.g === aktivThema; });
+    var reihen = REIHEN.filter(passt);
     var n = D.htage.length;
     var W = 980, lw = 292, mr = 16, top = 32, step = 31, ah = 25;
     var pw = W - lw - mr;
@@ -731,19 +740,31 @@ __FOOTER__
   }
 
   var fil = document.getElementById('filter');
-  var opts = [{ k: null, t: 'Alle Themen' }].concat(TH.reihenfolge.map(function (k) {
-    return { k: k, t: TH.namen[k] };
-  }));
+  /* Zwei Filterarten in einer Leiste: ohne Zwischenueberschrift stehen die vier
+     Ebenen ununterscheidbar zwischen den neun Themen. */
+  var opts = [{ art: 'alle', w: '', t: 'Alles' }, { art: 'titel', t: 'Thema' }]
+    .concat(TH.reihenfolge.map(function (k) { return { art: 'thema', w: k, t: TH.namen[k] }; }))
+    .concat([{ art: 'titel', t: 'Ebene' }])
+    .concat(D.kat.map(function (k, ki) { return { art: 'ebene', w: k, t: KATNAME[k], f: 'var(' + SERIE[ki] + ')' }; }));
   opts.forEach(function (o) {
+    if (o.art === 'titel') {
+      var sp = document.createElement('span');
+      sp.textContent = o.t;
+      sp.style.cssText = 'align-self:center; margin:0 2px 0 10px; font-size:.72rem;' +
+        'letter-spacing:.08em; text-transform:uppercase; color:var(--ink-3)';
+      fil.appendChild(sp);
+      return;
+    }
     var b = document.createElement('button');
     b.textContent = o.t;
-    b.dataset.thema = o.k || '';
-    b.setAttribute('aria-pressed', String(o.k === aktivThema));
-    if (o.k) b.style.borderLeft = '3px solid ' + TFARBE[o.k];
+    b.dataset.art = o.art;
+    b.dataset.wert = o.w;
+    if (o.art === 'thema') b.style.borderLeft = '3px solid ' + TFARBE[o.w];
+    if (o.art === 'ebene') b.style.borderLeft = '3px solid ' + o.f;
     b.addEventListener('click', function () {
-      aktivThema = o.k;
-      Array.prototype.forEach.call(fil.children, function (c) { c.setAttribute('aria-pressed', 'false'); });
-      b.setAttribute('aria-pressed', 'true');
+      aktivThema = o.art === 'thema' ? o.w : null;
+      aktivEbene = o.art === 'ebene' ? o.w : null;
+      markiereFilter();
       zeichneStraenge();
       boxS.innerHTML = '';
       if (!boxS.hidden) baueStabelle();
@@ -751,11 +772,23 @@ __FOOTER__
     fil.appendChild(b);
   });
 
+  function markiereFilter() {
+    Array.prototype.forEach.call(fil.children, function (c) {
+      if (c.tagName !== 'BUTTON') return;
+      var an = c.dataset.art === 'alle'
+        ? (!aktivThema && !aktivEbene)
+        : (c.dataset.art === 'thema' ? c.dataset.wert === aktivThema
+                                     : c.dataset.wert === aktivEbene);
+      c.setAttribute('aria-pressed', String(!!an));
+    });
+  }
+  markiereFilter();
+
   /* ---- Tabellensicht der Straenge ---- */
   var btnS = document.getElementById('btn-stabelle');
   var boxS = document.getElementById('stabelle');
   function baueStabelle() {
-    var reihen = REIHEN.filter(function (r) { return !aktivThema || r.g === aktivThema; });
+    var reihen = REIHEN.filter(passt);
     var h = '<table><thead><tr><th>Strang</th><th>Thema</th><th>Ebene</th><th>Meldungen</th><th>Artikel</th><th>Hinweis</th><th>erster Tag</th><th>letzter Tag</th><th>h&ouml;chster 7-Tage-Wert</th></tr></thead><tbody>';
     reihen.forEach(function (r) {
       var art = 0, hin = 0, erst = null, letzt = null;
@@ -809,6 +842,14 @@ __FOOTER__
     });
     svgV.appendChild(ax);
 
+    /* Erfassungsbruch: links davon buendelte eine Zeile mehrere Themen.
+       Gleiche Hinterlegung wie der Anlaufbereich der Strang-Flaechen --
+       derselbe Vorbehalt, also dieselbe Sprache. */
+    if (BRUCH && BRUCH.i > 0) {
+      svgV.appendChild(el('rect', { x: ml, y: mt, width: x(BRUCH.i) - ml, height: ih, class: 'sband' }));
+      svgV.appendChild(el('line', { x1: x(BRUCH.i), x2: x(BRUCH.i), y1: mt, y2: mt + ih, class: 'sband-line' }));
+    }
+
     var unten = new Array(n).fill(0);
     D.kat.forEach(function (k, ki) {
       var oben = unten.map(function (u, i) { return u + D.verlauf[i].v[ki]; });
@@ -822,6 +863,14 @@ __FOOTER__
       var mid = (oben[n - 1] + unten[n - 1]) / 2;
       var lab = el('text', { x: ml + iw + 10, y: y(mid) + 4, class: 'dlabel' });
       lab.textContent = KATNAME[k];
+      lab.style.cursor = 'pointer';
+      lab.setAttribute('role', 'button');
+      lab.setAttribute('tabindex', '0');
+      lab.setAttribute('aria-label', 'Ebene ' + KATNAME[k] + ' aufklappen');
+      lab.addEventListener('click', function () { zeigeStraenge('ebene', k); });
+      lab.addEventListener('keydown', function (ev) {
+        if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); zeigeStraenge('ebene', k); }
+      });
       svgV.appendChild(lab);
       unten = oben;
     });
@@ -843,10 +892,25 @@ __FOOTER__
       else {
         D.kat.forEach(function (k, ki) { h += KATNAME[k] + ' <span class="m">' + d.v[ki] + '</span><br>'; });
         h += '<span class="m">Summe ' + sum + '</span>';
+        if (BRUCH && i <= BRUCH.i) h += '<br><span class="m">Sammelerfassung &mdash; nicht vergleichbar</span>';
       }
       zeigTip(h, ev);
     });
     hit.addEventListener('mouseleave', function () { cross.setAttribute('opacity', 0); versteckTip(); });
+    hit.style.cursor = 'pointer';
+    hit.addEventListener('click', function (ev) {
+      var bb = svgV.getBoundingClientRect();
+      var px = (ev.clientX - bb.left) / bb.width * W;
+      var py = (ev.clientY - bb.top) / bb.height * H;
+      var i = Math.max(0, Math.min(n - 1, Math.round((px - ml) / iw * (n - 1))));
+      var d = D.verlauf[i], acc = 0, ziel = null;
+      for (var ki = 0; ki < D.kat.length; ki++) {
+        var o = acc + d.v[ki];
+        if (d.v[ki] > 0 && py <= y(acc) && py >= y(o)) { ziel = D.kat[ki]; break; }
+        acc = o;
+      }
+      if (ziel) zeigeStraenge('ebene', ziel);
+    });
   }
 
   var btnT = document.getElementById('btn-tabelle');

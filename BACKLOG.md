@@ -15,6 +15,11 @@ Angelegt am 2026-08-29.
 
 ## 1. Drilldown für „Wie viel der Bericht insgesamt gemeldet hat"
 
+**Status: gebaut am 16.09.2026.** Ein Klick auf eine Fläche oder ihre
+Beschriftung filtert die Strang-Ansicht auf diese Ebene. Beim Bauen kam heraus,
+dass der Anstieg, nach dem hier gefragt wird, **die Erfassung misst und nicht
+die Berichterstattung** — die Seite benennt das jetzt an Ort und Stelle.
+
 **Lukas, 29.08.2026:**
 
 > Ein Drilldown für die Grafik "Wie viel der Bericht insgesamt gemeldet hat" -

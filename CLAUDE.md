@@ -497,6 +497,18 @@ erzeugte Seite - sonst ist die Aenderung beim naechsten Lauf weg.
 - Der Neubau laeuft TAEGLICH, nicht nur sonntags: Das Skript braucht eine
   Sekunde, und bei woechentlichem Neubau waere die Seite nach einem einzigen
   fehlgeschlagenen Lauf zwei Wochen alt.
+- **Drilldown nach Ebene (ergaenzt 2026-09-16):** Ein Klick auf eine Flaeche im
+  Mengenverlauf oder auf ihre Beschriftung filtert die Strang-Ansicht auf diese
+  Ebene - dieselbe Geste wie beim Themenstapel. Thema und Ebene schliessen
+  einander aus; beides zugleich ergaebe leere Auswahlen, die wie ein Fehler
+  aussehen.
+- **Erfassungsbruch (ergaenzt 2026-09-16):** Der Mengenverlauf hinterlegt die
+  Zeit bis zur Strang-Umstellung und benennt sie im Text. Der Sprung dort misst
+  die ERFASSUNG, nicht die Berichterstattung: Davor buendelte eine Zeile
+  mehrere Themen, danach bekam jeder Strang eine eigene. Der Schnitt steigt
+  dadurch auf mehr als das Doppelte, ohne dass der Bericht laenger geworden
+  waere. Datum und Zahlen rechnet das Skript selbst aus - sie wandern mit den
+  Daten und werden nicht von Hand gepflegt.
 
 ## Footer-Links beim Kopieren nach `index.html` — WICHTIG
 

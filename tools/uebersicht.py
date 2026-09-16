@@ -69,6 +69,24 @@ def main():
     zahl = collections.Counter((r["date"], r["category"]) for r in rows)
     verlauf = [{"d": t, "v": [zahl.get((t, k), 0) for k in KAT]} for t in tage]
 
+    # --- Bruch in der Erfassung -------------------------------------------
+    # Bis zur Umstellung auf Strang-Kennungen steckten die Hinweisblock-Straenge
+    # in Sammeleintraegen: eine Zeile fuer viele Themen. Der Sprung im
+    # Mengenverlauf misst deshalb die ERFASSUNG, nicht die Berichterstattung.
+    # Ohne diesen Hinweis liest man die Kurve als Wachstum, das es nicht gab.
+    sammel = [r for r in rows if not r.get("form")]
+    if sammel:
+        bis = max(r["date"] for r in sammel)
+        vor_t = [t for t in tage if t <= bis]
+        nach_t = [t for t in tage if t > bis]
+        vor_m = sum(1 for r in rows if r["date"] <= bis)
+        nach_m = sum(1 for r in rows if r["date"] > bis)
+        bruch = {"bis": bis, "i": len(vor_t) - 1, "zeilen": len(sammel),
+                 "vor": round(vor_m / len(vor_t), 1),
+                 "nach": round(nach_m / len(nach_t), 1) if nach_t else 0.0}
+    else:
+        bruch = None
+
     # --- Strang-Flaechen: nur Zeilen mit Strang-Kennung ---------------------------
     sr = [r for r in rows if r.get("strang_id")]
     if not sr:
@@ -182,7 +200,7 @@ def main():
     if fehlend:
         sys.exit("Abbruch: Straenge ohne Thema in themen.json: %s" % ", ".join(fehlend))
 
-    daten = {"tage": tage, "kat": KAT, "verlauf": verlauf,
+    daten = {"tage": tage, "kat": KAT, "verlauf": verlauf, "bruch": bruch,
              "htage": htage, "heat": heat, "stat": stat, "themen": themen}
 
     # --- Texte, die sich mit den Daten mitbewegen -------------------------
@@ -216,6 +234,24 @@ def main():
                       "Verlauf und sind kein Ausfall der Erfassung."
                       % (len(luecken), ", ".join(kurz(x) for x in luecken)))
 
+    def komma(x):
+        return ("%.1f" % x).replace(".", ",")
+
+    if bruch:
+        bruch_txt = (
+            'Der Sprung Mitte August misst die <strong>Erfassung, nicht die Berichterstattung</strong>. '
+            'Bis zum %s steckten die Hinweisblock-Str&auml;nge in Sammeleintr&auml;gen &mdash; '
+            '<strong>%d Zeilen</strong>, von denen jede mehrere Themen b&uuml;ndelt. Danach bekam jeder '
+            'Strang eine eigene Zeile. Der Schnitt steigt dadurch von <strong>%s</strong> auf '
+            '<strong>%s</strong> Meldungen am Tag, ohne dass der Bericht l&auml;nger geworden w&auml;re. '
+            'Der hinterlegte Bereich links markiert diese Zeit: <strong>Vergleiche &uuml;ber die Kante '
+            'hinweg tragen nicht.</strong>'
+            % (tag(bruch["bis"]), bruch["zeilen"], komma(bruch["vor"]), komma(bruch["nach"]))
+        )
+    else:
+        bruch_txt = ('Alle Zeilen tragen eine Form-Angabe; ein Erfassungsbruch ist in den Daten '
+                     'nicht mehr zu sehen.')
+
     footer = ("Erzeugt am %s aus <code>data/archiv.jsonl</code> &middot; %d Meldungen, %s bis %s "
               "&middot; Diese Seite wird bei jedem Lauf neu gebaut; von Hand ge&auml;nderte "
               "Fassungen werden dabei &uuml;berschrieben."
@@ -226,6 +262,7 @@ def main():
                         ("__EYEBROW__", eyebrow),
                         ("__REIFE__", reife),
                         ("__LUECKE__", luecke_txt),
+                        ("__BRUCH__", bruch_txt),
                         ("__FOOTER__", footer)):
         if marke not in html:
             sys.exit("Abbruch: Platzhalter %s fehlt in der Vorlage." % marke)
@@ -238,6 +275,9 @@ def main():
              ", %d Luecke(n)" % len(luecken) if luecken else ""))
     print("  Straenge: %d von %d (ab %d Meldungen), %d Tage ab %s"
           % (len(heat), len(anzahl), MIN_MELDUNGEN, strangtage, htage[0]))
+    if bruch:
+        print("  Erfassungsbruch bis %s: %s -> %s Meldungen/Tag (%d Sammelzeilen)"
+              % (bruch["bis"], komma(bruch["vor"]), komma(bruch["nach"]), bruch["zeilen"]))
     print("  Themen: %d ueber %d Tage, %d Meldungen ohne Thema (Sammeleintraege)"
           % (len(treihe), len(tage), ohne_thema))
     print("  Themengruppen: %s" % ", ".join("%s %.1f%%" % (k, themen["anteil"][k]) for k in themen["reihenfolge"]))
