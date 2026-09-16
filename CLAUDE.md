@@ -497,11 +497,18 @@ erzeugte Seite - sonst ist die Aenderung beim naechsten Lauf weg.
 - Der Neubau laeuft TAEGLICH, nicht nur sonntags: Das Skript braucht eine
   Sekunde, und bei woechentlichem Neubau waere die Seite nach einem einzigen
   fehlgeschlagenen Lauf zwei Wochen alt.
-- **Drilldown nach Ebene (ergaenzt 2026-09-16):** Ein Klick auf eine Flaeche im
-  Mengenverlauf oder auf ihre Beschriftung filtert die Strang-Ansicht auf diese
-  Ebene - dieselbe Geste wie beim Themenstapel. Thema und Ebene schliessen
-  einander aus; beides zugleich ergaebe leere Auswahlen, die wie ein Fehler
-  aussehen.
+- **Ebenen-Panel (ergaenzt 2026-09-16):** Unter dem Mengenverlauf steht ein
+  eigenes Panel "Woraus eine Ebene besteht". Ein Klick auf eine Flaeche im
+  Mengenverlauf oder auf ihre Beschriftung waehlt dort die Ebene; er fuehrt
+  NICHT mehr in die Strang-Ansicht oben. Die Zeilen sind nach Themengruppe
+  GRUPPIERT statt nach Haeufigkeit sortiert, mit Zwischenkopf und Anzahl je
+  Gruppe. Themen sind dort bewusst KEIN Bedienelement, sondern nur Legende
+  unter dem Bild - die Frage des Panels ist die Ebene, nicht das Thema.
+- Die Legende nennt alle neun Themen, auch die in der Auswahl fehlenden. Dass
+  Social keinen Strang unter Krieg oder Politik hat, ist der Befund und kein
+  Darstellungsfehler.
+- Beide Panels teilen sich eine Zeichenfunktion, `zeichneStraenge(svg, reihen,
+  gruppiert)`. Die zwei Filter sind unabhaengig: oben Thema, unten Ebene.
 - **Erfassungsbruch (ergaenzt 2026-09-16):** Der Mengenverlauf hinterlegt die
   Zeit bis zur Strang-Umstellung und benennt sie im Text. Der Sprung dort misst
   die ERFASSUNG, nicht die Berichterstattung: Davor buendelte eine Zeile

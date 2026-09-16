@@ -206,6 +206,7 @@ svg { display: block; width: 100%; height: auto; overflow: visible; }
 .srow-base { stroke: var(--line-soft); stroke-width: 1; }
 .sband { fill: var(--surface-2); }
 .sband-line { stroke: var(--ink-3); stroke-width: 1; stroke-dasharray: 2 3; opacity: .55; }
+.gkopf { font-size: 12px; font-weight: 600; fill: var(--ink-2); letter-spacing: .01em; }
 .sband-text {
   font-family: "IBM Plex Mono", monospace; font-size: 10px; fill: var(--ink-3);
   letter-spacing: .08em; text-transform: uppercase;
@@ -331,6 +332,27 @@ __REIFE__
         <svg id="verlauf" viewBox="0 0 980 340" role="img" aria-label="Gestapelter Fl&auml;chenverlauf der Meldungen je Tag nach Ebene &uuml;ber den gesamten erfassten Zeitraum"></svg>
       </figure>
       <div id="tabelle" hidden class="scroller" style="margin-top:16px; max-height:340px; overflow-y:auto"></div>
+    </div>
+  </section>
+
+  <section class="panel" id="ebenen-panel">
+    <div class="panel-head">
+      <div>
+        <h2>Woraus eine Ebene besteht</h2>
+        <p>Die Aufklappung des Mengenverlaufs dar&uuml;ber: dieselben Str&auml;nge, aber nach Ebene ausgew&auml;hlt und nach thematischem Schwerpunkt gruppiert. Sichtbar wird, aus welchen Themen eine Ebene sich zusammensetzt &mdash; und welche davon wachsen.</p>
+      </div>
+      <div class="controls" id="efilter"></div>
+    </div>
+    <div class="panel-body">
+      <p class="skala">Gleiche Skala wie oben: <strong>Aufmerksamkeit der letzten sieben Tage</strong>. Die Reihenfolge ist hier aber nicht die H&auml;ufigkeit, sondern das Thema &mdash; innerhalb einer Themengruppe stehen die h&auml;ufigsten Str&auml;nge oben.</p>
+      <figure>
+        <svg id="ebenenstraenge" role="img" aria-label="Ein Fl&auml;chenverlauf je Themenstrang der gew&auml;hlten Ebene, gruppiert nach Thema"></svg>
+      </figure>
+      <div class="legend" id="elegende"></div>
+      <div class="controls" style="margin-top:16px">
+        <button id="btn-etabelle" aria-pressed="false" aria-controls="etabelle">Als Tabelle</button>
+      </div>
+      <div id="etabelle" hidden class="scroller" style="margin-top:12px; max-height:420px; overflow-y:auto"></div>
     </div>
   </section>
 
@@ -604,19 +626,31 @@ __FOOTER__
   }
 
   /* Aufklappen: Themenfläche oben -> zugehörige Stränge unten */
-  function zeigeStraengeZu(k) { zeigeStraenge('thema', k); }
-
-  function zeigeStraenge(art, wert) {
-    aktivThema = art === 'thema' ? wert : null;
-    aktivEbene = art === 'ebene' ? wert : null;
-    markiereFilter();
-    zeichneStraenge();
-    boxS.innerHTML = '';
-    if (!boxS.hidden) baueStabelle();
-    document.getElementById('straenge-panel').scrollIntoView({
+  function springZu(id) {
+    document.getElementById(id).scrollIntoView({
       behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth',
       block: 'start'
     });
+  }
+
+  /* Klick im Themenstapel -> Strang-Panel oben */
+  function zeigeStraengeZu(k) {
+    aktivThema = k;
+    markiereThemen();
+    malStraenge();
+    boxS.innerHTML = '';
+    if (!boxS.hidden) baueStabelle();
+    springZu('straenge-panel');
+  }
+
+  /* Klick im Mengenverlauf -> eigenes Ebenen-Panel direkt darunter */
+  function zeigeEbene(k) {
+    aktivEbene = k;
+    markiereEbenen();
+    malEbenen();
+    boxE.innerHTML = '';
+    if (!boxE.hidden) baueEtabelle();
+    springZu('ebenen-panel');
   }
 
   var btnTT = document.getElementById('btn-ttabelle');
@@ -637,21 +671,45 @@ __FOOTER__
   });
 
   /* ================= Strang-Flaechen (Kern der Seite) ================= */
+  /* Zwei Panels, zwei unabhaengige Filter: oben nach Thema, unten nach Ebene.
+     Getrennt gehalten, weil eine gemeinsame Leiste beide Fragen vermischt --
+     "welcher Strang war gross" und "woraus besteht eine Ebene". */
   var aktivThema = null, aktivEbene = null;
-  /* Immer nur EIN Filter zugleich: Thema UND Ebene gleichzeitig ergaebe
-     leere Auswahlen, die wie ein Fehler aussehen. */
-  function passt(r) {
-    return (!aktivThema || r.g === aktivThema) && (!aktivEbene || r.k === aktivEbene);
-  }
   var svgS = document.getElementById('straenge');
+  var svgE = document.getElementById('ebenenstraenge');
 
-  function zeichneStraenge() {
+  function themenReihen() {
+    return REIHEN.filter(function (r) { return !aktivThema || r.g === aktivThema; });
+  }
+  /* Nach Thema gruppiert statt nach Haeufigkeit sortiert: Die Frage dieses
+     Panels ist, aus welchen Themen eine Ebene besteht. */
+  function ebenenReihen() {
+    return REIHEN.filter(function (r) { return !aktivEbene || r.k === aktivEbene; })
+      .sort(function (a, b) {
+        var da = TH.reihenfolge.indexOf(a.g) - TH.reihenfolge.indexOf(b.g);
+        return da || (b.n - a.n) || (a.id < b.id ? -1 : 1);
+      });
+  }
+  function malStraenge() { zeichneStraenge(svgS, themenReihen(), false); }
+  function malEbenen() { zeichneStraenge(svgE, ebenenReihen(), true); }
+
+  function zeichneStraenge(svgS, reihen, gruppiert) {
     while (svgS.firstChild) svgS.removeChild(svgS.firstChild);
-    var reihen = REIHEN.filter(passt);
     var n = D.htage.length;
     var W = 980, lw = 292, mr = 16, top = 32, step = 31, ah = 25;
     var pw = W - lw - mr;
-    var H = top + reihen.length * step + 14;
+    /* Gruppiert: vor jeder neuen Themengruppe eine Kopfzeile einschieben. */
+    var kopfH = 24, ypos = [], koepfe = [], yy = top;
+    reihen.forEach(function (r, ri) {
+      if (gruppiert && (ri === 0 || reihen[ri - 1].g !== r.g)) {
+        koepfe.push({ g: r.g, y: yy, n: 0 });
+        yy += kopfH;
+      }
+      if (gruppiert) koepfe[koepfe.length - 1].n++;
+      ypos.push(yy);
+      yy += step;
+    });
+    var H = yy + 14;
     svgS.setAttribute('viewBox', '0 0 ' + W + ' ' + H);
 
     var x = function (i) { return lw + (n === 1 ? pw / 2 : i * pw / (n - 1)); };
@@ -676,8 +734,16 @@ __FOOTER__
     });
     svgS.appendChild(ax);
 
+    koepfe.forEach(function (k) {
+      svgS.appendChild(el('rect', { x: 0, y: k.y + 7, width: 3, height: 12, fill: TFARBE[k.g] }));
+      var kt = el('text', { x: 11, y: k.y + 17, class: 'gkopf' });
+      kt.textContent = TH.namen[k.g] + '  (' + k.n + ')';
+      svgS.appendChild(kt);
+      svgS.appendChild(el('line', { x1: lw, x2: lw + pw, y1: k.y + 13, y2: k.y + 13, class: 'srow-base' }));
+    });
+
     reihen.forEach(function (r, ri) {
-      var y0 = top + ri * step, base = y0 + ah;
+      var y0 = ypos[ri], base = y0 + ah;
       var farbe = TFARBE[r.g];
 
       r.hl = el('rect', { x: 0, y: y0 - 2, width: W, height: step, class: 'srow-hl' });
@@ -719,8 +785,10 @@ __FOOTER__
       var px = (ev.clientX - bb.left) / bb.width * W;
       var py = (ev.clientY - bb.top) / bb.height * H;
       var i = Math.max(0, Math.min(n - 1, Math.round((px - lw) / pw * (n - 1))));
-      var ri = Math.max(0, Math.min(reihen.length - 1, Math.floor((py - top) / step)));
+      var ri = 0;
+      for (var q = 0; q < ypos.length; q++) if (py >= ypos[q]) ri = q;
       var r = reihen[ri];
+      if (!r) return;
 
       kopf.setAttribute('x1', x(i)); kopf.setAttribute('x2', x(i)); kopf.setAttribute('opacity', .45);
       reihen.forEach(function (q) { q.hl.classList.remove('an'); q.lb.classList.remove('an'); });
@@ -740,55 +808,65 @@ __FOOTER__
   }
 
   var fil = document.getElementById('filter');
-  /* Zwei Filterarten in einer Leiste: ohne Zwischenueberschrift stehen die vier
-     Ebenen ununterscheidbar zwischen den neun Themen. */
-  var opts = [{ art: 'alle', w: '', t: 'Alles' }, { art: 'titel', t: 'Thema' }]
-    .concat(TH.reihenfolge.map(function (k) { return { art: 'thema', w: k, t: TH.namen[k] }; }))
-    .concat([{ art: 'titel', t: 'Ebene' }])
-    .concat(D.kat.map(function (k, ki) { return { art: 'ebene', w: k, t: KATNAME[k], f: 'var(' + SERIE[ki] + ')' }; }));
-  opts.forEach(function (o) {
-    if (o.art === 'titel') {
-      var sp = document.createElement('span');
-      sp.textContent = o.t;
-      sp.style.cssText = 'align-self:center; margin:0 2px 0 10px; font-size:.72rem;' +
-        'letter-spacing:.08em; text-transform:uppercase; color:var(--ink-3)';
-      fil.appendChild(sp);
-      return;
-    }
+  [{ k: null, t: 'Alle Themen' }].concat(TH.reihenfolge.map(function (k) {
+    return { k: k, t: TH.namen[k] };
+  })).forEach(function (o) {
     var b = document.createElement('button');
     b.textContent = o.t;
-    b.dataset.art = o.art;
-    b.dataset.wert = o.w;
-    if (o.art === 'thema') b.style.borderLeft = '3px solid ' + TFARBE[o.w];
-    if (o.art === 'ebene') b.style.borderLeft = '3px solid ' + o.f;
+    b.dataset.wert = o.k || '';
+    if (o.k) b.style.borderLeft = '3px solid ' + TFARBE[o.k];
     b.addEventListener('click', function () {
-      aktivThema = o.art === 'thema' ? o.w : null;
-      aktivEbene = o.art === 'ebene' ? o.w : null;
-      markiereFilter();
-      zeichneStraenge();
+      aktivThema = o.k;
+      markiereThemen();
+      malStraenge();
       boxS.innerHTML = '';
       if (!boxS.hidden) baueStabelle();
     });
     fil.appendChild(b);
   });
-
-  function markiereFilter() {
+  function markiereThemen() {
     Array.prototype.forEach.call(fil.children, function (c) {
-      if (c.tagName !== 'BUTTON') return;
-      var an = c.dataset.art === 'alle'
-        ? (!aktivThema && !aktivEbene)
-        : (c.dataset.art === 'thema' ? c.dataset.wert === aktivThema
-                                     : c.dataset.wert === aktivEbene);
-      c.setAttribute('aria-pressed', String(!!an));
+      c.setAttribute('aria-pressed', String(c.dataset.wert === (aktivThema || '')));
     });
   }
-  markiereFilter();
+  markiereThemen();
+
+  /* ---- Ebenen-Panel: eigene Leiste, Themen nur als Legende ---- */
+  var efil = document.getElementById('efilter');
+  [{ k: null, t: 'Alle Ebenen' }].concat(D.kat.map(function (k, ki) {
+    return { k: k, t: KATNAME[k], f: 'var(' + SERIE[ki] + ')' };
+  })).forEach(function (o) {
+    var b = document.createElement('button');
+    b.textContent = o.t;
+    b.dataset.wert = o.k || '';
+    if (o.k) b.style.borderLeft = '3px solid ' + o.f;
+    b.addEventListener('click', function () {
+      aktivEbene = o.k;
+      markiereEbenen();
+      malEbenen();
+      boxE.innerHTML = '';
+      if (!boxE.hidden) baueEtabelle();
+    });
+    efil.appendChild(b);
+  });
+  function markiereEbenen() {
+    Array.prototype.forEach.call(efil.children, function (c) {
+      c.setAttribute('aria-pressed', String(c.dataset.wert === (aktivEbene || '')));
+    });
+  }
+  markiereEbenen();
+
+  document.getElementById('elegende').innerHTML =
+    TH.reihenfolge.map(function (k) {
+      return '<span><i class="swatch" style="background:' + TFARBE[k] + '"></i>' + TH.namen[k] + '</span>';
+    }).join('') +
+    '<span><i class="swatch" style="background:var(--surface-2);border:1px solid var(--line)"></i>Anlauf: Fenster noch nicht voll</span>';
 
   /* ---- Tabellensicht der Straenge ---- */
   var btnS = document.getElementById('btn-stabelle');
   var boxS = document.getElementById('stabelle');
   function baueStabelle() {
-    var reihen = REIHEN.filter(passt);
+    var reihen = themenReihen();
     var h = '<table><thead><tr><th>Strang</th><th>Thema</th><th>Ebene</th><th>Meldungen</th><th>Artikel</th><th>Hinweis</th><th>erster Tag</th><th>letzter Tag</th><th>h&ouml;chster 7-Tage-Wert</th></tr></thead><tbody>';
     reihen.forEach(function (r) {
       var art = 0, hin = 0, erst = null, letzt = null;
@@ -867,9 +945,9 @@ __FOOTER__
       lab.setAttribute('role', 'button');
       lab.setAttribute('tabindex', '0');
       lab.setAttribute('aria-label', 'Ebene ' + KATNAME[k] + ' aufklappen');
-      lab.addEventListener('click', function () { zeigeStraenge('ebene', k); });
+      lab.addEventListener('click', function () { zeigeEbene(k); });
       lab.addEventListener('keydown', function (ev) {
-        if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); zeigeStraenge('ebene', k); }
+        if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); zeigeEbene(k); }
       });
       svgV.appendChild(lab);
       unten = oben;
@@ -909,7 +987,7 @@ __FOOTER__
         if (d.v[ki] > 0 && py <= y(acc) && py >= y(o)) { ziel = D.kat[ki]; break; }
         acc = o;
       }
-      if (ziel) zeigeStraenge('ebene', ziel);
+      if (ziel) zeigeEbene(ziel);
     });
   }
 
@@ -929,14 +1007,28 @@ __FOOTER__
     }
   });
 
-  zeichneThemenStapel();
-  zeichneStraenge();
-  zeichneVerlauf();
-  var mq = matchMedia('(prefers-color-scheme: dark)');
-  (mq.addEventListener ? mq.addEventListener.bind(mq, 'change') : mq.addListener.bind(mq))(function () {
-    zeichneThemenStapel(); zeichneStraenge(); zeichneVerlauf();
+  var btnE = document.getElementById('btn-etabelle');
+  var boxE = document.getElementById('etabelle');
+  function baueEtabelle() {
+    var reihen = ebenenReihen();
+    var h = '<table><thead><tr><th>Thema</th><th>Strang</th><th>Ebene</th><th>Meldungen</th></tr></thead><tbody>';
+    reihen.forEach(function (r) {
+      h += '<tr><td>' + TH.namen[r.g] + '</td><td>' + r.t + '</td><td>' + KATNAME[r.k] + '</td><td>' + r.n + '</td></tr>';
+    });
+    boxE.innerHTML = h + '</tbody></table>';
+  }
+  btnE.addEventListener('click', function () {
+    var an = btnE.getAttribute('aria-pressed') === 'true';
+    btnE.setAttribute('aria-pressed', String(!an));
+    boxE.hidden = an;
+    if (!an && !boxE.innerHTML) baueEtabelle();
   });
-  new MutationObserver(function () { zeichneThemenStapel(); zeichneStraenge(); zeichneVerlauf(); })
+
+  function malAlles() { zeichneThemenStapel(); malStraenge(); zeichneVerlauf(); malEbenen(); }
+  malAlles();
+  var mq = matchMedia('(prefers-color-scheme: dark)');
+  (mq.addEventListener ? mq.addEventListener.bind(mq, 'change') : mq.addListener.bind(mq))(malAlles);
+  new MutationObserver(malAlles)
     .observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
 })();
 </script>
