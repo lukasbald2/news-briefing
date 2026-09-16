@@ -13,36 +13,6 @@ Angelegt am 2026-08-29.
 
 ---
 
-## 1. Drilldown für „Wie viel der Bericht insgesamt gemeldet hat"
-
-**Status: gebaut am 16.09.2026.** Ein Klick auf eine Fläche oder ihre
-Beschriftung öffnet das eigene Panel „Woraus eine Ebene besteht" direkt unter
-dem Mengenverlauf — Zeilen nach Themengruppe gruppiert, Themen nur als Legende.
-Beim Bauen kam heraus,
-dass der Anstieg, nach dem hier gefragt wird, **die Erfassung misst und nicht
-die Berichterstattung** — die Seite benennt das jetzt an Ort und Stelle.
-
-**Lukas, 29.08.2026:**
-
-> Ein Drilldown für die Grafik "Wie viel der Bericht insgesamt gemeldet hat" -
-> analog zu den Grafiken darüber mit Aufmerksamkeits-Drilldown. Man soll quasi
-> sehen können, welche Themen-Stränge zu welchen der bestehenden 4 Kategorien
-> wie gewachsen sind - und vielleicht eine Begründung ableiten, warum es einen
-> Anstieg von Meldungen gab - z.B. von 11.08 bis 25.08 aktuell
-
-**Notiz (Claude):** Die Daten dafür liegen vollständig vor. `data/archiv.jsonl`
-führt seit dem 03.07. für jede Meldung `date`, `category` und `strang_id` — der
-Aufriss „welcher Strang trug wie viel zu welcher Ebene bei" ist rechenbar, ohne
-dass etwas erhoben werden müsste.
-
-Ein Vorbehalt gehört zur genannten Zeitspanne dazu: Der Bootstrap vom 11.08.2026
-kappt `erstmals_am`. Ein Anstieg, der genau am 11.08. beginnt, kann daher ein
-Artefakt der Umstellung sein statt einer Veränderung in der Welt. Wer die Frage
-„warum stieg die Menge" beantworten will, muss diese Kante zuerst ausschließen —
-sonst erklärt die Grafik die eigene Umstellung.
-
----
-
 ## 2. Grafiken zu „Wie andere darüber berichten" und den Blinden Flecken
 
 **Lukas, 29.08.2026:**
