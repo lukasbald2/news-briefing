@@ -126,6 +126,51 @@ für die Vergangenheit eine Rekonstruktionsmaschine.
 
 ---
 
+## 4. Nachzählen: Wird „keine Abwägung nötig" ehrlich benutzt?
+
+**Lukas, 16.09.2026:**
+
+> passt, können wir uns das als TODO merken?
+
+**Herkunft — anders als bei 1 bis 3:** Dieser Punkt ist keine Idee für den
+Ausbau, sondern eine offene Prüfung. Er entstand beim Durchsehen des ERSTEN
+Laufs mit Schritt 7d am 16.09.2026.
+
+**Frühestens ab 23.09.2026**, dann liegt eine Woche `data/begruendungen.jsonl`
+vor. Zu zählen ist:
+
+1. Wie viele `thema`-Zeilen sagen „keine Abwägung nötig"?
+2. Bei wie vielen davon wäre ein zweites Thema aus dem Elfer-Vokabular
+   vertretbar gewesen? Beurteilung an `title` und `summary` derselben Meldung
+   in `data/archiv.jsonl`.
+3. Wie stark überschneidet sich die `kontrast`-Begründung mit dem Feld
+   `kontrast_unterschied` im Archiv? Die Regel verlangt, dass sie erklärt,
+   WARUM diese drei Medien — nicht, worin sie sich unterscheiden.
+
+**Ausgangsbefund vom 16.09.2026** (9 Zeilen, erster Tag):
+
+- 4 von 7 `thema`-Zeilen sagten „keine Abwägung nötig", 3 nannten eine echte
+  Unterscheidung. Im Grundsatz also genau die gewollte Mischung.
+- EINE davon ist fragwürdig: `anthropic-compute-deals-517-milliarden` bekam
+  `ki` mit „Einziges passendes Thema". Bei Verträgen über 517 Milliarden Dollar
+  mit Amazon, Google, Microsoft und SpaceX wäre `wirtschaft` vertretbar gewesen
+  — und derselbe Lauf wog `ki` gegen `wirtschaft` bei
+  `dax-einbruch-ki-sicherheitswarnung` ausdrücklich ab. Er konnte es also.
+- Die `kontrast`-Begründung war zu rund vier Fünfteln deckungsgleich mit
+  `kontrast_unterschied`. Die eigentliche Antwort stand nur im ersten Halbsatz.
+
+**Warum nicht sofort nachgeschärft wurde:** Je ein Fall an einem Tag ist kein
+Muster. Und die naheliegende Verschärfung ist gefährlich: Ein strengeres
+Erfindungsverbot könnte dazu führen, dass der Lauf überall Abwägungen
+konstruiert, wo keine waren — der schlechtere Fehler. Präzedenz ist der am
+01.09.2026 verworfene Versuch, Jahreszahlen aus der Dublettenprüfung zu
+nehmen: klang plausibel, machte die Prüfung gemessen schlechter.
+
+**Erst messen, dann entscheiden.** Hält das Muster nicht, bleibt alles wie es
+ist — und dieser Abschnitt wird als erledigt markiert.
+
+---
+
 ## Wie hier ergänzt wird
 
 - Neue Idee: Abschnitt unten anhängen, fortlaufend nummeriert.

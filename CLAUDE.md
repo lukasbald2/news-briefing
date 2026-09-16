@@ -439,6 +439,11 @@ selben Archiv wuerden sie die Zaehlung "Meldungen erfasst" verfaelschen.
 Selbstpruefung am Ende von Schritt 7d: Jeder heute neue Strang hat eine
 `thema`-Zeile, und es gibt genau eine `kontrast`-Zeile.
 
+**Unter Beobachtung, NICHT Aufgabe des Tageslaufs:** Ob die Formel "keine
+Abwaegung noetig" ehrlich benutzt wird, wird ab dem 23.09.2026 von Hand
+nachgezaehlt — Einzelheiten in `BACKLOG.md` Nummer 4. Der Lauf selbst aendert
+deswegen nichts an seinem Vorgehen.
+
 ## Uebersichtsseite `uebersicht.html` (eingefuehrt 2026-08-22) - WICHTIG
 
 Eine Auswertung ueber alle bisherigen Berichte, in drei Sichten: ein
