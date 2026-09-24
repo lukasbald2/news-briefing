@@ -1,4 +1,5 @@
 <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>News-Briefing aus der Flughöhe</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -254,6 +255,17 @@ footer { color: var(--ink-3); font-size: 12.5px; border-top: 1px solid var(--lin
 @media (max-width: 640px) {
   .wrap { padding: 26px 15px 50px; }
   .panel-head, .panel-body { padding-left: 15px; padding-right: 15px; }
+  .stand { padding: 15px; }
+  .panel-head h2 { line-height: 1.2; }
+  .legend { gap: 6px 14px; }
+  button { font-size: 13px; padding: 7px 12px; }
+  /* Filter als wischbare Zeile statt zehn gestapelter Knoepfe */
+  #filter, #efilter {
+    flex-wrap: nowrap; overflow-x: auto; width: 100%;
+    padding-bottom: 4px; scrollbar-width: thin;
+  }
+  #filter button, #efilter button { flex: none; white-space: nowrap; }
+  .tip { max-width: calc(100vw - 16px); }
 }
 </style>
 
@@ -327,7 +339,7 @@ footer { color: var(--ink-3); font-size: 12.5px; border-top: 1px solid var(--lin
     <div class="panel-body">
       <div class="legend" id="legende"></div>
       <p class="skala">Der Sprung Mitte August misst die <strong>Erfassung, nicht die Berichterstattung</strong>. Bis zum 11. August 2026 steckten die Hinweisblock-Str&auml;nge in Sammeleintr&auml;gen &mdash; <strong>542 Zeilen</strong>, von denen jede mehrere Themen b&uuml;ndelt. Danach bekam jeder Strang eine eigene Zeile. Der Schnitt steigt dadurch von <strong>15,8</strong> auf <strong>42,3</strong> Meldungen am Tag, ohne dass der Bericht l&auml;nger geworden w&auml;re. Der hinterlegte Bereich links markiert diese Zeit: <strong>Vergleiche &uuml;ber die Kante hinweg tragen nicht.</strong></p>
-      <p class="skala">Ein Klick auf eine Fl&auml;che oder ihre Beschriftung &ouml;ffnet oben die Str&auml;nge dieser Ebene.</p>
+      <p class="skala">Ein Klick auf eine Fl&auml;che oder ihre Beschriftung &ouml;ffnet darunter die Str&auml;nge dieser Ebene.</p>
       <figure>
         <svg id="verlauf" viewBox="0 0 980 340" role="img" aria-label="Gestapelter Fl&auml;chenverlauf der Meldungen je Tag nach Ebene &uuml;ber den gesamten erfassten Zeitraum"></svg>
       </figure>
@@ -432,6 +444,24 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
   }
   function versteckTip() { tip.style.opacity = '0'; }
 
+  /* Schmale Bildschirme: Unterhalb dieser Breite zeichnen die Grafiken in
+     echten Pixeln, statt eine 980 breite Zeichnung zu verkleinern -- sonst
+     schrumpft 11-px-Schrift auf dem Handy auf knapp 4 px. Darueber bleibt die
+     Zeichnung exakt wie bisher. */
+  var SCHMAL = 700;
+  function breite(svg) {
+    var w = svg.parentNode.clientWidth;
+    return w && w < SCHMAL ? Math.floor(w) : 980;
+  }
+  /* Beruehrung: Antippen zeigt denselben Tooltip wie die Maus. */
+  function beiTippen(hit, fn) {
+    hit.addEventListener('pointerdown', function (ev) { if (ev.pointerType !== 'mouse') fn(ev); });
+  }
+  document.addEventListener('pointerdown', function (ev) { if (ev.pointerType !== 'mouse') versteckTip(); }, true);
+  addEventListener('scroll', versteckTip, { passive: true });
+  /* Datumsmarke nur, wenn sie der ersten und letzten nicht ins Gehege kommt */
+  function frei(xi, x0, x1) { return xi - x0 >= 40 && x1 - xi >= 40; }
+
   /* ---- rollendes Fenster: aus 0/1/2 je Tag wird eine Form ---- */
   function rollend(c) {
     var out = [], i, j, s;
@@ -489,7 +519,11 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
   function zeichneThemenStapel() {
     var svg = document.getElementById('themen');
     while (svg.firstChild) svg.removeChild(svg.firstChild);
-    var W = 980, H = 360, ml = 34, mr = 232, mt = 12, mb = 30;
+    /* Schmal: keine Beschriftungen rechts -- die Legende darueber nennt die
+       Themen, Anteil und Verschiebung stehen im Tooltip und in der Tabelle. */
+    var W = breite(svg), eng = W < 980;
+    var H = eng ? 280 : 360, ml = eng ? 30 : 34, mr = eng ? 6 : 232, mt = 12, mb = 30;
+    svg.setAttribute('viewBox', '0 0 ' + W + ' ' + H);
     var iw = W - ml - mr, ih = H - mt - mb;
     var n = D.tage.length;
     var x = function (i) { return ml + (n === 1 ? 0 : i * iw / (n - 1)); };
@@ -508,7 +542,7 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
 
     var ax = el('g', { class: 'axis' });
     D.tage.forEach(function (d, i) {
-      if (d.slice(8) === '01' || i === 0 || i === n - 1) {
+      if ((d.slice(8) === '01' && frei(x(i), x(0), x(n - 1))) || i === 0 || i === n - 1) {
         var tx = el('text', { x: x(i), y: mt + ih + 18, 'text-anchor': i === n - 1 ? 'end' : (i === 0 ? 'start' : 'middle') });
         tx.textContent = dt(d); ax.appendChild(tx);
       }
@@ -561,7 +595,7 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
         else break;
       }
     }
-    marken.forEach(function (m) {
+    if (!eng) marken.forEach(function (m) {
       var k = m.k, lx = ml + iw + 14;
       if (Math.abs(m.y - m.ziel) > 3) {
         svg.appendChild(el('path', {
@@ -589,7 +623,9 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
     svg.appendChild(cross);
     var hit = el('rect', { x: ml, y: mt, width: iw, height: ih, fill: 'transparent' });
     svg.appendChild(hit);
-    hit.addEventListener('mousemove', function (ev) {
+    hit.addEventListener('mousemove', zeigeThemaTip);
+    beiTippen(hit, zeigeThemaTip);
+    function zeigeThemaTip(ev) {
       var bb = svg.getBoundingClientRect();
       var px = (ev.clientX - bb.left) / bb.width * W;
       var py = (ev.clientY - bb.top) / bb.height * H;
@@ -615,7 +651,7 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
       hit.style.pointerEvents = '';
       if (unter && unter.classList && unter.classList.contains('tband')) hit.style.cursor = 'pointer';
       else hit.style.cursor = 'default';
-    });
+    }
     hit.addEventListener('mouseleave', function () { cross.setAttribute('opacity', 0); versteckTip(); });
     hit.addEventListener('click', function (ev) {
       hit.style.pointerEvents = 'none';
@@ -696,7 +732,11 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
   function zeichneStraenge(svgS, reihen, gruppiert) {
     while (svgS.firstChild) svgS.removeChild(svgS.firstChild);
     var n = D.htage.length;
-    var W = 980, lw = 292, mr = 16, top = 32, step = 31, ah = 25;
+    /* Schmal: Die Namensspalte links wuerde die halbe Breite fressen. Der Name
+       steht dort ueber seiner Flaeche, die Zahl rechtsbuendig daneben. */
+    var W = breite(svgS), eng = W < 980;
+    var lw = eng ? 0 : 292, mr = eng ? 2 : 16, top = 32, step = eng ? 34 : 31, ah = eng ? 17 : 25;
+    var lz = eng ? 13 : 0; /* Hoehe der Namenszeile ueber der Flaeche */
     var pw = W - lw - mr;
     /* Gruppiert: vor jeder neuen Themengruppe eine Kopfzeile einschieben. */
     var kopfH = 24, ypos = [], koepfe = [], yy = top;
@@ -725,7 +765,7 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
 
     /* Datumsachse oben */
     var ax = el('g', { class: 'axis' });
-    var schritt = Math.max(1, Math.ceil(n / 9));
+    var schritt = Math.max(1, Math.ceil(n / (eng ? Math.max(3, Math.floor(W / 70)) : 9)));
     D.htage.forEach(function (t, i) {
       if (i % schritt !== 0 && i !== n - 1) return;
       if (i !== n - 1 && i + schritt > n - 1) return;
@@ -739,24 +779,27 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
       var kt = el('text', { x: 11, y: k.y + 17, class: 'gkopf' });
       kt.textContent = TH.namen[k.g] + '  (' + k.n + ')';
       svgS.appendChild(kt);
-      svgS.appendChild(el('line', { x1: lw, x2: lw + pw, y1: k.y + 13, y2: k.y + 13, class: 'srow-base' }));
+      if (!eng) svgS.appendChild(el('line', { x1: lw, x2: lw + pw, y1: k.y + 13, y2: k.y + 13, class: 'srow-base' }));
     });
 
+    /* Zeichen, die in die Namenszeile passen (Plex Sans 11,5 px: gut 6 px je Zeichen) */
+    var maxz = eng ? Math.max(12, Math.floor((W - 40) / 6.3)) : 36;
     reihen.forEach(function (r, ri) {
-      var y0 = ypos[ri], base = y0 + ah;
+      var y0 = ypos[ri], base = y0 + lz + ah;
       var farbe = TFARBE[r.g];
 
       r.hl = el('rect', { x: 0, y: y0 - 2, width: W, height: step, class: 'srow-hl' });
       svgS.appendChild(r.hl);
 
-      svgS.appendChild(el('rect', { x: 0, y: y0, width: 3, height: ah, fill: farbe }));
+      svgS.appendChild(el('rect', { x: 0, y: y0, width: 3, height: lz + ah, fill: farbe }));
 
-      var lb = el('text', { x: 11, y: base - 5.5, class: 'srow-label' });
-      lb.textContent = r.id.length > 36 ? r.id.slice(0, 35) + '…' : r.id;
+      var ly = eng ? y0 + 10 : base - 5.5;
+      var lb = el('text', { x: 11, y: ly, class: 'srow-label' });
+      lb.textContent = r.id.length > maxz ? r.id.slice(0, maxz - 1) + '…' : r.id;
       svgS.appendChild(lb);
       r.lb = lb;
 
-      var cn = el('text', { x: lw - 14, y: base - 5.5, class: 'srow-count', 'text-anchor': 'end' });
+      var cn = el('text', { x: eng ? W - mr : lw - 14, y: ly, class: 'srow-count', 'text-anchor': 'end' });
       cn.textContent = r.n; svgS.appendChild(cn);
 
       svgS.appendChild(el('line', { x1: lw, x2: lw + pw, y1: base, y2: base, class: 'srow-base' }));
@@ -780,7 +823,9 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
     svgS.appendChild(hit);
 
     var wort = ['nicht im Bericht', 'nur im Hinweisblock', 'eigener Artikel'];
-    hit.addEventListener('mousemove', function (ev) {
+    hit.addEventListener('mousemove', zeigeStrangTip);
+    beiTippen(hit, zeigeStrangTip);
+    function zeigeStrangTip(ev) {
       var bb = svgS.getBoundingClientRect();
       var px = (ev.clientX - bb.left) / bb.width * W;
       var py = (ev.clientY - bb.top) / bb.height * H;
@@ -799,7 +844,7 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
         '<span class="m">Sieben-Tage-Wert ' + r.roll[i] + ' von ' + MAXROLL +
         (i < anlauf ? ' — Fenster noch nicht voll' : '') + '</span>';
       zeigTip(h, ev);
-    });
+    }
     hit.addEventListener('mouseleave', function () {
       kopf.setAttribute('opacity', 0);
       reihen.forEach(function (q) { q.hl.classList.remove('an'); q.lb.classList.remove('an'); });
@@ -891,7 +936,11 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
   var svgV = document.getElementById('verlauf');
   function zeichneVerlauf() {
     while (svgV.firstChild) svgV.removeChild(svgV.firstChild);
-    var W = 980, H = 340, ml = 38, mr = 96, mt = 12, mb = 30;
+    /* Schmal: Ebenennamen rechts entfallen -- Legende darueber, und die
+       Ebenen oeffnen sich per Antippen der Flaeche oder ueber die Leiste unten. */
+    var W = breite(svgV), eng = W < 980;
+    var H = eng ? 260 : 340, ml = eng ? 30 : 38, mr = eng ? 6 : 96, mt = 12, mb = 30;
+    svgV.setAttribute('viewBox', '0 0 ' + W + ' ' + H);
     var iw = W - ml - mr, ih = H - mt - mb;
     var n = D.verlauf.length;
     var max = 0;
@@ -913,7 +962,7 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
 
     var ax = el('g', { class: 'axis' });
     D.verlauf.forEach(function (d, i) {
-      if (d.d.slice(8) === '01' || i === 0 || i === n - 1) {
+      if ((d.d.slice(8) === '01' && frei(x(i), x(0), x(n - 1))) || i === 0 || i === n - 1) {
         var tx = el('text', { x: x(i), y: mt + ih + 18, 'text-anchor': i === n - 1 ? 'end' : (i === 0 ? 'start' : 'middle') });
         tx.textContent = dt(d.d); ax.appendChild(tx);
       }
@@ -938,6 +987,7 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
       var pe = '';
       for (i = 0; i < n; i++) pe += (i ? 'L' : 'M') + x(i).toFixed(1) + ' ' + y(oben[i]).toFixed(1);
       svgV.appendChild(el('path', { d: pe, class: 'band-edge' }));
+      if (eng) { unten = oben; return; }
       var mid = (oben[n - 1] + unten[n - 1]) / 2;
       var lab = el('text', { x: ml + iw + 10, y: y(mid) + 4, class: 'dlabel' });
       lab.textContent = KATNAME[k];
@@ -957,7 +1007,9 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
     svgV.appendChild(cross);
     var hit = el('rect', { x: ml, y: mt, width: iw, height: ih, fill: 'transparent' });
     svgV.appendChild(hit);
-    hit.addEventListener('mousemove', function (ev) {
+    hit.addEventListener('mousemove', zeigeMengeTip);
+    beiTippen(hit, zeigeMengeTip);
+    function zeigeMengeTip(ev) {
       var bb = svgV.getBoundingClientRect();
       var px = (ev.clientX - bb.left) / bb.width * W;
       var i = Math.round((px - ml) / iw * (n - 1));
@@ -973,7 +1025,7 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
         if (BRUCH && i <= BRUCH.i) h += '<br><span class="m">Sammelerfassung &mdash; nicht vergleichbar</span>';
       }
       zeigTip(h, ev);
-    });
+    }
     hit.addEventListener('mouseleave', function () { cross.setAttribute('opacity', 0); versteckTip(); });
     hit.style.cursor = 'pointer';
     hit.addEventListener('click', function (ev) {
@@ -1030,5 +1082,17 @@ Erzeugt am 24. September 2026 aus <code>data/archiv.jsonl</code> &middot; 2492 M
   (mq.addEventListener ? mq.addEventListener.bind(mq, 'change') : mq.addListener.bind(mq))(malAlles);
   new MutationObserver(malAlles)
     .observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+  /* Drehen, Fenster ziehen: neu zeichnen, sobald sich die Breite aendert.
+     Nur die Breite -- die Adressleiste am Handy aendert beim Scrollen die Hoehe. */
+  var fig = document.getElementById('themen').parentNode, zuletzt = fig.clientWidth, warte;
+  addEventListener('resize', function () {
+    clearTimeout(warte);
+    warte = setTimeout(function () {
+      if (fig.clientWidth === zuletzt) return;
+      zuletzt = fig.clientWidth;
+      versteckTip();
+      malAlles();
+    }, 150);
+  });
 })();
 </script>

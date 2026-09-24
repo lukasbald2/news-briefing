@@ -516,6 +516,15 @@ erzeugte Seite - sonst ist die Aenderung beim naechsten Lauf weg.
   dadurch auf mehr als das Doppelte, ohne dass der Bericht laenger geworden
   waere. Datum und Zahlen rechnet das Skript selbst aus - sie wandern mit den
   Daten und werden nicht von Hand gepflegt.
+- **Handy und Tablet (ergaenzt 2026-09-24):** Unter 700 px Grafikbreite
+  (`SCHMAL` in der Vorlage) zeichnen alle vier Grafiken in echten Pixeln statt
+  eine 980 breite Zeichnung zu verkleinern - sonst schrumpft die Schrift auf
+  dem Handy auf knapp 4 px. Schmal entfallen die Beschriftungen rechts der
+  Stapel (die Legenden nennen dieselben Namen), und in den Strang-Panels steht
+  der Name UEBER seiner Flaeche statt in einer Spalte links. Ab 700 px ist die
+  Zeichnung exakt die bisherige. Antippen zeigt denselben Tooltip wie die Maus.
+  Wer eine Grafik aendert, prueft BEIDE Breiten - die schmale Variante steht
+  jeweils in einem `eng ? … : …` direkt neben der breiten.
 
 ## Footer-Links beim Kopieren nach `index.html` — WICHTIG
 
